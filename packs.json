@@ -4,6 +4,719 @@
   "packs": [
     {
       "revision": 1,
+      "packId": "new-hanzi-100",
+      "name": "100 New Hanzi",
+      "icon": "language",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.7",
+      "whatsNew": "100 fresh HSK 3-4 characters not already in the app — browse them as their own category in Learn.",
+      "content": {
+        "characters": [
+          {
+            "character": "检",
+            "pinyin": "jiǎn",
+            "meaning": "to check; inspect",
+            "strokes": 11,
+            "hsk": 4
+          },
+          {
+            "character": "较",
+            "pinyin": "jiào",
+            "meaning": "comparatively",
+            "strokes": 10,
+            "hsk": 3
+          },
+          {
+            "character": "紧",
+            "pinyin": "jǐn",
+            "meaning": "tight; tense",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "镜",
+            "pinyin": "jìng",
+            "meaning": "mirror; lens",
+            "strokes": 16,
+            "hsk": 4
+          },
+          {
+            "character": "句",
+            "pinyin": "jù",
+            "meaning": "sentence",
+            "strokes": 5,
+            "hsk": 3
+          },
+          {
+            "character": "礼",
+            "pinyin": "lǐ",
+            "meaning": "gift; courtesy",
+            "strokes": 5,
+            "hsk": 4
+          },
+          {
+            "character": "凉",
+            "pinyin": "liáng",
+            "meaning": "cool",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "楼",
+            "pinyin": "lóu",
+            "meaning": "floor; building",
+            "strokes": 13,
+            "hsk": 3
+          },
+          {
+            "character": "帽",
+            "pinyin": "mào",
+            "meaning": "hat",
+            "strokes": 12,
+            "hsk": 4
+          },
+          {
+            "character": "梦",
+            "pinyin": "mèng",
+            "meaning": "dream",
+            "strokes": 11,
+            "hsk": 4
+          },
+          {
+            "character": "迷",
+            "pinyin": "mí",
+            "meaning": "to be lost; a fan",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "密",
+            "pinyin": "mì",
+            "meaning": "dense; secret",
+            "strokes": 11,
+            "hsk": 4
+          },
+          {
+            "character": "免",
+            "pinyin": "miǎn",
+            "meaning": "to avoid; free",
+            "strokes": 7,
+            "hsk": 4
+          },
+          {
+            "character": "耐",
+            "pinyin": "nài",
+            "meaning": "to endure",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "脑",
+            "pinyin": "nǎo",
+            "meaning": "brain",
+            "strokes": 10,
+            "hsk": 3
+          },
+          {
+            "character": "暖",
+            "pinyin": "nuǎn",
+            "meaning": "warm",
+            "strokes": 13,
+            "hsk": 4
+          },
+          {
+            "character": "啤",
+            "pinyin": "pí",
+            "meaning": "beer",
+            "strokes": 11,
+            "hsk": 3
+          },
+          {
+            "character": "破",
+            "pinyin": "pò",
+            "meaning": "broken",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "普",
+            "pinyin": "pǔ",
+            "meaning": "general; common",
+            "strokes": 12,
+            "hsk": 3
+          },
+          {
+            "character": "奇",
+            "pinyin": "qí",
+            "meaning": "strange",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "骑",
+            "pinyin": "qí",
+            "meaning": "to ride",
+            "strokes": 11,
+            "hsk": 3
+          },
+          {
+            "character": "庆",
+            "pinyin": "qìng",
+            "meaning": "to celebrate",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "求",
+            "pinyin": "qiú",
+            "meaning": "to seek; request",
+            "strokes": 7,
+            "hsk": 4
+          },
+          {
+            "character": "取",
+            "pinyin": "qǔ",
+            "meaning": "to fetch; to take",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "裙",
+            "pinyin": "qún",
+            "meaning": "skirt",
+            "strokes": 12,
+            "hsk": 3
+          },
+          {
+            "character": "仍",
+            "pinyin": "réng",
+            "meaning": "still; yet",
+            "strokes": 4,
+            "hsk": 4
+          },
+          {
+            "character": "弱",
+            "pinyin": "ruò",
+            "meaning": "weak",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "伞",
+            "pinyin": "sǎn",
+            "meaning": "umbrella",
+            "strokes": 6,
+            "hsk": 3
+          },
+          {
+            "character": "扫",
+            "pinyin": "sǎo",
+            "meaning": "to sweep",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "沙",
+            "pinyin": "shā",
+            "meaning": "sand",
+            "strokes": 7,
+            "hsk": 4
+          },
+          {
+            "character": "商",
+            "pinyin": "shāng",
+            "meaning": "commerce",
+            "strokes": 11,
+            "hsk": 3
+          },
+          {
+            "character": "烧",
+            "pinyin": "shāo",
+            "meaning": "to burn; to cook",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "社",
+            "pinyin": "shè",
+            "meaning": "society",
+            "strokes": 7,
+            "hsk": 4
+          },
+          {
+            "character": "申",
+            "pinyin": "shēn",
+            "meaning": "to state; to apply",
+            "strokes": 5,
+            "hsk": 4
+          },
+          {
+            "character": "甚",
+            "pinyin": "shèn",
+            "meaning": "even; to a great degree",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "声",
+            "pinyin": "shēng",
+            "meaning": "sound; voice",
+            "strokes": 7,
+            "hsk": 3
+          },
+          {
+            "character": "失",
+            "pinyin": "shī",
+            "meaning": "to lose",
+            "strokes": 5,
+            "hsk": 4
+          },
+          {
+            "character": "史",
+            "pinyin": "shǐ",
+            "meaning": "history",
+            "strokes": 5,
+            "hsk": 4
+          },
+          {
+            "character": "叔",
+            "pinyin": "shū",
+            "meaning": "uncle",
+            "strokes": 8,
+            "hsk": 3
+          },
+          {
+            "character": "熟",
+            "pinyin": "shú",
+            "meaning": "ripe; familiar",
+            "strokes": 15,
+            "hsk": 4
+          },
+          {
+            "character": "帅",
+            "pinyin": "shuài",
+            "meaning": "handsome",
+            "strokes": 5,
+            "hsk": 3
+          },
+          {
+            "character": "顺",
+            "pinyin": "shùn",
+            "meaning": "smooth",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "死",
+            "pinyin": "sǐ",
+            "meaning": "to die",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "速",
+            "pinyin": "sù",
+            "meaning": "speed",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "算",
+            "pinyin": "suàn",
+            "meaning": "to calculate",
+            "strokes": 14,
+            "hsk": 3
+          },
+          {
+            "character": "随",
+            "pinyin": "suí",
+            "meaning": "to follow",
+            "strokes": 11,
+            "hsk": 4
+          },
+          {
+            "character": "锁",
+            "pinyin": "suǒ",
+            "meaning": "lock; to lock",
+            "strokes": 12,
+            "hsk": 4
+          },
+          {
+            "character": "抬",
+            "pinyin": "tái",
+            "meaning": "to lift; carry",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "烫",
+            "pinyin": "tàng",
+            "meaning": "scalding hot",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "躺",
+            "pinyin": "tǎng",
+            "meaning": "to lie down",
+            "strokes": 15,
+            "hsk": 4
+          },
+          {
+            "character": "疼",
+            "pinyin": "téng",
+            "meaning": "to ache; to adore",
+            "strokes": 10,
+            "hsk": 3
+          },
+          {
+            "character": "提",
+            "pinyin": "tí",
+            "meaning": "to lift; raise",
+            "strokes": 12,
+            "hsk": 3
+          },
+          {
+            "character": "填",
+            "pinyin": "tián",
+            "meaning": "to fill in",
+            "strokes": 13,
+            "hsk": 4
+          },
+          {
+            "character": "调",
+            "pinyin": "tiáo",
+            "meaning": "to adjust; to mix",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "停",
+            "pinyin": "tíng",
+            "meaning": "to stop",
+            "strokes": 11,
+            "hsk": 3
+          },
+          {
+            "character": "偷",
+            "pinyin": "tōu",
+            "meaning": "to steal",
+            "strokes": 11,
+            "hsk": 4
+          },
+          {
+            "character": "退",
+            "pinyin": "tuì",
+            "meaning": "to retreat; refund",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "袜",
+            "pinyin": "wà",
+            "meaning": "socks",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "危",
+            "pinyin": "wēi",
+            "meaning": "danger",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "味",
+            "pinyin": "wèi",
+            "meaning": "taste; flavour",
+            "strokes": 8,
+            "hsk": 3
+          },
+          {
+            "character": "温",
+            "pinyin": "wēn",
+            "meaning": "warm; temperature",
+            "strokes": 12,
+            "hsk": 3
+          },
+          {
+            "character": "闻",
+            "pinyin": "wén",
+            "meaning": "to smell; to hear",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "误",
+            "pinyin": "wù",
+            "meaning": "mistake; to miss",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "戏",
+            "pinyin": "xì",
+            "meaning": "drama; play",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "详",
+            "pinyin": "xiáng",
+            "meaning": "detailed",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "醒",
+            "pinyin": "xǐng",
+            "meaning": "to wake up",
+            "strokes": 16,
+            "hsk": 4
+          },
+          {
+            "character": "性",
+            "pinyin": "xìng",
+            "meaning": "nature; gender",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "压",
+            "pinyin": "yā",
+            "meaning": "to press",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "烟",
+            "pinyin": "yān",
+            "meaning": "smoke; cigarette",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "严",
+            "pinyin": "yán",
+            "meaning": "strict",
+            "strokes": 7,
+            "hsk": 4
+          },
+          {
+            "character": "演",
+            "pinyin": "yǎn",
+            "meaning": "to perform",
+            "strokes": 14,
+            "hsk": 4
+          },
+          {
+            "character": "阳",
+            "pinyin": "yáng",
+            "meaning": "sun; positive",
+            "strokes": 6,
+            "hsk": 3
+          },
+          {
+            "character": "养",
+            "pinyin": "yǎng",
+            "meaning": "to raise; nurture",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "邀",
+            "pinyin": "yāo",
+            "meaning": "to invite",
+            "strokes": 16,
+            "hsk": 4
+          },
+          {
+            "character": "页",
+            "pinyin": "yè",
+            "meaning": "page",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "阴",
+            "pinyin": "yīn",
+            "meaning": "cloudy; shade",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "印",
+            "pinyin": "yìn",
+            "meaning": "to print; stamp",
+            "strokes": 5,
+            "hsk": 4
+          },
+          {
+            "character": "优",
+            "pinyin": "yōu",
+            "meaning": "excellent",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "暂",
+            "pinyin": "zàn",
+            "meaning": "temporary",
+            "strokes": 12,
+            "hsk": 4
+          },
+          {
+            "character": "责",
+            "pinyin": "zé",
+            "meaning": "responsibility",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "增",
+            "pinyin": "zēng",
+            "meaning": "to increase",
+            "strokes": 15,
+            "hsk": 4
+          },
+          {
+            "character": "章",
+            "pinyin": "zhāng",
+            "meaning": "chapter; seal",
+            "strokes": 11,
+            "hsk": 4
+          },
+          {
+            "character": "招",
+            "pinyin": "zhāo",
+            "meaning": "to beckon; recruit",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "折",
+            "pinyin": "zhé",
+            "meaning": "to fold; discount",
+            "strokes": 7,
+            "hsk": 4
+          },
+          {
+            "character": "针",
+            "pinyin": "zhēn",
+            "meaning": "needle",
+            "strokes": 7,
+            "hsk": 4
+          },
+          {
+            "character": "政",
+            "pinyin": "zhèng",
+            "meaning": "politics",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "挣",
+            "pinyin": "zhèng",
+            "meaning": "to earn (money)",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "值",
+            "pinyin": "zhí",
+            "meaning": "value; worth",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "职",
+            "pinyin": "zhí",
+            "meaning": "job; duty",
+            "strokes": 11,
+            "hsk": 4
+          },
+          {
+            "character": "植",
+            "pinyin": "zhí",
+            "meaning": "to plant",
+            "strokes": 12,
+            "hsk": 4
+          },
+          {
+            "character": "终",
+            "pinyin": "zhōng",
+            "meaning": "end; finally",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "竹",
+            "pinyin": "zhú",
+            "meaning": "bamboo",
+            "strokes": 6,
+            "hsk": 4
+          },
+          {
+            "character": "专",
+            "pinyin": "zhuān",
+            "meaning": "special; expert",
+            "strokes": 4,
+            "hsk": 4
+          },
+          {
+            "character": "转",
+            "pinyin": "zhuǎn",
+            "meaning": "to turn; change",
+            "strokes": 8,
+            "hsk": 4
+          },
+          {
+            "character": "赚",
+            "pinyin": "zhuàn",
+            "meaning": "to earn",
+            "strokes": 14,
+            "hsk": 4
+          },
+          {
+            "character": "装",
+            "pinyin": "zhuāng",
+            "meaning": "to install; dress",
+            "strokes": 12,
+            "hsk": 4
+          },
+          {
+            "character": "撞",
+            "pinyin": "zhuàng",
+            "meaning": "to bump; collide",
+            "strokes": 15,
+            "hsk": 4
+          },
+          {
+            "character": "追",
+            "pinyin": "zhuī",
+            "meaning": "to chase",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "资",
+            "pinyin": "zī",
+            "meaning": "capital; resources",
+            "strokes": 10,
+            "hsk": 4
+          },
+          {
+            "character": "紫",
+            "pinyin": "zǐ",
+            "meaning": "purple",
+            "strokes": 12,
+            "hsk": 4
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
       "packId": "street-smart",
       "name": "Street Smart",
       "icon": "camera",

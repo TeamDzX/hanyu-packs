@@ -5,6 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 ORDER=(
+  new-hanzi-100
   street-smart
   tone-master
   parrot-talk

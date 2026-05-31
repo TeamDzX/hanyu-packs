@@ -1,0 +1,46 @@
+{
+  "revision": 1,
+  "packId": "hsk-sprint",
+  "name": "HSK Sprint",
+  "icon": "clipboard-check",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "High-frequency HSK 3 words and example sentences to prime you for the mock exam.",
+  "content": {
+    "characters": [
+      { "character": "决", "pinyin": "jué", "meaning": "to decide", "strokes": 6, "hsk": 3 },
+      { "character": "影", "pinyin": "yǐng", "meaning": "shadow, image", "strokes": 15, "hsk": 3 }
+    ],
+    "compoundWords": [
+      { "char1": "决", "char2": "定", "compound": "决定", "pinyin": "juédìng", "meaning": "to decide, decision", "hint": "decide + fix" },
+      { "char1": "健", "char2": "康", "compound": "健康", "pinyin": "jiànkāng", "meaning": "health, healthy", "hint": "strong + well" },
+      { "char1": "习", "char2": "惯", "compound": "习惯", "pinyin": "xíguàn", "meaning": "habit, to be used to", "hint": "practice + accustomed" },
+      { "char1": "影", "char2": "响", "compound": "影响", "pinyin": "yǐngxiǎng", "meaning": "influence, to affect", "hint": "shadow + echo" },
+      { "char1": "必", "char2": "须", "compound": "必须", "pinyin": "bìxū", "meaning": "must, have to", "hint": "necessarily + need" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["我", "决定", "学习", "中文"], "pinyin": "wǒ juédìng xuéxí zhōngwén", "english": "I decided to study Chinese", "difficulty": "medium" },
+      { "chinese": ["健康", "很", "重要"], "pinyin": "jiànkāng hěn zhòngyào", "english": "Health is very important", "difficulty": "medium" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "hsk-sprint-3",
+        "title": "HSK 3 Power Words",
+        "titleChinese": "HSK 三级冲刺",
+        "titlePinyin": "HSK sān jí chōngcì",
+        "icon": "clipboard-check",
+        "color": "#ef4444",
+        "colorEnd": "#dc2626",
+        "level": "Intermediate · HSK 3",
+        "difficulty": 3,
+        "vocabulary": [
+          { "char": "决定", "pinyin": "juédìng", "meaning": "to decide" },
+          { "char": "健康", "pinyin": "jiànkāng", "meaning": "health" },
+          { "char": "习惯", "pinyin": "xíguàn", "meaning": "habit" },
+          { "char": "影响", "pinyin": "yǐngxiǎng", "meaning": "influence" },
+          { "char": "必须", "pinyin": "bìxū", "meaning": "must" }
+        ]
+      }
+    ]
+  }
+}

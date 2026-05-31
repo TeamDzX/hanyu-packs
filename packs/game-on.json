@@ -1,0 +1,45 @@
+{
+  "revision": 1,
+  "packId": "game-on",
+  "name": "Game On",
+  "icon": "gamepad",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "Snappy colour and animal words tuned for Memory Match, Time Attack and Listening games.",
+  "content": {
+    "characters": [
+      { "character": "红", "pinyin": "hóng", "meaning": "red", "strokes": 6, "hsk": 2 },
+      { "character": "蓝", "pinyin": "lán", "meaning": "blue", "strokes": 13, "hsk": 3 },
+      { "character": "绿", "pinyin": "lǜ", "meaning": "green", "strokes": 11, "hsk": 3 },
+      { "character": "猫", "pinyin": "māo", "meaning": "cat", "strokes": 11, "hsk": 3 },
+      { "character": "狗", "pinyin": "gǒu", "meaning": "dog", "strokes": 8, "hsk": 1 },
+      { "character": "鸟", "pinyin": "niǎo", "meaning": "bird", "strokes": 5, "hsk": 3 }
+    ],
+    "compoundWords": [
+      { "char1": "颜", "char2": "色", "compound": "颜色", "pinyin": "yánsè", "meaning": "colour", "hint": "face + shade" },
+      { "char1": "动", "char2": "物", "compound": "动物", "pinyin": "dòngwù", "meaning": "animal", "hint": "moving + thing" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["我", "的", "猫", "是", "黑色", "的"], "pinyin": "wǒ de māo shì hēisè de", "english": "My cat is black", "difficulty": "medium" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "game-on-colors",
+        "title": "Colour & Critter Combo",
+        "titleChinese": "颜色动物",
+        "titlePinyin": "Yánsè dòngwù",
+        "icon": "gamepad",
+        "color": "#10b981",
+        "colorEnd": "#059669",
+        "level": "Beginner · HSK 1-3",
+        "difficulty": 1,
+        "vocabulary": [
+          { "char": "红色", "pinyin": "hóngsè", "meaning": "red" },
+          { "char": "蓝色", "pinyin": "lánsè", "meaning": "blue" },
+          { "char": "猫", "pinyin": "māo", "meaning": "cat" },
+          { "char": "狗", "pinyin": "gǒu", "meaning": "dog" }
+        ]
+      }
+    ]
+  }
+}

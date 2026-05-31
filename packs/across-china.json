@@ -1,0 +1,44 @@
+{
+  "revision": 1,
+  "packId": "across-china",
+  "name": "Across China",
+  "icon": "map-marked-alt",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "City and landmark names to pair with the interactive province map.",
+  "content": {
+    "characters": [
+      { "character": "京", "pinyin": "jīng", "meaning": "capital", "strokes": 8, "hsk": 3 },
+      { "character": "省", "pinyin": "shěng", "meaning": "province", "strokes": 9, "hsk": 4 }
+    ],
+    "compoundWords": [
+      { "char1": "北", "char2": "京", "compound": "北京", "pinyin": "Běijīng", "meaning": "Beijing", "hint": "north + capital" },
+      { "char1": "上", "char2": "海", "compound": "上海", "pinyin": "Shànghǎi", "meaning": "Shanghai", "hint": "above + sea" },
+      { "char1": "香", "char2": "港", "compound": "香港", "pinyin": "Xiānggǎng", "meaning": "Hong Kong", "hint": "fragrant + harbour" },
+      { "char1": "长", "char2": "城", "compound": "长城", "pinyin": "Chángchéng", "meaning": "the Great Wall", "hint": "long + wall" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["北京", "是", "中国", "的", "首都"], "pinyin": "Běijīng shì zhōngguó de shǒudū", "english": "Beijing is China's capital", "difficulty": "medium" },
+      { "chinese": ["我", "想", "去", "上海"], "pinyin": "wǒ xiǎng qù Shànghǎi", "english": "I want to go to Shanghai", "difficulty": "easy" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "across-china-cities",
+        "title": "Cities of China",
+        "titleChinese": "中国城市",
+        "titlePinyin": "Zhōngguó chéngshì",
+        "icon": "map-marked-alt",
+        "color": "#3b82f6",
+        "colorEnd": "#6366f1",
+        "level": "Elementary · HSK 2-4",
+        "difficulty": 2,
+        "vocabulary": [
+          { "char": "北京", "pinyin": "Běijīng", "meaning": "Beijing" },
+          { "char": "上海", "pinyin": "Shànghǎi", "meaning": "Shanghai" },
+          { "char": "香港", "pinyin": "Xiānggǎng", "meaning": "Hong Kong" },
+          { "char": "长城", "pinyin": "Chángchéng", "meaning": "the Great Wall" }
+        ]
+      }
+    ]
+  }
+}

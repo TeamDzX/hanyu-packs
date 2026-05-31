@@ -1,0 +1,44 @@
+{
+  "revision": 1,
+  "packId": "parrot-talk",
+  "name": "Parrot Talk",
+  "icon": "microphone",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "Tongue-twisters and everyday lines built for Parrot Mode — say them aloud and get scored.",
+  "content": {
+    "characters": [
+      { "character": "念", "pinyin": "niàn", "meaning": "to read aloud", "strokes": 8, "hsk": 3 },
+      { "character": "遍", "pinyin": "biàn", "meaning": "time (a repetition)", "strokes": 12, "hsk": 4 }
+    ],
+    "compoundWords": [
+      { "char1": "发", "char2": "音", "compound": "发音", "pinyin": "fāyīn", "meaning": "pronunciation", "hint": "emit + sound" },
+      { "char1": "口", "char2": "语", "compound": "口语", "pinyin": "kǒuyǔ", "meaning": "spoken language", "hint": "mouth + language" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["四", "是", "四"], "pinyin": "sì shì sì", "english": "Four is four", "difficulty": "easy" },
+      { "chinese": ["十", "是", "十"], "pinyin": "shí shì shí", "english": "Ten is ten", "difficulty": "easy" },
+      { "chinese": ["四十", "是", "四十"], "pinyin": "sìshí shì sìshí", "english": "Forty is forty", "difficulty": "medium" },
+      { "chinese": ["请", "再", "说", "一遍"], "pinyin": "qǐng zài shuō yíbiàn", "english": "Please say it again", "difficulty": "medium" },
+      { "chinese": ["我", "想", "喝", "水"], "pinyin": "wǒ xiǎng hē shuǐ", "english": "I want to drink water", "difficulty": "easy" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "parrot-talk-twisters",
+        "title": "Say It Out Loud",
+        "titleChinese": "大声说",
+        "titlePinyin": "Dàshēng shuō",
+        "icon": "microphone",
+        "color": "#0ea5e9",
+        "colorEnd": "#22d3ee",
+        "level": "Beginner · HSK 1-2",
+        "difficulty": 2,
+        "vocabulary": [
+          { "char": "发音", "pinyin": "fāyīn", "meaning": "pronunciation" },
+          { "char": "口语", "pinyin": "kǒuyǔ", "meaning": "spoken language" },
+          { "char": "再说一遍", "pinyin": "zài shuō yíbiàn", "meaning": "say it once more" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "revision": 1,
+  "packId": "tone-master",
+  "name": "Tone Master",
+  "icon": "bullseye",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "Minimal pairs that share a syllable but not a tone — perfect fuel for the Tone Challenge.",
+  "content": {
+    "characters": [
+      { "character": "妈", "pinyin": "mā", "meaning": "mother (1st tone)", "strokes": 6, "hsk": 1 },
+      { "character": "麻", "pinyin": "má", "meaning": "hemp, numb (2nd tone)", "strokes": 11, "hsk": 5 },
+      { "character": "马", "pinyin": "mǎ", "meaning": "horse (3rd tone)", "strokes": 3, "hsk": 1 },
+      { "character": "骂", "pinyin": "mà", "meaning": "to scold (4th tone)", "strokes": 9, "hsk": 4 },
+      { "character": "买", "pinyin": "mǎi", "meaning": "to buy (3rd tone)", "strokes": 6, "hsk": 1 },
+      { "character": "卖", "pinyin": "mài", "meaning": "to sell (4th tone)", "strokes": 8, "hsk": 2 }
+    ],
+    "compoundWords": [
+      { "char1": "买", "char2": "卖", "compound": "买卖", "pinyin": "mǎimài", "meaning": "business, trade", "hint": "buy (3rd) + sell (4th)" },
+      { "char1": "声", "char2": "调", "compound": "声调", "pinyin": "shēngdiào", "meaning": "tone", "hint": "sound + adjust" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["妈妈", "骂", "马"], "pinyin": "māma mà mǎ", "english": "Mum scolds the horse", "difficulty": "hard" },
+      { "chinese": ["我", "要", "买", "马"], "pinyin": "wǒ yào mǎi mǎ", "english": "I want to buy a horse", "difficulty": "medium" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "tone-master-ma",
+        "title": "The Four Tones",
+        "titleChinese": "四声",
+        "titlePinyin": "Sì shēng",
+        "icon": "bullseye",
+        "color": "#6d5efc",
+        "colorEnd": "#c44eff",
+        "level": "Beginner · HSK 1",
+        "difficulty": 1,
+        "vocabulary": [
+          { "char": "妈", "pinyin": "mā", "meaning": "mother — 1st tone, flat" },
+          { "char": "麻", "pinyin": "má", "meaning": "hemp — 2nd tone, rising" },
+          { "char": "马", "pinyin": "mǎ", "meaning": "horse — 3rd tone, dip" },
+          { "char": "骂", "pinyin": "mà", "meaning": "to scold — 4th tone, falling" }
+        ]
+      }
+    ]
+  }
+}

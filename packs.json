@@ -1,0 +1,1270 @@
+{
+  "catalogRevision": 1,
+  "generated": "2026-05-31",
+  "packs": [
+    {
+      "revision": 1,
+      "packId": "street-smart",
+      "name": "Street Smart",
+      "icon": "camera",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "Real-world signage you can point the camera scanner at — exits, toilets, warnings and shop signs.",
+      "content": {
+        "characters": [
+          {
+            "character": "推",
+            "pinyin": "tuī",
+            "meaning": "push (on doors)",
+            "strokes": 11,
+            "hsk": 3
+          },
+          {
+            "character": "拉",
+            "pinyin": "lā",
+            "meaning": "pull (on doors)",
+            "strokes": 8,
+            "hsk": 3
+          },
+          {
+            "character": "男",
+            "pinyin": "nán",
+            "meaning": "male, men's",
+            "strokes": 7,
+            "hsk": 1
+          },
+          {
+            "character": "女",
+            "pinyin": "nǚ",
+            "meaning": "female, women's",
+            "strokes": 3,
+            "hsk": 1
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "出",
+            "char2": "口",
+            "compound": "出口",
+            "pinyin": "chūkǒu",
+            "meaning": "exit",
+            "hint": "out + mouth"
+          },
+          {
+            "char1": "入",
+            "char2": "口",
+            "compound": "入口",
+            "pinyin": "rùkǒu",
+            "meaning": "entrance",
+            "hint": "enter + mouth"
+          },
+          {
+            "char1": "厕",
+            "char2": "所",
+            "compound": "厕所",
+            "pinyin": "cèsuǒ",
+            "meaning": "toilet",
+            "hint": "toilet + place"
+          },
+          {
+            "char1": "禁",
+            "char2": "止",
+            "compound": "禁止",
+            "pinyin": "jìnzhǐ",
+            "meaning": "prohibited",
+            "hint": "forbid + stop"
+          },
+          {
+            "char1": "小",
+            "char2": "心",
+            "compound": "小心",
+            "pinyin": "xiǎoxīn",
+            "meaning": "careful / caution",
+            "hint": "small + heart"
+          },
+          {
+            "char1": "危",
+            "char2": "险",
+            "compound": "危险",
+            "pinyin": "wēixiǎn",
+            "meaning": "danger",
+            "hint": "peril + risk"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "厕所",
+              "在",
+              "哪里"
+            ],
+            "pinyin": "cèsuǒ zài nǎlǐ",
+            "english": "Where is the toilet?",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "这里",
+              "禁止",
+              "吸烟"
+            ],
+            "pinyin": "zhèlǐ jìnzhǐ xīyān",
+            "english": "Smoking is prohibited here",
+            "difficulty": "medium"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "street-smart-signs",
+            "title": "Signs & the Street",
+            "titleChinese": "街头标志",
+            "titlePinyin": "Jiētóu biāozhì",
+            "icon": "camera",
+            "color": "#f97316",
+            "colorEnd": "#ef4444",
+            "level": "Beginner · HSK 1-3",
+            "difficulty": 1,
+            "vocabulary": [
+              {
+                "char": "出口",
+                "pinyin": "chūkǒu",
+                "meaning": "exit"
+              },
+              {
+                "char": "入口",
+                "pinyin": "rùkǒu",
+                "meaning": "entrance"
+              },
+              {
+                "char": "厕所",
+                "pinyin": "cèsuǒ",
+                "meaning": "toilet"
+              },
+              {
+                "char": "小心",
+                "pinyin": "xiǎoxīn",
+                "meaning": "be careful"
+              },
+              {
+                "char": "危险",
+                "pinyin": "wēixiǎn",
+                "meaning": "danger"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "tone-master",
+      "name": "Tone Master",
+      "icon": "bullseye",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "Minimal pairs that share a syllable but not a tone — perfect fuel for the Tone Challenge.",
+      "content": {
+        "characters": [
+          {
+            "character": "妈",
+            "pinyin": "mā",
+            "meaning": "mother (1st tone)",
+            "strokes": 6,
+            "hsk": 1
+          },
+          {
+            "character": "麻",
+            "pinyin": "má",
+            "meaning": "hemp, numb (2nd tone)",
+            "strokes": 11,
+            "hsk": 5
+          },
+          {
+            "character": "马",
+            "pinyin": "mǎ",
+            "meaning": "horse (3rd tone)",
+            "strokes": 3,
+            "hsk": 1
+          },
+          {
+            "character": "骂",
+            "pinyin": "mà",
+            "meaning": "to scold (4th tone)",
+            "strokes": 9,
+            "hsk": 4
+          },
+          {
+            "character": "买",
+            "pinyin": "mǎi",
+            "meaning": "to buy (3rd tone)",
+            "strokes": 6,
+            "hsk": 1
+          },
+          {
+            "character": "卖",
+            "pinyin": "mài",
+            "meaning": "to sell (4th tone)",
+            "strokes": 8,
+            "hsk": 2
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "买",
+            "char2": "卖",
+            "compound": "买卖",
+            "pinyin": "mǎimài",
+            "meaning": "business, trade",
+            "hint": "buy (3rd) + sell (4th)"
+          },
+          {
+            "char1": "声",
+            "char2": "调",
+            "compound": "声调",
+            "pinyin": "shēngdiào",
+            "meaning": "tone",
+            "hint": "sound + adjust"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "妈妈",
+              "骂",
+              "马"
+            ],
+            "pinyin": "māma mà mǎ",
+            "english": "Mum scolds the horse",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "我",
+              "要",
+              "买",
+              "马"
+            ],
+            "pinyin": "wǒ yào mǎi mǎ",
+            "english": "I want to buy a horse",
+            "difficulty": "medium"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "tone-master-ma",
+            "title": "The Four Tones",
+            "titleChinese": "四声",
+            "titlePinyin": "Sì shēng",
+            "icon": "bullseye",
+            "color": "#6d5efc",
+            "colorEnd": "#c44eff",
+            "level": "Beginner · HSK 1",
+            "difficulty": 1,
+            "vocabulary": [
+              {
+                "char": "妈",
+                "pinyin": "mā",
+                "meaning": "mother — 1st tone, flat"
+              },
+              {
+                "char": "麻",
+                "pinyin": "má",
+                "meaning": "hemp — 2nd tone, rising"
+              },
+              {
+                "char": "马",
+                "pinyin": "mǎ",
+                "meaning": "horse — 3rd tone, dip"
+              },
+              {
+                "char": "骂",
+                "pinyin": "mà",
+                "meaning": "to scold — 4th tone, falling"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "parrot-talk",
+      "name": "Parrot Talk",
+      "icon": "microphone",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "Tongue-twisters and everyday lines built for Parrot Mode — say them aloud and get scored.",
+      "content": {
+        "characters": [
+          {
+            "character": "念",
+            "pinyin": "niàn",
+            "meaning": "to read aloud",
+            "strokes": 8,
+            "hsk": 3
+          },
+          {
+            "character": "遍",
+            "pinyin": "biàn",
+            "meaning": "time (a repetition)",
+            "strokes": 12,
+            "hsk": 4
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "发",
+            "char2": "音",
+            "compound": "发音",
+            "pinyin": "fāyīn",
+            "meaning": "pronunciation",
+            "hint": "emit + sound"
+          },
+          {
+            "char1": "口",
+            "char2": "语",
+            "compound": "口语",
+            "pinyin": "kǒuyǔ",
+            "meaning": "spoken language",
+            "hint": "mouth + language"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "四",
+              "是",
+              "四"
+            ],
+            "pinyin": "sì shì sì",
+            "english": "Four is four",
+            "difficulty": "easy"
+          },
+          {
+            "chinese": [
+              "十",
+              "是",
+              "十"
+            ],
+            "pinyin": "shí shì shí",
+            "english": "Ten is ten",
+            "difficulty": "easy"
+          },
+          {
+            "chinese": [
+              "四十",
+              "是",
+              "四十"
+            ],
+            "pinyin": "sìshí shì sìshí",
+            "english": "Forty is forty",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "请",
+              "再",
+              "说",
+              "一遍"
+            ],
+            "pinyin": "qǐng zài shuō yíbiàn",
+            "english": "Please say it again",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "我",
+              "想",
+              "喝",
+              "水"
+            ],
+            "pinyin": "wǒ xiǎng hē shuǐ",
+            "english": "I want to drink water",
+            "difficulty": "easy"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "parrot-talk-twisters",
+            "title": "Say It Out Loud",
+            "titleChinese": "大声说",
+            "titlePinyin": "Dàshēng shuō",
+            "icon": "microphone",
+            "color": "#0ea5e9",
+            "colorEnd": "#22d3ee",
+            "level": "Beginner · HSK 1-2",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "发音",
+                "pinyin": "fāyīn",
+                "meaning": "pronunciation"
+              },
+              {
+                "char": "口语",
+                "pinyin": "kǒuyǔ",
+                "meaning": "spoken language"
+              },
+              {
+                "char": "再说一遍",
+                "pinyin": "zài shuō yíbiàn",
+                "meaning": "say it once more"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "meet-the-tutor",
+      "name": "Meet the Tutor",
+      "icon": "comments",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "Roleplay scenarios to run with the AI tutor — order a coffee, ask for help, make a friend.",
+      "content": {
+        "characters": [
+          {
+            "character": "杯",
+            "pinyin": "bēi",
+            "meaning": "cup (measure word)",
+            "strokes": 8,
+            "hsk": 3
+          },
+          {
+            "character": "帮",
+            "pinyin": "bāng",
+            "meaning": "to help",
+            "strokes": 9,
+            "hsk": 3
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "咖",
+            "char2": "啡",
+            "compound": "咖啡",
+            "pinyin": "kāfēi",
+            "meaning": "coffee",
+            "hint": "loanword: ka-fei"
+          },
+          {
+            "char1": "帮",
+            "char2": "助",
+            "compound": "帮助",
+            "pinyin": "bāngzhù",
+            "meaning": "to help, assistance",
+            "hint": "help + assist"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "我",
+              "要",
+              "一",
+              "杯",
+              "咖啡"
+            ],
+            "pinyin": "wǒ yào yì bēi kāfēi",
+            "english": "I'd like a cup of coffee",
+            "difficulty": "easy"
+          },
+          {
+            "chinese": [
+              "多少",
+              "钱"
+            ],
+            "pinyin": "duōshao qián",
+            "english": "How much is it?",
+            "difficulty": "easy"
+          },
+          {
+            "chinese": [
+              "可以",
+              "帮",
+              "我",
+              "吗"
+            ],
+            "pinyin": "kěyǐ bāng wǒ ma",
+            "english": "Can you help me?",
+            "difficulty": "medium"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "meet-tutor-cafe",
+            "title": "Ordering at a Café",
+            "titleChinese": "咖啡馆点单",
+            "titlePinyin": "Kāfēiguǎn diǎndān",
+            "icon": "comments",
+            "color": "#8b5cf6",
+            "colorEnd": "#ec4899",
+            "level": "Beginner · HSK 1-3",
+            "difficulty": 1,
+            "vocabulary": [
+              {
+                "char": "咖啡",
+                "pinyin": "kāfēi",
+                "meaning": "coffee"
+              },
+              {
+                "char": "茶",
+                "pinyin": "chá",
+                "meaning": "tea"
+              },
+              {
+                "char": "一杯",
+                "pinyin": "yì bēi",
+                "meaning": "a cup of"
+              },
+              {
+                "char": "多少钱",
+                "pinyin": "duōshao qián",
+                "meaning": "how much money"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "brushstroke",
+      "name": "Brushstroke",
+      "icon": "paint-brush",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "Foundational characters chosen to teach stroke order — trace them in the writing practice.",
+      "content": {
+        "characters": [
+          {
+            "character": "永",
+            "pinyin": "yǒng",
+            "meaning": "eternal (the 8 basic strokes)",
+            "strokes": 5,
+            "hsk": 4
+          },
+          {
+            "character": "一",
+            "pinyin": "yī",
+            "meaning": "one",
+            "strokes": 1,
+            "hsk": 1
+          },
+          {
+            "character": "十",
+            "pinyin": "shí",
+            "meaning": "ten",
+            "strokes": 2,
+            "hsk": 1
+          },
+          {
+            "character": "人",
+            "pinyin": "rén",
+            "meaning": "person",
+            "strokes": 2,
+            "hsk": 1
+          },
+          {
+            "character": "木",
+            "pinyin": "mù",
+            "meaning": "tree, wood",
+            "strokes": 4,
+            "hsk": 2
+          },
+          {
+            "character": "水",
+            "pinyin": "shuǐ",
+            "meaning": "water",
+            "strokes": 4,
+            "hsk": 1
+          },
+          {
+            "character": "火",
+            "pinyin": "huǒ",
+            "meaning": "fire",
+            "strokes": 4,
+            "hsk": 2
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "笔",
+            "char2": "画",
+            "compound": "笔画",
+            "pinyin": "bǐhuà",
+            "meaning": "stroke (of a character)",
+            "hint": "pen + stroke"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "这个",
+              "字",
+              "有",
+              "几",
+              "画"
+            ],
+            "pinyin": "zhège zì yǒu jǐ huà",
+            "english": "How many strokes does this character have?",
+            "difficulty": "medium"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "brushstroke-yong",
+            "title": "The Character 永",
+            "titleChinese": "永字八法",
+            "titlePinyin": "Yǒng zì bā fǎ",
+            "icon": "paint-brush",
+            "color": "#14b8a6",
+            "colorEnd": "#0d9488",
+            "level": "Beginner · HSK 1-4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "永",
+                "pinyin": "yǒng",
+                "meaning": "eternal — contains all 8 basic strokes"
+              },
+              {
+                "char": "笔画",
+                "pinyin": "bǐhuà",
+                "meaning": "stroke"
+              },
+              {
+                "char": "顺序",
+                "pinyin": "shùnxù",
+                "meaning": "order, sequence"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "story-time",
+      "name": "Story Time",
+      "icon": "book-open",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "Vocabulary and lines from a new graded reader — a night-market adventure.",
+      "content": {
+        "characters": [
+          {
+            "character": "灯",
+            "pinyin": "dēng",
+            "meaning": "lamp, light",
+            "strokes": 6,
+            "hsk": 3
+          },
+          {
+            "character": "猫",
+            "pinyin": "māo",
+            "meaning": "cat",
+            "strokes": 11,
+            "hsk": 3
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "夜",
+            "char2": "市",
+            "compound": "夜市",
+            "pinyin": "yèshì",
+            "meaning": "night market",
+            "hint": "night + market"
+          },
+          {
+            "char1": "小",
+            "char2": "吃",
+            "compound": "小吃",
+            "pinyin": "xiǎochī",
+            "meaning": "snack, street food",
+            "hint": "small + eat"
+          },
+          {
+            "char1": "热",
+            "char2": "闹",
+            "compound": "热闹",
+            "pinyin": "rènào",
+            "meaning": "lively, bustling",
+            "hint": "hot + noisy"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "夜市",
+              "很",
+              "热闹"
+            ],
+            "pinyin": "yèshì hěn rènào",
+            "english": "The night market is lively",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "我",
+              "买",
+              "了",
+              "一个",
+              "灯笼"
+            ],
+            "pinyin": "wǒ mǎi le yí ge dēnglong",
+            "english": "I bought a lantern",
+            "difficulty": "medium"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "story-night-market",
+            "title": "Night Market Adventure",
+            "titleChinese": "夜市历险",
+            "titlePinyin": "Yèshì lìxiǎn",
+            "icon": "book-open",
+            "color": "#f59e0b",
+            "colorEnd": "#f43f5e",
+            "level": "Elementary · HSK 2-3",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "夜市",
+                "pinyin": "yèshì",
+                "meaning": "night market"
+              },
+              {
+                "char": "小吃",
+                "pinyin": "xiǎochī",
+                "meaning": "snack"
+              },
+              {
+                "char": "热闹",
+                "pinyin": "rènào",
+                "meaning": "lively"
+              },
+              {
+                "char": "灯笼",
+                "pinyin": "dēnglong",
+                "meaning": "lantern"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "hsk-sprint",
+      "name": "HSK Sprint",
+      "icon": "clipboard-check",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "High-frequency HSK 3 words and example sentences to prime you for the mock exam.",
+      "content": {
+        "characters": [
+          {
+            "character": "决",
+            "pinyin": "jué",
+            "meaning": "to decide",
+            "strokes": 6,
+            "hsk": 3
+          },
+          {
+            "character": "影",
+            "pinyin": "yǐng",
+            "meaning": "shadow, image",
+            "strokes": 15,
+            "hsk": 3
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "决",
+            "char2": "定",
+            "compound": "决定",
+            "pinyin": "juédìng",
+            "meaning": "to decide, decision",
+            "hint": "decide + fix"
+          },
+          {
+            "char1": "健",
+            "char2": "康",
+            "compound": "健康",
+            "pinyin": "jiànkāng",
+            "meaning": "health, healthy",
+            "hint": "strong + well"
+          },
+          {
+            "char1": "习",
+            "char2": "惯",
+            "compound": "习惯",
+            "pinyin": "xíguàn",
+            "meaning": "habit, to be used to",
+            "hint": "practice + accustomed"
+          },
+          {
+            "char1": "影",
+            "char2": "响",
+            "compound": "影响",
+            "pinyin": "yǐngxiǎng",
+            "meaning": "influence, to affect",
+            "hint": "shadow + echo"
+          },
+          {
+            "char1": "必",
+            "char2": "须",
+            "compound": "必须",
+            "pinyin": "bìxū",
+            "meaning": "must, have to",
+            "hint": "necessarily + need"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "我",
+              "决定",
+              "学习",
+              "中文"
+            ],
+            "pinyin": "wǒ juédìng xuéxí zhōngwén",
+            "english": "I decided to study Chinese",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "健康",
+              "很",
+              "重要"
+            ],
+            "pinyin": "jiànkāng hěn zhòngyào",
+            "english": "Health is very important",
+            "difficulty": "medium"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "hsk-sprint-3",
+            "title": "HSK 3 Power Words",
+            "titleChinese": "HSK 三级冲刺",
+            "titlePinyin": "HSK sān jí chōngcì",
+            "icon": "clipboard-check",
+            "color": "#ef4444",
+            "colorEnd": "#dc2626",
+            "level": "Intermediate · HSK 3",
+            "difficulty": 3,
+            "vocabulary": [
+              {
+                "char": "决定",
+                "pinyin": "juédìng",
+                "meaning": "to decide"
+              },
+              {
+                "char": "健康",
+                "pinyin": "jiànkāng",
+                "meaning": "health"
+              },
+              {
+                "char": "习惯",
+                "pinyin": "xíguàn",
+                "meaning": "habit"
+              },
+              {
+                "char": "影响",
+                "pinyin": "yǐngxiǎng",
+                "meaning": "influence"
+              },
+              {
+                "char": "必须",
+                "pinyin": "bìxū",
+                "meaning": "must"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "game-on",
+      "name": "Game On",
+      "icon": "gamepad",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "Snappy colour and animal words tuned for Memory Match, Time Attack and Listening games.",
+      "content": {
+        "characters": [
+          {
+            "character": "红",
+            "pinyin": "hóng",
+            "meaning": "red",
+            "strokes": 6,
+            "hsk": 2
+          },
+          {
+            "character": "蓝",
+            "pinyin": "lán",
+            "meaning": "blue",
+            "strokes": 13,
+            "hsk": 3
+          },
+          {
+            "character": "绿",
+            "pinyin": "lǜ",
+            "meaning": "green",
+            "strokes": 11,
+            "hsk": 3
+          },
+          {
+            "character": "猫",
+            "pinyin": "māo",
+            "meaning": "cat",
+            "strokes": 11,
+            "hsk": 3
+          },
+          {
+            "character": "狗",
+            "pinyin": "gǒu",
+            "meaning": "dog",
+            "strokes": 8,
+            "hsk": 1
+          },
+          {
+            "character": "鸟",
+            "pinyin": "niǎo",
+            "meaning": "bird",
+            "strokes": 5,
+            "hsk": 3
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "颜",
+            "char2": "色",
+            "compound": "颜色",
+            "pinyin": "yánsè",
+            "meaning": "colour",
+            "hint": "face + shade"
+          },
+          {
+            "char1": "动",
+            "char2": "物",
+            "compound": "动物",
+            "pinyin": "dòngwù",
+            "meaning": "animal",
+            "hint": "moving + thing"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "我",
+              "的",
+              "猫",
+              "是",
+              "黑色",
+              "的"
+            ],
+            "pinyin": "wǒ de māo shì hēisè de",
+            "english": "My cat is black",
+            "difficulty": "medium"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "game-on-colors",
+            "title": "Colour & Critter Combo",
+            "titleChinese": "颜色动物",
+            "titlePinyin": "Yánsè dòngwù",
+            "icon": "gamepad",
+            "color": "#10b981",
+            "colorEnd": "#059669",
+            "level": "Beginner · HSK 1-3",
+            "difficulty": 1,
+            "vocabulary": [
+              {
+                "char": "红色",
+                "pinyin": "hóngsè",
+                "meaning": "red"
+              },
+              {
+                "char": "蓝色",
+                "pinyin": "lánsè",
+                "meaning": "blue"
+              },
+              {
+                "char": "猫",
+                "pinyin": "māo",
+                "meaning": "cat"
+              },
+              {
+                "char": "狗",
+                "pinyin": "gǒu",
+                "meaning": "dog"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "across-china",
+      "name": "Across China",
+      "icon": "map-marked-alt",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "City and landmark names to pair with the interactive province map.",
+      "content": {
+        "characters": [
+          {
+            "character": "京",
+            "pinyin": "jīng",
+            "meaning": "capital",
+            "strokes": 8,
+            "hsk": 3
+          },
+          {
+            "character": "省",
+            "pinyin": "shěng",
+            "meaning": "province",
+            "strokes": 9,
+            "hsk": 4
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "北",
+            "char2": "京",
+            "compound": "北京",
+            "pinyin": "Běijīng",
+            "meaning": "Beijing",
+            "hint": "north + capital"
+          },
+          {
+            "char1": "上",
+            "char2": "海",
+            "compound": "上海",
+            "pinyin": "Shànghǎi",
+            "meaning": "Shanghai",
+            "hint": "above + sea"
+          },
+          {
+            "char1": "香",
+            "char2": "港",
+            "compound": "香港",
+            "pinyin": "Xiānggǎng",
+            "meaning": "Hong Kong",
+            "hint": "fragrant + harbour"
+          },
+          {
+            "char1": "长",
+            "char2": "城",
+            "compound": "长城",
+            "pinyin": "Chángchéng",
+            "meaning": "the Great Wall",
+            "hint": "long + wall"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "北京",
+              "是",
+              "中国",
+              "的",
+              "首都"
+            ],
+            "pinyin": "Běijīng shì zhōngguó de shǒudū",
+            "english": "Beijing is China's capital",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "我",
+              "想",
+              "去",
+              "上海"
+            ],
+            "pinyin": "wǒ xiǎng qù Shànghǎi",
+            "english": "I want to go to Shanghai",
+            "difficulty": "easy"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "across-china-cities",
+            "title": "Cities of China",
+            "titleChinese": "中国城市",
+            "titlePinyin": "Zhōngguó chéngshì",
+            "icon": "map-marked-alt",
+            "color": "#3b82f6",
+            "colorEnd": "#6366f1",
+            "level": "Elementary · HSK 2-4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "北京",
+                "pinyin": "Běijīng",
+                "meaning": "Beijing"
+              },
+              {
+                "char": "上海",
+                "pinyin": "Shànghǎi",
+                "meaning": "Shanghai"
+              },
+              {
+                "char": "香港",
+                "pinyin": "Xiānggǎng",
+                "meaning": "Hong Kong"
+              },
+              {
+                "char": "长城",
+                "pinyin": "Chángchéng",
+                "meaning": "the Great Wall"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "sentence-lab",
+      "name": "Sentence Lab",
+      "icon": "layer-group",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.6.1",
+      "whatsNew": "Core grammar patterns broken into sentences you can rebuild in the Sentence Builder.",
+      "content": {
+        "characters": [
+          {
+            "character": "把",
+            "pinyin": "bǎ",
+            "meaning": "(disposal particle)",
+            "strokes": 7,
+            "hsk": 3
+          },
+          {
+            "character": "比",
+            "pinyin": "bǐ",
+            "meaning": "compared to",
+            "strokes": 4,
+            "hsk": 2
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "因",
+            "char2": "为",
+            "compound": "因为",
+            "pinyin": "yīnwèi",
+            "meaning": "because",
+            "hint": "cause + for"
+          },
+          {
+            "char1": "所",
+            "char2": "以",
+            "compound": "所以",
+            "pinyin": "suǒyǐ",
+            "meaning": "therefore",
+            "hint": "that which + by"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "我",
+              "把",
+              "门",
+              "关",
+              "了"
+            ],
+            "pinyin": "wǒ bǎ mén guān le",
+            "english": "I closed the door (把 construction)",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "这",
+              "本",
+              "书",
+              "比",
+              "那",
+              "本",
+              "贵"
+            ],
+            "pinyin": "zhè běn shū bǐ nà běn guì",
+            "english": "This book is more expensive than that one (比 comparison)",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "我",
+              "是",
+              "坐",
+              "火车",
+              "来",
+              "的"
+            ],
+            "pinyin": "wǒ shì zuò huǒchē lái de",
+            "english": "I came by train (是…的)",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "他",
+              "一边",
+              "走",
+              "一边",
+              "唱"
+            ],
+            "pinyin": "tā yìbiān zǒu yìbiān chàng",
+            "english": "He sings while walking (一边…一边)",
+            "difficulty": "medium"
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "sentence-lab-patterns",
+            "title": "Grammar Patterns",
+            "titleChinese": "语法句型",
+            "titlePinyin": "Yǔfǎ jùxíng",
+            "icon": "layer-group",
+            "color": "#a855f7",
+            "colorEnd": "#7c3aed",
+            "level": "Intermediate · HSK 3",
+            "difficulty": 3,
+            "vocabulary": [
+              {
+                "char": "因为…所以",
+                "pinyin": "yīnwèi…suǒyǐ",
+                "meaning": "because… therefore"
+              },
+              {
+                "char": "把",
+                "pinyin": "bǎ",
+                "meaning": "disposal construction"
+              },
+              {
+                "char": "比",
+                "pinyin": "bǐ",
+                "meaning": "comparison"
+              },
+              {
+                "char": "是…的",
+                "pinyin": "shì…de",
+                "meaning": "emphasis construction"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

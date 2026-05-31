@@ -1,0 +1,43 @@
+{
+  "revision": 1,
+  "packId": "meet-the-tutor",
+  "name": "Meet the Tutor",
+  "icon": "comments",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "Roleplay scenarios to run with the AI tutor — order a coffee, ask for help, make a friend.",
+  "content": {
+    "characters": [
+      { "character": "杯", "pinyin": "bēi", "meaning": "cup (measure word)", "strokes": 8, "hsk": 3 },
+      { "character": "帮", "pinyin": "bāng", "meaning": "to help", "strokes": 9, "hsk": 3 }
+    ],
+    "compoundWords": [
+      { "char1": "咖", "char2": "啡", "compound": "咖啡", "pinyin": "kāfēi", "meaning": "coffee", "hint": "loanword: ka-fei" },
+      { "char1": "帮", "char2": "助", "compound": "帮助", "pinyin": "bāngzhù", "meaning": "to help, assistance", "hint": "help + assist" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["我", "要", "一", "杯", "咖啡"], "pinyin": "wǒ yào yì bēi kāfēi", "english": "I'd like a cup of coffee", "difficulty": "easy" },
+      { "chinese": ["多少", "钱"], "pinyin": "duōshao qián", "english": "How much is it?", "difficulty": "easy" },
+      { "chinese": ["可以", "帮", "我", "吗"], "pinyin": "kěyǐ bāng wǒ ma", "english": "Can you help me?", "difficulty": "medium" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "meet-tutor-cafe",
+        "title": "Ordering at a Café",
+        "titleChinese": "咖啡馆点单",
+        "titlePinyin": "Kāfēiguǎn diǎndān",
+        "icon": "comments",
+        "color": "#8b5cf6",
+        "colorEnd": "#ec4899",
+        "level": "Beginner · HSK 1-3",
+        "difficulty": 1,
+        "vocabulary": [
+          { "char": "咖啡", "pinyin": "kāfēi", "meaning": "coffee" },
+          { "char": "茶", "pinyin": "chá", "meaning": "tea" },
+          { "char": "一杯", "pinyin": "yì bēi", "meaning": "a cup of" },
+          { "char": "多少钱", "pinyin": "duōshao qián", "meaning": "how much money" }
+        ]
+      }
+    ]
+  }
+}

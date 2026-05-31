@@ -1,0 +1,43 @@
+{
+  "revision": 1,
+  "packId": "story-time",
+  "name": "Story Time",
+  "icon": "book-open",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "Vocabulary and lines from a new graded reader — a night-market adventure.",
+  "content": {
+    "characters": [
+      { "character": "灯", "pinyin": "dēng", "meaning": "lamp, light", "strokes": 6, "hsk": 3 },
+      { "character": "猫", "pinyin": "māo", "meaning": "cat", "strokes": 11, "hsk": 3 }
+    ],
+    "compoundWords": [
+      { "char1": "夜", "char2": "市", "compound": "夜市", "pinyin": "yèshì", "meaning": "night market", "hint": "night + market" },
+      { "char1": "小", "char2": "吃", "compound": "小吃", "pinyin": "xiǎochī", "meaning": "snack, street food", "hint": "small + eat" },
+      { "char1": "热", "char2": "闹", "compound": "热闹", "pinyin": "rènào", "meaning": "lively, bustling", "hint": "hot + noisy" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["夜市", "很", "热闹"], "pinyin": "yèshì hěn rènào", "english": "The night market is lively", "difficulty": "medium" },
+      { "chinese": ["我", "买", "了", "一个", "灯笼"], "pinyin": "wǒ mǎi le yí ge dēnglong", "english": "I bought a lantern", "difficulty": "medium" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "story-night-market",
+        "title": "Night Market Adventure",
+        "titleChinese": "夜市历险",
+        "titlePinyin": "Yèshì lìxiǎn",
+        "icon": "book-open",
+        "color": "#f59e0b",
+        "colorEnd": "#f43f5e",
+        "level": "Elementary · HSK 2-3",
+        "difficulty": 2,
+        "vocabulary": [
+          { "char": "夜市", "pinyin": "yèshì", "meaning": "night market" },
+          { "char": "小吃", "pinyin": "xiǎochī", "meaning": "snack" },
+          { "char": "热闹", "pinyin": "rènào", "meaning": "lively" },
+          { "char": "灯笼", "pinyin": "dēnglong", "meaning": "lantern" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "revision": 1,
+  "packId": "street-smart",
+  "name": "Street Smart",
+  "icon": "camera",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "Real-world signage you can point the camera scanner at — exits, toilets, warnings and shop signs.",
+  "content": {
+    "characters": [
+      { "character": "推", "pinyin": "tuī", "meaning": "push (on doors)", "strokes": 11, "hsk": 3 },
+      { "character": "拉", "pinyin": "lā", "meaning": "pull (on doors)", "strokes": 8, "hsk": 3 },
+      { "character": "男", "pinyin": "nán", "meaning": "male, men's", "strokes": 7, "hsk": 1 },
+      { "character": "女", "pinyin": "nǚ", "meaning": "female, women's", "strokes": 3, "hsk": 1 }
+    ],
+    "compoundWords": [
+      { "char1": "出", "char2": "口", "compound": "出口", "pinyin": "chūkǒu", "meaning": "exit", "hint": "out + mouth" },
+      { "char1": "入", "char2": "口", "compound": "入口", "pinyin": "rùkǒu", "meaning": "entrance", "hint": "enter + mouth" },
+      { "char1": "厕", "char2": "所", "compound": "厕所", "pinyin": "cèsuǒ", "meaning": "toilet", "hint": "toilet + place" },
+      { "char1": "禁", "char2": "止", "compound": "禁止", "pinyin": "jìnzhǐ", "meaning": "prohibited", "hint": "forbid + stop" },
+      { "char1": "小", "char2": "心", "compound": "小心", "pinyin": "xiǎoxīn", "meaning": "careful / caution", "hint": "small + heart" },
+      { "char1": "危", "char2": "险", "compound": "危险", "pinyin": "wēixiǎn", "meaning": "danger", "hint": "peril + risk" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["厕所", "在", "哪里"], "pinyin": "cèsuǒ zài nǎlǐ", "english": "Where is the toilet?", "difficulty": "medium" },
+      { "chinese": ["这里", "禁止", "吸烟"], "pinyin": "zhèlǐ jìnzhǐ xīyān", "english": "Smoking is prohibited here", "difficulty": "medium" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "street-smart-signs",
+        "title": "Signs & the Street",
+        "titleChinese": "街头标志",
+        "titlePinyin": "Jiētóu biāozhì",
+        "icon": "camera",
+        "color": "#f97316",
+        "colorEnd": "#ef4444",
+        "level": "Beginner · HSK 1-3",
+        "difficulty": 1,
+        "vocabulary": [
+          { "char": "出口", "pinyin": "chūkǒu", "meaning": "exit" },
+          { "char": "入口", "pinyin": "rùkǒu", "meaning": "entrance" },
+          { "char": "厕所", "pinyin": "cèsuǒ", "meaning": "toilet" },
+          { "char": "小心", "pinyin": "xiǎoxīn", "meaning": "be careful" },
+          { "char": "危险", "pinyin": "wēixiǎn", "meaning": "danger" }
+        ]
+      }
+    ]
+  }
+}

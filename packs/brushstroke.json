@@ -1,0 +1,44 @@
+{
+  "revision": 1,
+  "packId": "brushstroke",
+  "name": "Brushstroke",
+  "icon": "paint-brush",
+  "releaseDate": "2026-05-31",
+  "minApp": "1.6.1",
+  "whatsNew": "Foundational characters chosen to teach stroke order — trace them in the writing practice.",
+  "content": {
+    "characters": [
+      { "character": "永", "pinyin": "yǒng", "meaning": "eternal (the 8 basic strokes)", "strokes": 5, "hsk": 4 },
+      { "character": "一", "pinyin": "yī", "meaning": "one", "strokes": 1, "hsk": 1 },
+      { "character": "十", "pinyin": "shí", "meaning": "ten", "strokes": 2, "hsk": 1 },
+      { "character": "人", "pinyin": "rén", "meaning": "person", "strokes": 2, "hsk": 1 },
+      { "character": "木", "pinyin": "mù", "meaning": "tree, wood", "strokes": 4, "hsk": 2 },
+      { "character": "水", "pinyin": "shuǐ", "meaning": "water", "strokes": 4, "hsk": 1 },
+      { "character": "火", "pinyin": "huǒ", "meaning": "fire", "strokes": 4, "hsk": 2 }
+    ],
+    "compoundWords": [
+      { "char1": "笔", "char2": "画", "compound": "笔画", "pinyin": "bǐhuà", "meaning": "stroke (of a character)", "hint": "pen + stroke" }
+    ],
+    "sentencesDatabase": [
+      { "chinese": ["这个", "字", "有", "几", "画"], "pinyin": "zhège zì yǒu jǐ huà", "english": "How many strokes does this character have?", "difficulty": "medium" }
+    ],
+    "bespokeLessons": [
+      {
+        "id": "brushstroke-yong",
+        "title": "The Character 永",
+        "titleChinese": "永字八法",
+        "titlePinyin": "Yǒng zì bā fǎ",
+        "icon": "paint-brush",
+        "color": "#14b8a6",
+        "colorEnd": "#0d9488",
+        "level": "Beginner · HSK 1-4",
+        "difficulty": 2,
+        "vocabulary": [
+          { "char": "永", "pinyin": "yǒng", "meaning": "eternal — contains all 8 basic strokes" },
+          { "char": "笔画", "pinyin": "bǐhuà", "meaning": "stroke" },
+          { "char": "顺序", "pinyin": "shùnxù", "meaning": "order, sequence" }
+        ]
+      }
+    ]
+  }
+}

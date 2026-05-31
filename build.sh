@@ -6,6 +6,7 @@ cd "$(dirname "$0")"
 
 ORDER=(
   new-hanzi-100
+  stories-vol-1
   street-smart
   tone-master
   parrot-talk

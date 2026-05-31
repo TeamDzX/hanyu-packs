@@ -717,6 +717,689 @@
     },
     {
       "revision": 1,
+      "packId": "stories-vol-1",
+      "name": "New Stories · Vol. 1",
+      "icon": "book-open",
+      "releaseDate": "2026-05-31",
+      "minApp": "1.7",
+      "whatsNew": "Three brand-new graded readers for the Stories section — one each for HSK 1, 2 and 3, with audio, tap-to-translate words and a comprehension quiz.",
+      "content": {
+        "stories": [
+          {
+            "id": "pack_story_hsk1",
+            "title": "在公园",
+            "titlePinyin": "zài gōngyuán",
+            "titleEnglish": "At the Park",
+            "level": 1,
+            "theme": "<i class=\"fas fa-tree\" style=\"color:#10b981\"></i>",
+            "sentences": [
+              {
+                "chinese": "今天天气很好。",
+                "pinyin": "Jīntiān tiānqì hěn hǎo.",
+                "english": "The weather is very nice today.",
+                "words": [
+                  {
+                    "hanzi": "今天",
+                    "pinyin": "jīntiān",
+                    "english": "today"
+                  },
+                  {
+                    "hanzi": "天气",
+                    "pinyin": "tiānqì",
+                    "english": "weather"
+                  },
+                  {
+                    "hanzi": "很",
+                    "pinyin": "hěn",
+                    "english": "very"
+                  },
+                  {
+                    "hanzi": "好",
+                    "pinyin": "hǎo",
+                    "english": "good"
+                  }
+                ]
+              },
+              {
+                "chinese": "我和朋友去公园。",
+                "pinyin": "Wǒ hé péngyou qù gōngyuán.",
+                "english": "My friend and I go to the park.",
+                "words": [
+                  {
+                    "hanzi": "我",
+                    "pinyin": "wǒ",
+                    "english": "I"
+                  },
+                  {
+                    "hanzi": "和",
+                    "pinyin": "hé",
+                    "english": "and"
+                  },
+                  {
+                    "hanzi": "朋友",
+                    "pinyin": "péngyou",
+                    "english": "friend"
+                  },
+                  {
+                    "hanzi": "去",
+                    "pinyin": "qù",
+                    "english": "go"
+                  },
+                  {
+                    "hanzi": "公园",
+                    "pinyin": "gōngyuán",
+                    "english": "park"
+                  }
+                ]
+              },
+              {
+                "chinese": "公园里有很多花。",
+                "pinyin": "Gōngyuán lǐ yǒu hěnduō huā.",
+                "english": "There are many flowers in the park.",
+                "words": [
+                  {
+                    "hanzi": "公园",
+                    "pinyin": "gōngyuán",
+                    "english": "park"
+                  },
+                  {
+                    "hanzi": "里",
+                    "pinyin": "lǐ",
+                    "english": "inside"
+                  },
+                  {
+                    "hanzi": "有",
+                    "pinyin": "yǒu",
+                    "english": "have"
+                  },
+                  {
+                    "hanzi": "很多",
+                    "pinyin": "hěnduō",
+                    "english": "many"
+                  },
+                  {
+                    "hanzi": "花",
+                    "pinyin": "huā",
+                    "english": "flower"
+                  }
+                ]
+              },
+              {
+                "chinese": "我们坐在树下喝茶。",
+                "pinyin": "Wǒmen zuò zài shù xià hē chá.",
+                "english": "We sit under a tree and drink tea.",
+                "words": [
+                  {
+                    "hanzi": "我们",
+                    "pinyin": "wǒmen",
+                    "english": "we"
+                  },
+                  {
+                    "hanzi": "坐",
+                    "pinyin": "zuò",
+                    "english": "sit"
+                  },
+                  {
+                    "hanzi": "在",
+                    "pinyin": "zài",
+                    "english": "at"
+                  },
+                  {
+                    "hanzi": "树下",
+                    "pinyin": "shù xià",
+                    "english": "under the tree"
+                  },
+                  {
+                    "hanzi": "喝茶",
+                    "pinyin": "hē chá",
+                    "english": "drink tea"
+                  }
+                ]
+              },
+              {
+                "chinese": "下午我们很高兴。",
+                "pinyin": "Xiàwǔ wǒmen hěn gāoxìng.",
+                "english": "In the afternoon we are very happy.",
+                "words": [
+                  {
+                    "hanzi": "下午",
+                    "pinyin": "xiàwǔ",
+                    "english": "afternoon"
+                  },
+                  {
+                    "hanzi": "我们",
+                    "pinyin": "wǒmen",
+                    "english": "we"
+                  },
+                  {
+                    "hanzi": "很",
+                    "pinyin": "hěn",
+                    "english": "very"
+                  },
+                  {
+                    "hanzi": "高兴",
+                    "pinyin": "gāoxìng",
+                    "english": "happy"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What is the weather like today?",
+                "options": [
+                  "Rainy",
+                  "Very nice",
+                  "Cold",
+                  "Windy"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "Where do they go?",
+                "options": [
+                  "The park",
+                  "School",
+                  "A restaurant",
+                  "The market"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What do they drink under the tree?",
+                "options": [
+                  "Coffee",
+                  "Water",
+                  "Tea",
+                  "Juice"
+                ],
+                "correct": 2
+              }
+            ]
+          },
+          {
+            "id": "pack_story_hsk2",
+            "title": "周末计划",
+            "titlePinyin": "zhōumò jìhuà",
+            "titleEnglish": "Weekend Plans",
+            "level": 2,
+            "theme": "<i class=\"fas fa-calendar-day\" style=\"color:#6366f1\"></i>",
+            "sentences": [
+              {
+                "chinese": "这个周末我想去旅游。",
+                "pinyin": "Zhège zhōumò wǒ xiǎng qù lǚyóu.",
+                "english": "This weekend I want to travel.",
+                "words": [
+                  {
+                    "hanzi": "这个",
+                    "pinyin": "zhège",
+                    "english": "this"
+                  },
+                  {
+                    "hanzi": "周末",
+                    "pinyin": "zhōumò",
+                    "english": "weekend"
+                  },
+                  {
+                    "hanzi": "我",
+                    "pinyin": "wǒ",
+                    "english": "I"
+                  },
+                  {
+                    "hanzi": "想",
+                    "pinyin": "xiǎng",
+                    "english": "want"
+                  },
+                  {
+                    "hanzi": "去",
+                    "pinyin": "qù",
+                    "english": "go"
+                  },
+                  {
+                    "hanzi": "旅游",
+                    "pinyin": "lǚyóu",
+                    "english": "travel"
+                  }
+                ]
+              },
+              {
+                "chinese": "我打算坐火车去北京。",
+                "pinyin": "Wǒ dǎsuàn zuò huǒchē qù Běijīng.",
+                "english": "I plan to take the train to Beijing.",
+                "words": [
+                  {
+                    "hanzi": "我",
+                    "pinyin": "wǒ",
+                    "english": "I"
+                  },
+                  {
+                    "hanzi": "打算",
+                    "pinyin": "dǎsuàn",
+                    "english": "plan to"
+                  },
+                  {
+                    "hanzi": "坐",
+                    "pinyin": "zuò",
+                    "english": "take/ride"
+                  },
+                  {
+                    "hanzi": "火车",
+                    "pinyin": "huǒchē",
+                    "english": "train"
+                  },
+                  {
+                    "hanzi": "去",
+                    "pinyin": "qù",
+                    "english": "go"
+                  },
+                  {
+                    "hanzi": "北京",
+                    "pinyin": "Běijīng",
+                    "english": "Beijing"
+                  }
+                ]
+              },
+              {
+                "chinese": "我的朋友也要一起去。",
+                "pinyin": "Wǒ de péngyou yě yào yìqǐ qù.",
+                "english": "My friend also wants to go together.",
+                "words": [
+                  {
+                    "hanzi": "我的",
+                    "pinyin": "wǒ de",
+                    "english": "my"
+                  },
+                  {
+                    "hanzi": "朋友",
+                    "pinyin": "péngyou",
+                    "english": "friend"
+                  },
+                  {
+                    "hanzi": "也",
+                    "pinyin": "yě",
+                    "english": "also"
+                  },
+                  {
+                    "hanzi": "要",
+                    "pinyin": "yào",
+                    "english": "want"
+                  },
+                  {
+                    "hanzi": "一起",
+                    "pinyin": "yìqǐ",
+                    "english": "together"
+                  },
+                  {
+                    "hanzi": "去",
+                    "pinyin": "qù",
+                    "english": "go"
+                  }
+                ]
+              },
+              {
+                "chinese": "我们要参观长城。",
+                "pinyin": "Wǒmen yào cānguān Chángchéng.",
+                "english": "We want to visit the Great Wall.",
+                "words": [
+                  {
+                    "hanzi": "我们",
+                    "pinyin": "wǒmen",
+                    "english": "we"
+                  },
+                  {
+                    "hanzi": "要",
+                    "pinyin": "yào",
+                    "english": "want to"
+                  },
+                  {
+                    "hanzi": "参观",
+                    "pinyin": "cānguān",
+                    "english": "visit"
+                  },
+                  {
+                    "hanzi": "长城",
+                    "pinyin": "Chángchéng",
+                    "english": "the Great Wall"
+                  }
+                ]
+              },
+              {
+                "chinese": "我希望那天不要下雨。",
+                "pinyin": "Wǒ xīwàng nèitiān bùyào xiàyǔ.",
+                "english": "I hope it won't rain that day.",
+                "words": [
+                  {
+                    "hanzi": "我",
+                    "pinyin": "wǒ",
+                    "english": "I"
+                  },
+                  {
+                    "hanzi": "希望",
+                    "pinyin": "xīwàng",
+                    "english": "hope"
+                  },
+                  {
+                    "hanzi": "那天",
+                    "pinyin": "nèitiān",
+                    "english": "that day"
+                  },
+                  {
+                    "hanzi": "不要",
+                    "pinyin": "bùyào",
+                    "english": "do not"
+                  },
+                  {
+                    "hanzi": "下雨",
+                    "pinyin": "xiàyǔ",
+                    "english": "rain"
+                  }
+                ]
+              },
+              {
+                "chinese": "这一定是一次有意思的旅行。",
+                "pinyin": "Zhè yídìng shì yí cì yǒuyìsi de lǚxíng.",
+                "english": "This will surely be an interesting trip.",
+                "words": [
+                  {
+                    "hanzi": "这",
+                    "pinyin": "zhè",
+                    "english": "this"
+                  },
+                  {
+                    "hanzi": "一定",
+                    "pinyin": "yídìng",
+                    "english": "surely"
+                  },
+                  {
+                    "hanzi": "是",
+                    "pinyin": "shì",
+                    "english": "is"
+                  },
+                  {
+                    "hanzi": "一次",
+                    "pinyin": "yí cì",
+                    "english": "one (time)"
+                  },
+                  {
+                    "hanzi": "有意思",
+                    "pinyin": "yǒuyìsi",
+                    "english": "interesting"
+                  },
+                  {
+                    "hanzi": "旅行",
+                    "pinyin": "lǚxíng",
+                    "english": "trip"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Where does the narrator plan to go?",
+                "options": [
+                  "Shanghai",
+                  "Beijing",
+                  "Hong Kong",
+                  "Xi'an"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How will they travel?",
+                "options": [
+                  "By plane",
+                  "By bus",
+                  "By train",
+                  "By car"
+                ],
+                "correct": 2
+              },
+              {
+                "question": "What do they want to visit?",
+                "options": [
+                  "The Great Wall",
+                  "A museum",
+                  "A temple",
+                  "The beach"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "pack_story_hsk3",
+            "title": "错过火车",
+            "titlePinyin": "cuòguò huǒchē",
+            "titleEnglish": "Missing the Train",
+            "level": 3,
+            "theme": "<i class=\"fas fa-train\" style=\"color:#ef4444\"></i>",
+            "sentences": [
+              {
+                "chinese": "上个星期，我差点儿错过了火车。",
+                "pinyin": "Shàng ge xīngqī, wǒ chàdiǎnr cuòguò le huǒchē.",
+                "english": "Last week, I almost missed the train.",
+                "words": [
+                  {
+                    "hanzi": "上个星期",
+                    "pinyin": "shàng ge xīngqī",
+                    "english": "last week"
+                  },
+                  {
+                    "hanzi": "我",
+                    "pinyin": "wǒ",
+                    "english": "I"
+                  },
+                  {
+                    "hanzi": "差点儿",
+                    "pinyin": "chàdiǎnr",
+                    "english": "almost"
+                  },
+                  {
+                    "hanzi": "错过",
+                    "pinyin": "cuòguò",
+                    "english": "to miss"
+                  },
+                  {
+                    "hanzi": "火车",
+                    "pinyin": "huǒchē",
+                    "english": "train"
+                  }
+                ]
+              },
+              {
+                "chinese": "那天早上我起床起得太晚了。",
+                "pinyin": "Nèitiān zǎoshang wǒ qǐchuáng qǐ de tài wǎn le.",
+                "english": "That morning I got up too late.",
+                "words": [
+                  {
+                    "hanzi": "那天",
+                    "pinyin": "nèitiān",
+                    "english": "that day"
+                  },
+                  {
+                    "hanzi": "早上",
+                    "pinyin": "zǎoshang",
+                    "english": "morning"
+                  },
+                  {
+                    "hanzi": "起床",
+                    "pinyin": "qǐchuáng",
+                    "english": "get up"
+                  },
+                  {
+                    "hanzi": "得",
+                    "pinyin": "de",
+                    "english": "(degree particle)"
+                  },
+                  {
+                    "hanzi": "太晚",
+                    "pinyin": "tài wǎn",
+                    "english": "too late"
+                  }
+                ]
+              },
+              {
+                "chinese": "我马上叫了一辆出租车去火车站。",
+                "pinyin": "Wǒ mǎshàng jiào le yí liàng chūzūchē qù huǒchēzhàn.",
+                "english": "I immediately called a taxi to the train station.",
+                "words": [
+                  {
+                    "hanzi": "马上",
+                    "pinyin": "mǎshàng",
+                    "english": "immediately"
+                  },
+                  {
+                    "hanzi": "叫",
+                    "pinyin": "jiào",
+                    "english": "to call"
+                  },
+                  {
+                    "hanzi": "一辆",
+                    "pinyin": "yí liàng",
+                    "english": "one (vehicle)"
+                  },
+                  {
+                    "hanzi": "出租车",
+                    "pinyin": "chūzūchē",
+                    "english": "taxi"
+                  },
+                  {
+                    "hanzi": "火车站",
+                    "pinyin": "huǒchēzhàn",
+                    "english": "train station"
+                  }
+                ]
+              },
+              {
+                "chinese": "路上很堵，我非常着急。",
+                "pinyin": "Lùshang hěn dǔ, wǒ fēicháng zháojí.",
+                "english": "The roads were jammed, and I was very anxious.",
+                "words": [
+                  {
+                    "hanzi": "路上",
+                    "pinyin": "lùshang",
+                    "english": "on the road"
+                  },
+                  {
+                    "hanzi": "堵",
+                    "pinyin": "dǔ",
+                    "english": "congested"
+                  },
+                  {
+                    "hanzi": "非常",
+                    "pinyin": "fēicháng",
+                    "english": "extremely"
+                  },
+                  {
+                    "hanzi": "着急",
+                    "pinyin": "zháojí",
+                    "english": "anxious"
+                  }
+                ]
+              },
+              {
+                "chinese": "还好，我在火车开走以前到了。",
+                "pinyin": "Háihǎo, wǒ zài huǒchē kāizǒu yǐqián dào le.",
+                "english": "Luckily, I arrived before the train left.",
+                "words": [
+                  {
+                    "hanzi": "还好",
+                    "pinyin": "háihǎo",
+                    "english": "luckily"
+                  },
+                  {
+                    "hanzi": "火车",
+                    "pinyin": "huǒchē",
+                    "english": "train"
+                  },
+                  {
+                    "hanzi": "开走",
+                    "pinyin": "kāizǒu",
+                    "english": "to depart"
+                  },
+                  {
+                    "hanzi": "以前",
+                    "pinyin": "yǐqián",
+                    "english": "before"
+                  },
+                  {
+                    "hanzi": "到",
+                    "pinyin": "dào",
+                    "english": "to arrive"
+                  }
+                ]
+              },
+              {
+                "chinese": "从那以后，我每次都提前出门。",
+                "pinyin": "Cóng nà yǐhòu, wǒ měi cì dōu tíqián chūmén.",
+                "english": "Ever since then, I always leave early.",
+                "words": [
+                  {
+                    "hanzi": "从那以后",
+                    "pinyin": "cóng nà yǐhòu",
+                    "english": "ever since then"
+                  },
+                  {
+                    "hanzi": "每次",
+                    "pinyin": "měi cì",
+                    "english": "every time"
+                  },
+                  {
+                    "hanzi": "都",
+                    "pinyin": "dōu",
+                    "english": "always"
+                  },
+                  {
+                    "hanzi": "提前",
+                    "pinyin": "tíqián",
+                    "english": "in advance"
+                  },
+                  {
+                    "hanzi": "出门",
+                    "pinyin": "chūmén",
+                    "english": "go out"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Why did the narrator almost miss the train?",
+                "options": [
+                  "The car broke down",
+                  "They got up too late",
+                  "They forgot the ticket",
+                  "The train was early"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How did they get to the station?",
+                "options": [
+                  "By bus",
+                  "On foot",
+                  "By taxi",
+                  "By bike"
+                ],
+                "correct": 2
+              },
+              {
+                "question": "What does the narrator do now?",
+                "options": [
+                  "Takes the bus",
+                  "Leaves early",
+                  "Avoids trains",
+                  "Sets two alarms"
+                ],
+                "correct": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
       "packId": "street-smart",
       "name": "Street Smart",
       "icon": "camera",

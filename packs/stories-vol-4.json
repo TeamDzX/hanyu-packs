@@ -1,0 +1,947 @@
+{
+  "revision": 1,
+  "packId": "stories-vol-4",
+  "name": "New Stories · Vol. 4",
+  "icon": "book-open",
+  "releaseDate": "2026-06-01",
+  "minApp": "1.7",
+  "whatsNew": "Five more graded readers — a pet, asking directions, the bank, the Mid-Autumn Festival and a job interview — each with audio, tap-to-translate words and a quiz.",
+  "content": {
+    "stories": [
+      {
+        "id": "pack4_story_pet",
+        "title": "我的宠物",
+        "titlePinyin": "wǒ de chǒngwù",
+        "titleEnglish": "My Pet",
+        "level": 1,
+        "theme": "<i class=\"fas fa-cat\" style=\"color:#f59e0b\"></i>",
+        "sentences": [
+          {
+            "chinese": "我家有一只小猫。",
+            "pinyin": "Wǒ jiā yǒu yì zhī xiǎo māo.",
+            "english": "My family has a little cat.",
+            "words": [
+              {
+                "hanzi": "我家",
+                "pinyin": "wǒ jiā",
+                "english": "my home"
+              },
+              {
+                "hanzi": "有",
+                "pinyin": "yǒu",
+                "english": "to have"
+              },
+              {
+                "hanzi": "一只",
+                "pinyin": "yì zhī",
+                "english": "one (animal)"
+              },
+              {
+                "hanzi": "小猫",
+                "pinyin": "xiǎo māo",
+                "english": "kitten, little cat"
+              }
+            ]
+          },
+          {
+            "chinese": "它的名字叫咪咪。",
+            "pinyin": "Tā de míngzi jiào Mīmī.",
+            "english": "Its name is Mimi.",
+            "words": [
+              {
+                "hanzi": "它",
+                "pinyin": "tā",
+                "english": "it"
+              },
+              {
+                "hanzi": "名字",
+                "pinyin": "míngzi",
+                "english": "name"
+              },
+              {
+                "hanzi": "叫",
+                "pinyin": "jiào",
+                "english": "to be called"
+              },
+              {
+                "hanzi": "咪咪",
+                "pinyin": "Mīmī",
+                "english": "Mimi (name)"
+              }
+            ]
+          },
+          {
+            "chinese": "咪咪很可爱，也很爱玩。",
+            "pinyin": "Mīmī hěn kě'ài, yě hěn ài wán.",
+            "english": "Mimi is very cute and loves to play.",
+            "words": [
+              {
+                "hanzi": "可爱",
+                "pinyin": "kě'ài",
+                "english": "cute"
+              },
+              {
+                "hanzi": "也",
+                "pinyin": "yě",
+                "english": "also"
+              },
+              {
+                "hanzi": "爱",
+                "pinyin": "ài",
+                "english": "to love"
+              },
+              {
+                "hanzi": "玩",
+                "pinyin": "wán",
+                "english": "to play"
+              }
+            ]
+          },
+          {
+            "chinese": "每天早上它叫我起床。",
+            "pinyin": "Měitiān zǎoshang tā jiào wǒ qǐchuáng.",
+            "english": "Every morning it wakes me up.",
+            "words": [
+              {
+                "hanzi": "每天",
+                "pinyin": "měitiān",
+                "english": "every day"
+              },
+              {
+                "hanzi": "早上",
+                "pinyin": "zǎoshang",
+                "english": "morning"
+              },
+              {
+                "hanzi": "叫",
+                "pinyin": "jiào",
+                "english": "to wake, call"
+              },
+              {
+                "hanzi": "起床",
+                "pinyin": "qǐchuáng",
+                "english": "to get up"
+              }
+            ]
+          },
+          {
+            "chinese": "我很喜欢我的小猫。",
+            "pinyin": "Wǒ hěn xǐhuan wǒ de xiǎo māo.",
+            "english": "I really like my cat.",
+            "words": [
+              {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuan",
+                "english": "to like"
+              },
+              {
+                "hanzi": "我的",
+                "pinyin": "wǒ de",
+                "english": "my"
+              },
+              {
+                "hanzi": "小猫",
+                "pinyin": "xiǎo māo",
+                "english": "cat"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "What pet does the narrator have?",
+            "options": [
+              "A dog",
+              "A cat",
+              "A bird",
+              "A fish"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What is the pet's name?",
+            "options": [
+              "Mimi",
+              "Lulu",
+              "Doudou",
+              "Wangwang"
+            ],
+            "correct": 0
+          },
+          {
+            "question": "What does the pet do every morning?",
+            "options": [
+              "Eats breakfast",
+              "Wakes the narrator up",
+              "Goes outside",
+              "Sleeps"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "id": "pack4_story_directions",
+        "title": "问路",
+        "titlePinyin": "wèn lù",
+        "titleEnglish": "Asking for Directions",
+        "level": 2,
+        "theme": "<i class=\"fas fa-location-arrow\" style=\"color:#10b981\"></i>",
+        "sentences": [
+          {
+            "chinese": "我想去火车站，但是不认识路。",
+            "pinyin": "Wǒ xiǎng qù huǒchēzhàn, dànshì bú rènshi lù.",
+            "english": "I want to go to the train station, but I don't know the way.",
+            "words": [
+              {
+                "hanzi": "想",
+                "pinyin": "xiǎng",
+                "english": "to want"
+              },
+              {
+                "hanzi": "去",
+                "pinyin": "qù",
+                "english": "to go"
+              },
+              {
+                "hanzi": "火车站",
+                "pinyin": "huǒchēzhàn",
+                "english": "train station"
+              },
+              {
+                "hanzi": "但是",
+                "pinyin": "dànshì",
+                "english": "but"
+              },
+              {
+                "hanzi": "不认识",
+                "pinyin": "bú rènshi",
+                "english": "not know"
+              },
+              {
+                "hanzi": "路",
+                "pinyin": "lù",
+                "english": "road, way"
+              }
+            ]
+          },
+          {
+            "chinese": "我问一位先生。",
+            "pinyin": "Wǒ wèn yí wèi xiānsheng.",
+            "english": "I asked a gentleman.",
+            "words": [
+              {
+                "hanzi": "问",
+                "pinyin": "wèn",
+                "english": "to ask"
+              },
+              {
+                "hanzi": "一位",
+                "pinyin": "yí wèi",
+                "english": "one (polite MW)"
+              },
+              {
+                "hanzi": "先生",
+                "pinyin": "xiānsheng",
+                "english": "sir, gentleman"
+              }
+            ]
+          },
+          {
+            "chinese": "他说：一直往前走。",
+            "pinyin": "Tā shuō: yìzhí wǎng qián zǒu.",
+            "english": "He said: go straight ahead.",
+            "words": [
+              {
+                "hanzi": "说",
+                "pinyin": "shuō",
+                "english": "to say"
+              },
+              {
+                "hanzi": "一直",
+                "pinyin": "yìzhí",
+                "english": "straight, continuously"
+              },
+              {
+                "hanzi": "往前",
+                "pinyin": "wǎng qián",
+                "english": "forward"
+              },
+              {
+                "hanzi": "走",
+                "pinyin": "zǒu",
+                "english": "to walk"
+              }
+            ]
+          },
+          {
+            "chinese": "到红绿灯往左拐。",
+            "pinyin": "Dào hónglǜdēng wǎng zuǒ guǎi.",
+            "english": "At the traffic light, turn left.",
+            "words": [
+              {
+                "hanzi": "到",
+                "pinyin": "dào",
+                "english": "to reach"
+              },
+              {
+                "hanzi": "红绿灯",
+                "pinyin": "hónglǜdēng",
+                "english": "traffic light"
+              },
+              {
+                "hanzi": "往左",
+                "pinyin": "wǎng zuǒ",
+                "english": "to the left"
+              },
+              {
+                "hanzi": "拐",
+                "pinyin": "guǎi",
+                "english": "to turn"
+              }
+            ]
+          },
+          {
+            "chinese": "火车站就在你的右边。",
+            "pinyin": "Huǒchēzhàn jiù zài nǐ de yòubian.",
+            "english": "The train station is right on your right.",
+            "words": [
+              {
+                "hanzi": "就在",
+                "pinyin": "jiù zài",
+                "english": "right at"
+              },
+              {
+                "hanzi": "你的",
+                "pinyin": "nǐ de",
+                "english": "your"
+              },
+              {
+                "hanzi": "右边",
+                "pinyin": "yòubian",
+                "english": "right side"
+              }
+            ]
+          },
+          {
+            "chinese": "谢谢您，我找到了。",
+            "pinyin": "Xièxie nín, wǒ zhǎodào le.",
+            "english": "Thank you, I found it.",
+            "words": [
+              {
+                "hanzi": "谢谢",
+                "pinyin": "xièxie",
+                "english": "thank you"
+              },
+              {
+                "hanzi": "您",
+                "pinyin": "nín",
+                "english": "you (polite)"
+              },
+              {
+                "hanzi": "找到",
+                "pinyin": "zhǎodào",
+                "english": "to find"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where does the narrator want to go?",
+            "options": [
+              "The airport",
+              "The train station",
+              "The hospital",
+              "The bank"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Which way at the traffic light?",
+            "options": [
+              "Right",
+              "Straight",
+              "Left",
+              "Back"
+            ],
+            "correct": 2
+          },
+          {
+            "question": "Did the narrator find the place?",
+            "options": [
+              "Yes",
+              "No",
+              "Got lost",
+              "Gave up"
+            ],
+            "correct": 0
+          }
+        ]
+      },
+      {
+        "id": "pack4_story_bank",
+        "title": "在银行",
+        "titlePinyin": "zài yínháng",
+        "titleEnglish": "At the Bank",
+        "level": 2,
+        "theme": "<i class=\"fas fa-landmark\" style=\"color:#6366f1\"></i>",
+        "sentences": [
+          {
+            "chinese": "今天我去银行办事。",
+            "pinyin": "Jīntiān wǒ qù yínháng bànshì.",
+            "english": "Today I went to the bank to take care of something.",
+            "words": [
+              {
+                "hanzi": "今天",
+                "pinyin": "jīntiān",
+                "english": "today"
+              },
+              {
+                "hanzi": "去",
+                "pinyin": "qù",
+                "english": "to go"
+              },
+              {
+                "hanzi": "银行",
+                "pinyin": "yínháng",
+                "english": "bank"
+              },
+              {
+                "hanzi": "办事",
+                "pinyin": "bànshì",
+                "english": "to handle matters"
+              }
+            ]
+          },
+          {
+            "chinese": "我想换一些钱。",
+            "pinyin": "Wǒ xiǎng huàn yìxiē qián.",
+            "english": "I wanted to exchange some money.",
+            "words": [
+              {
+                "hanzi": "想",
+                "pinyin": "xiǎng",
+                "english": "to want"
+              },
+              {
+                "hanzi": "换",
+                "pinyin": "huàn",
+                "english": "to exchange"
+              },
+              {
+                "hanzi": "一些",
+                "pinyin": "yìxiē",
+                "english": "some"
+              },
+              {
+                "hanzi": "钱",
+                "pinyin": "qián",
+                "english": "money"
+              }
+            ]
+          },
+          {
+            "chinese": "银行里人很多，我要排队。",
+            "pinyin": "Yínháng lǐ rén hěn duō, wǒ yào páiduì.",
+            "english": "There were many people in the bank, so I had to queue.",
+            "words": [
+              {
+                "hanzi": "银行里",
+                "pinyin": "yínháng lǐ",
+                "english": "in the bank"
+              },
+              {
+                "hanzi": "人",
+                "pinyin": "rén",
+                "english": "people"
+              },
+              {
+                "hanzi": "很多",
+                "pinyin": "hěn duō",
+                "english": "many"
+              },
+              {
+                "hanzi": "排队",
+                "pinyin": "páiduì",
+                "english": "to queue"
+              }
+            ]
+          },
+          {
+            "chinese": "工作人员很热情，帮我办好了。",
+            "pinyin": "Gōngzuò rényuán hěn rèqíng, bāng wǒ bàn hǎo le.",
+            "english": "The staff were warm and helped me finish.",
+            "words": [
+              {
+                "hanzi": "工作人员",
+                "pinyin": "gōngzuò rényuán",
+                "english": "staff"
+              },
+              {
+                "hanzi": "热情",
+                "pinyin": "rèqíng",
+                "english": "warm, enthusiastic"
+              },
+              {
+                "hanzi": "帮",
+                "pinyin": "bāng",
+                "english": "to help"
+              },
+              {
+                "hanzi": "办好",
+                "pinyin": "bàn hǎo",
+                "english": "to finish (a task)"
+              }
+            ]
+          },
+          {
+            "chinese": "办完以后，我就回家了。",
+            "pinyin": "Bàn wán yǐhòu, wǒ jiù huíjiā le.",
+            "english": "After finishing, I went home.",
+            "words": [
+              {
+                "hanzi": "办完",
+                "pinyin": "bàn wán",
+                "english": "to finish"
+              },
+              {
+                "hanzi": "以后",
+                "pinyin": "yǐhòu",
+                "english": "after"
+              },
+              {
+                "hanzi": "就",
+                "pinyin": "jiù",
+                "english": "then"
+              },
+              {
+                "hanzi": "回家",
+                "pinyin": "huíjiā",
+                "english": "to go home"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where did the narrator go?",
+            "options": [
+              "The post office",
+              "The bank",
+              "The market",
+              "The library"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What did the narrator want to do?",
+            "options": [
+              "Open an account",
+              "Exchange some money",
+              "Get a loan",
+              "Pay a bill"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Why did the narrator have to wait?",
+            "options": [
+              "The bank was closed",
+              "There were many people",
+              "The computer broke",
+              "No staff"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "id": "pack4_story_midautumn",
+        "title": "中秋节",
+        "titlePinyin": "Zhōngqiūjié",
+        "titleEnglish": "Mid-Autumn Festival",
+        "level": 3,
+        "theme": "<i class=\"fas fa-moon\" style=\"color:#6366f1\"></i>",
+        "sentences": [
+          {
+            "chinese": "中秋节是中国的传统节日。",
+            "pinyin": "Zhōngqiūjié shì Zhōngguó de chuántǒng jiérì.",
+            "english": "The Mid-Autumn Festival is a traditional Chinese holiday.",
+            "words": [
+              {
+                "hanzi": "中秋节",
+                "pinyin": "Zhōngqiūjié",
+                "english": "Mid-Autumn Festival"
+              },
+              {
+                "hanzi": "是",
+                "pinyin": "shì",
+                "english": "is"
+              },
+              {
+                "hanzi": "中国",
+                "pinyin": "Zhōngguó",
+                "english": "China"
+              },
+              {
+                "hanzi": "传统",
+                "pinyin": "chuántǒng",
+                "english": "traditional"
+              },
+              {
+                "hanzi": "节日",
+                "pinyin": "jiérì",
+                "english": "holiday"
+              }
+            ]
+          },
+          {
+            "chinese": "这一天，家人会一起赏月。",
+            "pinyin": "Zhè yì tiān, jiārén huì yìqǐ shǎng yuè.",
+            "english": "On this day, family members admire the moon together.",
+            "words": [
+              {
+                "hanzi": "这一天",
+                "pinyin": "zhè yì tiān",
+                "english": "this day"
+              },
+              {
+                "hanzi": "家人",
+                "pinyin": "jiārén",
+                "english": "family"
+              },
+              {
+                "hanzi": "一起",
+                "pinyin": "yìqǐ",
+                "english": "together"
+              },
+              {
+                "hanzi": "赏月",
+                "pinyin": "shǎng yuè",
+                "english": "to admire the moon"
+              }
+            ]
+          },
+          {
+            "chinese": "我们一边吃月饼，一边聊天。",
+            "pinyin": "Wǒmen yìbiān chī yuèbǐng, yìbiān liáotiān.",
+            "english": "We eat mooncakes while chatting.",
+            "words": [
+              {
+                "hanzi": "一边",
+                "pinyin": "yìbiān",
+                "english": "while (doing two things)"
+              },
+              {
+                "hanzi": "吃",
+                "pinyin": "chī",
+                "english": "to eat"
+              },
+              {
+                "hanzi": "月饼",
+                "pinyin": "yuèbǐng",
+                "english": "mooncake"
+              },
+              {
+                "hanzi": "聊天",
+                "pinyin": "liáotiān",
+                "english": "to chat"
+              }
+            ]
+          },
+          {
+            "chinese": "月亮又圆又亮。",
+            "pinyin": "Yuèliang yòu yuán yòu liàng.",
+            "english": "The moon is round and bright.",
+            "words": [
+              {
+                "hanzi": "月亮",
+                "pinyin": "yuèliang",
+                "english": "moon"
+              },
+              {
+                "hanzi": "又",
+                "pinyin": "yòu",
+                "english": "both…and"
+              },
+              {
+                "hanzi": "圆",
+                "pinyin": "yuán",
+                "english": "round"
+              },
+              {
+                "hanzi": "亮",
+                "pinyin": "liàng",
+                "english": "bright"
+              }
+            ]
+          },
+          {
+            "chinese": "这个节日让我们团圆。",
+            "pinyin": "Zhège jiérì ràng wǒmen tuányuán.",
+            "english": "This holiday brings us together.",
+            "words": [
+              {
+                "hanzi": "这个",
+                "pinyin": "zhège",
+                "english": "this"
+              },
+              {
+                "hanzi": "节日",
+                "pinyin": "jiérì",
+                "english": "holiday"
+              },
+              {
+                "hanzi": "让",
+                "pinyin": "ràng",
+                "english": "to let, make"
+              },
+              {
+                "hanzi": "团圆",
+                "pinyin": "tuányuán",
+                "english": "reunion"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "What kind of holiday is the Mid-Autumn Festival?",
+            "options": [
+              "A modern one",
+              "A traditional Chinese one",
+              "A foreign one",
+              "A work holiday"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What do they eat?",
+            "options": [
+              "Dumplings",
+              "Mooncakes",
+              "Noodles",
+              "Rice cakes"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "How is the moon described?",
+            "options": [
+              "Small and dim",
+              "Round and bright",
+              "Red",
+              "Hidden"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "id": "pack4_story_interview",
+        "title": "面试",
+        "titlePinyin": "miànshì",
+        "titleEnglish": "A Job Interview",
+        "level": 3,
+        "theme": "<i class=\"fas fa-user-tie\" style=\"color:#ef4444\"></i>",
+        "sentences": [
+          {
+            "chinese": "上周我去一家公司面试。",
+            "pinyin": "Shàng zhōu wǒ qù yì jiā gōngsī miànshì.",
+            "english": "Last week I went to a company for an interview.",
+            "words": [
+              {
+                "hanzi": "上周",
+                "pinyin": "shàng zhōu",
+                "english": "last week"
+              },
+              {
+                "hanzi": "去",
+                "pinyin": "qù",
+                "english": "to go"
+              },
+              {
+                "hanzi": "一家公司",
+                "pinyin": "yì jiā gōngsī",
+                "english": "a company"
+              },
+              {
+                "hanzi": "面试",
+                "pinyin": "miànshì",
+                "english": "interview"
+              }
+            ]
+          },
+          {
+            "chinese": "我穿得很正式，也提前到了。",
+            "pinyin": "Wǒ chuān de hěn zhèngshì, yě tíqián dào le.",
+            "english": "I dressed formally and arrived early.",
+            "words": [
+              {
+                "hanzi": "穿",
+                "pinyin": "chuān",
+                "english": "to wear, dress"
+              },
+              {
+                "hanzi": "正式",
+                "pinyin": "zhèngshì",
+                "english": "formal"
+              },
+              {
+                "hanzi": "也",
+                "pinyin": "yě",
+                "english": "also"
+              },
+              {
+                "hanzi": "提前",
+                "pinyin": "tíqián",
+                "english": "early, in advance"
+              },
+              {
+                "hanzi": "到",
+                "pinyin": "dào",
+                "english": "to arrive"
+              }
+            ]
+          },
+          {
+            "chinese": "经理问了我很多问题。",
+            "pinyin": "Jīnglǐ wèn le wǒ hěn duō wèntí.",
+            "english": "The manager asked me many questions.",
+            "words": [
+              {
+                "hanzi": "经理",
+                "pinyin": "jīnglǐ",
+                "english": "manager"
+              },
+              {
+                "hanzi": "问",
+                "pinyin": "wèn",
+                "english": "to ask"
+              },
+              {
+                "hanzi": "很多",
+                "pinyin": "hěn duō",
+                "english": "many"
+              },
+              {
+                "hanzi": "问题",
+                "pinyin": "wèntí",
+                "english": "question"
+              }
+            ]
+          },
+          {
+            "chinese": "我虽然有点紧张，但是回答得很好。",
+            "pinyin": "Wǒ suīrán yǒudiǎn jǐnzhāng, dànshì huídá de hěn hǎo.",
+            "english": "Although I was a bit nervous, I answered well.",
+            "words": [
+              {
+                "hanzi": "虽然",
+                "pinyin": "suīrán",
+                "english": "although"
+              },
+              {
+                "hanzi": "有点",
+                "pinyin": "yǒudiǎn",
+                "english": "a little"
+              },
+              {
+                "hanzi": "紧张",
+                "pinyin": "jǐnzhāng",
+                "english": "nervous"
+              },
+              {
+                "hanzi": "但是",
+                "pinyin": "dànshì",
+                "english": "but"
+              },
+              {
+                "hanzi": "回答",
+                "pinyin": "huídá",
+                "english": "to answer"
+              }
+            ]
+          },
+          {
+            "chinese": "几天以后，公司给了我工作。",
+            "pinyin": "Jǐ tiān yǐhòu, gōngsī gěi le wǒ gōngzuò.",
+            "english": "A few days later, the company gave me the job.",
+            "words": [
+              {
+                "hanzi": "几天以后",
+                "pinyin": "jǐ tiān yǐhòu",
+                "english": "a few days later"
+              },
+              {
+                "hanzi": "公司",
+                "pinyin": "gōngsī",
+                "english": "company"
+              },
+              {
+                "hanzi": "给",
+                "pinyin": "gěi",
+                "english": "to give"
+              },
+              {
+                "hanzi": "工作",
+                "pinyin": "gōngzuò",
+                "english": "job"
+              }
+            ]
+          },
+          {
+            "chinese": "我非常高兴。",
+            "pinyin": "Wǒ fēicháng gāoxìng.",
+            "english": "I was extremely happy.",
+            "words": [
+              {
+                "hanzi": "非常",
+                "pinyin": "fēicháng",
+                "english": "extremely"
+              },
+              {
+                "hanzi": "高兴",
+                "pinyin": "gāoxìng",
+                "english": "happy"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "Why did the narrator go to the company?",
+            "options": [
+              "To deliver a package",
+              "For a job interview",
+              "To meet a friend",
+              "To buy something"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "How did the narrator prepare?",
+            "options": [
+              "Arrived late",
+              "Dressed formally and arrived early",
+              "Forgot the time",
+              "Wore casual clothes"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What was the result?",
+            "options": [
+              "Got the job",
+              "Was rejected",
+              "Still waiting",
+              "Cancelled"
+            ],
+            "correct": 0
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -8,6 +8,7 @@ ORDER=(
   new-hanzi-100
   stories-vol-1
   stories-vol-2
+  stories-vol-3
   street-smart
   tone-master
   parrot-talk

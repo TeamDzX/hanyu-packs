@@ -9,6 +9,7 @@ ORDER=(
   stories-vol-1
   stories-vol-2
   stories-vol-3
+  stories-vol-4
   street-smart
   tone-master
   parrot-talk

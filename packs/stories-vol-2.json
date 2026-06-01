@@ -1,0 +1,1011 @@
+{
+  "revision": 1,
+  "packId": "stories-vol-2",
+  "name": "New Stories · Vol. 2",
+  "icon": "book-open",
+  "releaseDate": "2026-06-01",
+  "minApp": "1.7",
+  "whatsNew": "Five more graded readers for the Stories section — seasons, weather, holidays, school and work — each with audio, tap-to-translate words and a quiz.",
+  "content": {
+    "stories": [
+      {
+        "id": "pack2_story_seasons",
+        "title": "四季",
+        "titlePinyin": "sìjì",
+        "titleEnglish": "The Four Seasons",
+        "level": 2,
+        "theme": "<i class=\"fas fa-leaf\" style=\"color:#10b981\"></i>",
+        "sentences": [
+          {
+            "chinese": "一年有四个季节。",
+            "pinyin": "Yì nián yǒu sì gè jìjié.",
+            "english": "A year has four seasons.",
+            "words": [
+              {
+                "hanzi": "一年",
+                "pinyin": "yì nián",
+                "english": "a year"
+              },
+              {
+                "hanzi": "有",
+                "pinyin": "yǒu",
+                "english": "have"
+              },
+              {
+                "hanzi": "四个",
+                "pinyin": "sì gè",
+                "english": "four"
+              },
+              {
+                "hanzi": "季节",
+                "pinyin": "jìjié",
+                "english": "season"
+              }
+            ]
+          },
+          {
+            "chinese": "春天很暖和，花都开了。",
+            "pinyin": "Chūntiān hěn nuǎnhuo, huā dōu kāi le.",
+            "english": "Spring is warm, and the flowers bloom.",
+            "words": [
+              {
+                "hanzi": "春天",
+                "pinyin": "chūntiān",
+                "english": "spring"
+              },
+              {
+                "hanzi": "暖和",
+                "pinyin": "nuǎnhuo",
+                "english": "warm"
+              },
+              {
+                "hanzi": "花",
+                "pinyin": "huā",
+                "english": "flower"
+              },
+              {
+                "hanzi": "开",
+                "pinyin": "kāi",
+                "english": "to bloom"
+              }
+            ]
+          },
+          {
+            "chinese": "夏天很热，我喜欢游泳。",
+            "pinyin": "Xiàtiān hěn rè, wǒ xǐhuan yóuyǒng.",
+            "english": "Summer is hot; I like to swim.",
+            "words": [
+              {
+                "hanzi": "夏天",
+                "pinyin": "xiàtiān",
+                "english": "summer"
+              },
+              {
+                "hanzi": "热",
+                "pinyin": "rè",
+                "english": "hot"
+              },
+              {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuan",
+                "english": "to like"
+              },
+              {
+                "hanzi": "游泳",
+                "pinyin": "yóuyǒng",
+                "english": "to swim"
+              }
+            ]
+          },
+          {
+            "chinese": "秋天天气很好，树叶变黄了。",
+            "pinyin": "Qiūtiān tiānqì hěn hǎo, shùyè biàn huáng le.",
+            "english": "Autumn weather is nice; the leaves turn yellow.",
+            "words": [
+              {
+                "hanzi": "秋天",
+                "pinyin": "qiūtiān",
+                "english": "autumn"
+              },
+              {
+                "hanzi": "天气",
+                "pinyin": "tiānqì",
+                "english": "weather"
+              },
+              {
+                "hanzi": "树叶",
+                "pinyin": "shùyè",
+                "english": "leaves"
+              },
+              {
+                "hanzi": "变",
+                "pinyin": "biàn",
+                "english": "to change"
+              },
+              {
+                "hanzi": "黄",
+                "pinyin": "huáng",
+                "english": "yellow"
+              }
+            ]
+          },
+          {
+            "chinese": "冬天很冷，有时候下雪。",
+            "pinyin": "Dōngtiān hěn lěng, yǒushíhou xiàxuě.",
+            "english": "Winter is cold; sometimes it snows.",
+            "words": [
+              {
+                "hanzi": "冬天",
+                "pinyin": "dōngtiān",
+                "english": "winter"
+              },
+              {
+                "hanzi": "冷",
+                "pinyin": "lěng",
+                "english": "cold"
+              },
+              {
+                "hanzi": "有时候",
+                "pinyin": "yǒushíhou",
+                "english": "sometimes"
+              },
+              {
+                "hanzi": "下雪",
+                "pinyin": "xiàxuě",
+                "english": "to snow"
+              }
+            ]
+          },
+          {
+            "chinese": "我最喜欢春天。",
+            "pinyin": "Wǒ zuì xǐhuan chūntiān.",
+            "english": "I like spring the most.",
+            "words": [
+              {
+                "hanzi": "我",
+                "pinyin": "wǒ",
+                "english": "I"
+              },
+              {
+                "hanzi": "最",
+                "pinyin": "zuì",
+                "english": "most"
+              },
+              {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuan",
+                "english": "to like"
+              },
+              {
+                "hanzi": "春天",
+                "pinyin": "chūntiān",
+                "english": "spring"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many seasons are in a year?",
+            "options": [
+              "Two",
+              "Three",
+              "Four",
+              "Five"
+            ],
+            "correct": 2
+          },
+          {
+            "question": "What does the narrator like to do in summer?",
+            "options": [
+              "Ski",
+              "Swim",
+              "Read",
+              "Sleep"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Which season does the narrator like most?",
+            "options": [
+              "Spring",
+              "Summer",
+              "Autumn",
+              "Winter"
+            ],
+            "correct": 0
+          }
+        ]
+      },
+      {
+        "id": "pack2_story_weather",
+        "title": "下雨天",
+        "titlePinyin": "xiàyǔ tiān",
+        "titleEnglish": "A Rainy Day",
+        "level": 2,
+        "theme": "<i class=\"fas fa-cloud-rain\" style=\"color:#0ea5e9\"></i>",
+        "sentences": [
+          {
+            "chinese": "今天早上开始下雨。",
+            "pinyin": "Jīntiān zǎoshang kāishǐ xiàyǔ.",
+            "english": "It started raining this morning.",
+            "words": [
+              {
+                "hanzi": "今天",
+                "pinyin": "jīntiān",
+                "english": "today"
+              },
+              {
+                "hanzi": "早上",
+                "pinyin": "zǎoshang",
+                "english": "morning"
+              },
+              {
+                "hanzi": "开始",
+                "pinyin": "kāishǐ",
+                "english": "to start"
+              },
+              {
+                "hanzi": "下雨",
+                "pinyin": "xiàyǔ",
+                "english": "to rain"
+              }
+            ]
+          },
+          {
+            "chinese": "我忘了带伞。",
+            "pinyin": "Wǒ wàng le dài sǎn.",
+            "english": "I forgot to bring an umbrella.",
+            "words": [
+              {
+                "hanzi": "我",
+                "pinyin": "wǒ",
+                "english": "I"
+              },
+              {
+                "hanzi": "忘",
+                "pinyin": "wàng",
+                "english": "to forget"
+              },
+              {
+                "hanzi": "带",
+                "pinyin": "dài",
+                "english": "to bring"
+              },
+              {
+                "hanzi": "伞",
+                "pinyin": "sǎn",
+                "english": "umbrella"
+              }
+            ]
+          },
+          {
+            "chinese": "所以我的衣服湿了。",
+            "pinyin": "Suǒyǐ wǒ de yīfu shī le.",
+            "english": "So my clothes got wet.",
+            "words": [
+              {
+                "hanzi": "所以",
+                "pinyin": "suǒyǐ",
+                "english": "so"
+              },
+              {
+                "hanzi": "我的",
+                "pinyin": "wǒ de",
+                "english": "my"
+              },
+              {
+                "hanzi": "衣服",
+                "pinyin": "yīfu",
+                "english": "clothes"
+              },
+              {
+                "hanzi": "湿",
+                "pinyin": "shī",
+                "english": "wet"
+              }
+            ]
+          },
+          {
+            "chinese": "下午雨停了，天晴了。",
+            "pinyin": "Xiàwǔ yǔ tíng le, tiān qíng le.",
+            "english": "In the afternoon the rain stopped and it cleared up.",
+            "words": [
+              {
+                "hanzi": "下午",
+                "pinyin": "xiàwǔ",
+                "english": "afternoon"
+              },
+              {
+                "hanzi": "雨",
+                "pinyin": "yǔ",
+                "english": "rain"
+              },
+              {
+                "hanzi": "停",
+                "pinyin": "tíng",
+                "english": "to stop"
+              },
+              {
+                "hanzi": "晴",
+                "pinyin": "qíng",
+                "english": "clear, sunny"
+              }
+            ]
+          },
+          {
+            "chinese": "天空出现了彩虹。",
+            "pinyin": "Tiānkōng chūxiàn le cǎihóng.",
+            "english": "A rainbow appeared in the sky.",
+            "words": [
+              {
+                "hanzi": "天空",
+                "pinyin": "tiānkōng",
+                "english": "sky"
+              },
+              {
+                "hanzi": "出现",
+                "pinyin": "chūxiàn",
+                "english": "to appear"
+              },
+              {
+                "hanzi": "彩虹",
+                "pinyin": "cǎihóng",
+                "english": "rainbow"
+              }
+            ]
+          },
+          {
+            "chinese": "真是又美又特别。",
+            "pinyin": "Zhēn shì yòu měi yòu tèbié.",
+            "english": "It was both beautiful and special.",
+            "words": [
+              {
+                "hanzi": "真",
+                "pinyin": "zhēn",
+                "english": "really"
+              },
+              {
+                "hanzi": "又…又",
+                "pinyin": "yòu…yòu",
+                "english": "both…and"
+              },
+              {
+                "hanzi": "美",
+                "pinyin": "měi",
+                "english": "beautiful"
+              },
+              {
+                "hanzi": "特别",
+                "pinyin": "tèbié",
+                "english": "special"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the narrator forget to bring?",
+            "options": [
+              "A coat",
+              "An umbrella",
+              "A phone",
+              "A bag"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What happened in the afternoon?",
+            "options": [
+              "It snowed",
+              "It got colder",
+              "The rain stopped",
+              "The wind blew"
+            ],
+            "correct": 2
+          },
+          {
+            "question": "What appeared in the sky?",
+            "options": [
+              "A rainbow",
+              "The moon",
+              "Birds",
+              "Clouds"
+            ],
+            "correct": 0
+          }
+        ]
+      },
+      {
+        "id": "pack2_story_holiday",
+        "title": "春节",
+        "titlePinyin": "Chūnjié",
+        "titleEnglish": "Spring Festival",
+        "level": 3,
+        "theme": "<i class=\"fas fa-gift\" style=\"color:#ef4444\"></i>",
+        "sentences": [
+          {
+            "chinese": "春节是中国最重要的节日。",
+            "pinyin": "Chūnjié shì Zhōngguó zuì zhòngyào de jiérì.",
+            "english": "Spring Festival is China's most important holiday.",
+            "words": [
+              {
+                "hanzi": "春节",
+                "pinyin": "Chūnjié",
+                "english": "Spring Festival"
+              },
+              {
+                "hanzi": "中国",
+                "pinyin": "Zhōngguó",
+                "english": "China"
+              },
+              {
+                "hanzi": "最",
+                "pinyin": "zuì",
+                "english": "most"
+              },
+              {
+                "hanzi": "重要",
+                "pinyin": "zhòngyào",
+                "english": "important"
+              },
+              {
+                "hanzi": "节日",
+                "pinyin": "jiérì",
+                "english": "holiday"
+              }
+            ]
+          },
+          {
+            "chinese": "家人会从各地回家团聚。",
+            "pinyin": "Jiārén huì cóng gèdì huíjiā tuánjù.",
+            "english": "Family members return home from all over to reunite.",
+            "words": [
+              {
+                "hanzi": "家人",
+                "pinyin": "jiārén",
+                "english": "family"
+              },
+              {
+                "hanzi": "各地",
+                "pinyin": "gèdì",
+                "english": "everywhere"
+              },
+              {
+                "hanzi": "回家",
+                "pinyin": "huíjiā",
+                "english": "return home"
+              },
+              {
+                "hanzi": "团聚",
+                "pinyin": "tuánjù",
+                "english": "to reunite"
+              }
+            ]
+          },
+          {
+            "chinese": "我们一起吃年夜饭，包饺子。",
+            "pinyin": "Wǒmen yìqǐ chī niányèfàn, bāo jiǎozi.",
+            "english": "We eat the New Year's Eve dinner together and make dumplings.",
+            "words": [
+              {
+                "hanzi": "一起",
+                "pinyin": "yìqǐ",
+                "english": "together"
+              },
+              {
+                "hanzi": "年夜饭",
+                "pinyin": "niányèfàn",
+                "english": "New Year's Eve dinner"
+              },
+              {
+                "hanzi": "包饺子",
+                "pinyin": "bāo jiǎozi",
+                "english": "to make dumplings"
+              }
+            ]
+          },
+          {
+            "chinese": "孩子们会收到红包。",
+            "pinyin": "Háizimen huì shōudào hóngbāo.",
+            "english": "The children receive red envelopes.",
+            "words": [
+              {
+                "hanzi": "孩子们",
+                "pinyin": "háizimen",
+                "english": "children"
+              },
+              {
+                "hanzi": "收到",
+                "pinyin": "shōudào",
+                "english": "to receive"
+              },
+              {
+                "hanzi": "红包",
+                "pinyin": "hóngbāo",
+                "english": "red envelope"
+              }
+            ]
+          },
+          {
+            "chinese": "晚上我们放烟花，看春晚。",
+            "pinyin": "Wǎnshang wǒmen fàng yānhuā, kàn Chūnwǎn.",
+            "english": "At night we set off fireworks and watch the Spring Festival Gala.",
+            "words": [
+              {
+                "hanzi": "晚上",
+                "pinyin": "wǎnshang",
+                "english": "evening"
+              },
+              {
+                "hanzi": "放",
+                "pinyin": "fàng",
+                "english": "to set off"
+              },
+              {
+                "hanzi": "烟花",
+                "pinyin": "yānhuā",
+                "english": "fireworks"
+              },
+              {
+                "hanzi": "春晚",
+                "pinyin": "Chūnwǎn",
+                "english": "Spring Festival Gala"
+              }
+            ]
+          },
+          {
+            "chinese": "这是一年中最热闹的时候。",
+            "pinyin": "Zhè shì yì nián zhōng zuì rènào de shíhou.",
+            "english": "This is the liveliest time of the year.",
+            "words": [
+              {
+                "hanzi": "一年中",
+                "pinyin": "yì nián zhōng",
+                "english": "in the year"
+              },
+              {
+                "hanzi": "最",
+                "pinyin": "zuì",
+                "english": "most"
+              },
+              {
+                "hanzi": "热闹",
+                "pinyin": "rènào",
+                "english": "lively"
+              },
+              {
+                "hanzi": "时候",
+                "pinyin": "shíhou",
+                "english": "time"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is China's most important holiday?",
+            "options": [
+              "Mid-Autumn",
+              "Spring Festival",
+              "National Day",
+              "Dragon Boat"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What do the children receive?",
+            "options": [
+              "Toys",
+              "Red envelopes",
+              "Books",
+              "Sweets"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What do they do at night?",
+            "options": [
+              "Sleep early",
+              "Set off fireworks",
+              "Go to work",
+              "Travel abroad"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "id": "pack2_story_school",
+        "title": "我的学校",
+        "titlePinyin": "wǒ de xuéxiào",
+        "titleEnglish": "My School",
+        "level": 1,
+        "theme": "<i class=\"fas fa-school\" style=\"color:#f59e0b\"></i>",
+        "sentences": [
+          {
+            "chinese": "我的学校很大也很漂亮。",
+            "pinyin": "Wǒ de xuéxiào hěn dà yě hěn piàoliang.",
+            "english": "My school is big and beautiful.",
+            "words": [
+              {
+                "hanzi": "我的",
+                "pinyin": "wǒ de",
+                "english": "my"
+              },
+              {
+                "hanzi": "学校",
+                "pinyin": "xuéxiào",
+                "english": "school"
+              },
+              {
+                "hanzi": "大",
+                "pinyin": "dà",
+                "english": "big"
+              },
+              {
+                "hanzi": "也",
+                "pinyin": "yě",
+                "english": "also"
+              },
+              {
+                "hanzi": "漂亮",
+                "pinyin": "piàoliang",
+                "english": "beautiful"
+              }
+            ]
+          },
+          {
+            "chinese": "我每天八点去上课。",
+            "pinyin": "Wǒ měitiān bā diǎn qù shàngkè.",
+            "english": "I go to class at eight every day.",
+            "words": [
+              {
+                "hanzi": "我",
+                "pinyin": "wǒ",
+                "english": "I"
+              },
+              {
+                "hanzi": "每天",
+                "pinyin": "měitiān",
+                "english": "every day"
+              },
+              {
+                "hanzi": "八点",
+                "pinyin": "bā diǎn",
+                "english": "8 o'clock"
+              },
+              {
+                "hanzi": "上课",
+                "pinyin": "shàngkè",
+                "english": "to go to class"
+              }
+            ]
+          },
+          {
+            "chinese": "我最喜欢中文课。",
+            "pinyin": "Wǒ zuì xǐhuan zhōngwén kè.",
+            "english": "I like Chinese class the most.",
+            "words": [
+              {
+                "hanzi": "我",
+                "pinyin": "wǒ",
+                "english": "I"
+              },
+              {
+                "hanzi": "最",
+                "pinyin": "zuì",
+                "english": "most"
+              },
+              {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuan",
+                "english": "to like"
+              },
+              {
+                "hanzi": "中文课",
+                "pinyin": "zhōngwén kè",
+                "english": "Chinese class"
+              }
+            ]
+          },
+          {
+            "chinese": "我的老师很好，同学很友好。",
+            "pinyin": "Wǒ de lǎoshī hěn hǎo, tóngxué hěn yǒuhǎo.",
+            "english": "My teacher is nice and my classmates are friendly.",
+            "words": [
+              {
+                "hanzi": "老师",
+                "pinyin": "lǎoshī",
+                "english": "teacher"
+              },
+              {
+                "hanzi": "好",
+                "pinyin": "hǎo",
+                "english": "good, nice"
+              },
+              {
+                "hanzi": "同学",
+                "pinyin": "tóngxué",
+                "english": "classmate"
+              },
+              {
+                "hanzi": "友好",
+                "pinyin": "yǒuhǎo",
+                "english": "friendly"
+              }
+            ]
+          },
+          {
+            "chinese": "下课以后我们一起玩。",
+            "pinyin": "Xiàkè yǐhòu wǒmen yìqǐ wán.",
+            "english": "After class we play together.",
+            "words": [
+              {
+                "hanzi": "下课",
+                "pinyin": "xiàkè",
+                "english": "to finish class"
+              },
+              {
+                "hanzi": "以后",
+                "pinyin": "yǐhòu",
+                "english": "after"
+              },
+              {
+                "hanzi": "我们",
+                "pinyin": "wǒmen",
+                "english": "we"
+              },
+              {
+                "hanzi": "一起",
+                "pinyin": "yìqǐ",
+                "english": "together"
+              },
+              {
+                "hanzi": "玩",
+                "pinyin": "wán",
+                "english": "to play"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "What time does the narrator go to class?",
+            "options": [
+              "7 o'clock",
+              "8 o'clock",
+              "9 o'clock",
+              "10 o'clock"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What is the narrator's favourite class?",
+            "options": [
+              "Maths",
+              "English",
+              "Chinese",
+              "Music"
+            ],
+            "correct": 2
+          },
+          {
+            "question": "What do they do after class?",
+            "options": [
+              "Go home",
+              "Play together",
+              "Study more",
+              "Eat lunch"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      {
+        "id": "pack2_story_work",
+        "title": "我的工作",
+        "titlePinyin": "wǒ de gōngzuò",
+        "titleEnglish": "My Job",
+        "level": 3,
+        "theme": "<i class=\"fas fa-briefcase\" style=\"color:#6366f1\"></i>",
+        "sentences": [
+          {
+            "chinese": "我在一家公司工作。",
+            "pinyin": "Wǒ zài yì jiā gōngsī gōngzuò.",
+            "english": "I work at a company.",
+            "words": [
+              {
+                "hanzi": "我",
+                "pinyin": "wǒ",
+                "english": "I"
+              },
+              {
+                "hanzi": "在",
+                "pinyin": "zài",
+                "english": "at"
+              },
+              {
+                "hanzi": "一家公司",
+                "pinyin": "yì jiā gōngsī",
+                "english": "a company"
+              },
+              {
+                "hanzi": "工作",
+                "pinyin": "gōngzuò",
+                "english": "to work"
+              }
+            ]
+          },
+          {
+            "chinese": "我每天坐地铁上班。",
+            "pinyin": "Wǒ měitiān zuò dìtiě shàngbān.",
+            "english": "I take the subway to work every day.",
+            "words": [
+              {
+                "hanzi": "每天",
+                "pinyin": "měitiān",
+                "english": "every day"
+              },
+              {
+                "hanzi": "坐",
+                "pinyin": "zuò",
+                "english": "to take, ride"
+              },
+              {
+                "hanzi": "地铁",
+                "pinyin": "dìtiě",
+                "english": "subway"
+              },
+              {
+                "hanzi": "上班",
+                "pinyin": "shàngbān",
+                "english": "to go to work"
+              }
+            ]
+          },
+          {
+            "chinese": "我的工作很忙，但是很有意思。",
+            "pinyin": "Wǒ de gōngzuò hěn máng, dànshì hěn yǒuyìsi.",
+            "english": "My job is busy, but it is interesting.",
+            "words": [
+              {
+                "hanzi": "工作",
+                "pinyin": "gōngzuò",
+                "english": "job"
+              },
+              {
+                "hanzi": "忙",
+                "pinyin": "máng",
+                "english": "busy"
+              },
+              {
+                "hanzi": "但是",
+                "pinyin": "dànshì",
+                "english": "but"
+              },
+              {
+                "hanzi": "有意思",
+                "pinyin": "yǒuyìsi",
+                "english": "interesting"
+              }
+            ]
+          },
+          {
+            "chinese": "我经常和同事开会。",
+            "pinyin": "Wǒ jīngcháng hé tóngshì kāihuì.",
+            "english": "I often have meetings with colleagues.",
+            "words": [
+              {
+                "hanzi": "经常",
+                "pinyin": "jīngcháng",
+                "english": "often"
+              },
+              {
+                "hanzi": "和",
+                "pinyin": "hé",
+                "english": "with"
+              },
+              {
+                "hanzi": "同事",
+                "pinyin": "tóngshì",
+                "english": "colleague"
+              },
+              {
+                "hanzi": "开会",
+                "pinyin": "kāihuì",
+                "english": "to have a meeting"
+              }
+            ]
+          },
+          {
+            "chinese": "有时候我得加班。",
+            "pinyin": "Yǒushíhou wǒ děi jiābān.",
+            "english": "Sometimes I have to work overtime.",
+            "words": [
+              {
+                "hanzi": "有时候",
+                "pinyin": "yǒushíhou",
+                "english": "sometimes"
+              },
+              {
+                "hanzi": "我",
+                "pinyin": "wǒ",
+                "english": "I"
+              },
+              {
+                "hanzi": "得",
+                "pinyin": "děi",
+                "english": "have to"
+              },
+              {
+                "hanzi": "加班",
+                "pinyin": "jiābān",
+                "english": "to work overtime"
+              }
+            ]
+          },
+          {
+            "chinese": "不过我很喜欢我的工作。",
+            "pinyin": "Búguò wǒ hěn xǐhuan wǒ de gōngzuò.",
+            "english": "Still, I really like my job.",
+            "words": [
+              {
+                "hanzi": "不过",
+                "pinyin": "búguò",
+                "english": "however"
+              },
+              {
+                "hanzi": "我",
+                "pinyin": "wǒ",
+                "english": "I"
+              },
+              {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuan",
+                "english": "to like"
+              },
+              {
+                "hanzi": "工作",
+                "pinyin": "gōngzuò",
+                "english": "job"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "How does the narrator get to work?",
+            "options": [
+              "By bus",
+              "By subway",
+              "By car",
+              "On foot"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Who does the narrator have meetings with?",
+            "options": [
+              "Clients",
+              "Friends",
+              "Colleagues",
+              "Students"
+            ],
+            "correct": 2
+          },
+          {
+            "question": "How does the narrator feel about the job?",
+            "options": [
+              "Hates it",
+              "Likes it",
+              "Bored by it",
+              "Scared of it"
+            ],
+            "correct": 1
+          }
+        ]
+      }
+    ]
+  }
+}

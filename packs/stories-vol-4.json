@@ -1,11 +1,11 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "stories-vol-4",
   "name": "New Stories · Vol. 4",
   "icon": "book-open",
   "releaseDate": "2026-06-01",
   "minApp": "1.7",
-  "whatsNew": "Five more graded readers — a pet, asking directions, the bank, the Mid-Autumn Festival and a job interview — each with audio, tap-to-translate words and a quiz.",
+  "whatsNew": "Story cards now have beautiful artwork.",
   "content": {
     "stories": [
       {
@@ -178,7 +178,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_pet.jpg"
       },
       {
         "id": "pack4_story_directions",
@@ -377,7 +378,8 @@
             ],
             "correct": 0
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_directions.jpg"
       },
       {
         "id": "pack4_story_bank",
@@ -554,7 +556,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_bank.jpg"
       },
       {
         "id": "pack4_story_midautumn",
@@ -736,7 +739,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_midautumn.jpg"
       },
       {
         "id": "pack4_story_interview",
@@ -940,7 +944,8 @@
             ],
             "correct": 0
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_interview.jpg"
       }
     ]
   }

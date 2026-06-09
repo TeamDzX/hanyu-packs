@@ -1,11 +1,11 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "stories-vol-1",
   "name": "New Stories · Vol. 1",
   "icon": "book-open",
   "releaseDate": "2026-05-31",
   "minApp": "1.7",
-  "whatsNew": "Three brand-new graded readers for the Stories section — one each for HSK 1, 2 and 3, with audio, tap-to-translate words and a comprehension quiz.",
+  "whatsNew": "Story cards now have beautiful artwork.",
   "content": {
     "stories": [
       {
@@ -198,7 +198,8 @@
             ],
             "correct": 2
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_story_hsk1.jpg"
       },
       {
         "id": "pack_story_hsk2",
@@ -447,7 +448,8 @@
             ],
             "correct": 0
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_story_hsk2.jpg"
       },
       {
         "id": "pack_story_hsk3",
@@ -676,7 +678,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_story_hsk3.jpg"
       }
     ]
   }

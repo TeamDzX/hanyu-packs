@@ -1,11 +1,11 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "stories-vol-2",
   "name": "New Stories · Vol. 2",
   "icon": "book-open",
   "releaseDate": "2026-06-01",
   "minApp": "1.7",
-  "whatsNew": "Five more graded readers for the Stories section — seasons, weather, holidays, school and work — each with audio, tap-to-translate words and a quiz.",
+  "whatsNew": "Story cards now have beautiful artwork.",
   "content": {
     "stories": [
       {
@@ -215,7 +215,8 @@
             ],
             "correct": 0
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_seasons.jpg"
       },
       {
         "id": "pack2_story_weather",
@@ -414,7 +415,8 @@
             ],
             "correct": 0
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_weather.jpg"
       },
       {
         "id": "pack2_story_holiday",
@@ -613,7 +615,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_holiday.jpg"
       },
       {
         "id": "pack2_story_school",
@@ -800,7 +803,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_school.jpg"
       },
       {
         "id": "pack2_story_work",
@@ -1004,7 +1008,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_work.jpg"
       }
     ]
   }

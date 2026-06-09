@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-06-01",
+  "generated": "2026-06-09",
   "packs": [
     {
       "revision": 1,
@@ -716,13 +716,13 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "stories-vol-1",
       "name": "New Stories · Vol. 1",
       "icon": "book-open",
       "releaseDate": "2026-05-31",
       "minApp": "1.7",
-      "whatsNew": "Three brand-new graded readers for the Stories section — one each for HSK 1, 2 and 3, with audio, tap-to-translate words and a comprehension quiz.",
+      "whatsNew": "Story cards now have beautiful artwork.",
       "content": {
         "stories": [
           {
@@ -915,7 +915,8 @@
                 ],
                 "correct": 2
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_story_hsk1.jpg"
           },
           {
             "id": "pack_story_hsk2",
@@ -1164,7 +1165,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_story_hsk2.jpg"
           },
           {
             "id": "pack_story_hsk3",
@@ -1393,19 +1395,20 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_story_hsk3.jpg"
           }
         ]
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "stories-vol-2",
       "name": "New Stories · Vol. 2",
       "icon": "book-open",
       "releaseDate": "2026-06-01",
       "minApp": "1.7",
-      "whatsNew": "Five more graded readers for the Stories section — seasons, weather, holidays, school and work — each with audio, tap-to-translate words and a quiz.",
+      "whatsNew": "Story cards now have beautiful artwork.",
       "content": {
         "stories": [
           {
@@ -1615,7 +1618,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_seasons.jpg"
           },
           {
             "id": "pack2_story_weather",
@@ -1814,7 +1818,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_weather.jpg"
           },
           {
             "id": "pack2_story_holiday",
@@ -2013,7 +2018,8 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_holiday.jpg"
           },
           {
             "id": "pack2_story_school",
@@ -2200,7 +2206,8 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_school.jpg"
           },
           {
             "id": "pack2_story_work",
@@ -2404,19 +2411,20 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack2_story_work.jpg"
           }
         ]
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "stories-vol-3",
       "name": "New Stories · Vol. 3",
       "icon": "book-open",
       "releaseDate": "2026-06-01",
       "minApp": "1.7",
-      "whatsNew": "Five more graded readers — hobbies, cooking, a doctor's visit, your phone, and a first flight — each with audio, tap-to-translate words and a quiz.",
+      "whatsNew": "Story cards now have beautiful artwork.",
       "content": {
         "stories": [
           {
@@ -2599,7 +2607,8 @@
                 ],
                 "correct": 2
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_hobbies.jpg"
           },
           {
             "id": "pack3_story_cooking",
@@ -2786,7 +2795,8 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_cooking.jpg"
           },
           {
             "id": "pack3_story_doctor",
@@ -2963,7 +2973,8 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_doctor.jpg"
           },
           {
             "id": "pack3_story_phone",
@@ -3145,7 +3156,8 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_phone.jpg"
           },
           {
             "id": "pack3_story_flight",
@@ -3349,19 +3361,20 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_flight.jpg"
           }
         ]
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "stories-vol-4",
       "name": "New Stories · Vol. 4",
       "icon": "book-open",
       "releaseDate": "2026-06-01",
       "minApp": "1.7",
-      "whatsNew": "Five more graded readers — a pet, asking directions, the bank, the Mid-Autumn Festival and a job interview — each with audio, tap-to-translate words and a quiz.",
+      "whatsNew": "Story cards now have beautiful artwork.",
       "content": {
         "stories": [
           {
@@ -3534,7 +3547,8 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_pet.jpg"
           },
           {
             "id": "pack4_story_directions",
@@ -3733,7 +3747,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_directions.jpg"
           },
           {
             "id": "pack4_story_bank",
@@ -3910,7 +3925,8 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_bank.jpg"
           },
           {
             "id": "pack4_story_midautumn",
@@ -4092,7 +4108,8 @@
                 ],
                 "correct": 1
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_midautumn.jpg"
           },
           {
             "id": "pack4_story_interview",
@@ -4296,7 +4313,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack4_story_interview.jpg"
           }
         ]
       }

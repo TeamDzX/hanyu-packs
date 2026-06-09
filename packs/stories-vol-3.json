@@ -1,11 +1,11 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "stories-vol-3",
   "name": "New Stories · Vol. 3",
   "icon": "book-open",
   "releaseDate": "2026-06-01",
   "minApp": "1.7",
-  "whatsNew": "Five more graded readers — hobbies, cooking, a doctor's visit, your phone, and a first flight — each with audio, tap-to-translate words and a quiz.",
+  "whatsNew": "Story cards now have beautiful artwork.",
   "content": {
     "stories": [
       {
@@ -188,7 +188,8 @@
             ],
             "correct": 2
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_hobbies.jpg"
       },
       {
         "id": "pack3_story_cooking",
@@ -375,7 +376,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_cooking.jpg"
       },
       {
         "id": "pack3_story_doctor",
@@ -552,7 +554,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_doctor.jpg"
       },
       {
         "id": "pack3_story_phone",
@@ -734,7 +737,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_phone.jpg"
       },
       {
         "id": "pack3_story_flight",
@@ -938,7 +942,8 @@
             ],
             "correct": 1
           }
-        ]
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack3_story_flight.jpg"
       }
     ]
   }

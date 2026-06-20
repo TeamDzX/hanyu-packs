@@ -32,6 +32,12 @@ STORIES = {
  "pack4_story_bank":       "a modern bank interior with a person being helped at a service counter",
  "pack4_story_midautumn":  "Mid-Autumn Festival scene with mooncakes, tea and glowing lanterns under a full moon",
  "pack4_story_interview":  "a confident young person in business attire at a job interview, modern office meeting room",
+ # stories-vol-5
+ "pack5_story_clothes":    "a person browsing colourful clothes on racks in a bright fashion store, holding up a red shirt",
+ "pack5_story_post":       "a person handing a letter across the counter at a post office, parcels and pigeonholes behind",
+ "pack5_story_movie":      "friends watching a film in a darkened cinema, glowing screen light and a tub of popcorn",
+ "pack5_story_haircut":    "a customer getting a fresh haircut in a modern barbershop, barber with scissors and comb",
+ "pack5_story_rent":       "a happy young person holding keys in the doorway of a new empty apartment, moving boxes nearby",
 }
 
 def main():

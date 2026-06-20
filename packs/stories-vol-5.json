@@ -1,0 +1,915 @@
+{
+  "revision": 1,
+  "packId": "stories-vol-5",
+  "name": "New Stories · Vol. 5",
+  "icon": "book-open",
+  "releaseDate": "2026-06-20",
+  "minApp": "1.7",
+  "whatsNew": "Five new graded-reader stories — buying clothes, the post office, the cinema, the barber's and renting your first flat.",
+  "content": {
+    "stories": [
+      {
+        "id": "pack5_story_clothes",
+        "title": "买衣服",
+        "titlePinyin": "mǎi yīfu",
+        "titleEnglish": "Buying Clothes",
+        "level": 1,
+        "theme": "<i class=\"fas fa-tshirt\" style=\"color:#ec4899\"></i>",
+        "sentences": [
+          {
+            "chinese": "今天我去商店买衣服。",
+            "pinyin": "Jīntiān wǒ qù shāngdiàn mǎi yīfu.",
+            "english": "Today I'm going to the store to buy clothes.",
+            "words": [
+              {
+                "hanzi": "今天",
+                "pinyin": "jīntiān",
+                "english": "today"
+              },
+              {
+                "hanzi": "去",
+                "pinyin": "qù",
+                "english": "to go"
+              },
+              {
+                "hanzi": "商店",
+                "pinyin": "shāngdiàn",
+                "english": "store"
+              },
+              {
+                "hanzi": "买",
+                "pinyin": "mǎi",
+                "english": "to buy"
+              },
+              {
+                "hanzi": "衣服",
+                "pinyin": "yīfu",
+                "english": "clothes"
+              }
+            ]
+          },
+          {
+            "chinese": "我想买一件红色的衣服。",
+            "pinyin": "Wǒ xiǎng mǎi yí jiàn hóngsè de yīfu.",
+            "english": "I want to buy a red piece of clothing.",
+            "words": [
+              {
+                "hanzi": "想",
+                "pinyin": "xiǎng",
+                "english": "to want"
+              },
+              {
+                "hanzi": "一件",
+                "pinyin": "yí jiàn",
+                "english": "one (piece)"
+              },
+              {
+                "hanzi": "红色",
+                "pinyin": "hóngsè",
+                "english": "red"
+              },
+              {
+                "hanzi": "衣服",
+                "pinyin": "yīfu",
+                "english": "clothing"
+              }
+            ]
+          },
+          {
+            "chinese": "这件衣服多少钱？",
+            "pinyin": "Zhè jiàn yīfu duōshao qián?",
+            "english": "How much is this piece of clothing?",
+            "words": [
+              {
+                "hanzi": "这件",
+                "pinyin": "zhè jiàn",
+                "english": "this (piece)"
+              },
+              {
+                "hanzi": "多少",
+                "pinyin": "duōshao",
+                "english": "how much"
+              },
+              {
+                "hanzi": "钱",
+                "pinyin": "qián",
+                "english": "money"
+              }
+            ]
+          },
+          {
+            "chinese": "售货员说一百块。",
+            "pinyin": "Shòuhuòyuán shuō yìbǎi kuài.",
+            "english": "The salesperson says one hundred yuan.",
+            "words": [
+              {
+                "hanzi": "售货员",
+                "pinyin": "shòuhuòyuán",
+                "english": "salesperson"
+              },
+              {
+                "hanzi": "说",
+                "pinyin": "shuō",
+                "english": "to say"
+              },
+              {
+                "hanzi": "一百",
+                "pinyin": "yìbǎi",
+                "english": "one hundred"
+              },
+              {
+                "hanzi": "块",
+                "pinyin": "kuài",
+                "english": "yuan (unit)"
+              }
+            ]
+          },
+          {
+            "chinese": "我很喜欢，就买了它。",
+            "pinyin": "Wǒ hěn xǐhuan, jiù mǎi le tā.",
+            "english": "I like it a lot, so I bought it.",
+            "words": [
+              {
+                "hanzi": "很",
+                "pinyin": "hěn",
+                "english": "very"
+              },
+              {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuan",
+                "english": "to like"
+              },
+              {
+                "hanzi": "就",
+                "pinyin": "jiù",
+                "english": "then"
+              },
+              {
+                "hanzi": "买了",
+                "pinyin": "mǎi le",
+                "english": "bought"
+              },
+              {
+                "hanzi": "它",
+                "pinyin": "tā",
+                "english": "it"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "Why did the narrator go to the store?",
+            "options": [
+              "To eat",
+              "To buy clothes",
+              "To meet a friend",
+              "To work"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What colour clothing did the narrator want?",
+            "options": [
+              "Red",
+              "Blue",
+              "Green",
+              "Black"
+            ],
+            "correct": 0
+          },
+          {
+            "question": "How much did the clothing cost?",
+            "options": [
+              "50 yuan",
+              "100 yuan",
+              "200 yuan",
+              "10 yuan"
+            ],
+            "correct": 1
+          }
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack5_story_clothes.jpg"
+      },
+      {
+        "id": "pack5_story_post",
+        "title": "在邮局",
+        "titlePinyin": "zài yóujú",
+        "titleEnglish": "At the Post Office",
+        "level": 2,
+        "theme": "<i class=\"fas fa-envelope\" style=\"color:#f59e0b\"></i>",
+        "sentences": [
+          {
+            "chinese": "我要去邮局寄一封信。",
+            "pinyin": "Wǒ yào qù yóujú jì yì fēng xìn.",
+            "english": "I'm going to the post office to mail a letter.",
+            "words": [
+              {
+                "hanzi": "要",
+                "pinyin": "yào",
+                "english": "to be going to"
+              },
+              {
+                "hanzi": "邮局",
+                "pinyin": "yóujú",
+                "english": "post office"
+              },
+              {
+                "hanzi": "寄",
+                "pinyin": "jì",
+                "english": "to mail"
+              },
+              {
+                "hanzi": "一封",
+                "pinyin": "yì fēng",
+                "english": "one (letter)"
+              },
+              {
+                "hanzi": "信",
+                "pinyin": "xìn",
+                "english": "letter"
+              }
+            ]
+          },
+          {
+            "chinese": "这封信要寄到北京。",
+            "pinyin": "Zhè fēng xìn yào jì dào Běijīng.",
+            "english": "This letter needs to be sent to Beijing.",
+            "words": [
+              {
+                "hanzi": "这封",
+                "pinyin": "zhè fēng",
+                "english": "this (letter)"
+              },
+              {
+                "hanzi": "寄到",
+                "pinyin": "jì dào",
+                "english": "to send to"
+              },
+              {
+                "hanzi": "北京",
+                "pinyin": "Běijīng",
+                "english": "Beijing"
+              }
+            ]
+          },
+          {
+            "chinese": "工作人员问我要不要快递。",
+            "pinyin": "Gōngzuò rényuán wèn wǒ yào bu yào kuàidì.",
+            "english": "The clerk asks whether I want express delivery.",
+            "words": [
+              {
+                "hanzi": "工作人员",
+                "pinyin": "gōngzuò rényuán",
+                "english": "staff, clerk"
+              },
+              {
+                "hanzi": "问",
+                "pinyin": "wèn",
+                "english": "to ask"
+              },
+              {
+                "hanzi": "要不要",
+                "pinyin": "yào bu yào",
+                "english": "want or not"
+              },
+              {
+                "hanzi": "快递",
+                "pinyin": "kuàidì",
+                "english": "express delivery"
+              }
+            ]
+          },
+          {
+            "chinese": "我说不用，普通的就可以。",
+            "pinyin": "Wǒ shuō búyòng, pǔtōng de jiù kěyǐ.",
+            "english": "I say no need, ordinary mail will do.",
+            "words": [
+              {
+                "hanzi": "不用",
+                "pinyin": "búyòng",
+                "english": "no need"
+              },
+              {
+                "hanzi": "普通",
+                "pinyin": "pǔtōng",
+                "english": "ordinary"
+              },
+              {
+                "hanzi": "就可以",
+                "pinyin": "jiù kěyǐ",
+                "english": "will do, is fine"
+              }
+            ]
+          },
+          {
+            "chinese": "寄信花了我五块钱。",
+            "pinyin": "Jì xìn huā le wǒ wǔ kuài qián.",
+            "english": "Mailing the letter cost me five yuan.",
+            "words": [
+              {
+                "hanzi": "寄信",
+                "pinyin": "jì xìn",
+                "english": "to mail a letter"
+              },
+              {
+                "hanzi": "花了",
+                "pinyin": "huā le",
+                "english": "spent"
+              },
+              {
+                "hanzi": "五块",
+                "pinyin": "wǔ kuài",
+                "english": "five yuan"
+              },
+              {
+                "hanzi": "钱",
+                "pinyin": "qián",
+                "english": "money"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the narrator want to do at the post office?",
+            "options": [
+              "Buy stamps",
+              "Mail a letter",
+              "Send a package",
+              "Withdraw money"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Where is the letter being sent?",
+            "options": [
+              "Shanghai",
+              "Beijing",
+              "Guangzhou",
+              "Xi'an"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Did the narrator choose express delivery?",
+            "options": [
+              "Yes, the fastest",
+              "No, ordinary mail",
+              "Yes, overnight",
+              "Did not send it"
+            ],
+            "correct": 1
+          }
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack5_story_post.jpg"
+      },
+      {
+        "id": "pack5_story_movie",
+        "title": "看电影",
+        "titlePinyin": "kàn diànyǐng",
+        "titleEnglish": "Watching a Movie",
+        "level": 2,
+        "theme": "<i class=\"fas fa-film\" style=\"color:#6366f1\"></i>",
+        "sentences": [
+          {
+            "chinese": "周末我和朋友一起看电影。",
+            "pinyin": "Zhōumò wǒ hé péngyou yìqǐ kàn diànyǐng.",
+            "english": "On the weekend my friend and I watch a movie together.",
+            "words": [
+              {
+                "hanzi": "周末",
+                "pinyin": "zhōumò",
+                "english": "weekend"
+              },
+              {
+                "hanzi": "和",
+                "pinyin": "hé",
+                "english": "and"
+              },
+              {
+                "hanzi": "朋友",
+                "pinyin": "péngyou",
+                "english": "friend"
+              },
+              {
+                "hanzi": "一起",
+                "pinyin": "yìqǐ",
+                "english": "together"
+              },
+              {
+                "hanzi": "看电影",
+                "pinyin": "kàn diànyǐng",
+                "english": "to watch a movie"
+              }
+            ]
+          },
+          {
+            "chinese": "我们买了两张电影票。",
+            "pinyin": "Wǒmen mǎi le liǎng zhāng diànyǐng piào.",
+            "english": "We bought two movie tickets.",
+            "words": [
+              {
+                "hanzi": "我们",
+                "pinyin": "wǒmen",
+                "english": "we"
+              },
+              {
+                "hanzi": "两张",
+                "pinyin": "liǎng zhāng",
+                "english": "two (tickets)"
+              },
+              {
+                "hanzi": "电影票",
+                "pinyin": "diànyǐng piào",
+                "english": "movie ticket"
+              }
+            ]
+          },
+          {
+            "chinese": "这部电影很有意思。",
+            "pinyin": "Zhè bù diànyǐng hěn yǒu yìsi.",
+            "english": "This movie is very interesting.",
+            "words": [
+              {
+                "hanzi": "这部",
+                "pinyin": "zhè bù",
+                "english": "this (film)"
+              },
+              {
+                "hanzi": "电影",
+                "pinyin": "diànyǐng",
+                "english": "movie"
+              },
+              {
+                "hanzi": "有意思",
+                "pinyin": "yǒu yìsi",
+                "english": "interesting"
+              }
+            ]
+          },
+          {
+            "chinese": "我们一边看一边吃爆米花。",
+            "pinyin": "Wǒmen yìbiān kàn yìbiān chī bàomǐhuā.",
+            "english": "We eat popcorn while watching.",
+            "words": [
+              {
+                "hanzi": "一边…一边",
+                "pinyin": "yìbiān…yìbiān",
+                "english": "while (doing two things)"
+              },
+              {
+                "hanzi": "看",
+                "pinyin": "kàn",
+                "english": "to watch"
+              },
+              {
+                "hanzi": "吃",
+                "pinyin": "chī",
+                "english": "to eat"
+              },
+              {
+                "hanzi": "爆米花",
+                "pinyin": "bàomǐhuā",
+                "english": "popcorn"
+              }
+            ]
+          },
+          {
+            "chinese": "看完电影，我们去吃晚饭。",
+            "pinyin": "Kàn wán diànyǐng, wǒmen qù chī wǎnfàn.",
+            "english": "After the movie, we go to have dinner.",
+            "words": [
+              {
+                "hanzi": "看完",
+                "pinyin": "kàn wán",
+                "english": "to finish watching"
+              },
+              {
+                "hanzi": "去",
+                "pinyin": "qù",
+                "english": "to go"
+              },
+              {
+                "hanzi": "吃",
+                "pinyin": "chī",
+                "english": "to eat"
+              },
+              {
+                "hanzi": "晚饭",
+                "pinyin": "wǎnfàn",
+                "english": "dinner"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who did the narrator watch the movie with?",
+            "options": [
+              "Family",
+              "A friend",
+              "Alone",
+              "Colleagues"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "How many tickets did they buy?",
+            "options": [
+              "One",
+              "Two",
+              "Three",
+              "Four"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What did they do after the movie?",
+            "options": [
+              "Went home",
+              "Had dinner",
+              "Went shopping",
+              "Watched another movie"
+            ],
+            "correct": 1
+          }
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack5_story_movie.jpg"
+      },
+      {
+        "id": "pack5_story_haircut",
+        "title": "理发",
+        "titlePinyin": "lǐfà",
+        "titleEnglish": "Getting a Haircut",
+        "level": 1,
+        "theme": "<i class=\"fas fa-cut\" style=\"color:#0ea5e9\"></i>",
+        "sentences": [
+          {
+            "chinese": "我的头发太长了。",
+            "pinyin": "Wǒ de tóufa tài cháng le.",
+            "english": "My hair is too long.",
+            "words": [
+              {
+                "hanzi": "头发",
+                "pinyin": "tóufa",
+                "english": "hair"
+              },
+              {
+                "hanzi": "太",
+                "pinyin": "tài",
+                "english": "too"
+              },
+              {
+                "hanzi": "长",
+                "pinyin": "cháng",
+                "english": "long"
+              },
+              {
+                "hanzi": "了",
+                "pinyin": "le",
+                "english": "(change of state)"
+              }
+            ]
+          },
+          {
+            "chinese": "今天我去理发。",
+            "pinyin": "Jīntiān wǒ qù lǐfà.",
+            "english": "Today I'm going to get a haircut.",
+            "words": [
+              {
+                "hanzi": "今天",
+                "pinyin": "jīntiān",
+                "english": "today"
+              },
+              {
+                "hanzi": "去",
+                "pinyin": "qù",
+                "english": "to go"
+              },
+              {
+                "hanzi": "理发",
+                "pinyin": "lǐfà",
+                "english": "to get a haircut"
+              }
+            ]
+          },
+          {
+            "chinese": "理发师问我想要什么样子。",
+            "pinyin": "Lǐfàshī wèn wǒ xiǎng yào shénme yàngzi.",
+            "english": "The barber asks what style I want.",
+            "words": [
+              {
+                "hanzi": "理发师",
+                "pinyin": "lǐfàshī",
+                "english": "barber"
+              },
+              {
+                "hanzi": "问",
+                "pinyin": "wèn",
+                "english": "to ask"
+              },
+              {
+                "hanzi": "想要",
+                "pinyin": "xiǎng yào",
+                "english": "to want"
+              },
+              {
+                "hanzi": "什么样子",
+                "pinyin": "shénme yàngzi",
+                "english": "what style"
+              }
+            ]
+          },
+          {
+            "chinese": "我说短一点儿就好。",
+            "pinyin": "Wǒ shuō duǎn yìdiǎnr jiù hǎo.",
+            "english": "I say a little shorter is fine.",
+            "words": [
+              {
+                "hanzi": "说",
+                "pinyin": "shuō",
+                "english": "to say"
+              },
+              {
+                "hanzi": "短",
+                "pinyin": "duǎn",
+                "english": "short"
+              },
+              {
+                "hanzi": "一点儿",
+                "pinyin": "yìdiǎnr",
+                "english": "a little"
+              },
+              {
+                "hanzi": "就好",
+                "pinyin": "jiù hǎo",
+                "english": "is fine"
+              }
+            ]
+          },
+          {
+            "chinese": "理完发，我觉得很精神。",
+            "pinyin": "Lǐ wán fà, wǒ juéde hěn jīngshen.",
+            "english": "After the haircut, I feel very sharp.",
+            "words": [
+              {
+                "hanzi": "理完发",
+                "pinyin": "lǐ wán fà",
+                "english": "finished the haircut"
+              },
+              {
+                "hanzi": "觉得",
+                "pinyin": "juéde",
+                "english": "to feel"
+              },
+              {
+                "hanzi": "精神",
+                "pinyin": "jīngshen",
+                "english": "sharp, spirited"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "Why did the narrator get a haircut?",
+            "options": [
+              "Hair too long",
+              "Hair too short",
+              "For a wedding",
+              "A new job"
+            ],
+            "correct": 0
+          },
+          {
+            "question": "What style did the narrator ask for?",
+            "options": [
+              "Much shorter",
+              "A little shorter",
+              "Longer",
+              "Curly"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "How did the narrator feel afterwards?",
+            "options": [
+              "Tired",
+              "Sharp and energetic",
+              "Sad",
+              "Cold"
+            ],
+            "correct": 1
+          }
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack5_story_haircut.jpg"
+      },
+      {
+        "id": "pack5_story_rent",
+        "title": "租房子",
+        "titlePinyin": "zū fángzi",
+        "titleEnglish": "Renting a Flat",
+        "level": 3,
+        "theme": "<i class=\"fas fa-key\" style=\"color:#10b981\"></i>",
+        "sentences": [
+          {
+            "chinese": "大学毕业以后，我想自己租房子。",
+            "pinyin": "Dàxué bìyè yǐhòu, wǒ xiǎng zìjǐ zū fángzi.",
+            "english": "After graduating from university, I want to rent a flat on my own.",
+            "words": [
+              {
+                "hanzi": "大学",
+                "pinyin": "dàxué",
+                "english": "university"
+              },
+              {
+                "hanzi": "毕业",
+                "pinyin": "bìyè",
+                "english": "to graduate"
+              },
+              {
+                "hanzi": "以后",
+                "pinyin": "yǐhòu",
+                "english": "after"
+              },
+              {
+                "hanzi": "自己",
+                "pinyin": "zìjǐ",
+                "english": "oneself"
+              },
+              {
+                "hanzi": "租",
+                "pinyin": "zū",
+                "english": "to rent"
+              },
+              {
+                "hanzi": "房子",
+                "pinyin": "fángzi",
+                "english": "house, flat"
+              }
+            ]
+          },
+          {
+            "chinese": "我在网上找到了一个合适的地方。",
+            "pinyin": "Wǒ zài wǎngshàng zhǎodào le yí ge héshì de dìfang.",
+            "english": "I found a suitable place online.",
+            "words": [
+              {
+                "hanzi": "网上",
+                "pinyin": "wǎngshàng",
+                "english": "online"
+              },
+              {
+                "hanzi": "找到",
+                "pinyin": "zhǎodào",
+                "english": "to find"
+              },
+              {
+                "hanzi": "合适",
+                "pinyin": "héshì",
+                "english": "suitable"
+              },
+              {
+                "hanzi": "地方",
+                "pinyin": "dìfang",
+                "english": "place"
+              }
+            ]
+          },
+          {
+            "chinese": "这个房子离地铁站很近。",
+            "pinyin": "Zhège fángzi lí dìtiězhàn hěn jìn.",
+            "english": "This flat is very close to the subway station.",
+            "words": [
+              {
+                "hanzi": "离",
+                "pinyin": "lí",
+                "english": "from"
+              },
+              {
+                "hanzi": "地铁站",
+                "pinyin": "dìtiězhàn",
+                "english": "subway station"
+              },
+              {
+                "hanzi": "近",
+                "pinyin": "jìn",
+                "english": "close"
+              }
+            ]
+          },
+          {
+            "chinese": "房租一个月三千块。",
+            "pinyin": "Fángzū yí ge yuè sānqiān kuài.",
+            "english": "The rent is three thousand yuan a month.",
+            "words": [
+              {
+                "hanzi": "房租",
+                "pinyin": "fángzū",
+                "english": "rent"
+              },
+              {
+                "hanzi": "一个月",
+                "pinyin": "yí ge yuè",
+                "english": "per month"
+              },
+              {
+                "hanzi": "三千",
+                "pinyin": "sānqiān",
+                "english": "three thousand"
+              },
+              {
+                "hanzi": "块",
+                "pinyin": "kuài",
+                "english": "yuan"
+              }
+            ]
+          },
+          {
+            "chinese": "我和房东签了合同。",
+            "pinyin": "Wǒ hé fángdōng qiān le hétong.",
+            "english": "I signed a contract with the landlord.",
+            "words": [
+              {
+                "hanzi": "房东",
+                "pinyin": "fángdōng",
+                "english": "landlord"
+              },
+              {
+                "hanzi": "签",
+                "pinyin": "qiān",
+                "english": "to sign"
+              },
+              {
+                "hanzi": "合同",
+                "pinyin": "hétong",
+                "english": "contract"
+              }
+            ]
+          },
+          {
+            "chinese": "现在我终于有了自己的家。",
+            "pinyin": "Xiànzài wǒ zhōngyú yǒu le zìjǐ de jiā.",
+            "english": "Now I finally have my own home.",
+            "words": [
+              {
+                "hanzi": "现在",
+                "pinyin": "xiànzài",
+                "english": "now"
+              },
+              {
+                "hanzi": "终于",
+                "pinyin": "zhōngyú",
+                "english": "finally"
+              },
+              {
+                "hanzi": "有了",
+                "pinyin": "yǒu le",
+                "english": "to have now"
+              },
+              {
+                "hanzi": "自己的家",
+                "pinyin": "zìjǐ de jiā",
+                "english": "one's own home"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "When did the narrator decide to rent a flat?",
+            "options": [
+              "After graduating",
+              "After getting married",
+              "After a new job",
+              "After moving city"
+            ],
+            "correct": 0
+          },
+          {
+            "question": "What is good about the flat's location?",
+            "options": [
+              "Near the subway",
+              "Near the beach",
+              "Near work",
+              "Near school"
+            ],
+            "correct": 0
+          },
+          {
+            "question": "How much is the monthly rent?",
+            "options": [
+              "1000 yuan",
+              "2000 yuan",
+              "3000 yuan",
+              "5000 yuan"
+            ],
+            "correct": 2
+          }
+        ],
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack5_story_rent.jpg"
+      }
+    ]
+  }
+}

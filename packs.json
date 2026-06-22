@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-06-20",
+  "generated": "2026-06-22",
   "packs": [
     {
       "revision": 1,
@@ -5230,6 +5230,903 @@
               }
             ],
             "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack5_story_rent.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "stories-vol-6",
+      "name": "New Stories · Vol. 6",
+      "icon": "book-open",
+      "releaseDate": "2026-06-22",
+      "minApp": "1.7",
+      "whatsNew": "Five new graded-reader stories — the coffee shop, the subway, the library, a day at the beach and learning to drive.",
+      "content": {
+        "stories": [
+          {
+            "id": "pack6_story_coffee",
+            "title": "在咖啡店",
+            "titlePinyin": "zài kāfēidiàn",
+            "titleEnglish": "At the Coffee Shop",
+            "level": 1,
+            "theme": "<i class=\"fas fa-coffee\" style=\"color:#b45309\"></i>",
+            "sentences": [
+              {
+                "chinese": "下午我去咖啡店。",
+                "pinyin": "Xiàwǔ wǒ qù kāfēidiàn.",
+                "english": "In the afternoon I go to the coffee shop.",
+                "words": [
+                  {
+                    "hanzi": "下午",
+                    "pinyin": "xiàwǔ",
+                    "english": "afternoon"
+                  },
+                  {
+                    "hanzi": "去",
+                    "pinyin": "qù",
+                    "english": "to go"
+                  },
+                  {
+                    "hanzi": "咖啡店",
+                    "pinyin": "kāfēidiàn",
+                    "english": "coffee shop"
+                  }
+                ]
+              },
+              {
+                "chinese": "我想喝一杯热咖啡。",
+                "pinyin": "Wǒ xiǎng hē yì bēi rè kāfēi.",
+                "english": "I want to drink a cup of hot coffee.",
+                "words": [
+                  {
+                    "hanzi": "想",
+                    "pinyin": "xiǎng",
+                    "english": "to want"
+                  },
+                  {
+                    "hanzi": "喝",
+                    "pinyin": "hē",
+                    "english": "to drink"
+                  },
+                  {
+                    "hanzi": "一杯",
+                    "pinyin": "yì bēi",
+                    "english": "a cup"
+                  },
+                  {
+                    "hanzi": "热",
+                    "pinyin": "rè",
+                    "english": "hot"
+                  },
+                  {
+                    "hanzi": "咖啡",
+                    "pinyin": "kāfēi",
+                    "english": "coffee"
+                  }
+                ]
+              },
+              {
+                "chinese": "服务员问我要不要加糖。",
+                "pinyin": "Fúwùyuán wèn wǒ yào bu yào jiā táng.",
+                "english": "The waiter asks whether I want sugar added.",
+                "words": [
+                  {
+                    "hanzi": "服务员",
+                    "pinyin": "fúwùyuán",
+                    "english": "waiter"
+                  },
+                  {
+                    "hanzi": "问",
+                    "pinyin": "wèn",
+                    "english": "to ask"
+                  },
+                  {
+                    "hanzi": "要不要",
+                    "pinyin": "yào bu yào",
+                    "english": "want or not"
+                  },
+                  {
+                    "hanzi": "加糖",
+                    "pinyin": "jiā táng",
+                    "english": "add sugar"
+                  }
+                ]
+              },
+              {
+                "chinese": "我说不要，谢谢。",
+                "pinyin": "Wǒ shuō bú yào, xièxie.",
+                "english": "I say no thank you.",
+                "words": [
+                  {
+                    "hanzi": "说",
+                    "pinyin": "shuō",
+                    "english": "to say"
+                  },
+                  {
+                    "hanzi": "不要",
+                    "pinyin": "bú yào",
+                    "english": "don't want"
+                  },
+                  {
+                    "hanzi": "谢谢",
+                    "pinyin": "xièxie",
+                    "english": "thank you"
+                  }
+                ]
+              },
+              {
+                "chinese": "我坐在窗边慢慢喝。",
+                "pinyin": "Wǒ zuò zài chuāngbiān mànmàn hē.",
+                "english": "I sit by the window and drink slowly.",
+                "words": [
+                  {
+                    "hanzi": "坐",
+                    "pinyin": "zuò",
+                    "english": "to sit"
+                  },
+                  {
+                    "hanzi": "窗边",
+                    "pinyin": "chuāngbiān",
+                    "english": "by the window"
+                  },
+                  {
+                    "hanzi": "慢慢",
+                    "pinyin": "mànmàn",
+                    "english": "slowly"
+                  },
+                  {
+                    "hanzi": "喝",
+                    "pinyin": "hē",
+                    "english": "to drink"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "When does the narrator go to the coffee shop?",
+                "options": [
+                  "Morning",
+                  "Afternoon",
+                  "Evening",
+                  "Night"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "What does the narrator order?",
+                "options": [
+                  "Hot coffee",
+                  "Cold tea",
+                  "Juice",
+                  "Water"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Does the narrator want sugar?",
+                "options": [
+                  "Yes",
+                  "No",
+                  "Extra sugar",
+                  "Only milk"
+                ],
+                "correct": 1
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack6_story_coffee.jpg"
+          },
+          {
+            "id": "pack6_story_subway",
+            "title": "坐地铁",
+            "titlePinyin": "zuò dìtiě",
+            "titleEnglish": "Taking the Subway",
+            "level": 2,
+            "theme": "<i class=\"fas fa-subway\" style=\"color:#6366f1\"></i>",
+            "sentences": [
+              {
+                "chinese": "我每天坐地铁去上班。",
+                "pinyin": "Wǒ měitiān zuò dìtiě qù shàngbān.",
+                "english": "Every day I take the subway to work.",
+                "words": [
+                  {
+                    "hanzi": "每天",
+                    "pinyin": "měitiān",
+                    "english": "every day"
+                  },
+                  {
+                    "hanzi": "坐地铁",
+                    "pinyin": "zuò dìtiě",
+                    "english": "take the subway"
+                  },
+                  {
+                    "hanzi": "去",
+                    "pinyin": "qù",
+                    "english": "to go"
+                  },
+                  {
+                    "hanzi": "上班",
+                    "pinyin": "shàngbān",
+                    "english": "to go to work"
+                  }
+                ]
+              },
+              {
+                "chinese": "地铁站离我家很近。",
+                "pinyin": "Dìtiězhàn lí wǒ jiā hěn jìn.",
+                "english": "The subway station is very close to my home.",
+                "words": [
+                  {
+                    "hanzi": "地铁站",
+                    "pinyin": "dìtiězhàn",
+                    "english": "subway station"
+                  },
+                  {
+                    "hanzi": "离",
+                    "pinyin": "lí",
+                    "english": "from"
+                  },
+                  {
+                    "hanzi": "我家",
+                    "pinyin": "wǒ jiā",
+                    "english": "my home"
+                  },
+                  {
+                    "hanzi": "近",
+                    "pinyin": "jìn",
+                    "english": "close"
+                  }
+                ]
+              },
+              {
+                "chinese": "早上的地铁里人很多。",
+                "pinyin": "Zǎoshang de dìtiě li rén hěn duō.",
+                "english": "In the morning the subway is very crowded.",
+                "words": [
+                  {
+                    "hanzi": "早上",
+                    "pinyin": "zǎoshang",
+                    "english": "morning"
+                  },
+                  {
+                    "hanzi": "地铁里",
+                    "pinyin": "dìtiě li",
+                    "english": "in the subway"
+                  },
+                  {
+                    "hanzi": "人很多",
+                    "pinyin": "rén hěn duō",
+                    "english": "many people"
+                  }
+                ]
+              },
+              {
+                "chinese": "我买了一张地铁票。",
+                "pinyin": "Wǒ mǎi le yì zhāng dìtiě piào.",
+                "english": "I bought a subway ticket.",
+                "words": [
+                  {
+                    "hanzi": "买",
+                    "pinyin": "mǎi",
+                    "english": "to buy"
+                  },
+                  {
+                    "hanzi": "一张",
+                    "pinyin": "yì zhāng",
+                    "english": "one (ticket)"
+                  },
+                  {
+                    "hanzi": "地铁票",
+                    "pinyin": "dìtiě piào",
+                    "english": "subway ticket"
+                  }
+                ]
+              },
+              {
+                "chinese": "坐三站就到公司了。",
+                "pinyin": "Zuò sān zhàn jiù dào gōngsī le.",
+                "english": "After three stops I arrive at the company.",
+                "words": [
+                  {
+                    "hanzi": "三站",
+                    "pinyin": "sān zhàn",
+                    "english": "three stops"
+                  },
+                  {
+                    "hanzi": "就",
+                    "pinyin": "jiù",
+                    "english": "then"
+                  },
+                  {
+                    "hanzi": "到",
+                    "pinyin": "dào",
+                    "english": "to arrive"
+                  },
+                  {
+                    "hanzi": "公司",
+                    "pinyin": "gōngsī",
+                    "english": "company"
+                  }
+                ]
+              },
+              {
+                "chinese": "地铁又快又方便。",
+                "pinyin": "Dìtiě yòu kuài yòu fāngbiàn.",
+                "english": "The subway is both fast and convenient.",
+                "words": [
+                  {
+                    "hanzi": "又…又…",
+                    "pinyin": "yòu…yòu…",
+                    "english": "both…and…"
+                  },
+                  {
+                    "hanzi": "快",
+                    "pinyin": "kuài",
+                    "english": "fast"
+                  },
+                  {
+                    "hanzi": "方便",
+                    "pinyin": "fāngbiàn",
+                    "english": "convenient"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "How does the narrator get to work?",
+                "options": [
+                  "Bus",
+                  "Subway",
+                  "Bike",
+                  "On foot"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "What is the morning subway like?",
+                "options": [
+                  "Empty",
+                  "Crowded",
+                  "Quiet",
+                  "Cold"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How many stops to the company?",
+                "options": [
+                  "Two",
+                  "Three",
+                  "Four",
+                  "Five"
+                ],
+                "correct": 1
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack6_story_subway.jpg"
+          },
+          {
+            "id": "pack6_story_library",
+            "title": "去图书馆",
+            "titlePinyin": "qù túshūguǎn",
+            "titleEnglish": "At the Library",
+            "level": 2,
+            "theme": "<i class=\"fas fa-book\" style=\"color:#10b981\"></i>",
+            "sentences": [
+              {
+                "chinese": "周末我喜欢去图书馆。",
+                "pinyin": "Zhōumò wǒ xǐhuan qù túshūguǎn.",
+                "english": "On weekends I like going to the library.",
+                "words": [
+                  {
+                    "hanzi": "周末",
+                    "pinyin": "zhōumò",
+                    "english": "weekend"
+                  },
+                  {
+                    "hanzi": "喜欢",
+                    "pinyin": "xǐhuan",
+                    "english": "to like"
+                  },
+                  {
+                    "hanzi": "去",
+                    "pinyin": "qù",
+                    "english": "to go"
+                  },
+                  {
+                    "hanzi": "图书馆",
+                    "pinyin": "túshūguǎn",
+                    "english": "library"
+                  }
+                ]
+              },
+              {
+                "chinese": "图书馆里很安静。",
+                "pinyin": "Túshūguǎn li hěn ānjìng.",
+                "english": "It is very quiet in the library.",
+                "words": [
+                  {
+                    "hanzi": "图书馆里",
+                    "pinyin": "túshūguǎn li",
+                    "english": "in the library"
+                  },
+                  {
+                    "hanzi": "安静",
+                    "pinyin": "ānjìng",
+                    "english": "quiet"
+                  }
+                ]
+              },
+              {
+                "chinese": "我借了三本中文书。",
+                "pinyin": "Wǒ jiè le sān běn Zhōngwén shū.",
+                "english": "I borrowed three Chinese books.",
+                "words": [
+                  {
+                    "hanzi": "借",
+                    "pinyin": "jiè",
+                    "english": "to borrow"
+                  },
+                  {
+                    "hanzi": "三本",
+                    "pinyin": "sān běn",
+                    "english": "three (books)"
+                  },
+                  {
+                    "hanzi": "中文书",
+                    "pinyin": "Zhōngwén shū",
+                    "english": "Chinese book"
+                  }
+                ]
+              },
+              {
+                "chinese": "我坐在角落里看书。",
+                "pinyin": "Wǒ zuò zài jiǎoluò li kàn shū.",
+                "english": "I sit in the corner and read.",
+                "words": [
+                  {
+                    "hanzi": "坐",
+                    "pinyin": "zuò",
+                    "english": "to sit"
+                  },
+                  {
+                    "hanzi": "角落",
+                    "pinyin": "jiǎoluò",
+                    "english": "corner"
+                  },
+                  {
+                    "hanzi": "看书",
+                    "pinyin": "kàn shū",
+                    "english": "to read"
+                  }
+                ]
+              },
+              {
+                "chinese": "看书让我觉得很放松。",
+                "pinyin": "Kàn shū ràng wǒ juéde hěn fàngsōng.",
+                "english": "Reading makes me feel very relaxed.",
+                "words": [
+                  {
+                    "hanzi": "让",
+                    "pinyin": "ràng",
+                    "english": "to make"
+                  },
+                  {
+                    "hanzi": "觉得",
+                    "pinyin": "juéde",
+                    "english": "to feel"
+                  },
+                  {
+                    "hanzi": "放松",
+                    "pinyin": "fàngsōng",
+                    "english": "relaxed"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "When does the narrator go to the library?",
+                "options": [
+                  "Weekdays",
+                  "Weekends",
+                  "Every day",
+                  "Holidays"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How many books did the narrator borrow?",
+                "options": [
+                  "Two",
+                  "Three",
+                  "Four",
+                  "Five"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How does reading make the narrator feel?",
+                "options": [
+                  "Tired",
+                  "Relaxed",
+                  "Bored",
+                  "Hungry"
+                ],
+                "correct": 1
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack6_story_library.jpg"
+          },
+          {
+            "id": "pack6_story_beach",
+            "title": "去海边",
+            "titlePinyin": "qù hǎibiān",
+            "titleEnglish": "A Day at the Beach",
+            "level": 2,
+            "theme": "<i class=\"fas fa-umbrella-beach\" style=\"color:#0ea5e9\"></i>",
+            "sentences": [
+              {
+                "chinese": "夏天我们一家去海边玩。",
+                "pinyin": "Xiàtiān wǒmen yìjiā qù hǎibiān wán.",
+                "english": "In summer our family goes to the seaside to have fun.",
+                "words": [
+                  {
+                    "hanzi": "夏天",
+                    "pinyin": "xiàtiān",
+                    "english": "summer"
+                  },
+                  {
+                    "hanzi": "一家",
+                    "pinyin": "yìjiā",
+                    "english": "the whole family"
+                  },
+                  {
+                    "hanzi": "海边",
+                    "pinyin": "hǎibiān",
+                    "english": "seaside"
+                  },
+                  {
+                    "hanzi": "玩",
+                    "pinyin": "wán",
+                    "english": "to play, have fun"
+                  }
+                ]
+              },
+              {
+                "chinese": "海水又蓝又干净。",
+                "pinyin": "Hǎishuǐ yòu lán yòu gānjìng.",
+                "english": "The sea water is both blue and clean.",
+                "words": [
+                  {
+                    "hanzi": "海水",
+                    "pinyin": "hǎishuǐ",
+                    "english": "sea water"
+                  },
+                  {
+                    "hanzi": "又…又…",
+                    "pinyin": "yòu…yòu…",
+                    "english": "both…and…"
+                  },
+                  {
+                    "hanzi": "蓝",
+                    "pinyin": "lán",
+                    "english": "blue"
+                  },
+                  {
+                    "hanzi": "干净",
+                    "pinyin": "gānjìng",
+                    "english": "clean"
+                  }
+                ]
+              },
+              {
+                "chinese": "孩子们在沙滩上玩沙子。",
+                "pinyin": "Háizimen zài shātān shàng wán shāzi.",
+                "english": "The children play with sand on the beach.",
+                "words": [
+                  {
+                    "hanzi": "孩子们",
+                    "pinyin": "háizimen",
+                    "english": "children"
+                  },
+                  {
+                    "hanzi": "沙滩",
+                    "pinyin": "shātān",
+                    "english": "beach"
+                  },
+                  {
+                    "hanzi": "玩沙子",
+                    "pinyin": "wán shāzi",
+                    "english": "play with sand"
+                  }
+                ]
+              },
+              {
+                "chinese": "我们一起游泳，很开心。",
+                "pinyin": "Wǒmen yìqǐ yóuyǒng, hěn kāixīn.",
+                "english": "We swim together and are very happy.",
+                "words": [
+                  {
+                    "hanzi": "一起",
+                    "pinyin": "yìqǐ",
+                    "english": "together"
+                  },
+                  {
+                    "hanzi": "游泳",
+                    "pinyin": "yóuyǒng",
+                    "english": "to swim"
+                  },
+                  {
+                    "hanzi": "开心",
+                    "pinyin": "kāixīn",
+                    "english": "happy"
+                  }
+                ]
+              },
+              {
+                "chinese": "晚上我们在海边看日落。",
+                "pinyin": "Wǎnshang wǒmen zài hǎibiān kàn rìluò.",
+                "english": "In the evening we watch the sunset by the sea.",
+                "words": [
+                  {
+                    "hanzi": "晚上",
+                    "pinyin": "wǎnshang",
+                    "english": "evening"
+                  },
+                  {
+                    "hanzi": "海边",
+                    "pinyin": "hǎibiān",
+                    "english": "seaside"
+                  },
+                  {
+                    "hanzi": "看",
+                    "pinyin": "kàn",
+                    "english": "to watch"
+                  },
+                  {
+                    "hanzi": "日落",
+                    "pinyin": "rìluò",
+                    "english": "sunset"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What season does the family go to the beach?",
+                "options": [
+                  "Spring",
+                  "Summer",
+                  "Autumn",
+                  "Winter"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "What do the children do on the beach?",
+                "options": [
+                  "Swim",
+                  "Play with sand",
+                  "Sleep",
+                  "Eat"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "What do they watch in the evening?",
+                "options": [
+                  "Sunrise",
+                  "Sunset",
+                  "Stars",
+                  "Boats"
+                ],
+                "correct": 1
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack6_story_beach.jpg"
+          },
+          {
+            "id": "pack6_story_drive",
+            "title": "学开车",
+            "titlePinyin": "xué kāichē",
+            "titleEnglish": "Learning to Drive",
+            "level": 3,
+            "theme": "<i class=\"fas fa-car\" style=\"color:#ef4444\"></i>",
+            "sentences": [
+              {
+                "chinese": "今年我决定学开车。",
+                "pinyin": "Jīnnián wǒ juédìng xué kāichē.",
+                "english": "This year I decided to learn to drive.",
+                "words": [
+                  {
+                    "hanzi": "今年",
+                    "pinyin": "jīnnián",
+                    "english": "this year"
+                  },
+                  {
+                    "hanzi": "决定",
+                    "pinyin": "juédìng",
+                    "english": "to decide"
+                  },
+                  {
+                    "hanzi": "学",
+                    "pinyin": "xué",
+                    "english": "to learn"
+                  },
+                  {
+                    "hanzi": "开车",
+                    "pinyin": "kāichē",
+                    "english": "to drive"
+                  }
+                ]
+              },
+              {
+                "chinese": "我报名参加了驾驶学校。",
+                "pinyin": "Wǒ bàomíng cānjiā le jiàshǐ xuéxiào.",
+                "english": "I signed up for a driving school.",
+                "words": [
+                  {
+                    "hanzi": "报名",
+                    "pinyin": "bàomíng",
+                    "english": "to sign up"
+                  },
+                  {
+                    "hanzi": "参加",
+                    "pinyin": "cānjiā",
+                    "english": "to join"
+                  },
+                  {
+                    "hanzi": "驾驶学校",
+                    "pinyin": "jiàshǐ xuéxiào",
+                    "english": "driving school"
+                  }
+                ]
+              },
+              {
+                "chinese": "教练很有耐心地教我。",
+                "pinyin": "Jiàoliàn hěn yǒu nàixīn de jiāo wǒ.",
+                "english": "The instructor teaches me very patiently.",
+                "words": [
+                  {
+                    "hanzi": "教练",
+                    "pinyin": "jiàoliàn",
+                    "english": "instructor"
+                  },
+                  {
+                    "hanzi": "有耐心",
+                    "pinyin": "yǒu nàixīn",
+                    "english": "patient"
+                  },
+                  {
+                    "hanzi": "教",
+                    "pinyin": "jiāo",
+                    "english": "to teach"
+                  }
+                ]
+              },
+              {
+                "chinese": "一开始我又紧张又害怕。",
+                "pinyin": "Yì kāishǐ wǒ yòu jǐnzhāng yòu hàipà.",
+                "english": "At first I was both nervous and scared.",
+                "words": [
+                  {
+                    "hanzi": "一开始",
+                    "pinyin": "yì kāishǐ",
+                    "english": "at first"
+                  },
+                  {
+                    "hanzi": "又…又…",
+                    "pinyin": "yòu…yòu…",
+                    "english": "both…and…"
+                  },
+                  {
+                    "hanzi": "紧张",
+                    "pinyin": "jǐnzhāng",
+                    "english": "nervous"
+                  },
+                  {
+                    "hanzi": "害怕",
+                    "pinyin": "hàipà",
+                    "english": "scared"
+                  }
+                ]
+              },
+              {
+                "chinese": "练习了几个月以后，我通过了考试。",
+                "pinyin": "Liànxí le jǐ ge yuè yǐhòu, wǒ tōngguò le kǎoshì.",
+                "english": "After practising for a few months, I passed the test.",
+                "words": [
+                  {
+                    "hanzi": "练习",
+                    "pinyin": "liànxí",
+                    "english": "to practise"
+                  },
+                  {
+                    "hanzi": "几个月",
+                    "pinyin": "jǐ ge yuè",
+                    "english": "a few months"
+                  },
+                  {
+                    "hanzi": "以后",
+                    "pinyin": "yǐhòu",
+                    "english": "after"
+                  },
+                  {
+                    "hanzi": "通过",
+                    "pinyin": "tōngguò",
+                    "english": "to pass"
+                  },
+                  {
+                    "hanzi": "考试",
+                    "pinyin": "kǎoshì",
+                    "english": "exam, test"
+                  }
+                ]
+              },
+              {
+                "chinese": "现在我可以自己开车了。",
+                "pinyin": "Xiànzài wǒ kěyǐ zìjǐ kāichē le.",
+                "english": "Now I can drive by myself.",
+                "words": [
+                  {
+                    "hanzi": "现在",
+                    "pinyin": "xiànzài",
+                    "english": "now"
+                  },
+                  {
+                    "hanzi": "可以",
+                    "pinyin": "kěyǐ",
+                    "english": "can"
+                  },
+                  {
+                    "hanzi": "自己",
+                    "pinyin": "zìjǐ",
+                    "english": "oneself"
+                  },
+                  {
+                    "hanzi": "开车",
+                    "pinyin": "kāichē",
+                    "english": "to drive"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What did the narrator decide to learn this year?",
+                "options": [
+                  "Cooking",
+                  "Driving",
+                  "Swimming",
+                  "Chinese"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How did the narrator feel at first?",
+                "options": [
+                  "Confident",
+                  "Nervous and scared",
+                  "Bored",
+                  "Angry"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "What happened after a few months of practice?",
+                "options": [
+                  "Gave up",
+                  "Passed the test",
+                  "Failed",
+                  "Bought a car"
+                ],
+                "correct": 1
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack6_story_drive.jpg"
           }
         ]
       }

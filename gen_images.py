@@ -38,6 +38,12 @@ STORIES = {
  "pack5_story_movie":      "friends watching a film in a darkened cinema, glowing screen light and a tub of popcorn",
  "pack5_story_haircut":    "a customer getting a fresh haircut in a modern barbershop, barber with scissors and comb",
  "pack5_story_rent":       "a happy young person holding keys in the doorway of a new empty apartment, moving boxes nearby",
+ # stories-vol-6
+ "pack6_story_coffee":     "a cozy coffee shop with a person enjoying a hot coffee by a sunny window, latte art and warm tones",
+ "pack6_story_subway":     "a modern subway train arriving at a clean bright station platform, commuters waiting",
+ "pack6_story_library":    "a bright library interior with tall bookshelves and a person reading at a desk",
+ "pack6_story_beach":      "a beautiful sunny beach with blue sea and golden sand, a family playing by the water",
+ "pack6_story_drive":      "a learner driver behind the wheel of a car with an instructor beside, driving school lesson",
 }
 
 def main():

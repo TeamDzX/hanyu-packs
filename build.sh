@@ -11,6 +11,7 @@ ORDER=(
   stories-vol-3
   stories-vol-4
   stories-vol-5
+  stories-vol-6
   street-smart
   tone-master
   parrot-talk

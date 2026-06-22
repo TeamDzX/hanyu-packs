@@ -6791,6 +6791,529 @@
     },
     {
       "revision": 1,
+      "packId": "flashcards-vol-2",
+      "name": "Picture Flashcards · Vol. 2",
+      "icon": "clone",
+      "releaseDate": "2026-06-22",
+      "minApp": "2.0",
+      "whatsNew": "Six more picture-flashcard decks — Fruits, Vegetables, Clothing, House & Home, Jobs and Around Town. Flip a card to reveal pinyin, meaning and audio.",
+      "content": {
+        "flashcardDecks": [
+          {
+            "id": "fruits",
+            "title": "Fruits",
+            "titleCn": "水果",
+            "icon": "apple-alt",
+            "grad": "linear-gradient(135deg,#ef4444,#f59e0b)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/fruits/",
+            "cards": [
+              {
+                "hanzi": "苹果",
+                "pinyin": "píngguǒ",
+                "meaning": "apple"
+              },
+              {
+                "hanzi": "香蕉",
+                "pinyin": "xiāngjiāo",
+                "meaning": "banana"
+              },
+              {
+                "hanzi": "橙子",
+                "pinyin": "chéngzi",
+                "meaning": "orange"
+              },
+              {
+                "hanzi": "葡萄",
+                "pinyin": "pútáo",
+                "meaning": "grapes"
+              },
+              {
+                "hanzi": "西瓜",
+                "pinyin": "xīguā",
+                "meaning": "watermelon"
+              },
+              {
+                "hanzi": "草莓",
+                "pinyin": "cǎoméi",
+                "meaning": "strawberry"
+              },
+              {
+                "hanzi": "桃子",
+                "pinyin": "táozi",
+                "meaning": "peach"
+              },
+              {
+                "hanzi": "梨",
+                "pinyin": "lí",
+                "meaning": "pear"
+              },
+              {
+                "hanzi": "芒果",
+                "pinyin": "mángguǒ",
+                "meaning": "mango"
+              },
+              {
+                "hanzi": "菠萝",
+                "pinyin": "bōluó",
+                "meaning": "pineapple"
+              },
+              {
+                "hanzi": "樱桃",
+                "pinyin": "yīngtáo",
+                "meaning": "cherry"
+              },
+              {
+                "hanzi": "柠檬",
+                "pinyin": "níngméng",
+                "meaning": "lemon"
+              },
+              {
+                "hanzi": "椰子",
+                "pinyin": "yēzi",
+                "meaning": "coconut"
+              },
+              {
+                "hanzi": "蓝莓",
+                "pinyin": "lánméi",
+                "meaning": "blueberry"
+              },
+              {
+                "hanzi": "柚子",
+                "pinyin": "yòuzi",
+                "meaning": "pomelo"
+              }
+            ]
+          },
+          {
+            "id": "vegetables",
+            "title": "Vegetables",
+            "titleCn": "蔬菜",
+            "icon": "carrot",
+            "grad": "linear-gradient(135deg,#10b981,#84cc16)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/vegetables/",
+            "cards": [
+              {
+                "hanzi": "西红柿",
+                "pinyin": "xīhóngshì",
+                "meaning": "tomato"
+              },
+              {
+                "hanzi": "土豆",
+                "pinyin": "tǔdòu",
+                "meaning": "potato"
+              },
+              {
+                "hanzi": "胡萝卜",
+                "pinyin": "húluóbo",
+                "meaning": "carrot"
+              },
+              {
+                "hanzi": "白菜",
+                "pinyin": "báicài",
+                "meaning": "Chinese cabbage"
+              },
+              {
+                "hanzi": "黄瓜",
+                "pinyin": "huángguā",
+                "meaning": "cucumber"
+              },
+              {
+                "hanzi": "茄子",
+                "pinyin": "qiézi",
+                "meaning": "eggplant"
+              },
+              {
+                "hanzi": "洋葱",
+                "pinyin": "yángcōng",
+                "meaning": "onion"
+              },
+              {
+                "hanzi": "蘑菇",
+                "pinyin": "mógu",
+                "meaning": "mushroom"
+              },
+              {
+                "hanzi": "玉米",
+                "pinyin": "yùmǐ",
+                "meaning": "corn"
+              },
+              {
+                "hanzi": "辣椒",
+                "pinyin": "làjiāo",
+                "meaning": "chili pepper"
+              },
+              {
+                "hanzi": "菠菜",
+                "pinyin": "bōcài",
+                "meaning": "spinach"
+              },
+              {
+                "hanzi": "南瓜",
+                "pinyin": "nánguā",
+                "meaning": "pumpkin"
+              },
+              {
+                "hanzi": "青椒",
+                "pinyin": "qīngjiāo",
+                "meaning": "green pepper"
+              },
+              {
+                "hanzi": "大蒜",
+                "pinyin": "dàsuàn",
+                "meaning": "garlic"
+              },
+              {
+                "hanzi": "豆角",
+                "pinyin": "dòujiǎo",
+                "meaning": "green beans"
+              }
+            ]
+          },
+          {
+            "id": "clothing",
+            "title": "Clothing",
+            "titleCn": "衣服",
+            "icon": "tshirt",
+            "grad": "linear-gradient(135deg,#ec4899,#8b5cf6)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/clothing/",
+            "cards": [
+              {
+                "hanzi": "衬衫",
+                "pinyin": "chènshān",
+                "meaning": "shirt"
+              },
+              {
+                "hanzi": "裤子",
+                "pinyin": "kùzi",
+                "meaning": "trousers"
+              },
+              {
+                "hanzi": "裙子",
+                "pinyin": "qúnzi",
+                "meaning": "skirt"
+              },
+              {
+                "hanzi": "外套",
+                "pinyin": "wàitào",
+                "meaning": "coat"
+              },
+              {
+                "hanzi": "鞋子",
+                "pinyin": "xiézi",
+                "meaning": "shoes"
+              },
+              {
+                "hanzi": "帽子",
+                "pinyin": "màozi",
+                "meaning": "hat"
+              },
+              {
+                "hanzi": "袜子",
+                "pinyin": "wàzi",
+                "meaning": "socks"
+              },
+              {
+                "hanzi": "手套",
+                "pinyin": "shǒutào",
+                "meaning": "gloves"
+              },
+              {
+                "hanzi": "围巾",
+                "pinyin": "wéijīn",
+                "meaning": "scarf"
+              },
+              {
+                "hanzi": "毛衣",
+                "pinyin": "máoyī",
+                "meaning": "sweater"
+              },
+              {
+                "hanzi": "连衣裙",
+                "pinyin": "liányīqún",
+                "meaning": "dress"
+              },
+              {
+                "hanzi": "牛仔裤",
+                "pinyin": "niúzǎikù",
+                "meaning": "jeans"
+              },
+              {
+                "hanzi": "西装",
+                "pinyin": "xīzhuāng",
+                "meaning": "suit"
+              },
+              {
+                "hanzi": "帽衫",
+                "pinyin": "màoshān",
+                "meaning": "hoodie"
+              },
+              {
+                "hanzi": "眼镜",
+                "pinyin": "yǎnjìng",
+                "meaning": "glasses"
+              }
+            ]
+          },
+          {
+            "id": "home",
+            "title": "House & Home",
+            "titleCn": "家居",
+            "icon": "couch",
+            "grad": "linear-gradient(135deg,#8b5cf6,#6366f1)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/home/",
+            "cards": [
+              {
+                "hanzi": "床",
+                "pinyin": "chuáng",
+                "meaning": "bed"
+              },
+              {
+                "hanzi": "桌子",
+                "pinyin": "zhuōzi",
+                "meaning": "table"
+              },
+              {
+                "hanzi": "椅子",
+                "pinyin": "yǐzi",
+                "meaning": "chair"
+              },
+              {
+                "hanzi": "沙发",
+                "pinyin": "shāfā",
+                "meaning": "sofa"
+              },
+              {
+                "hanzi": "门",
+                "pinyin": "mén",
+                "meaning": "door"
+              },
+              {
+                "hanzi": "窗户",
+                "pinyin": "chuānghu",
+                "meaning": "window"
+              },
+              {
+                "hanzi": "台灯",
+                "pinyin": "táidēng",
+                "meaning": "lamp"
+              },
+              {
+                "hanzi": "冰箱",
+                "pinyin": "bīngxiāng",
+                "meaning": "refrigerator"
+              },
+              {
+                "hanzi": "电视",
+                "pinyin": "diànshì",
+                "meaning": "television"
+              },
+              {
+                "hanzi": "镜子",
+                "pinyin": "jìngzi",
+                "meaning": "mirror"
+              },
+              {
+                "hanzi": "时钟",
+                "pinyin": "shízhōng",
+                "meaning": "clock"
+              },
+              {
+                "hanzi": "书架",
+                "pinyin": "shūjià",
+                "meaning": "bookshelf"
+              },
+              {
+                "hanzi": "厨房",
+                "pinyin": "chúfáng",
+                "meaning": "kitchen"
+              },
+              {
+                "hanzi": "卧室",
+                "pinyin": "wòshì",
+                "meaning": "bedroom"
+              },
+              {
+                "hanzi": "浴室",
+                "pinyin": "yùshì",
+                "meaning": "bathroom"
+              }
+            ]
+          },
+          {
+            "id": "jobs",
+            "title": "Jobs",
+            "titleCn": "职业",
+            "icon": "user-tie",
+            "grad": "linear-gradient(135deg,#0ea5e9,#6366f1)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/jobs/",
+            "cards": [
+              {
+                "hanzi": "老师",
+                "pinyin": "lǎoshī",
+                "meaning": "teacher"
+              },
+              {
+                "hanzi": "医生",
+                "pinyin": "yīshēng",
+                "meaning": "doctor"
+              },
+              {
+                "hanzi": "护士",
+                "pinyin": "hùshi",
+                "meaning": "nurse"
+              },
+              {
+                "hanzi": "警察",
+                "pinyin": "jǐngchá",
+                "meaning": "police officer"
+              },
+              {
+                "hanzi": "厨师",
+                "pinyin": "chúshī",
+                "meaning": "chef"
+              },
+              {
+                "hanzi": "司机",
+                "pinyin": "sījī",
+                "meaning": "driver"
+              },
+              {
+                "hanzi": "农民",
+                "pinyin": "nóngmín",
+                "meaning": "farmer"
+              },
+              {
+                "hanzi": "工人",
+                "pinyin": "gōngrén",
+                "meaning": "worker"
+              },
+              {
+                "hanzi": "律师",
+                "pinyin": "lǜshī",
+                "meaning": "lawyer"
+              },
+              {
+                "hanzi": "工程师",
+                "pinyin": "gōngchéngshī",
+                "meaning": "engineer"
+              },
+              {
+                "hanzi": "消防员",
+                "pinyin": "xiāofángyuán",
+                "meaning": "firefighter"
+              },
+              {
+                "hanzi": "服务员",
+                "pinyin": "fúwùyuán",
+                "meaning": "waiter"
+              },
+              {
+                "hanzi": "画家",
+                "pinyin": "huàjiā",
+                "meaning": "painter"
+              },
+              {
+                "hanzi": "歌手",
+                "pinyin": "gēshǒu",
+                "meaning": "singer"
+              },
+              {
+                "hanzi": "飞行员",
+                "pinyin": "fēixíngyuán",
+                "meaning": "pilot"
+              }
+            ]
+          },
+          {
+            "id": "town",
+            "title": "Around Town",
+            "titleCn": "城市",
+            "icon": "city",
+            "grad": "linear-gradient(135deg,#14b8a6,#0ea5e9)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/town/",
+            "cards": [
+              {
+                "hanzi": "学校",
+                "pinyin": "xuéxiào",
+                "meaning": "school"
+              },
+              {
+                "hanzi": "医院",
+                "pinyin": "yīyuàn",
+                "meaning": "hospital"
+              },
+              {
+                "hanzi": "银行",
+                "pinyin": "yínháng",
+                "meaning": "bank"
+              },
+              {
+                "hanzi": "公园",
+                "pinyin": "gōngyuán",
+                "meaning": "park"
+              },
+              {
+                "hanzi": "超市",
+                "pinyin": "chāoshì",
+                "meaning": "supermarket"
+              },
+              {
+                "hanzi": "餐厅",
+                "pinyin": "cāntīng",
+                "meaning": "restaurant"
+              },
+              {
+                "hanzi": "图书馆",
+                "pinyin": "túshūguǎn",
+                "meaning": "library"
+              },
+              {
+                "hanzi": "电影院",
+                "pinyin": "diànyǐngyuàn",
+                "meaning": "cinema"
+              },
+              {
+                "hanzi": "邮局",
+                "pinyin": "yóujú",
+                "meaning": "post office"
+              },
+              {
+                "hanzi": "火车站",
+                "pinyin": "huǒchēzhàn",
+                "meaning": "train station"
+              },
+              {
+                "hanzi": "机场",
+                "pinyin": "jīchǎng",
+                "meaning": "airport"
+              },
+              {
+                "hanzi": "商店",
+                "pinyin": "shāngdiàn",
+                "meaning": "shop"
+              },
+              {
+                "hanzi": "酒店",
+                "pinyin": "jiǔdiàn",
+                "meaning": "hotel"
+              },
+              {
+                "hanzi": "公司",
+                "pinyin": "gōngsī",
+                "meaning": "office building"
+              },
+              {
+                "hanzi": "广场",
+                "pinyin": "guǎngchǎng",
+                "meaning": "town square"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
       "packId": "street-smart",
       "name": "Street Smart",
       "icon": "camera",

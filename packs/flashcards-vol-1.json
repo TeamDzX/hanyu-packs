@@ -1,0 +1,658 @@
+{
+  "revision": 1,
+  "packId": "flashcards-vol-1",
+  "name": "Picture Flashcards · Vol. 1",
+  "icon": "clone",
+  "releaseDate": "2026-06-22",
+  "minApp": "1.9",
+  "whatsNew": "Seven picture-flashcard decks — Food, Transport, Technology, Family, Body, Sports and Seasons. Flip a card to reveal pinyin, meaning and audio.",
+  "content": {
+    "flashcardDecks": [
+      {
+        "id": "food",
+        "title": "Food & Drinks",
+        "titleCn": "食物",
+        "icon": "utensils",
+        "grad": "linear-gradient(135deg,#f59e0b,#ef4444)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/food/",
+        "cards": [
+          {
+            "hanzi": "米饭",
+            "pinyin": "mǐfàn",
+            "meaning": "rice (cooked)"
+          },
+          {
+            "hanzi": "面条",
+            "pinyin": "miàntiáo",
+            "meaning": "noodles"
+          },
+          {
+            "hanzi": "面包",
+            "pinyin": "miànbāo",
+            "meaning": "bread"
+          },
+          {
+            "hanzi": "水果",
+            "pinyin": "shuǐguǒ",
+            "meaning": "fruit"
+          },
+          {
+            "hanzi": "苹果",
+            "pinyin": "píngguǒ",
+            "meaning": "apple"
+          },
+          {
+            "hanzi": "香蕉",
+            "pinyin": "xiāngjiāo",
+            "meaning": "banana"
+          },
+          {
+            "hanzi": "橙子",
+            "pinyin": "chéngzi",
+            "meaning": "orange"
+          },
+          {
+            "hanzi": "蔬菜",
+            "pinyin": "shūcài",
+            "meaning": "vegetables"
+          },
+          {
+            "hanzi": "肉",
+            "pinyin": "ròu",
+            "meaning": "meat"
+          },
+          {
+            "hanzi": "鸡肉",
+            "pinyin": "jīròu",
+            "meaning": "chicken meat"
+          },
+          {
+            "hanzi": "牛肉",
+            "pinyin": "niúròu",
+            "meaning": "beef"
+          },
+          {
+            "hanzi": "鱼肉",
+            "pinyin": "yúròu",
+            "meaning": "fish meat"
+          },
+          {
+            "hanzi": "水",
+            "pinyin": "shuǐ",
+            "meaning": "water"
+          },
+          {
+            "hanzi": "茶",
+            "pinyin": "chá",
+            "meaning": "tea"
+          },
+          {
+            "hanzi": "咖啡",
+            "pinyin": "kāfēi",
+            "meaning": "coffee"
+          },
+          {
+            "hanzi": "牛奶",
+            "pinyin": "niúnǎi",
+            "meaning": "milk"
+          },
+          {
+            "hanzi": "果汁",
+            "pinyin": "guǒzhī",
+            "meaning": "juice"
+          }
+        ]
+      },
+      {
+        "id": "transport",
+        "title": "Transport",
+        "titleCn": "交通",
+        "icon": "car-side",
+        "grad": "linear-gradient(135deg,#6366f1,#0ea5e9)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/transport/",
+        "cards": [
+          {
+            "hanzi": "飞机",
+            "pinyin": "fēijī",
+            "meaning": "airplane"
+          },
+          {
+            "hanzi": "火车",
+            "pinyin": "huǒchē",
+            "meaning": "train"
+          },
+          {
+            "hanzi": "高铁",
+            "pinyin": "gāotiě",
+            "meaning": "high-speed rail"
+          },
+          {
+            "hanzi": "地铁",
+            "pinyin": "dìtiě",
+            "meaning": "subway, metro"
+          },
+          {
+            "hanzi": "公共汽车",
+            "pinyin": "gōnggòng qìchē",
+            "meaning": "public bus"
+          },
+          {
+            "hanzi": "出租车",
+            "pinyin": "chūzūchē",
+            "meaning": "taxi"
+          },
+          {
+            "hanzi": "自行车",
+            "pinyin": "zìxíngchē",
+            "meaning": "bicycle"
+          },
+          {
+            "hanzi": "汽车",
+            "pinyin": "qìchē",
+            "meaning": "car, automobile"
+          },
+          {
+            "hanzi": "摩托车",
+            "pinyin": "mótuōchē",
+            "meaning": "motorcycle"
+          },
+          {
+            "hanzi": "船",
+            "pinyin": "chuán",
+            "meaning": "boat, ship"
+          },
+          {
+            "hanzi": "机场",
+            "pinyin": "jīchǎng",
+            "meaning": "airport"
+          },
+          {
+            "hanzi": "车站",
+            "pinyin": "chēzhàn",
+            "meaning": "station, stop"
+          },
+          {
+            "hanzi": "票",
+            "pinyin": "piào",
+            "meaning": "ticket"
+          },
+          {
+            "hanzi": "签证",
+            "pinyin": "qiānzhèng",
+            "meaning": "visa"
+          },
+          {
+            "hanzi": "行李",
+            "pinyin": "xíngli",
+            "meaning": "luggage"
+          },
+          {
+            "hanzi": "导游",
+            "pinyin": "dǎoyóu",
+            "meaning": "tour guide"
+          },
+          {
+            "hanzi": "旅游",
+            "pinyin": "lǚyóu",
+            "meaning": "to travel, tourism"
+          },
+          {
+            "hanzi": "地图",
+            "pinyin": "dìtú",
+            "meaning": "map"
+          }
+        ]
+      },
+      {
+        "id": "technology",
+        "title": "Technology",
+        "titleCn": "科技",
+        "icon": "laptop",
+        "grad": "linear-gradient(135deg,#475569,#0ea5e9)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/technology/",
+        "cards": [
+          {
+            "hanzi": "电脑",
+            "pinyin": "diànnǎo",
+            "meaning": "computer"
+          },
+          {
+            "hanzi": "手机",
+            "pinyin": "shǒujī",
+            "meaning": "mobile phone"
+          },
+          {
+            "hanzi": "平板",
+            "pinyin": "píngbǎn",
+            "meaning": "tablet"
+          },
+          {
+            "hanzi": "耳机",
+            "pinyin": "ěrjī",
+            "meaning": "headphones"
+          },
+          {
+            "hanzi": "充电器",
+            "pinyin": "chōngdiànqì",
+            "meaning": "charger"
+          },
+          {
+            "hanzi": "网络",
+            "pinyin": "wǎngluò",
+            "meaning": "internet, network"
+          },
+          {
+            "hanzi": "无线网",
+            "pinyin": "wúxiànwǎng",
+            "meaning": "Wi-Fi"
+          },
+          {
+            "hanzi": "密码",
+            "pinyin": "mìmǎ",
+            "meaning": "password"
+          },
+          {
+            "hanzi": "应用",
+            "pinyin": "yìngyòng",
+            "meaning": "app, application"
+          },
+          {
+            "hanzi": "软件",
+            "pinyin": "ruǎnjiàn",
+            "meaning": "software"
+          },
+          {
+            "hanzi": "下载",
+            "pinyin": "xiàzài",
+            "meaning": "to download"
+          },
+          {
+            "hanzi": "上传",
+            "pinyin": "shàngchuán",
+            "meaning": "to upload"
+          },
+          {
+            "hanzi": "网站",
+            "pinyin": "wǎngzhàn",
+            "meaning": "website"
+          },
+          {
+            "hanzi": "微信",
+            "pinyin": "Wēixìn",
+            "meaning": "WeChat"
+          },
+          {
+            "hanzi": "支付宝",
+            "pinyin": "Zhīfùbǎo",
+            "meaning": "Alipay"
+          },
+          {
+            "hanzi": "邮箱",
+            "pinyin": "yóuxiāng",
+            "meaning": "email (account)"
+          },
+          {
+            "hanzi": "短信",
+            "pinyin": "duǎnxìn",
+            "meaning": "text message"
+          },
+          {
+            "hanzi": "视频",
+            "pinyin": "shìpín",
+            "meaning": "video"
+          }
+        ]
+      },
+      {
+        "id": "family",
+        "title": "Family",
+        "titleCn": "家人",
+        "icon": "people-roof",
+        "grad": "linear-gradient(135deg,#ec4899,#f59e0b)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/family/",
+        "cards": [
+          {
+            "hanzi": "家人",
+            "pinyin": "jiārén",
+            "meaning": "family"
+          },
+          {
+            "hanzi": "爸爸",
+            "pinyin": "bàba",
+            "meaning": "dad, father"
+          },
+          {
+            "hanzi": "妈妈",
+            "pinyin": "māma",
+            "meaning": "mom, mother"
+          },
+          {
+            "hanzi": "哥哥",
+            "pinyin": "gēge",
+            "meaning": "older brother"
+          },
+          {
+            "hanzi": "弟弟",
+            "pinyin": "dìdi",
+            "meaning": "younger brother"
+          },
+          {
+            "hanzi": "姐姐",
+            "pinyin": "jiějie",
+            "meaning": "older sister"
+          },
+          {
+            "hanzi": "妹妹",
+            "pinyin": "mèimei",
+            "meaning": "younger sister"
+          },
+          {
+            "hanzi": "爷爷",
+            "pinyin": "yéye",
+            "meaning": "paternal grandfather"
+          },
+          {
+            "hanzi": "奶奶",
+            "pinyin": "nǎinai",
+            "meaning": "paternal grandmother"
+          },
+          {
+            "hanzi": "外公",
+            "pinyin": "wàigōng",
+            "meaning": "maternal grandfather"
+          },
+          {
+            "hanzi": "外婆",
+            "pinyin": "wàipó",
+            "meaning": "maternal grandmother"
+          },
+          {
+            "hanzi": "丈夫",
+            "pinyin": "zhàngfu",
+            "meaning": "husband"
+          },
+          {
+            "hanzi": "妻子",
+            "pinyin": "qīzi",
+            "meaning": "wife"
+          },
+          {
+            "hanzi": "儿子",
+            "pinyin": "érzi",
+            "meaning": "son"
+          },
+          {
+            "hanzi": "女儿",
+            "pinyin": "nǚ'ér",
+            "meaning": "daughter"
+          }
+        ]
+      },
+      {
+        "id": "body",
+        "title": "Body Parts",
+        "titleCn": "身体",
+        "icon": "hand",
+        "grad": "linear-gradient(135deg,#f43f5e,#fb7185)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/body/",
+        "cards": [
+          {
+            "hanzi": "头",
+            "pinyin": "tóu",
+            "meaning": "head"
+          },
+          {
+            "hanzi": "脸",
+            "pinyin": "liǎn",
+            "meaning": "face"
+          },
+          {
+            "hanzi": "眼睛",
+            "pinyin": "yǎnjing",
+            "meaning": "eye"
+          },
+          {
+            "hanzi": "耳朵",
+            "pinyin": "ěrduo",
+            "meaning": "ear"
+          },
+          {
+            "hanzi": "鼻子",
+            "pinyin": "bízi",
+            "meaning": "nose"
+          },
+          {
+            "hanzi": "嘴",
+            "pinyin": "zuǐ",
+            "meaning": "mouth"
+          },
+          {
+            "hanzi": "牙齿",
+            "pinyin": "yáchǐ",
+            "meaning": "tooth/teeth"
+          },
+          {
+            "hanzi": "舌头",
+            "pinyin": "shétou",
+            "meaning": "tongue"
+          },
+          {
+            "hanzi": "脖子",
+            "pinyin": "bózi",
+            "meaning": "neck"
+          },
+          {
+            "hanzi": "肩膀",
+            "pinyin": "jiānbǎng",
+            "meaning": "shoulder"
+          },
+          {
+            "hanzi": "手臂",
+            "pinyin": "shǒubì",
+            "meaning": "arm"
+          },
+          {
+            "hanzi": "手",
+            "pinyin": "shǒu",
+            "meaning": "hand"
+          },
+          {
+            "hanzi": "手指",
+            "pinyin": "shǒuzhǐ",
+            "meaning": "finger"
+          },
+          {
+            "hanzi": "腿",
+            "pinyin": "tuǐ",
+            "meaning": "leg"
+          },
+          {
+            "hanzi": "脚",
+            "pinyin": "jiǎo",
+            "meaning": "foot"
+          },
+          {
+            "hanzi": "心脏",
+            "pinyin": "xīnzàng",
+            "meaning": "heart"
+          },
+          {
+            "hanzi": "胃",
+            "pinyin": "wèi",
+            "meaning": "stomach"
+          },
+          {
+            "hanzi": "背",
+            "pinyin": "bèi",
+            "meaning": "back"
+          }
+        ]
+      },
+      {
+        "id": "sports",
+        "title": "Sports",
+        "titleCn": "运动",
+        "icon": "futbol",
+        "grad": "linear-gradient(135deg,#10b981,#34d399)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/sports/",
+        "cards": [
+          {
+            "hanzi": "运动",
+            "pinyin": "yùndòng",
+            "meaning": "sports, exercise"
+          },
+          {
+            "hanzi": "跑步",
+            "pinyin": "pǎobù",
+            "meaning": "to run, running"
+          },
+          {
+            "hanzi": "游泳",
+            "pinyin": "yóuyǒng",
+            "meaning": "to swim"
+          },
+          {
+            "hanzi": "骑车",
+            "pinyin": "qí chē",
+            "meaning": "to ride a bike"
+          },
+          {
+            "hanzi": "篮球",
+            "pinyin": "lánqiú",
+            "meaning": "basketball"
+          },
+          {
+            "hanzi": "足球",
+            "pinyin": "zúqiú",
+            "meaning": "football, soccer"
+          },
+          {
+            "hanzi": "乒乓球",
+            "pinyin": "pīngpāngqiú",
+            "meaning": "table tennis"
+          },
+          {
+            "hanzi": "羽毛球",
+            "pinyin": "yǔmáoqiú",
+            "meaning": "badminton"
+          },
+          {
+            "hanzi": "网球",
+            "pinyin": "wǎngqiú",
+            "meaning": "tennis"
+          },
+          {
+            "hanzi": "瑜伽",
+            "pinyin": "yújiā",
+            "meaning": "yoga"
+          },
+          {
+            "hanzi": "健身",
+            "pinyin": "jiànshēn",
+            "meaning": "fitness, work out"
+          },
+          {
+            "hanzi": "爬山",
+            "pinyin": "páshān",
+            "meaning": "hiking, climb a mountain"
+          },
+          {
+            "hanzi": "滑雪",
+            "pinyin": "huáxuě",
+            "meaning": "skiing"
+          },
+          {
+            "hanzi": "比赛",
+            "pinyin": "bǐsài",
+            "meaning": "match, competition"
+          },
+          {
+            "hanzi": "教练",
+            "pinyin": "jiàoliàn",
+            "meaning": "coach"
+          },
+          {
+            "hanzi": "运动员",
+            "pinyin": "yùndòngyuán",
+            "meaning": "athlete"
+          }
+        ]
+      },
+      {
+        "id": "seasons",
+        "title": "Seasons & Weather",
+        "titleCn": "季节",
+        "icon": "cloud-sun",
+        "grad": "linear-gradient(135deg,#0ea5e9,#22d3ee)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/seasons/",
+        "cards": [
+          {
+            "hanzi": "春天",
+            "pinyin": "chūntiān",
+            "meaning": "spring"
+          },
+          {
+            "hanzi": "夏天",
+            "pinyin": "xiàtiān",
+            "meaning": "summer"
+          },
+          {
+            "hanzi": "秋天",
+            "pinyin": "qiūtiān",
+            "meaning": "autumn/fall"
+          },
+          {
+            "hanzi": "冬天",
+            "pinyin": "dōngtiān",
+            "meaning": "winter"
+          },
+          {
+            "hanzi": "天气",
+            "pinyin": "tiānqì",
+            "meaning": "weather"
+          },
+          {
+            "hanzi": "晴天",
+            "pinyin": "qíngtiān",
+            "meaning": "sunny day"
+          },
+          {
+            "hanzi": "阴天",
+            "pinyin": "yīntiān",
+            "meaning": "cloudy day"
+          },
+          {
+            "hanzi": "下雨",
+            "pinyin": "xiàyǔ",
+            "meaning": "to rain"
+          },
+          {
+            "hanzi": "下雪",
+            "pinyin": "xiàxuě",
+            "meaning": "to snow"
+          },
+          {
+            "hanzi": "热",
+            "pinyin": "rè",
+            "meaning": "hot"
+          },
+          {
+            "hanzi": "冷",
+            "pinyin": "lěng",
+            "meaning": "cold"
+          },
+          {
+            "hanzi": "暖和",
+            "pinyin": "nuǎnhuo",
+            "meaning": "warm"
+          },
+          {
+            "hanzi": "凉快",
+            "pinyin": "liángkuai",
+            "meaning": "cool"
+          }
+        ]
+      }
+    ]
+  }
+}

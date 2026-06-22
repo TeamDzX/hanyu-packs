@@ -12,6 +12,7 @@ ORDER=(
   stories-vol-4
   stories-vol-5
   stories-vol-6
+  flashcards-vol-1
   street-smart
   tone-master
   parrot-talk

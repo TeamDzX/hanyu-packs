@@ -7314,6 +7314,529 @@
     },
     {
       "revision": 1,
+      "packId": "flashcards-vol-3",
+      "name": "Picture Flashcards · Vol. 3",
+      "icon": "clone",
+      "releaseDate": "2026-06-22",
+      "minApp": "2.0",
+      "whatsNew": "Six more picture-flashcard decks — Kitchen, Drinks, Nature, Instruments, Stationery and Tools. Flip a card to reveal pinyin, meaning and audio.",
+      "content": {
+        "flashcardDecks": [
+          {
+            "id": "kitchen",
+            "title": "Kitchen",
+            "titleCn": "厨房",
+            "icon": "blender",
+            "grad": "linear-gradient(135deg,#f97316,#ef4444)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/kitchen/",
+            "cards": [
+              {
+                "hanzi": "锅",
+                "pinyin": "guō",
+                "meaning": "wok"
+              },
+              {
+                "hanzi": "碗",
+                "pinyin": "wǎn",
+                "meaning": "bowl"
+              },
+              {
+                "hanzi": "筷子",
+                "pinyin": "kuàizi",
+                "meaning": "chopsticks"
+              },
+              {
+                "hanzi": "勺子",
+                "pinyin": "sháozi",
+                "meaning": "spoon"
+              },
+              {
+                "hanzi": "叉子",
+                "pinyin": "chāzi",
+                "meaning": "fork"
+              },
+              {
+                "hanzi": "刀",
+                "pinyin": "dāo",
+                "meaning": "knife"
+              },
+              {
+                "hanzi": "杯子",
+                "pinyin": "bēizi",
+                "meaning": "cup"
+              },
+              {
+                "hanzi": "盘子",
+                "pinyin": "pánzi",
+                "meaning": "plate"
+              },
+              {
+                "hanzi": "茶壶",
+                "pinyin": "cháhú",
+                "meaning": "teapot"
+              },
+              {
+                "hanzi": "微波炉",
+                "pinyin": "wēibōlú",
+                "meaning": "microwave"
+              },
+              {
+                "hanzi": "烤箱",
+                "pinyin": "kǎoxiāng",
+                "meaning": "oven"
+              },
+              {
+                "hanzi": "水壶",
+                "pinyin": "shuǐhú",
+                "meaning": "kettle"
+              },
+              {
+                "hanzi": "砧板",
+                "pinyin": "zhēnbǎn",
+                "meaning": "cutting board"
+              },
+              {
+                "hanzi": "围裙",
+                "pinyin": "wéiqún",
+                "meaning": "apron"
+              },
+              {
+                "hanzi": "平底锅",
+                "pinyin": "píngdǐguō",
+                "meaning": "frying pan"
+              }
+            ]
+          },
+          {
+            "id": "drinks",
+            "title": "Drinks",
+            "titleCn": "饮料",
+            "icon": "mug-hot",
+            "grad": "linear-gradient(135deg,#06b6d4,#0ea5e9)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/drinks/",
+            "cards": [
+              {
+                "hanzi": "水",
+                "pinyin": "shuǐ",
+                "meaning": "water"
+              },
+              {
+                "hanzi": "茶",
+                "pinyin": "chá",
+                "meaning": "tea"
+              },
+              {
+                "hanzi": "咖啡",
+                "pinyin": "kāfēi",
+                "meaning": "coffee"
+              },
+              {
+                "hanzi": "牛奶",
+                "pinyin": "niúnǎi",
+                "meaning": "milk"
+              },
+              {
+                "hanzi": "果汁",
+                "pinyin": "guǒzhī",
+                "meaning": "juice"
+              },
+              {
+                "hanzi": "可乐",
+                "pinyin": "kělè",
+                "meaning": "cola"
+              },
+              {
+                "hanzi": "啤酒",
+                "pinyin": "píjiǔ",
+                "meaning": "beer"
+              },
+              {
+                "hanzi": "红酒",
+                "pinyin": "hóngjiǔ",
+                "meaning": "red wine"
+              },
+              {
+                "hanzi": "豆浆",
+                "pinyin": "dòujiāng",
+                "meaning": "soy milk"
+              },
+              {
+                "hanzi": "奶茶",
+                "pinyin": "nǎichá",
+                "meaning": "milk tea"
+              },
+              {
+                "hanzi": "汽水",
+                "pinyin": "qìshuǐ",
+                "meaning": "soda"
+              },
+              {
+                "hanzi": "矿泉水",
+                "pinyin": "kuàngquánshuǐ",
+                "meaning": "mineral water"
+              },
+              {
+                "hanzi": "椰汁",
+                "pinyin": "yēzhī",
+                "meaning": "coconut water"
+              },
+              {
+                "hanzi": "热巧克力",
+                "pinyin": "rè qiǎokèlì",
+                "meaning": "hot chocolate"
+              },
+              {
+                "hanzi": "柠檬水",
+                "pinyin": "níngméngshuǐ",
+                "meaning": "lemonade"
+              }
+            ]
+          },
+          {
+            "id": "nature",
+            "title": "Nature",
+            "titleCn": "大自然",
+            "icon": "mountain",
+            "grad": "linear-gradient(135deg,#10b981,#14b8a6)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/nature/",
+            "cards": [
+              {
+                "hanzi": "山",
+                "pinyin": "shān",
+                "meaning": "mountain"
+              },
+              {
+                "hanzi": "河",
+                "pinyin": "hé",
+                "meaning": "river"
+              },
+              {
+                "hanzi": "湖",
+                "pinyin": "hú",
+                "meaning": "lake"
+              },
+              {
+                "hanzi": "海",
+                "pinyin": "hǎi",
+                "meaning": "sea"
+              },
+              {
+                "hanzi": "树",
+                "pinyin": "shù",
+                "meaning": "tree"
+              },
+              {
+                "hanzi": "花",
+                "pinyin": "huā",
+                "meaning": "flower"
+              },
+              {
+                "hanzi": "草",
+                "pinyin": "cǎo",
+                "meaning": "grass"
+              },
+              {
+                "hanzi": "森林",
+                "pinyin": "sēnlín",
+                "meaning": "forest"
+              },
+              {
+                "hanzi": "沙漠",
+                "pinyin": "shāmò",
+                "meaning": "desert"
+              },
+              {
+                "hanzi": "瀑布",
+                "pinyin": "pùbù",
+                "meaning": "waterfall"
+              },
+              {
+                "hanzi": "岛",
+                "pinyin": "dǎo",
+                "meaning": "island"
+              },
+              {
+                "hanzi": "天空",
+                "pinyin": "tiānkōng",
+                "meaning": "sky"
+              },
+              {
+                "hanzi": "云",
+                "pinyin": "yún",
+                "meaning": "cloud"
+              },
+              {
+                "hanzi": "彩虹",
+                "pinyin": "cǎihóng",
+                "meaning": "rainbow"
+              },
+              {
+                "hanzi": "火山",
+                "pinyin": "huǒshān",
+                "meaning": "volcano"
+              }
+            ]
+          },
+          {
+            "id": "music",
+            "title": "Instruments",
+            "titleCn": "乐器",
+            "icon": "guitar",
+            "grad": "linear-gradient(135deg,#a855f7,#ec4899)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/music/",
+            "cards": [
+              {
+                "hanzi": "钢琴",
+                "pinyin": "gāngqín",
+                "meaning": "piano"
+              },
+              {
+                "hanzi": "吉他",
+                "pinyin": "jítā",
+                "meaning": "guitar"
+              },
+              {
+                "hanzi": "小提琴",
+                "pinyin": "xiǎotíqín",
+                "meaning": "violin"
+              },
+              {
+                "hanzi": "鼓",
+                "pinyin": "gǔ",
+                "meaning": "drum"
+              },
+              {
+                "hanzi": "笛子",
+                "pinyin": "dízi",
+                "meaning": "bamboo flute"
+              },
+              {
+                "hanzi": "二胡",
+                "pinyin": "èrhú",
+                "meaning": "erhu"
+              },
+              {
+                "hanzi": "琵琶",
+                "pinyin": "pípá",
+                "meaning": "pipa"
+              },
+              {
+                "hanzi": "古筝",
+                "pinyin": "gǔzhēng",
+                "meaning": "guzheng"
+              },
+              {
+                "hanzi": "萨克斯",
+                "pinyin": "sàkèsī",
+                "meaning": "saxophone"
+              },
+              {
+                "hanzi": "小号",
+                "pinyin": "xiǎohào",
+                "meaning": "trumpet"
+              },
+              {
+                "hanzi": "大提琴",
+                "pinyin": "dàtíqín",
+                "meaning": "cello"
+              },
+              {
+                "hanzi": "长笛",
+                "pinyin": "chángdí",
+                "meaning": "flute"
+              },
+              {
+                "hanzi": "口琴",
+                "pinyin": "kǒuqín",
+                "meaning": "harmonica"
+              },
+              {
+                "hanzi": "手风琴",
+                "pinyin": "shǒufēngqín",
+                "meaning": "accordion"
+              },
+              {
+                "hanzi": "竖琴",
+                "pinyin": "shùqín",
+                "meaning": "harp"
+              }
+            ]
+          },
+          {
+            "id": "stationery",
+            "title": "Stationery",
+            "titleCn": "文具",
+            "icon": "pencil-alt",
+            "grad": "linear-gradient(135deg,#6366f1,#0ea5e9)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/stationery/",
+            "cards": [
+              {
+                "hanzi": "笔",
+                "pinyin": "bǐ",
+                "meaning": "pen"
+              },
+              {
+                "hanzi": "铅笔",
+                "pinyin": "qiānbǐ",
+                "meaning": "pencil"
+              },
+              {
+                "hanzi": "橡皮",
+                "pinyin": "xiàngpí",
+                "meaning": "eraser"
+              },
+              {
+                "hanzi": "尺子",
+                "pinyin": "chǐzi",
+                "meaning": "ruler"
+              },
+              {
+                "hanzi": "书",
+                "pinyin": "shū",
+                "meaning": "book"
+              },
+              {
+                "hanzi": "笔记本",
+                "pinyin": "bǐjìběn",
+                "meaning": "notebook"
+              },
+              {
+                "hanzi": "书包",
+                "pinyin": "shūbāo",
+                "meaning": "backpack"
+              },
+              {
+                "hanzi": "剪刀",
+                "pinyin": "jiǎndāo",
+                "meaning": "scissors"
+              },
+              {
+                "hanzi": "胶水",
+                "pinyin": "jiāoshuǐ",
+                "meaning": "glue"
+              },
+              {
+                "hanzi": "纸",
+                "pinyin": "zhǐ",
+                "meaning": "paper"
+              },
+              {
+                "hanzi": "铅笔盒",
+                "pinyin": "qiānbǐhé",
+                "meaning": "pencil case"
+              },
+              {
+                "hanzi": "马克笔",
+                "pinyin": "mǎkèbǐ",
+                "meaning": "marker"
+              },
+              {
+                "hanzi": "订书机",
+                "pinyin": "dìngshūjī",
+                "meaning": "stapler"
+              },
+              {
+                "hanzi": "地球仪",
+                "pinyin": "dìqiúyí",
+                "meaning": "globe"
+              },
+              {
+                "hanzi": "计算器",
+                "pinyin": "jìsuànqì",
+                "meaning": "calculator"
+              }
+            ]
+          },
+          {
+            "id": "tools",
+            "title": "Tools",
+            "titleCn": "工具",
+            "icon": "tools",
+            "grad": "linear-gradient(135deg,#64748b,#f59e0b)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/tools/",
+            "cards": [
+              {
+                "hanzi": "锤子",
+                "pinyin": "chuízi",
+                "meaning": "hammer"
+              },
+              {
+                "hanzi": "螺丝刀",
+                "pinyin": "luósīdāo",
+                "meaning": "screwdriver"
+              },
+              {
+                "hanzi": "扳手",
+                "pinyin": "bānshǒu",
+                "meaning": "wrench"
+              },
+              {
+                "hanzi": "锯子",
+                "pinyin": "jùzi",
+                "meaning": "saw"
+              },
+              {
+                "hanzi": "电钻",
+                "pinyin": "diànzuàn",
+                "meaning": "drill"
+              },
+              {
+                "hanzi": "钉子",
+                "pinyin": "dīngzi",
+                "meaning": "nail"
+              },
+              {
+                "hanzi": "卷尺",
+                "pinyin": "juǎnchǐ",
+                "meaning": "tape measure"
+              },
+              {
+                "hanzi": "梯子",
+                "pinyin": "tīzi",
+                "meaning": "ladder"
+              },
+              {
+                "hanzi": "绳子",
+                "pinyin": "shéngzi",
+                "meaning": "rope"
+              },
+              {
+                "hanzi": "刷子",
+                "pinyin": "shuāzi",
+                "meaning": "brush"
+              },
+              {
+                "hanzi": "桶",
+                "pinyin": "tǒng",
+                "meaning": "bucket"
+              },
+              {
+                "hanzi": "铲子",
+                "pinyin": "chǎnzi",
+                "meaning": "shovel"
+              },
+              {
+                "hanzi": "斧头",
+                "pinyin": "fǔtóu",
+                "meaning": "axe"
+              },
+              {
+                "hanzi": "钳子",
+                "pinyin": "qiánzi",
+                "meaning": "pliers"
+              },
+              {
+                "hanzi": "手电筒",
+                "pinyin": "shǒudiàntǒng",
+                "meaning": "flashlight"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
       "packId": "street-smart",
       "name": "Street Smart",
       "icon": "camera",

@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "dynasties-landmarks",
   "name": "Dynasties & Landmarks",
   "icon": "monument",
@@ -73,8 +73,11 @@
         "summary": "The world's longest and oldest artificial waterway.",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/grandcanal.jpg",
         "sections": [
-          { "h": "Overview", "icon": "info-circle", "body": "Completed under the Sui and stretching nearly 1,800 km, the Grand Canal linked the Yellow and Yangtze rivers, binding north and south China together economically for over a thousand years." },
-          { "h": "Why It Matters", "icon": "ship", "body": "It moved grain, troops and goods on an unprecedented scale and remains a UNESCO World Heritage Site still partly in use today." }
+          { "h": "Overview", "icon": "info-circle", "body": "The Grand Canal (大运河) is the longest and oldest artificial waterway in the world. Running roughly 1,800 km from Beijing in the north to Hangzhou in the south, it stitched the Chinese heartland together for more than a thousand years." },
+          { "h": "Building It", "icon": "hard-hat", "body": "Though sections dated back centuries, the Sui emperor Yang united them into a single system around 605–610 CE. Millions of labourers were conscripted; the human cost was staggering and helped topple the short-lived Sui — but the canal endured long after the dynasty fell." },
+          { "h": "Engineering Feats", "icon": "ruler-combined", "list": ["Linked five of China's great river systems, including the Yellow and Yangtze", "Pioneered the pound lock (~10th c.) to raise and lower boats between water levels", "Lined with towpaths, granaries, bridges and canal-side towns"] },
+          { "h": "Lifeline of the Empire", "icon": "ship", "body": "The canal carried the all-important grain tribute from the rich southern rice lands to feed the northern capitals and armies. It knit a fertile south to a governing north, making a unified empire economically possible." },
+          { "h": "Legacy Today", "icon": "landmark", "body": "Named a UNESCO World Heritage Site in 2014, large stretches still carry barge traffic and feed the modern South–North Water Transfer Project — a 1,400-year-old artery still beating." }
         ]
       },
       {

@@ -1,0 +1,93 @@
+{
+  "revision": 1,
+  "packId": "sages-strategists",
+  "name": "Sages & Strategists",
+  "icon": "user-graduate",
+  "releaseDate": "2026-06-25",
+  "minApp": "2.3",
+  "whatsNew": "Five more great thinkers for History ▸ Figures (Mencius, Zhuangzi, Mozi, Sima Qian, Zhuge Liang) plus three key ideas for the Philosophy tab (Ren, Wu Wei, Great Harmony).",
+  "content": {
+    "history": [
+      {
+        "id": "fig-mencius",
+        "category": "figure",
+        "title": "Mencius",
+        "hanzi": "孟子 Mèngzǐ",
+        "period": "372–289 BCE",
+        "symbol": "孟",
+        "iconBg": "linear-gradient(135deg,#5b8c5a,#2d6a4f)",
+        "detailHtml": "The most influential Confucian after Confucius himself. Argued that human nature is fundamentally good and that rulers govern only by the people's consent. <em style=\"color:var(--primary-color)\">“The people are the most important element in a nation.”</em>"
+      },
+      {
+        "id": "fig-zhuangzi",
+        "category": "figure",
+        "title": "Zhuangzi",
+        "hanzi": "庄子 Zhuāngzǐ",
+        "period": "369–286 BCE",
+        "symbol": "道",
+        "iconBg": "linear-gradient(135deg,#6b7280,#374151)",
+        "detailHtml": "A founding voice of Taoism, famous for playful parables and the “butterfly dream.” Championed spontaneity, relativity of perspective and freedom from convention. <em style=\"color:var(--primary-color)\">“Flow with whatever may happen and let your mind be free.”</em>"
+      },
+      {
+        "id": "fig-mozi",
+        "category": "figure",
+        "title": "Mozi",
+        "hanzi": "墨子 Mòzǐ",
+        "period": "470–391 BCE",
+        "symbol": "墨",
+        "iconBg": "linear-gradient(135deg,#334155,#0f172a)",
+        "detailHtml": "Founder of Mohism, which preached “universal love” (兼爱), meritocracy and opposition to wasteful warfare. An early logician and engineer whose followers were renowned defensive strategists."
+      },
+      {
+        "id": "fig-sima-qian",
+        "category": "figure",
+        "title": "Sima Qian",
+        "hanzi": "司马迁 Sīmǎ Qiān",
+        "period": "145–86 BCE",
+        "symbol": "史",
+        "iconBg": "linear-gradient(135deg,#b45309,#78350f)",
+        "detailHtml": "The “Grand Historian.” His <em>Records of the Grand Historian</em> (史记) set the model for Chinese history-writing for two millennia — completed at enormous personal cost after he chose disgrace over abandoning the work."
+      },
+      {
+        "id": "fig-zhuge-liang",
+        "category": "figure",
+        "title": "Zhuge Liang",
+        "hanzi": "诸葛亮 Zhūgě Liàng",
+        "period": "181–234 CE",
+        "symbol": "智",
+        "iconBg": "linear-gradient(135deg,#7c3aed,#4c1d95)",
+        "detailHtml": "Legendary chancellor and strategist of Shu Han during the Three Kingdoms, a byword for wisdom and ingenuity. His <em>Chu Shi Biao</em> memorial is still memorised in schools today."
+      },
+      {
+        "id": "phil-ren",
+        "category": "philosophy",
+        "title": "Benevolence",
+        "hanzi": "仁",
+        "pinyin": "Rén",
+        "symbol": "仁",
+        "summary": "The supreme Confucian virtue",
+        "body": "Often translated as humaneness or benevolence — the warm regard for others that, for Confucius, lies at the heart of being fully human. Expressed through empathy, kindness and the reciprocity of “do not impose on others what you would not choose for yourself.”"
+      },
+      {
+        "id": "phil-wuwei",
+        "category": "philosophy",
+        "title": "Wu Wei",
+        "hanzi": "无为",
+        "pinyin": "Wúwéi",
+        "symbol": "无为",
+        "summary": "Effortless action",
+        "body": "The Taoist principle of acting in accordance with the natural flow of things — achieving more by forcing less. Not idleness, but action so well-timed and unforced it seems effortless."
+      },
+      {
+        "id": "phil-datong",
+        "category": "philosophy",
+        "title": "Great Harmony",
+        "hanzi": "大同",
+        "pinyin": "Dàtóng",
+        "symbol": "大同",
+        "summary": "The ideal society",
+        "body": "A classical vision of a world shared by all, where the worthy are chosen for office, the old and young are cared for, and people work for the common good rather than themselves. A recurring ideal in Chinese political thought."
+      }
+    ]
+  }
+}

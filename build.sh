@@ -25,6 +25,8 @@ ORDER=(
   game-on
   across-china
   sentence-lab
+  inventions-innovations
+  sages-strategists
 )
 
 FILES=()

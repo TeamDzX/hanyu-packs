@@ -28,6 +28,7 @@ ORDER=(
   inventions-innovations
   sages-strategists
   dynasties-landmarks
+  great-figures
 )
 
 FILES=()

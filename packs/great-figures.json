@@ -1,0 +1,73 @@
+{
+  "revision": 1,
+  "packId": "great-figures",
+  "name": "Great Figures of China",
+  "icon": "user-tie",
+  "releaseDate": "2026-06-25",
+  "minApp": "2.3",
+  "whatsNew": "Six more key figures for History ▸ Figures — Emperor Taizong, the Kangxi Emperor, the poets Li Bai and Du Fu, the heroine Hua Mulan and the physician Li Shizhen.",
+  "content": {
+    "history": [
+      {
+        "id": "gf-tang-taizong",
+        "category": "figure",
+        "title": "Emperor Taizong",
+        "hanzi": "唐太宗 Táng Tàizōng",
+        "period": "598–649 CE",
+        "symbol": "治",
+        "iconBg": "linear-gradient(135deg,#e0a82e,#b45309)",
+        "detailHtml": "Architect of the Tang golden age. Won power, then ruled with rare humility — welcoming criticism from his ministers. <em style=\"color:var(--primary-color)\">“With bronze as a mirror one can correct one's appearance; with history as a mirror, one can understand the rise and fall of a state.”</em>"
+      },
+      {
+        "id": "gf-kangxi",
+        "category": "figure",
+        "title": "Kangxi Emperor",
+        "hanzi": "康熙帝 Kāngxī Dì",
+        "period": "1654–1722 CE",
+        "symbol": "康",
+        "iconBg": "linear-gradient(135deg,#d4a017,#92400e)",
+        "detailHtml": "The longest-reigning emperor in Chinese history — 61 years. Consolidated the Qing, patronised the arts and sciences, and commissioned the great Kangxi Dictionary of more than 47,000 characters."
+      },
+      {
+        "id": "gf-libai",
+        "category": "figure",
+        "title": "Li Bai",
+        "hanzi": "李白 Lǐ Bái",
+        "period": "701–762 CE",
+        "symbol": "诗",
+        "iconBg": "linear-gradient(135deg,#6366f1,#4338ca)",
+        "detailHtml": "The “Immortal of Poetry” (诗仙). Romantic, wine-loving and free-spirited, he is perhaps the most beloved poet in the Chinese language. <em style=\"color:var(--primary-color)\">“We never grow tired of each other, the mountain and I.”</em>"
+      },
+      {
+        "id": "gf-dufu",
+        "category": "figure",
+        "title": "Du Fu",
+        "hanzi": "杜甫 Dù Fǔ",
+        "period": "712–770 CE",
+        "symbol": "圣",
+        "iconBg": "linear-gradient(135deg,#0f766e,#134e4a)",
+        "detailHtml": "The “Sage of Poetry” (诗圣). Where Li Bai soared, Du Fu observed — his verse is a compassionate record of ordinary people's suffering during the Tang's decline, prized for its moral seriousness and craft."
+      },
+      {
+        "id": "gf-mulan",
+        "category": "figure",
+        "title": "Hua Mulan",
+        "hanzi": "花木兰 Huā Mùlán",
+        "period": "Legend · ~5th c.",
+        "symbol": "孝",
+        "iconBg": "linear-gradient(135deg,#dc2626,#7f1d1d)",
+        "detailHtml": "The legendary heroine who disguised herself as a man to take her aged father's place in the army, serving with distinction for years. A timeless symbol of filial devotion and courage, first told in the <em>Ballad of Mulan</em>."
+      },
+      {
+        "id": "gf-lishizhen",
+        "category": "figure",
+        "title": "Li Shizhen",
+        "hanzi": "李时珍 Lǐ Shízhēn",
+        "period": "1518–1593 CE",
+        "symbol": "医",
+        "iconBg": "linear-gradient(135deg,#16a34a,#14532d)",
+        "detailHtml": "The Ming physician who spent 27 years compiling the <em>Bencao Gangmu</em> (本草纲目) — a monumental pharmacopoeia of nearly 1,900 medicines that influenced medicine and natural science for centuries."
+      }
+    ]
+  }
+}

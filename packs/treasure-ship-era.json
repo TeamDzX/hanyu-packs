@@ -1,0 +1,72 @@
+{
+  "revision": 1,
+  "packId": "treasure-ship-era",
+  "name": "The Treasure Ship Era",
+  "icon": "ship",
+  "releaseDate": "2026-06-25",
+  "minApp": "2.3",
+  "whatsNew": "Dive into the Ming maritime golden age — Admiral Zheng He and the Yongle Emperor, the colossal treasure ships and their watertight hulls, and the famous tribute giraffe hailed as a qilin.",
+  "content": {
+    "history": [
+      {
+        "id": "ts-zhenghe",
+        "category": "figure",
+        "title": "Zheng He",
+        "hanzi": "郑和 Zhèng Hé",
+        "period": "1371–1433 CE",
+        "symbol": "海",
+        "iconBg": "linear-gradient(135deg,#1d4ed8,#1e3a8a)",
+        "detailHtml": "The Ming admiral who led seven epic voyages (1405–1433) with fleets of hundreds of ships and tens of thousands of men, reaching Southeast Asia, India, Arabia and the east coast of Africa — decades before the European age of exploration. A Muslim eunuch who rose to command the greatest fleet the world had yet seen."
+      },
+      {
+        "id": "ts-yongle",
+        "category": "figure",
+        "title": "Yongle Emperor",
+        "hanzi": "永乐帝 Yǒnglè Dì",
+        "period": "1360–1424 CE",
+        "symbol": "永",
+        "iconBg": "linear-gradient(135deg,#b45309,#7c2d12)",
+        "detailHtml": "The ambitious third Ming emperor who commissioned Zheng He's treasure voyages, moved the capital to Beijing and built the Forbidden City, and ordered the vast Yongle Encyclopedia. His reign projected Chinese power and prestige across the known world."
+      },
+      {
+        "id": "ts-treasureship",
+        "category": "invention",
+        "title": "The Treasure Ship",
+        "hanzi": "宝船",
+        "pinyin": "bǎochuán",
+        "year": "1405–1433",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/treasureship.jpg",
+        "sections": [
+          { "h": "Giants of the Sea", "icon": "ship", "body": "The flagships of Zheng He's fleet were the largest wooden ships of their age — by some accounts over 120 metres long, with up to nine masts and dozens of cabins. Even at a fraction of those figures they dwarfed the European caravels that followed." },
+          { "h": "Built to Last", "icon": "ruler-combined", "list": ["Multiple masts with battened sails for power and control", "Watertight bulkhead compartments below decks", "Sternpost rudders to steer the huge hulls"] }
+        ]
+      },
+      {
+        "id": "ts-watertight",
+        "category": "invention",
+        "title": "Watertight Compartments",
+        "hanzi": "水密隔舱",
+        "pinyin": "shuǐmì gécāng",
+        "year": "~Tang–Song",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/watertight.jpg",
+        "sections": [
+          { "h": "The Innovation", "icon": "water", "body": "Chinese shipwrights divided a hull into sealed bulkhead compartments, so a breach would flood only one section and the ship stayed afloat — a safety idea Western shipbuilding would not adopt for centuries." },
+          { "h": "Why It Mattered", "icon": "anchor", "body": "It made the treasure ships' enormous size and long ocean crossings possible, and the principle is still used in ships today." }
+        ]
+      },
+      {
+        "id": "ts-giraffe",
+        "category": "event",
+        "title": "The Tribute Giraffe",
+        "hanzi": "麒麟",
+        "icon": "paw",
+        "summary": "An African giraffe presented to the Ming court — hailed as the mythical qilin.",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/giraffe.jpg",
+        "sections": [
+          { "h": "An Auspicious Omen", "icon": "info-circle", "body": "In 1414 Zheng He's fleet brought home a giraffe from the coast of East Africa. With its gentle nature and strange form, the court hailed it as the qilin (麒麟) — a mythical beast said to appear only in an age of sage rule." },
+          { "h": "Power and Prestige", "icon": "globe-africa", "body": "Such tribute showed the reach of the voyages and flattered the Yongle Emperor as a wise and virtuous ruler whose realm drew wonders from the ends of the earth." }
+        ]
+      }
+    ]
+  }
+}

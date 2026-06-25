@@ -29,6 +29,7 @@ ORDER=(
   sages-strategists
   dynasties-landmarks
   great-figures
+  treasure-ship-era
 )
 
 FILES=()

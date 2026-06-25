@@ -1,0 +1,108 @@
+{
+  "revision": 1,
+  "packId": "dynasties-landmarks",
+  "name": "Dynasties & Landmarks",
+  "icon": "monument",
+  "releaseDate": "2026-06-25",
+  "minApp": "2.3",
+  "whatsNew": "Three more dynasties for the History timeline (Three Kingdoms, Jin, Sui) and four great landmarks (the Terracotta Army, the Grand Canal, the Forbidden City and the Mogao Caves) with their own photos.",
+  "content": {
+    "history": [
+      {
+        "id": "threekingdoms",
+        "category": "dynasty",
+        "title": "Three Kingdoms",
+        "hanzi": "三国",
+        "period": "220–280 CE",
+        "tag": "Heroes & War",
+        "color": "#c0392b",
+        "summary": "Wei, Shu and Wu vie for the empire — the age behind the Romance of the Three Kingdoms.",
+        "sections": [
+          { "h": "Overview", "icon": "info-circle", "body": "After the Han collapsed, China split into three rival states — Wei (魏), Shu (蜀) and Wu (吴). Decades of war, diplomacy and shifting alliances followed." },
+          { "h": "Legacy", "icon": "book", "list": ["Immortalised in the classic novel Romance of the Three Kingdoms", "Heroes like Zhuge Liang, Cao Cao and Guan Yu became legends", "The Battle of Red Cliffs remains one of history's most famous engagements"] }
+        ]
+      },
+      {
+        "id": "jin",
+        "category": "dynasty",
+        "title": "Jin Dynasty",
+        "hanzi": "晋朝",
+        "period": "266–420 CE",
+        "tag": "Brief Unity",
+        "color": "#2980b9",
+        "summary": "Briefly reunified China before it fragmented into the Northern and Southern dynasties.",
+        "sections": [
+          { "h": "Overview", "icon": "info-circle", "body": "The Jin reunited China in 280 CE, ending the Three Kingdoms, but court intrigue and nomadic invasions soon split the realm again, beginning centuries of division." },
+          { "h": "Culture", "icon": "feather", "body": "Despite the turmoil, the era flourished in calligraphy and letters — Wang Xizhi (王羲之), the “Sage of Calligraphy,” lived in this period." }
+        ]
+      },
+      {
+        "id": "sui",
+        "category": "dynasty",
+        "title": "Sui Dynasty",
+        "hanzi": "隋朝",
+        "period": "581–618 CE",
+        "tag": "Reunification",
+        "color": "#16a085",
+        "summary": "Reunified a divided China and built the Grand Canal — short-lived but foundational.",
+        "sections": [
+          { "h": "Overview", "icon": "info-circle", "body": "The Sui ended nearly four centuries of division, reunifying north and south and laying the groundwork the Tang would build its golden age upon." },
+          { "h": "Achievements", "icon": "star", "list": ["Dug the Grand Canal linking north and south", "Revived and expanded the imperial examination system", "Rebuilt and extended the Great Wall"] },
+          { "h": "Fall", "icon": "exclamation-triangle", "body": "Vast public works and failed military campaigns exhausted the people; revolts ended the dynasty after just two emperors." }
+        ]
+      },
+      {
+        "id": "terracotta",
+        "category": "event",
+        "title": "Terracotta Army",
+        "hanzi": "兵马俑",
+        "icon": "users",
+        "summary": "Thousands of life-sized clay soldiers guarding the First Emperor's tomb.",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/terracotta.jpg",
+        "sections": [
+          { "h": "Overview", "icon": "info-circle", "body": "Buried near Qin Shi Huang around 210 BCE and rediscovered by well-diggers in 1974, the Terracotta Army numbers over 8,000 soldiers — each with a unique face — plus horses and chariots." },
+          { "h": "Why It Matters", "icon": "landmark", "body": "One of the greatest archaeological finds of the 20th century and a UNESCO World Heritage Site, it reveals the scale and craft of the Qin empire." }
+        ]
+      },
+      {
+        "id": "grandcanal",
+        "category": "event",
+        "title": "The Grand Canal",
+        "hanzi": "大运河",
+        "icon": "water",
+        "summary": "The world's longest and oldest artificial waterway.",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/grandcanal.jpg",
+        "sections": [
+          { "h": "Overview", "icon": "info-circle", "body": "Completed under the Sui and stretching nearly 1,800 km, the Grand Canal linked the Yellow and Yangtze rivers, binding north and south China together economically for over a thousand years." },
+          { "h": "Why It Matters", "icon": "ship", "body": "It moved grain, troops and goods on an unprecedented scale and remains a UNESCO World Heritage Site still partly in use today." }
+        ]
+      },
+      {
+        "id": "forbiddencity",
+        "category": "event",
+        "title": "The Forbidden City",
+        "hanzi": "紫禁城",
+        "icon": "landmark",
+        "summary": "The vast imperial palace at the heart of Beijing.",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/forbiddencity.jpg",
+        "sections": [
+          { "h": "Overview", "icon": "info-circle", "body": "Built by the Ming in the early 1400s, the Forbidden City was home to 24 emperors across the Ming and Qing. Its 980 buildings sit within a moat and walls covering 72 hectares." },
+          { "h": "Why It Matters", "icon": "crown", "body": "The world's largest surviving palace complex and a UNESCO World Heritage Site, it now houses the Palace Museum and its imperial treasures." }
+        ]
+      },
+      {
+        "id": "mogao",
+        "category": "event",
+        "title": "Mogao Caves",
+        "hanzi": "莫高窟",
+        "icon": "place-of-worship",
+        "summary": "Centuries of Buddhist art carved into the cliffs of Dunhuang.",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/mogao.jpg",
+        "sections": [
+          { "h": "Overview", "icon": "info-circle", "body": "Along the Silk Road near Dunhuang, 492 cave temples hold a thousand years of Buddhist murals and statues — begun in the 4th century and added to for a millennium." },
+          { "h": "Why It Matters", "icon": "scroll", "body": "A treasure-house of Silk Road art and manuscripts, including the world's oldest dated printed book, the Diamond Sutra of 868 CE." }
+        ]
+      }
+    ]
+  }
+}

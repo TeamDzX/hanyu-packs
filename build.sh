@@ -27,6 +27,7 @@ ORDER=(
   sentence-lab
   inventions-innovations
   sages-strategists
+  dynasties-landmarks
 )
 
 FILES=()

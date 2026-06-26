@@ -9791,7 +9791,7 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "food-everyday-classics",
       "name": "Chinese Food: Everyday Classics",
       "icon": "utensils",
@@ -9859,7 +9859,7 @@
               "Pour in the stock, slide in the tofu and simmer gently for 4-5 minutes.",
               "Thicken with the cornflour slurry, sprinkle with Sichuan pepper and spring onion."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/mapo-tofu.mp4"
           },
           {
             "id": "sweet-sour-pork",
@@ -9941,7 +9941,7 @@
               "Boil in batches until they float and the filling is cooked, about 6-8 minutes.",
               "Serve with a dip of soy, vinegar and chili oil."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/dumplings.mp4"
           },
           {
             "id": "hot-sour-soup",
@@ -10270,7 +10270,7 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "food-sichuan",
       "name": "Chinese Food: Sichuan Classics",
       "icon": "pepper-hot",
@@ -10418,7 +10418,7 @@
               "Return the chicken and toss to coat in the aromatics.",
               "Serve dry — pick the crisp chicken from the chilies."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/laziji.mp4"
           },
           {
             "id": "sichuan-hotpot",
@@ -10446,7 +10446,7 @@
               "Dip raw ingredients in to cook to your liking — thin meats take seconds.",
               "Fish them out into your sesame-garlic dipping bowl."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/sichuan-hotpot.mp4"
           },
           {
             "id": "red-oil-wontons",
@@ -10507,7 +10507,7 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "food-street-breakfast",
       "name": "Chinese Food: Street Food & Breakfast",
       "icon": "mug-hot",
@@ -10708,7 +10708,7 @@
               "Dust generously with cumin, chili and salt as they cook.",
               "Serve hot off the grill, ideally with cold beer."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/lamb-skewers.mp4"
           },
           {
             "id": "tanghulu",
@@ -10741,7 +10741,7 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "food-noodles",
       "name": "Chinese Food: Noodles",
       "icon": "utensils",
@@ -10776,7 +10776,7 @@
               "Cook the noodles separately and blanch the greens.",
               "Assemble the noodles in bowls, ladle over broth and beef, top with greens."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/beef-noodle-soup.mp4"
           },
           {
             "id": "zhajiangmian",

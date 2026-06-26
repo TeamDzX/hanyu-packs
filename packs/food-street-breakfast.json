@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "food-street-breakfast",
   "name": "Chinese Food: Street Food & Breakfast",
   "icon": "mug-hot",
@@ -13,7 +13,10 @@
         "name": "Jianbing",
         "hanzi": "煎饼",
         "pinyin": "jiānbing",
-        "categories": ["breakfast", "street"],
+        "categories": [
+          "breakfast",
+          "street"
+        ],
         "time": "25 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/jianbing.jpg",
@@ -38,7 +41,12 @@
         "name": "Steamed Pork Buns",
         "hanzi": "包子",
         "pinyin": "bāozi",
-        "categories": ["breakfast", "bun", "pork", "steamed"],
+        "categories": [
+          "breakfast",
+          "bun",
+          "pork",
+          "steamed"
+        ],
         "time": "2.5 hrs",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/baozi.jpg",
@@ -62,7 +70,10 @@
         "name": "Congee",
         "hanzi": "粥",
         "pinyin": "zhōu",
-        "categories": ["breakfast", "rice"],
+        "categories": [
+          "breakfast",
+          "rice"
+        ],
         "time": "60 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/congee.jpg",
@@ -86,7 +97,10 @@
         "name": "Fried Dough Sticks",
         "hanzi": "油条",
         "pinyin": "yóutiáo",
-        "categories": ["breakfast", "fried"],
+        "categories": [
+          "breakfast",
+          "fried"
+        ],
         "time": "2 hrs",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/youtiao.jpg",
@@ -110,7 +124,11 @@
         "name": "Scallion Pancakes",
         "hanzi": "葱油饼",
         "pinyin": "cōngyóubǐng",
-        "categories": ["street", "fried", "vegetable"],
+        "categories": [
+          "street",
+          "fried",
+          "vegetable"
+        ],
         "time": "45 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/scallion-pancakes.jpg",
@@ -134,7 +152,10 @@
         "name": "Roujiamo",
         "hanzi": "肉夹馍",
         "pinyin": "ròujiābó",
-        "categories": ["street", "pork"],
+        "categories": [
+          "street",
+          "pork"
+        ],
         "time": "2 hrs",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/roujiamo.jpg",
@@ -158,7 +179,11 @@
         "name": "Cumin Lamb Skewers",
         "hanzi": "羊肉串",
         "pinyin": "yángròu chuàn",
-        "categories": ["street", "lamb", "spicy"],
+        "categories": [
+          "street",
+          "lamb",
+          "spicy"
+        ],
         "time": "40 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/lamb-skewers.jpg",
@@ -175,14 +200,18 @@
           "Dust generously with cumin, chili and salt as they cook.",
           "Serve hot off the grill, ideally with cold beer."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/lamb-skewers.mp4"
       },
       {
         "id": "tanghulu",
         "name": "Tanghulu",
         "hanzi": "糖葫芦",
         "pinyin": "tánghúlu",
-        "categories": ["street", "sweet", "dessert"],
+        "categories": [
+          "street",
+          "sweet",
+          "dessert"
+        ],
         "time": "30 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/tanghulu.jpg",

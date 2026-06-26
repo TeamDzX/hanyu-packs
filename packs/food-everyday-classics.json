@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "food-everyday-classics",
   "name": "Chinese Food: Everyday Classics",
   "icon": "utensils",
@@ -13,7 +13,10 @@
         "name": "Kung Pao Chicken",
         "hanzi": "宫保鸡丁",
         "pinyin": "gōngbǎo jīdīng",
-        "categories": ["chicken", "spicy"],
+        "categories": [
+          "chicken",
+          "spicy"
+        ],
         "time": "30 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/kung-pao.jpg",
@@ -41,7 +44,10 @@
         "name": "Mapo Tofu",
         "hanzi": "麻婆豆腐",
         "pinyin": "mápó dòufu",
-        "categories": ["tofu", "spicy"],
+        "categories": [
+          "tofu",
+          "spicy"
+        ],
         "time": "25 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/mapo-tofu.jpg",
@@ -61,14 +67,16 @@
           "Pour in the stock, slide in the tofu and simmer gently for 4-5 minutes.",
           "Thicken with the cornflour slurry, sprinkle with Sichuan pepper and spring onion."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/mapo-tofu.mp4"
       },
       {
         "id": "sweet-sour-pork",
         "name": "Sweet & Sour Pork",
         "hanzi": "糖醋里脊",
         "pinyin": "tángcù lǐjǐ",
-        "categories": ["pork"],
+        "categories": [
+          "pork"
+        ],
         "time": "40 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/sweet-sour-pork.jpg",
@@ -93,7 +101,9 @@
         "name": "Egg Fried Rice",
         "hanzi": "蛋炒饭",
         "pinyin": "dàn chǎofàn",
-        "categories": ["rice"],
+        "categories": [
+          "rice"
+        ],
         "time": "15 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/egg-fried-rice.jpg",
@@ -118,7 +128,10 @@
         "name": "Pork Dumplings",
         "hanzi": "饺子",
         "pinyin": "jiǎozi",
-        "categories": ["pork", "dumpling"],
+        "categories": [
+          "pork",
+          "dumpling"
+        ],
         "time": "60 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/dumplings.jpg",
@@ -136,14 +149,17 @@
           "Boil in batches until they float and the filling is cooked, about 6-8 minutes.",
           "Serve with a dip of soy, vinegar and chili oil."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/dumplings.mp4"
       },
       {
         "id": "hot-sour-soup",
         "name": "Hot & Sour Soup",
         "hanzi": "酸辣汤",
         "pinyin": "suānlà tāng",
-        "categories": ["soup", "spicy"],
+        "categories": [
+          "soup",
+          "spicy"
+        ],
         "time": "30 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/hot-sour-soup.jpg",
@@ -169,7 +185,10 @@
         "name": "Beef Chow Mein",
         "hanzi": "牛肉炒面",
         "pinyin": "niúròu chǎomiàn",
-        "categories": ["beef", "noodles"],
+        "categories": [
+          "beef",
+          "noodles"
+        ],
         "time": "25 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/beef-chow-mein.jpg",
@@ -194,7 +213,9 @@
         "name": "Garlic Bok Choy",
         "hanzi": "蒜蓉青菜",
         "pinyin": "suànróng qīngcài",
-        "categories": ["vegetable"],
+        "categories": [
+          "vegetable"
+        ],
         "time": "10 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/garlic-bok-choy.jpg",

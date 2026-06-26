@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "food-noodles",
   "name": "Chinese Food: Noodles",
   "icon": "utensils",
@@ -13,7 +13,11 @@
         "name": "Beef Noodle Soup",
         "hanzi": "牛肉面",
         "pinyin": "niúròu miàn",
-        "categories": ["noodles", "beef", "soup"],
+        "categories": [
+          "noodles",
+          "beef",
+          "soup"
+        ],
         "time": "2.5 hrs",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/beef-noodle-soup.jpg",
@@ -30,14 +34,17 @@
           "Cook the noodles separately and blanch the greens.",
           "Assemble the noodles in bowls, ladle over broth and beef, top with greens."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/beef-noodle-soup.mp4"
       },
       {
         "id": "zhajiangmian",
         "name": "Zhajiangmian",
         "hanzi": "炸酱面",
         "pinyin": "zhájiàngmiàn",
-        "categories": ["noodles", "pork"],
+        "categories": [
+          "noodles",
+          "pork"
+        ],
         "time": "40 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/zhajiangmian.jpg",
@@ -62,7 +69,10 @@
         "name": "Biangbiang Noodles",
         "hanzi": "油泼面",
         "pinyin": "yóupō miàn",
-        "categories": ["noodles", "spicy"],
+        "categories": [
+          "noodles",
+          "spicy"
+        ],
         "time": "60 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/biangbiang-noodles.jpg",
@@ -86,7 +96,10 @@
         "name": "Cold Sesame Noodles",
         "hanzi": "凉面",
         "pinyin": "liángmiàn",
-        "categories": ["noodles", "cold"],
+        "categories": [
+          "noodles",
+          "cold"
+        ],
         "time": "20 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/cold-sesame-noodles.jpg",
@@ -110,7 +123,11 @@
         "name": "Wonton Noodles",
         "hanzi": "云吞面",
         "pinyin": "yúntūn miàn",
-        "categories": ["noodles", "soup", "seafood"],
+        "categories": [
+          "noodles",
+          "soup",
+          "seafood"
+        ],
         "time": "40 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/wonton-noodles.jpg",
@@ -134,7 +151,11 @@
         "name": "Crossing-the-Bridge Noodles",
         "hanzi": "过桥米线",
         "pinyin": "guòqiáo mǐxiàn",
-        "categories": ["noodles", "soup", "rice"],
+        "categories": [
+          "noodles",
+          "soup",
+          "rice"
+        ],
         "time": "45 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/crossing-bridge-noodles.jpg",
@@ -158,7 +179,10 @@
         "name": "Guilin Rice Noodles",
         "hanzi": "桂林米粉",
         "pinyin": "guìlín mǐfěn",
-        "categories": ["noodles", "rice"],
+        "categories": [
+          "noodles",
+          "rice"
+        ],
         "time": "30 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/guilin-rice-noodles.jpg",
@@ -182,7 +206,12 @@
         "name": "Liangpi (Cold Skin Noodles)",
         "hanzi": "凉皮",
         "pinyin": "liángpí",
-        "categories": ["noodles", "cold", "spicy", "vegetable"],
+        "categories": [
+          "noodles",
+          "cold",
+          "spicy",
+          "vegetable"
+        ],
         "time": "40 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/liangpi.jpg",

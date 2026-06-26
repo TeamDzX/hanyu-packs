@@ -1,0 +1,205 @@
+{
+  "revision": 1,
+  "packId": "food-street-breakfast",
+  "name": "Chinese Food: Street Food & Breakfast",
+  "icon": "mug-hot",
+  "releaseDate": "2026-06-26",
+  "minApp": "2.4",
+  "whatsNew": "8 street-food and breakfast favourites for the Chinese Food section — jianbing, baozi, congee, youtiao, scallion pancakes, roujiamo, lamb skewers and tanghulu.",
+  "content": {
+    "recipes": [
+      {
+        "id": "jianbing",
+        "name": "Jianbing",
+        "hanzi": "煎饼",
+        "pinyin": "jiānbing",
+        "categories": ["breakfast", "street"],
+        "time": "25 min",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/jianbing.jpg",
+        "description": "China's favourite breakfast on the go — a thin savoury crepe cooked on a griddle, cracked with an egg, brushed with sauces and folded around a crisp cracker.",
+        "ingredients": [
+          "Batter: 1/2 cup flour, 1/4 cup mung bean flour, 1 cup water",
+          "2 eggs",
+          "Hoisin & chili sauce, to brush",
+          "Scallions, coriander, pickled veg",
+          "1 crisp fried cracker (baocui) or a handful of crisps"
+        ],
+        "steps": [
+          "Spread a thin layer of batter on a hot, lightly oiled flat pan or crepe maker.",
+          "Crack an egg on top and spread it, then scatter scallions and coriander.",
+          "Flip, brush with hoisin and chili sauce, add the crispy cracker and pickles.",
+          "Fold into a parcel and serve hot."
+        ],
+        "video": ""
+      },
+      {
+        "id": "baozi",
+        "name": "Steamed Pork Buns",
+        "hanzi": "包子",
+        "pinyin": "bāozi",
+        "categories": ["breakfast", "bun", "pork", "steamed"],
+        "time": "2.5 hrs",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/baozi.jpg",
+        "description": "Soft, pillowy steamed buns with a savoury pork filling — a breakfast-stall staple eaten warm from the basket.",
+        "ingredients": [
+          "Bao dough (flour, yeast, sugar, water)",
+          "300g minced pork",
+          "2 spring onions + 1 tbsp ginger, minced",
+          "2 tbsp soy, 1 tbsp oyster sauce, 1 tsp sesame oil"
+        ],
+        "steps": [
+          "Mix the pork with the seasonings into a sticky filling.",
+          "Roll the proved dough into discs, thicker in the centre.",
+          "Add filling and pleat the edges up into a sealed twist.",
+          "Prove until puffy, then steam for 12-15 minutes; rest before opening the lid."
+        ],
+        "video": ""
+      },
+      {
+        "id": "congee",
+        "name": "Congee",
+        "hanzi": "粥",
+        "pinyin": "zhōu",
+        "categories": ["breakfast", "rice"],
+        "time": "60 min",
+        "difficulty": "Easy",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/congee.jpg",
+        "description": "Silky rice porridge simmered until the grains collapse — gentle comfort food, dressed up with savoury toppings.",
+        "ingredients": [
+          "1 cup rice",
+          "9 cups water or stock",
+          "Toppings: century egg, shredded pork, scallions",
+          "Ginger, white pepper, soy to taste"
+        ],
+        "steps": [
+          "Rinse the rice, then simmer with the water and ginger on low heat.",
+          "Stir occasionally for about 50 minutes until thick and creamy.",
+          "Season with salt, soy and white pepper.",
+          "Ladle into bowls and add your toppings."
+        ],
+        "video": ""
+      },
+      {
+        "id": "youtiao",
+        "name": "Fried Dough Sticks",
+        "hanzi": "油条",
+        "pinyin": "yóutiáo",
+        "categories": ["breakfast", "fried"],
+        "time": "2 hrs",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/youtiao.jpg",
+        "description": "Long, airy, golden crullers — torn and dunked in warm soy milk, or tucked inside a jianbing. The classic Chinese breakfast pairing.",
+        "ingredients": [
+          "2 cups flour",
+          "1 tsp baking powder + 1/2 tsp baking soda + 1/2 tsp salt",
+          "3/4 cup water",
+          "Oil for deep-frying"
+        ],
+        "steps": [
+          "Mix a soft dough, then rest it (ideally overnight) for an airy crumb.",
+          "Cut into strips, press two together with a chopstick down the middle.",
+          "Stretch and slide into hot oil (190°C), turning until puffed and golden.",
+          "Drain and serve immediately with warm soy milk."
+        ],
+        "video": ""
+      },
+      {
+        "id": "scallion-pancakes",
+        "name": "Scallion Pancakes",
+        "hanzi": "葱油饼",
+        "pinyin": "cōngyóubǐng",
+        "categories": ["street", "fried", "vegetable"],
+        "time": "45 min",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/scallion-pancakes.jpg",
+        "description": "Flaky, chewy, pan-fried flatbreads layered with scallions and oil — shatteringly crisp outside, soft within.",
+        "ingredients": [
+          "2 cups flour + 3/4 cup hot water (dough)",
+          "4 scallions, finely sliced",
+          "2 tbsp oil + 1 tsp salt for the layers",
+          "Oil for pan-frying"
+        ],
+        "steps": [
+          "Make a soft dough with hot water and rest 30 minutes.",
+          "Roll thin, brush with oil, salt and scallions, then roll into a rope and coil.",
+          "Flatten the coil and roll out again to trap the layers.",
+          "Pan-fry in oil until golden and crisp on both sides; cut into wedges."
+        ],
+        "video": ""
+      },
+      {
+        "id": "roujiamo",
+        "name": "Roujiamo",
+        "hanzi": "肉夹馍",
+        "pinyin": "ròujiābó",
+        "categories": ["street", "pork"],
+        "time": "2 hrs",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/roujiamo.jpg",
+        "description": "Often called the world's oldest hamburger — a crisp griddled flatbread stuffed with richly braised, finely chopped pork. A Xi'an street legend.",
+        "ingredients": [
+          "500g pork belly/shoulder",
+          "Braise: soy, Shaoxing wine, star anise, cinnamon, ginger, sugar",
+          "Mo (flatbread) dough, or split round buns",
+          "Coriander & chopped green chili (optional)"
+        ],
+        "steps": [
+          "Braise the pork low and slow until meltingly tender, then chop finely.",
+          "Griddle the flatbreads until crisp and slightly puffed.",
+          "Split each bread open into a pocket.",
+          "Stuff with the chopped pork, a spoon of braising liquid and coriander."
+        ],
+        "video": ""
+      },
+      {
+        "id": "lamb-skewers",
+        "name": "Cumin Lamb Skewers",
+        "hanzi": "羊肉串",
+        "pinyin": "yángròu chuàn",
+        "categories": ["street", "lamb", "spicy"],
+        "time": "40 min",
+        "difficulty": "Easy",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/lamb-skewers.jpg",
+        "description": "The smoky, cumin-dusted skewers that sizzle on every Chinese night-market grill — a Xinjiang favourite gone nationwide.",
+        "ingredients": [
+          "500g lamb, in cubes (with some fat)",
+          "2 tbsp ground cumin, 1 tbsp chili flakes",
+          "1 tsp salt, 1 tsp sugar",
+          "Bamboo or metal skewers"
+        ],
+        "steps": [
+          "Thread the lamb onto skewers, alternating lean and fat.",
+          "Grill over charcoal or a hot griddle, turning often.",
+          "Dust generously with cumin, chili and salt as they cook.",
+          "Serve hot off the grill, ideally with cold beer."
+        ],
+        "video": ""
+      },
+      {
+        "id": "tanghulu",
+        "name": "Tanghulu",
+        "hanzi": "糖葫芦",
+        "pinyin": "tánghúlu",
+        "categories": ["street", "sweet", "dessert"],
+        "time": "30 min",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/tanghulu.jpg",
+        "description": "Skewers of tart hawthorn berries dipped in a glassy sugar shell that cracks with a satisfying snap — a winter-street treat.",
+        "ingredients": [
+          "Fresh hawthorns (or strawberries/grapes), on skewers",
+          "1 cup sugar",
+          "1/2 cup water"
+        ],
+        "steps": [
+          "Thread the fruit onto bamboo skewers and wipe them dry.",
+          "Boil the sugar and water to hard-crack stage (~150°C) without stirring.",
+          "Quickly roll each skewer in the hot syrup to coat thinly.",
+          "Set on an oiled tray until the shell hardens, then eat fresh."
+        ],
+        "video": ""
+      }
+    ]
+  }
+}

@@ -30,6 +30,7 @@ ORDER=(
   dynasties-landmarks
   great-figures
   treasure-ship-era
+  philosophy
 )
 
 FILES=()

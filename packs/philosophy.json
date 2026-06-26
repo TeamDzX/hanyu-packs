@@ -1,0 +1,79 @@
+{
+  "revision": 1,
+  "packId": "philosophy",
+  "name": "Schools of Thought",
+  "icon": "yin-yang",
+  "releaseDate": "2026-06-26",
+  "minApp": "2.3",
+  "whatsNew": "A rich, illustrated tour of Chinese philosophy for History ▸ Philosophy — Confucianism, Taoism, Legalism, Mohism and Buddhism, plus the idea of Qi, each with its own photo.",
+  "content": {
+    "history": [
+      {
+        "id": "phil-confucianism",
+        "category": "philosophy",
+        "title": "Confucianism",
+        "hanzi": "儒家",
+        "pinyin": "Rújiā",
+        "symbol": "儒",
+        "summary": "Virtue, family and social harmony",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/phil-confucianism.jpg",
+        "detailHtml": "Founded on the teachings of Confucius (孔子, 551–479 BCE), Confucianism holds that a good society grows from good people. It stresses moral self-cultivation, respect within the family, ritual propriety (礼) and benevolence (仁).<br><br>For two thousand years it shaped Chinese government, education and family life, and its ideal of the cultivated <em>junzi</em> (君子, “noble person”) remains a cultural touchstone. <em style=\"color:var(--primary-color)\">“Do not impose on others what you do not wish for yourself.”</em>"
+      },
+      {
+        "id": "phil-taoism",
+        "category": "philosophy",
+        "title": "Taoism",
+        "hanzi": "道家",
+        "pinyin": "Dàojiā",
+        "symbol": "道",
+        "summary": "Living in harmony with the Way",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/phil-taoism.jpg",
+        "detailHtml": "Rooted in Laozi's <em>Tao Te Ching</em> (道德经) and the parables of Zhuangzi, Taoism teaches harmony with the Dao (道) — the natural order underlying all things.<br><br>Its central ideal, <em>wu wei</em> (无为, effortless action), is doing by not forcing. Taoism nourished Chinese medicine, martial arts, landscape painting and a deep love of nature. <em style=\"color:var(--primary-color)\">“The Way that can be spoken of is not the eternal Way.”</em>"
+      },
+      {
+        "id": "phil-legalism",
+        "category": "philosophy",
+        "title": "Legalism",
+        "hanzi": "法家",
+        "pinyin": "Fǎjiā",
+        "symbol": "法",
+        "summary": "Order through strict law",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/phil-legalism.jpg",
+        "detailHtml": "Systematised by Han Feizi (韩非子), Legalism argued that human nature is selfish and that order comes only from clear laws, firm rewards and harsh punishments applied equally to all.<br><br>It was the ruthless engine behind the Qin unification of China in 221 BCE — hugely effective, but so severe that the Qin collapsed within a generation, and later dynasties softened it with Confucian ethics."
+      },
+      {
+        "id": "phil-mohism",
+        "category": "philosophy",
+        "title": "Mohism",
+        "hanzi": "墨家",
+        "pinyin": "Mòjiā",
+        "symbol": "墨",
+        "summary": "Universal love and practical reason",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/phil-mohism.jpg",
+        "detailHtml": "Founded by Mozi (墨子), Mohism preached <em>universal love</em> (兼爱) — caring for everyone equally — and opposed wasteful luxury and aggressive war.<br><br>Unusually for its time, the Mohists prized logic, evidence and engineering, and were famous as skilled builders of defensive fortifications. A major rival to Confucianism in the classical age, before fading under the empire."
+      },
+      {
+        "id": "phil-buddhism",
+        "category": "philosophy",
+        "title": "Chinese Buddhism",
+        "hanzi": "佛教",
+        "pinyin": "Fójiào",
+        "symbol": "佛",
+        "summary": "The path beyond suffering",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/phil-buddhism.jpg",
+        "detailHtml": "Arriving from India along the Silk Road around the 1st century CE, Buddhism blended with native thought to become a pillar of Chinese culture.<br><br>It teaches that craving causes suffering and that release comes through wisdom and compassion. In China it flowered into distinct traditions — most famously Chan (禅), which travelled on to Japan as Zen."
+      },
+      {
+        "id": "phil-qi",
+        "category": "philosophy",
+        "title": "Qi",
+        "hanzi": "气",
+        "pinyin": "Qì",
+        "symbol": "气",
+        "summary": "The vital energy of life",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/phil-qi.jpg",
+        "detailHtml": "Qi (气) is the vital energy believed to flow through all living things and the cosmos itself. Balanced, free-flowing qi means health and vitality; blocked or depleted qi means illness.<br><br>The idea underpins traditional Chinese medicine, acupuncture, feng shui and the slow, breath-led movements of tai chi (太极) and qigong (气功)."
+      }
+    ]
+  }
+}

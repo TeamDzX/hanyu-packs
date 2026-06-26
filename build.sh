@@ -35,6 +35,7 @@ ORDER=(
   food-dumplings-dimsum
   food-sichuan
   food-street-breakfast
+  food-noodles
 )
 
 FILES=()

@@ -10739,6 +10739,241 @@
           }
         ]
       }
+    },
+    {
+      "revision": 1,
+      "packId": "food-noodles",
+      "name": "Chinese Food: Noodles",
+      "icon": "utensils",
+      "releaseDate": "2026-06-26",
+      "minApp": "2.4",
+      "whatsNew": "8 noodle dishes from across China for the Chinese Food section — beef noodle soup, zhajiangmian, biangbiang noodles, cold sesame noodles, wonton noodles, crossing-the-bridge noodles, Guilin rice noodles and liangpi.",
+      "content": {
+        "recipes": [
+          {
+            "id": "beef-noodle-soup",
+            "name": "Beef Noodle Soup",
+            "hanzi": "牛肉面",
+            "pinyin": "niúròu miàn",
+            "categories": [
+              "noodles",
+              "beef",
+              "soup"
+            ],
+            "time": "2.5 hrs",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/beef-noodle-soup.jpg",
+            "description": "A deeply savoury bowl of tender braised beef, wheat noodles and greens in a rich spiced broth — a national comfort dish with countless regional versions.",
+            "ingredients": [
+              "600g beef shank, in chunks",
+              "2 tbsp doubanjiang, 3 tbsp soy, 2 tbsp Shaoxing wine",
+              "Star anise, cinnamon, ginger, garlic, spring onion",
+              "Wheat noodles; bok choy to serve"
+            ],
+            "steps": [
+              "Blanch the beef, then brown with the aromatics and doubanjiang.",
+              "Add soy, wine, spices and water; simmer gently for 1.5-2 hours until tender.",
+              "Cook the noodles separately and blanch the greens.",
+              "Assemble the noodles in bowls, ladle over broth and beef, top with greens."
+            ],
+            "video": ""
+          },
+          {
+            "id": "zhajiangmian",
+            "name": "Zhajiangmian",
+            "hanzi": "炸酱面",
+            "pinyin": "zhájiàngmiàn",
+            "categories": [
+              "noodles",
+              "pork"
+            ],
+            "time": "40 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/zhajiangmian.jpg",
+            "description": "Beijing's signature \"fried sauce noodles\" — thick wheat noodles under a savoury, salty fermented-bean and pork sauce, finished with fresh raw vegetables.",
+            "ingredients": [
+              "300g minced pork",
+              "3 tbsp fermented soybean paste (tianmianjiang/yellow bean)",
+              "1 tbsp Shaoxing wine, 1 tsp sugar",
+              "Thick wheat noodles",
+              "Shredded cucumber, radish & beansprouts"
+            ],
+            "steps": [
+              "Fry the pork until browned, add the bean pastes, wine and sugar.",
+              "Simmer the sauce gently until thick and glossy.",
+              "Boil the noodles and drain.",
+              "Top the noodles with the sauce and a pile of raw vegetables; mix before eating."
+            ],
+            "video": ""
+          },
+          {
+            "id": "biangbiang-noodles",
+            "name": "Biangbiang Noodles",
+            "hanzi": "油泼面",
+            "pinyin": "yóupō miàn",
+            "categories": [
+              "noodles",
+              "spicy"
+            ],
+            "time": "60 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/biangbiang-noodles.jpg",
+            "description": "Famously wide, belt-like Shaanxi hand-pulled noodles, finished with chili, garlic and scallion under a pour of smoking-hot oil that sizzles at the table.",
+            "ingredients": [
+              "Hand-pulled wide noodles (flour, water, salt, rested dough)",
+              "2 tbsp chili flakes, 3 cloves garlic, 2 scallions",
+              "1 tbsp soy, 1 tsp black vinegar",
+              "3 tbsp very hot oil"
+            ],
+            "steps": [
+              "Rest a firm dough, then stretch and slap into long wide ribbons; boil until just done.",
+              "Pile the noodles in a bowl and top with chili flakes, garlic and scallion.",
+              "Heat oil until smoking and pour it directly over the aromatics so they sizzle.",
+              "Add soy and vinegar and toss everything together."
+            ],
+            "video": ""
+          },
+          {
+            "id": "cold-sesame-noodles",
+            "name": "Cold Sesame Noodles",
+            "hanzi": "凉面",
+            "pinyin": "liángmiàn",
+            "categories": [
+              "noodles",
+              "cold"
+            ],
+            "time": "20 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/cold-sesame-noodles.jpg",
+            "description": "Cooling noodles tossed in a nutty sesame-peanut sauce — the perfect no-cook lunch on a hot day.",
+            "ingredients": [
+              "Wheat noodles, cooked and cooled",
+              "2 tbsp sesame paste + 1 tbsp peanut butter",
+              "2 tbsp soy, 1 tbsp black vinegar, 1 tsp sugar",
+              "1 clove garlic, chili oil, shredded cucumber"
+            ],
+            "steps": [
+              "Cook the noodles, rinse under cold water and drain well.",
+              "Whisk the sesame paste, soy, vinegar, sugar and garlic, loosening with a little water.",
+              "Toss the noodles in the sauce.",
+              "Top with cucumber and a drizzle of chili oil."
+            ],
+            "video": ""
+          },
+          {
+            "id": "wonton-noodles",
+            "name": "Wonton Noodles",
+            "hanzi": "云吞面",
+            "pinyin": "yúntūn miàn",
+            "categories": [
+              "noodles",
+              "soup",
+              "seafood"
+            ],
+            "time": "40 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/wonton-noodles.jpg",
+            "description": "A Cantonese classic — springy thin egg noodles and plump shrimp wontons in a clear, fragrant broth.",
+            "ingredients": [
+              "Thin egg noodles",
+              "Shrimp & pork wontons",
+              "4 cups light prawn/chicken broth",
+              "Chives or gai lan, white pepper"
+            ],
+            "steps": [
+              "Bring the broth to a gentle simmer and season lightly.",
+              "Poach the wontons until they float and turn translucent.",
+              "Briefly blanch the egg noodles so they stay springy.",
+              "Nest the noodles in bowls, add wontons and broth, finish with greens."
+            ],
+            "video": ""
+          },
+          {
+            "id": "crossing-bridge-noodles",
+            "name": "Crossing-the-Bridge Noodles",
+            "hanzi": "过桥米线",
+            "pinyin": "guòqiáo mǐxiàn",
+            "categories": [
+              "noodles",
+              "soup",
+              "rice"
+            ],
+            "time": "45 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/crossing-bridge-noodles.jpg",
+            "description": "A Yunnan ritual: a bowl of scalding broth under a film of oil that keeps the heat in, into which you slip raw thin meats, vegetables and rice noodles to cook at the table.",
+            "ingredients": [
+              "Rich chicken broth, kept very hot",
+              "Rice noodles (mixian)",
+              "Paper-thin raw chicken, pork or fish",
+              "Quail egg, vegetables, herbs"
+            ],
+            "steps": [
+              "Heat the broth until almost boiling; the oil layer on top traps the heat.",
+              "Bring the broth to the table with the raw ingredients arranged separately.",
+              "Slide in the thin meats first — they cook in seconds in the hot broth.",
+              "Add the vegetables and rice noodles, then eat."
+            ],
+            "video": ""
+          },
+          {
+            "id": "guilin-rice-noodles",
+            "name": "Guilin Rice Noodles",
+            "hanzi": "桂林米粉",
+            "pinyin": "guìlín mǐfěn",
+            "categories": [
+              "noodles",
+              "rice"
+            ],
+            "time": "30 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/guilin-rice-noodles.jpg",
+            "description": "Smooth rice noodles dressed with savoury braised meat, crunchy pickles and peanuts — a beloved breakfast and snack from Guilin.",
+            "ingredients": [
+              "Round rice noodles",
+              "Sliced braised beef or pork",
+              "Pickled long beans & mustard greens",
+              "Fried peanuts, scallions, a little braising 'lu' sauce"
+            ],
+            "steps": [
+              "Blanch the rice noodles until just tender and drain.",
+              "Toss with a spoonful of the savoury braising sauce.",
+              "Top with the sliced braised meat.",
+              "Pile on pickles, peanuts and scallions; mix before eating (broth optional on the side)."
+            ],
+            "video": ""
+          },
+          {
+            "id": "liangpi",
+            "name": "Liangpi (Cold Skin Noodles)",
+            "hanzi": "凉皮",
+            "pinyin": "liángpí",
+            "categories": [
+              "noodles",
+              "cold",
+              "spicy",
+              "vegetable"
+            ],
+            "time": "40 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/liangpi.jpg",
+            "description": "Wide, slippery, cold wheat-starch noodles tossed in a tangy, garlicky chili dressing with beansprouts and cucumber — a refreshing Shaanxi street snack.",
+            "ingredients": [
+              "Liangpi (cold wheat/rice-starch noodles), sliced wide",
+              "Beansprouts & shredded cucumber",
+              "3 tbsp black vinegar, 2 cloves garlic (in water), 2 tbsp chili oil",
+              "Pieces of gluten (mianjin), optional"
+            ],
+            "steps": [
+              "Blanch the beansprouts and slice the cucumber.",
+              "Cut the cold-skin noodles into wide ribbons.",
+              "Dress generously with garlic water, vinegar, chili oil and a little salt.",
+              "Toss with the vegetables and serve cold."
+            ],
+            "video": ""
+          }
+        ]
+      }
     }
   ]
 }

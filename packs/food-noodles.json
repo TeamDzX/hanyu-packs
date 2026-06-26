@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "packId": "food-noodles",
   "name": "Chinese Food: Noodles",
   "icon": "utensils",
@@ -89,7 +89,7 @@
           "Heat oil until smoking and pour it directly over the aromatics so they sizzle.",
           "Add soy and vinegar and toss everything together."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/biangbiang-noodles.mp4"
       },
       {
         "id": "cold-sesame-noodles",
@@ -144,7 +144,7 @@
           "Briefly blanch the egg noodles so they stay springy.",
           "Nest the noodles in bowls, add wontons and broth, finish with greens."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/wonton-noodles.mp4"
       },
       {
         "id": "crossing-bridge-noodles",
@@ -172,7 +172,7 @@
           "Slide in the thin meats first — they cook in seconds in the hot broth.",
           "Add the vegetables and rice noodles, then eat."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/crossing-bridge-noodles.mp4"
       },
       {
         "id": "guilin-rice-noodles",

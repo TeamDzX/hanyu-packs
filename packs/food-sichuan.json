@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "packId": "food-sichuan",
   "name": "Chinese Food: Sichuan Classics",
   "icon": "pepper-hot",
@@ -92,7 +92,7 @@
           "Fry the doubanjiang in oil, add stock, then gently poach the fish; pour over the sprouts.",
           "Top with chilies and peppercorns, then pour over smoking-hot oil to release the aroma."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/boiled-fish.mp4"
       },
       {
         "id": "fish-fragrant-eggplant",
@@ -203,7 +203,7 @@
           "Drain the wontons and toss through the red oil sauce.",
           "Scatter with scallions and serve warm."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/red-oil-wontons.mp4"
       },
       {
         "id": "smashed-cucumber",

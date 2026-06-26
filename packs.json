@@ -9791,7 +9791,7 @@
       }
     },
     {
-      "revision": 2,
+      "revision": 3,
       "packId": "food-everyday-classics",
       "name": "Chinese Food: Everyday Classics",
       "icon": "utensils",
@@ -9829,7 +9829,7 @@
               "Add garlic, ginger and spring onion, then pour in the sauce and toss until glossy.",
               "Stir through the peanuts and serve with steamed rice."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/kung-pao.mp4"
           },
           {
             "id": "mapo-tofu",
@@ -9913,7 +9913,7 @@
               "Return the egg, add peas and spring onion, season with soy and pepper.",
               "Toss until everything is hot and the rice is lightly toasted."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/egg-fried-rice.mp4"
           },
           {
             "id": "dumplings",
@@ -9970,7 +9970,7 @@
               "Thicken with the cornflour slurry until silky.",
               "Turn off the heat and stir in the beaten egg in a thin stream to form ribbons."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/hot-sour-soup.mp4"
           },
           {
             "id": "beef-chow-mein",
@@ -9998,7 +9998,7 @@
               "Add the noodles and sauces, tossing to coat.",
               "Return the beef, toss through and finish with sesame oil."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/beef-chow-mein.mp4"
           },
           {
             "id": "garlic-bok-choy",
@@ -10030,7 +10030,7 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "food-dumplings-dimsum",
       "name": "Chinese Food: Dumplings & Dim Sum",
       "icon": "bowl-rice",
@@ -10067,7 +10067,7 @@
               "Steam over high heat for 8 minutes until the filling is cooked and soupy.",
               "Lift carefully, dip in black vinegar with ginger, and bite gently to sip the soup first."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/xiaolongbao.mp4"
           },
           {
             "id": "har-gow",
@@ -10095,7 +10095,7 @@
               "Fill and pleat into the classic crescent with 7-10 folds.",
               "Steam for about 6 minutes until the wrappers turn glassy."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/har-gow.mp4"
           },
           {
             "id": "siu-mai",
@@ -10125,7 +10125,7 @@
               "Tap flat-bottomed and top with a little roe or diced carrot.",
               "Steam for 8-10 minutes until firm and juicy."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/siu-mai.mp4"
           },
           {
             "id": "char-siu-bao",
@@ -10153,7 +10153,7 @@
               "Prove again until puffy, then steam for 12 minutes.",
               "Serve warm — the tops should crack open slightly."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/char-siu-bao.mp4"
           },
           {
             "id": "potstickers",
@@ -10237,7 +10237,7 @@
               "Poach the wontons until they float and turn translucent, 3-4 minutes.",
               "Ladle into bowls with the broth and greens."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/wonton-soup.mp4"
           },
           {
             "id": "egg-tarts",
@@ -10270,7 +10270,7 @@
       }
     },
     {
-      "revision": 2,
+      "revision": 3,
       "packId": "food-sichuan",
       "name": "Chinese Food: Sichuan Classics",
       "icon": "pepper-hot",
@@ -10363,7 +10363,7 @@
               "Fry the doubanjiang in oil, add stock, then gently poach the fish; pour over the sprouts.",
               "Top with chilies and peppercorns, then pour over smoking-hot oil to release the aroma."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/boiled-fish.mp4"
           },
           {
             "id": "fish-fragrant-eggplant",
@@ -10474,7 +10474,7 @@
               "Drain the wontons and toss through the red oil sauce.",
               "Scatter with scallions and serve warm."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/red-oil-wontons.mp4"
           },
           {
             "id": "smashed-cucumber",
@@ -10507,7 +10507,7 @@
       }
     },
     {
-      "revision": 2,
+      "revision": 3,
       "packId": "food-street-breakfast",
       "name": "Chinese Food: Street Food & Breakfast",
       "icon": "mug-hot",
@@ -10542,7 +10542,7 @@
               "Flip, brush with hoisin and chili sauce, add the crispy cracker and pickles.",
               "Fold into a parcel and serve hot."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/jianbing.mp4"
           },
           {
             "id": "baozi",
@@ -10571,7 +10571,7 @@
               "Add filling and pleat the edges up into a sealed twist.",
               "Prove until puffy, then steam for 12-15 minutes; rest before opening the lid."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/baozi.mp4"
           },
           {
             "id": "congee",
@@ -10598,7 +10598,7 @@
               "Season with salt, soy and white pepper.",
               "Ladle into bowls and add your toppings."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/congee.mp4"
           },
           {
             "id": "youtiao",
@@ -10741,7 +10741,7 @@
       }
     },
     {
-      "revision": 2,
+      "revision": 3,
       "packId": "food-noodles",
       "name": "Chinese Food: Noodles",
       "icon": "utensils",
@@ -10831,7 +10831,7 @@
               "Heat oil until smoking and pour it directly over the aromatics so they sizzle.",
               "Add soy and vinegar and toss everything together."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/biangbiang-noodles.mp4"
           },
           {
             "id": "cold-sesame-noodles",
@@ -10886,7 +10886,7 @@
               "Briefly blanch the egg noodles so they stay springy.",
               "Nest the noodles in bowls, add wontons and broth, finish with greens."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/wonton-noodles.mp4"
           },
           {
             "id": "crossing-bridge-noodles",
@@ -10914,7 +10914,7 @@
               "Slide in the thin meats first — they cook in seconds in the hot broth.",
               "Add the vegetables and rice noodles, then eat."
             ],
-            "video": ""
+            "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/crossing-bridge-noodles.mp4"
           },
           {
             "id": "guilin-rice-noodles",

@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "food-dumplings-dimsum",
   "name": "Chinese Food: Dumplings & Dim Sum",
   "icon": "bowl-rice",
@@ -13,7 +13,11 @@
         "name": "Soup Dumplings",
         "hanzi": "小笼包",
         "pinyin": "xiǎolóngbāo",
-        "categories": ["dumpling", "pork", "steamed"],
+        "categories": [
+          "dumpling",
+          "pork",
+          "steamed"
+        ],
         "time": "2 hrs",
         "difficulty": "Hard",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/xiaolongbao.jpg",
@@ -32,14 +36,18 @@
           "Steam over high heat for 8 minutes until the filling is cooked and soupy.",
           "Lift carefully, dip in black vinegar with ginger, and bite gently to sip the soup first."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/xiaolongbao.mp4"
       },
       {
         "id": "har-gow",
         "name": "Crystal Shrimp Dumplings",
         "hanzi": "虾饺",
         "pinyin": "xiājiǎo",
-        "categories": ["dumpling", "seafood", "steamed"],
+        "categories": [
+          "dumpling",
+          "seafood",
+          "steamed"
+        ],
         "time": "90 min",
         "difficulty": "Hard",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/har-gow.jpg",
@@ -56,14 +64,19 @@
           "Fill and pleat into the classic crescent with 7-10 folds.",
           "Steam for about 6 minutes until the wrappers turn glassy."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/har-gow.mp4"
       },
       {
         "id": "siu-mai",
         "name": "Siu Mai",
         "hanzi": "烧卖",
         "pinyin": "shāomài",
-        "categories": ["dumpling", "pork", "seafood", "steamed"],
+        "categories": [
+          "dumpling",
+          "pork",
+          "seafood",
+          "steamed"
+        ],
         "time": "45 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/siu-mai.jpg",
@@ -81,14 +94,18 @@
           "Tap flat-bottomed and top with a little roe or diced carrot.",
           "Steam for 8-10 minutes until firm and juicy."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/siu-mai.mp4"
       },
       {
         "id": "char-siu-bao",
         "name": "BBQ Pork Buns",
         "hanzi": "叉烧包",
         "pinyin": "chāshāo bāo",
-        "categories": ["bun", "pork", "steamed"],
+        "categories": [
+          "bun",
+          "pork",
+          "steamed"
+        ],
         "time": "2.5 hrs",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/char-siu-bao.jpg",
@@ -105,14 +122,18 @@
           "Prove again until puffy, then steam for 12 minutes.",
           "Serve warm — the tops should crack open slightly."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/char-siu-bao.mp4"
       },
       {
         "id": "potstickers",
         "name": "Potstickers",
         "hanzi": "锅贴",
         "pinyin": "guōtiē",
-        "categories": ["dumpling", "pork", "fried"],
+        "categories": [
+          "dumpling",
+          "pork",
+          "fried"
+        ],
         "time": "45 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/potstickers.jpg",
@@ -136,7 +157,10 @@
         "name": "Spring Rolls",
         "hanzi": "春卷",
         "pinyin": "chūnjuǎn",
-        "categories": ["fried", "vegetable"],
+        "categories": [
+          "fried",
+          "vegetable"
+        ],
         "time": "50 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/spring-rolls.jpg",
@@ -161,7 +185,11 @@
         "name": "Wonton Soup",
         "hanzi": "馄饨",
         "pinyin": "húntún",
-        "categories": ["soup", "pork", "seafood"],
+        "categories": [
+          "soup",
+          "pork",
+          "seafood"
+        ],
         "time": "40 min",
         "difficulty": "Easy",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/wonton-soup.jpg",
@@ -178,14 +206,17 @@
           "Poach the wontons until they float and turn translucent, 3-4 minutes.",
           "Ladle into bowls with the broth and greens."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/wonton-soup.mp4"
       },
       {
         "id": "egg-tarts",
         "name": "Egg Tarts",
         "hanzi": "蛋挞",
         "pinyin": "dàntǎ",
-        "categories": ["dessert", "sweet"],
+        "categories": [
+          "dessert",
+          "sweet"
+        ],
         "time": "70 min",
         "difficulty": "Medium",
         "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/egg-tarts.jpg",

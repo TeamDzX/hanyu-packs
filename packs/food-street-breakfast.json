@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "packId": "food-street-breakfast",
   "name": "Chinese Food: Street Food & Breakfast",
   "icon": "mug-hot",
@@ -34,7 +34,7 @@
           "Flip, brush with hoisin and chili sauce, add the crispy cracker and pickles.",
           "Fold into a parcel and serve hot."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/jianbing.mp4"
       },
       {
         "id": "baozi",
@@ -63,7 +63,7 @@
           "Add filling and pleat the edges up into a sealed twist.",
           "Prove until puffy, then steam for 12-15 minutes; rest before opening the lid."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/baozi.mp4"
       },
       {
         "id": "congee",
@@ -90,7 +90,7 @@
           "Season with salt, soy and white pepper.",
           "Ladle into bowls and add your toppings."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/congee.mp4"
       },
       {
         "id": "youtiao",

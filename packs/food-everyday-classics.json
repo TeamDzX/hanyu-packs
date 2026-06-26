@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "packId": "food-everyday-classics",
   "name": "Chinese Food: Everyday Classics",
   "icon": "utensils",
@@ -37,7 +37,7 @@
           "Add garlic, ginger and spring onion, then pour in the sauce and toss until glossy.",
           "Stir through the peanuts and serve with steamed rice."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/kung-pao.mp4"
       },
       {
         "id": "mapo-tofu",
@@ -121,7 +121,7 @@
           "Return the egg, add peas and spring onion, season with soy and pepper.",
           "Toss until everything is hot and the rice is lightly toasted."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/egg-fried-rice.mp4"
       },
       {
         "id": "dumplings",
@@ -178,7 +178,7 @@
           "Thicken with the cornflour slurry until silky.",
           "Turn off the heat and stir in the beaten egg in a thin stream to form ribbons."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/hot-sour-soup.mp4"
       },
       {
         "id": "beef-chow-mein",
@@ -206,7 +206,7 @@
           "Add the noodles and sauces, tossing to coat.",
           "Return the beef, toss through and finish with sesame oil."
         ],
-        "video": ""
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/beef-chow-mein.mp4"
       },
       {
         "id": "garlic-bok-choy",

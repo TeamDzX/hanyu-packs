@@ -32,6 +32,8 @@ ORDER=(
   treasure-ship-era
   philosophy
   food-everyday-classics
+  food-dumplings-dimsum
+  food-sichuan
 )
 
 FILES=()

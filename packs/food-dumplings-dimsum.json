@@ -1,0 +1,209 @@
+{
+  "revision": 1,
+  "packId": "food-dumplings-dimsum",
+  "name": "Chinese Food: Dumplings & Dim Sum",
+  "icon": "bowl-rice",
+  "releaseDate": "2026-06-26",
+  "minApp": "2.4",
+  "whatsNew": "8 dumpling and dim sum classics for the Chinese Food section — xiaolongbao, har gow, siu mai, char siu bao, potstickers, spring rolls, wonton soup and egg tarts.",
+  "content": {
+    "recipes": [
+      {
+        "id": "xiaolongbao",
+        "name": "Soup Dumplings",
+        "hanzi": "小笼包",
+        "pinyin": "xiǎolóngbāo",
+        "categories": ["dumpling", "pork", "steamed"],
+        "time": "2 hrs",
+        "difficulty": "Hard",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/xiaolongbao.jpg",
+        "description": "Shanghai's famous xiaolongbao — delicate steamed parcels that burst with hot soup. The trick is folding gelled stock into the filling, which melts as they steam.",
+        "ingredients": [
+          "300g minced pork",
+          "1 cup pork-stock aspic (chilled until set), diced",
+          "1 tbsp ginger + 2 spring onions, minced",
+          "2 tbsp soy sauce, 1 tbsp Shaoxing wine, 1 tsp sugar",
+          "Thin round dumpling wrappers",
+          "Black vinegar & ginger slivers, to serve"
+        ],
+        "steps": [
+          "Mix the pork, seasonings, ginger and spring onion, then fold through the diced aspic.",
+          "Place a spoonful on each wrapper and pleat into a sealed purse with a twisted top.",
+          "Steam over high heat for 8 minutes until the filling is cooked and soupy.",
+          "Lift carefully, dip in black vinegar with ginger, and bite gently to sip the soup first."
+        ],
+        "video": ""
+      },
+      {
+        "id": "har-gow",
+        "name": "Crystal Shrimp Dumplings",
+        "hanzi": "虾饺",
+        "pinyin": "xiājiǎo",
+        "categories": ["dumpling", "seafood", "steamed"],
+        "time": "90 min",
+        "difficulty": "Hard",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/har-gow.jpg",
+        "description": "The benchmark of any dim sum kitchen — plump prawns wrapped in a translucent, springy wheat-starch skin pleated into a crescent.",
+        "ingredients": [
+          "250g prawns, roughly chopped",
+          "2 tbsp bamboo shoot, finely diced",
+          "1 tsp sesame oil, pinch of sugar, white pepper",
+          "Wheat starch + tapioca starch dough (the clear wrapper)"
+        ],
+        "steps": [
+          "Mix the prawns with bamboo shoot, sesame oil, sugar and pepper; chill.",
+          "Make the wrapper dough with boiling water so it turns translucent, and roll thin discs.",
+          "Fill and pleat into the classic crescent with 7-10 folds.",
+          "Steam for about 6 minutes until the wrappers turn glassy."
+        ],
+        "video": ""
+      },
+      {
+        "id": "siu-mai",
+        "name": "Siu Mai",
+        "hanzi": "烧卖",
+        "pinyin": "shāomài",
+        "categories": ["dumpling", "pork", "seafood", "steamed"],
+        "time": "45 min",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/siu-mai.jpg",
+        "description": "Open-topped pork and prawn dumplings in a thin yellow wrapper — a dim sum trolley staple, often crowned with a dot of roe.",
+        "ingredients": [
+          "250g minced pork",
+          "100g prawns, chopped",
+          "4 shiitake mushrooms, finely diced",
+          "1 tbsp soy, 1 tsp sesame oil, 1 tsp sugar",
+          "Round yellow siu mai wrappers"
+        ],
+        "steps": [
+          "Combine pork, prawns, mushroom and seasonings into a sticky filling.",
+          "Push a spoonful into a wrapper, squeezing to form an open-topped cup.",
+          "Tap flat-bottomed and top with a little roe or diced carrot.",
+          "Steam for 8-10 minutes until firm and juicy."
+        ],
+        "video": ""
+      },
+      {
+        "id": "char-siu-bao",
+        "name": "BBQ Pork Buns",
+        "hanzi": "叉烧包",
+        "pinyin": "chāshāo bāo",
+        "categories": ["bun", "pork", "steamed"],
+        "time": "2.5 hrs",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/char-siu-bao.jpg",
+        "description": "Pillowy steamed buns that split open to reveal sweet-savoury barbecue pork — a dim sum favourite for all ages.",
+        "ingredients": [
+          "Bao dough (flour, yeast, sugar, milk)",
+          "300g char siu (BBQ pork), diced",
+          "2 tbsp oyster sauce, 1 tbsp hoisin, 1 tsp sugar",
+          "1 tbsp cornflour slurry"
+        ],
+        "steps": [
+          "Cook the sauce ingredients with the pork until thick and glossy; cool.",
+          "Roll the proved dough into discs, add filling and pleat closed.",
+          "Prove again until puffy, then steam for 12 minutes.",
+          "Serve warm — the tops should crack open slightly."
+        ],
+        "video": ""
+      },
+      {
+        "id": "potstickers",
+        "name": "Potstickers",
+        "hanzi": "锅贴",
+        "pinyin": "guōtiē",
+        "categories": ["dumpling", "pork", "fried"],
+        "time": "45 min",
+        "difficulty": "Easy",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/potstickers.jpg",
+        "description": "Pan-fried dumplings with a crisp golden base and steamed juicy top — the best of both textures in one bite.",
+        "ingredients": [
+          "300g pork & cabbage dumpling filling",
+          "Dumpling wrappers",
+          "Oil for frying",
+          "1/2 cup water (to steam)"
+        ],
+        "steps": [
+          "Fill and fold the dumplings, sealing the tops.",
+          "Fry flat-side down in oil until the bottoms are golden.",
+          "Add water and cover to steam until the tops are cooked and the water evaporates.",
+          "Uncover to re-crisp the base, then serve crispy-side up."
+        ],
+        "video": ""
+      },
+      {
+        "id": "spring-rolls",
+        "name": "Spring Rolls",
+        "hanzi": "春卷",
+        "pinyin": "chūnjuǎn",
+        "categories": ["fried", "vegetable"],
+        "time": "50 min",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/spring-rolls.jpg",
+        "description": "Shatteringly crisp rolls packed with stir-fried vegetables — eaten at Spring Festival for their resemblance to gold bars.",
+        "ingredients": [
+          "Spring roll wrappers",
+          "2 cups shredded cabbage & carrot",
+          "1 cup beansprouts",
+          "100g pork or mushrooms (optional)",
+          "1 tbsp soy, 1 tsp sesame oil; oil for frying"
+        ],
+        "steps": [
+          "Stir-fry the filling until just tender, season, and cool completely.",
+          "Roll tightly in the wrappers, sealing the edge with a little water.",
+          "Deep-fry at 180°C until golden and crisp.",
+          "Drain and serve hot with a sweet chili or soy dip."
+        ],
+        "video": ""
+      },
+      {
+        "id": "wonton-soup",
+        "name": "Wonton Soup",
+        "hanzi": "馄饨",
+        "pinyin": "húntún",
+        "categories": ["soup", "pork", "seafood"],
+        "time": "40 min",
+        "difficulty": "Easy",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/wonton-soup.jpg",
+        "description": "Silky pork-and-prawn wontons floating in a clear, comforting broth — light, slurpable and quick.",
+        "ingredients": [
+          "200g minced pork + 100g prawns, chopped",
+          "1 tsp ginger, 1 tbsp soy, 1 tsp sesame oil",
+          "Thin wonton wrappers",
+          "4 cups chicken stock, greens & spring onion"
+        ],
+        "steps": [
+          "Mix the filling and wrap a small amount in each wonton skin.",
+          "Bring the stock to a gentle simmer and season lightly.",
+          "Poach the wontons until they float and turn translucent, 3-4 minutes.",
+          "Ladle into bowls with the broth and greens."
+        ],
+        "video": ""
+      },
+      {
+        "id": "egg-tarts",
+        "name": "Egg Tarts",
+        "hanzi": "蛋挞",
+        "pinyin": "dàntǎ",
+        "categories": ["dessert", "sweet"],
+        "time": "70 min",
+        "difficulty": "Medium",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/egg-tarts.jpg",
+        "description": "The sweet finale of dim sum — flaky pastry shells filled with a wobbling, glossy egg custard.",
+        "ingredients": [
+          "Shortcrust or puff pastry, in tart tins",
+          "3 eggs",
+          "1/2 cup sugar dissolved in 1 cup hot water",
+          "1/4 cup evaporated milk, splash of vanilla"
+        ],
+        "steps": [
+          "Line tart tins with pastry and chill.",
+          "Whisk the eggs with the cooled sugar-water and milk, then strain for a smooth custard.",
+          "Fill the shells two-thirds full.",
+          "Bake at 200°C for ~15-18 minutes until just set with a slight wobble."
+        ],
+        "video": ""
+      }
+    ]
+  }
+}

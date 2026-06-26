@@ -10028,6 +10028,483 @@
           }
         ]
       }
+    },
+    {
+      "revision": 1,
+      "packId": "food-dumplings-dimsum",
+      "name": "Chinese Food: Dumplings & Dim Sum",
+      "icon": "bowl-rice",
+      "releaseDate": "2026-06-26",
+      "minApp": "2.4",
+      "whatsNew": "8 dumpling and dim sum classics for the Chinese Food section — xiaolongbao, har gow, siu mai, char siu bao, potstickers, spring rolls, wonton soup and egg tarts.",
+      "content": {
+        "recipes": [
+          {
+            "id": "xiaolongbao",
+            "name": "Soup Dumplings",
+            "hanzi": "小笼包",
+            "pinyin": "xiǎolóngbāo",
+            "categories": [
+              "dumpling",
+              "pork",
+              "steamed"
+            ],
+            "time": "2 hrs",
+            "difficulty": "Hard",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/xiaolongbao.jpg",
+            "description": "Shanghai's famous xiaolongbao — delicate steamed parcels that burst with hot soup. The trick is folding gelled stock into the filling, which melts as they steam.",
+            "ingredients": [
+              "300g minced pork",
+              "1 cup pork-stock aspic (chilled until set), diced",
+              "1 tbsp ginger + 2 spring onions, minced",
+              "2 tbsp soy sauce, 1 tbsp Shaoxing wine, 1 tsp sugar",
+              "Thin round dumpling wrappers",
+              "Black vinegar & ginger slivers, to serve"
+            ],
+            "steps": [
+              "Mix the pork, seasonings, ginger and spring onion, then fold through the diced aspic.",
+              "Place a spoonful on each wrapper and pleat into a sealed purse with a twisted top.",
+              "Steam over high heat for 8 minutes until the filling is cooked and soupy.",
+              "Lift carefully, dip in black vinegar with ginger, and bite gently to sip the soup first."
+            ],
+            "video": ""
+          },
+          {
+            "id": "har-gow",
+            "name": "Crystal Shrimp Dumplings",
+            "hanzi": "虾饺",
+            "pinyin": "xiājiǎo",
+            "categories": [
+              "dumpling",
+              "seafood",
+              "steamed"
+            ],
+            "time": "90 min",
+            "difficulty": "Hard",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/har-gow.jpg",
+            "description": "The benchmark of any dim sum kitchen — plump prawns wrapped in a translucent, springy wheat-starch skin pleated into a crescent.",
+            "ingredients": [
+              "250g prawns, roughly chopped",
+              "2 tbsp bamboo shoot, finely diced",
+              "1 tsp sesame oil, pinch of sugar, white pepper",
+              "Wheat starch + tapioca starch dough (the clear wrapper)"
+            ],
+            "steps": [
+              "Mix the prawns with bamboo shoot, sesame oil, sugar and pepper; chill.",
+              "Make the wrapper dough with boiling water so it turns translucent, and roll thin discs.",
+              "Fill and pleat into the classic crescent with 7-10 folds.",
+              "Steam for about 6 minutes until the wrappers turn glassy."
+            ],
+            "video": ""
+          },
+          {
+            "id": "siu-mai",
+            "name": "Siu Mai",
+            "hanzi": "烧卖",
+            "pinyin": "shāomài",
+            "categories": [
+              "dumpling",
+              "pork",
+              "seafood",
+              "steamed"
+            ],
+            "time": "45 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/siu-mai.jpg",
+            "description": "Open-topped pork and prawn dumplings in a thin yellow wrapper — a dim sum trolley staple, often crowned with a dot of roe.",
+            "ingredients": [
+              "250g minced pork",
+              "100g prawns, chopped",
+              "4 shiitake mushrooms, finely diced",
+              "1 tbsp soy, 1 tsp sesame oil, 1 tsp sugar",
+              "Round yellow siu mai wrappers"
+            ],
+            "steps": [
+              "Combine pork, prawns, mushroom and seasonings into a sticky filling.",
+              "Push a spoonful into a wrapper, squeezing to form an open-topped cup.",
+              "Tap flat-bottomed and top with a little roe or diced carrot.",
+              "Steam for 8-10 minutes until firm and juicy."
+            ],
+            "video": ""
+          },
+          {
+            "id": "char-siu-bao",
+            "name": "BBQ Pork Buns",
+            "hanzi": "叉烧包",
+            "pinyin": "chāshāo bāo",
+            "categories": [
+              "bun",
+              "pork",
+              "steamed"
+            ],
+            "time": "2.5 hrs",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/char-siu-bao.jpg",
+            "description": "Pillowy steamed buns that split open to reveal sweet-savoury barbecue pork — a dim sum favourite for all ages.",
+            "ingredients": [
+              "Bao dough (flour, yeast, sugar, milk)",
+              "300g char siu (BBQ pork), diced",
+              "2 tbsp oyster sauce, 1 tbsp hoisin, 1 tsp sugar",
+              "1 tbsp cornflour slurry"
+            ],
+            "steps": [
+              "Cook the sauce ingredients with the pork until thick and glossy; cool.",
+              "Roll the proved dough into discs, add filling and pleat closed.",
+              "Prove again until puffy, then steam for 12 minutes.",
+              "Serve warm — the tops should crack open slightly."
+            ],
+            "video": ""
+          },
+          {
+            "id": "potstickers",
+            "name": "Potstickers",
+            "hanzi": "锅贴",
+            "pinyin": "guōtiē",
+            "categories": [
+              "dumpling",
+              "pork",
+              "fried"
+            ],
+            "time": "45 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/potstickers.jpg",
+            "description": "Pan-fried dumplings with a crisp golden base and steamed juicy top — the best of both textures in one bite.",
+            "ingredients": [
+              "300g pork & cabbage dumpling filling",
+              "Dumpling wrappers",
+              "Oil for frying",
+              "1/2 cup water (to steam)"
+            ],
+            "steps": [
+              "Fill and fold the dumplings, sealing the tops.",
+              "Fry flat-side down in oil until the bottoms are golden.",
+              "Add water and cover to steam until the tops are cooked and the water evaporates.",
+              "Uncover to re-crisp the base, then serve crispy-side up."
+            ],
+            "video": ""
+          },
+          {
+            "id": "spring-rolls",
+            "name": "Spring Rolls",
+            "hanzi": "春卷",
+            "pinyin": "chūnjuǎn",
+            "categories": [
+              "fried",
+              "vegetable"
+            ],
+            "time": "50 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/spring-rolls.jpg",
+            "description": "Shatteringly crisp rolls packed with stir-fried vegetables — eaten at Spring Festival for their resemblance to gold bars.",
+            "ingredients": [
+              "Spring roll wrappers",
+              "2 cups shredded cabbage & carrot",
+              "1 cup beansprouts",
+              "100g pork or mushrooms (optional)",
+              "1 tbsp soy, 1 tsp sesame oil; oil for frying"
+            ],
+            "steps": [
+              "Stir-fry the filling until just tender, season, and cool completely.",
+              "Roll tightly in the wrappers, sealing the edge with a little water.",
+              "Deep-fry at 180°C until golden and crisp.",
+              "Drain and serve hot with a sweet chili or soy dip."
+            ],
+            "video": ""
+          },
+          {
+            "id": "wonton-soup",
+            "name": "Wonton Soup",
+            "hanzi": "馄饨",
+            "pinyin": "húntún",
+            "categories": [
+              "soup",
+              "pork",
+              "seafood"
+            ],
+            "time": "40 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/wonton-soup.jpg",
+            "description": "Silky pork-and-prawn wontons floating in a clear, comforting broth — light, slurpable and quick.",
+            "ingredients": [
+              "200g minced pork + 100g prawns, chopped",
+              "1 tsp ginger, 1 tbsp soy, 1 tsp sesame oil",
+              "Thin wonton wrappers",
+              "4 cups chicken stock, greens & spring onion"
+            ],
+            "steps": [
+              "Mix the filling and wrap a small amount in each wonton skin.",
+              "Bring the stock to a gentle simmer and season lightly.",
+              "Poach the wontons until they float and turn translucent, 3-4 minutes.",
+              "Ladle into bowls with the broth and greens."
+            ],
+            "video": ""
+          },
+          {
+            "id": "egg-tarts",
+            "name": "Egg Tarts",
+            "hanzi": "蛋挞",
+            "pinyin": "dàntǎ",
+            "categories": [
+              "dessert",
+              "sweet"
+            ],
+            "time": "70 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/egg-tarts.jpg",
+            "description": "The sweet finale of dim sum — flaky pastry shells filled with a wobbling, glossy egg custard.",
+            "ingredients": [
+              "Shortcrust or puff pastry, in tart tins",
+              "3 eggs",
+              "1/2 cup sugar dissolved in 1 cup hot water",
+              "1/4 cup evaporated milk, splash of vanilla"
+            ],
+            "steps": [
+              "Line tart tins with pastry and chill.",
+              "Whisk the eggs with the cooled sugar-water and milk, then strain for a smooth custard.",
+              "Fill the shells two-thirds full.",
+              "Bake at 200°C for ~15-18 minutes until just set with a slight wobble."
+            ],
+            "video": ""
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "food-sichuan",
+      "name": "Chinese Food: Sichuan Classics",
+      "icon": "pepper-hot",
+      "releaseDate": "2026-06-26",
+      "minApp": "2.4",
+      "whatsNew": "8 bold Sichuan classics for the Chinese Food section — dan dan noodles, twice-cooked pork, boiled fish, fish-fragrant eggplant, laziji, hotpot, red oil wontons and smashed cucumber.",
+      "content": {
+        "recipes": [
+          {
+            "id": "dan-dan-noodles",
+            "name": "Dan Dan Noodles",
+            "hanzi": "担担面",
+            "pinyin": "dàndàn miàn",
+            "categories": [
+              "noodles",
+              "spicy",
+              "pork"
+            ],
+            "time": "30 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/dan-dan-noodles.jpg",
+            "description": "Chengdu street food at its best — springy noodles under a slick of chili oil, crowned with crisp savoury pork and crushed peanuts. Toss before eating.",
+            "ingredients": [
+              "200g wheat noodles",
+              "150g minced pork",
+              "2 tbsp preserved mustard greens (ya cai), chopped",
+              "2 tbsp chili oil, 1 tbsp soy, 1 tsp Sichuan peppercorn (ground)",
+              "1 tbsp sesame paste, crushed peanuts & scallions"
+            ],
+            "steps": [
+              "Fry the pork with the ya cai until dark, crisp and fragrant.",
+              "Spoon chili oil, soy, sesame paste and Sichuan pepper into each bowl.",
+              "Boil the noodles and add them with a splash of cooking water.",
+              "Top with the pork, peanuts and scallions — toss well before eating."
+            ],
+            "video": ""
+          },
+          {
+            "id": "twice-cooked-pork",
+            "name": "Twice-Cooked Pork",
+            "hanzi": "回锅肉",
+            "pinyin": "huíguōròu",
+            "categories": [
+              "pork",
+              "spicy"
+            ],
+            "time": "45 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/twice-cooked-pork.jpg",
+            "description": "Pork belly is boiled, then sliced and stir-fried with leeks in spicy bean paste until the edges curl — a true Sichuan home classic.",
+            "ingredients": [
+              "400g pork belly, in one piece",
+              "2 leeks (or garlic shoots), angle-cut",
+              "1.5 tbsp doubanjiang (chili bean paste)",
+              "1 tsp fermented black beans, 1 tsp sweet bean sauce",
+              "1 tsp sugar, splash of soy"
+            ],
+            "steps": [
+              "Boil the pork belly until just cooked, cool, then slice thinly.",
+              "Fry the slices in a dry-ish wok until they curl and render fat.",
+              "Push aside, fry the doubanjiang and black beans until red and fragrant.",
+              "Add the leeks and seasonings, toss briefly and serve."
+            ],
+            "video": ""
+          },
+          {
+            "id": "boiled-fish",
+            "name": "Boiled Fish in Chili Oil",
+            "hanzi": "水煮鱼",
+            "pinyin": "shuǐzhǔ yú",
+            "categories": [
+              "seafood",
+              "spicy",
+              "soup"
+            ],
+            "time": "50 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/boiled-fish.jpg",
+            "description": "Tender fish fillets poached in a fiery sea of chili oil, dried chilies and Sichuan peppercorns. Dramatic to serve, surprisingly delicate to eat.",
+            "ingredients": [
+              "500g white fish fillets, sliced",
+              "1 egg white + 1 tbsp cornflour (to velvet)",
+              "2 tbsp doubanjiang, a big handful dried chilies",
+              "1 tbsp Sichuan peppercorns, 4 cloves garlic",
+              "Beansprouts or napa cabbage, 3 cups stock"
+            ],
+            "steps": [
+              "Velvet the fish in egg white and cornflour.",
+              "Blanch the beansprouts and lay in a deep bowl.",
+              "Fry the doubanjiang in oil, add stock, then gently poach the fish; pour over the sprouts.",
+              "Top with chilies and peppercorns, then pour over smoking-hot oil to release the aroma."
+            ],
+            "video": ""
+          },
+          {
+            "id": "fish-fragrant-eggplant",
+            "name": "Fish-Fragrant Eggplant",
+            "hanzi": "鱼香茄子",
+            "pinyin": "yúxiāng qiézi",
+            "categories": [
+              "vegetable",
+              "spicy"
+            ],
+            "time": "30 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/fish-fragrant-eggplant.jpg",
+            "description": "No fish involved — \"fish-fragrant\" is a sweet, sour, spicy, garlicky Sichuan flavour. Silky eggplant soaks it all up.",
+            "ingredients": [
+              "2 eggplants, in batons",
+              "1.5 tbsp doubanjiang, 3 cloves garlic + 1 tsp ginger",
+              "1 tbsp soy, 1 tbsp sugar, 1 tbsp black vinegar",
+              "Spring onion; 1 tsp cornflour slurry"
+            ],
+            "steps": [
+              "Fry or roast the eggplant until soft and golden.",
+              "Fry the doubanjiang, garlic and ginger until red and fragrant.",
+              "Add soy, sugar and vinegar, return the eggplant and toss to coat.",
+              "Thicken with the slurry and finish with spring onion."
+            ],
+            "video": ""
+          },
+          {
+            "id": "laziji",
+            "name": "Chongqing Chicken",
+            "hanzi": "辣子鸡",
+            "pinyin": "làzǐ jī",
+            "categories": [
+              "chicken",
+              "spicy"
+            ],
+            "time": "40 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/laziji.jpg",
+            "description": "A mountain of dried chilies hiding little nuggets of crunchy fried chicken — the fun is hunting for them. Numbing, smoky and addictive.",
+            "ingredients": [
+              "500g chicken, in small bite-size pieces",
+              "Marinade: 1 tbsp soy, 1 tbsp wine, cornflour",
+              "2 cups dried red chilies, snipped",
+              "1 tbsp Sichuan peppercorns, garlic & ginger",
+              "Oil for frying"
+            ],
+            "steps": [
+              "Marinate the chicken, then deep-fry until deeply golden and crisp.",
+              "In a little oil, toast the chilies, peppercorns, garlic and ginger until fragrant (don't burn).",
+              "Return the chicken and toss to coat in the aromatics.",
+              "Serve dry — pick the crisp chicken from the chilies."
+            ],
+            "video": ""
+          },
+          {
+            "id": "sichuan-hotpot",
+            "name": "Sichuan Hotpot",
+            "hanzi": "火锅",
+            "pinyin": "huǒguō",
+            "categories": [
+              "soup",
+              "spicy"
+            ],
+            "time": "60 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/sichuan-hotpot.jpg",
+            "description": "Less a dish than an event — a bubbling cauldron of chili-and-peppercorn broth at the table, into which everyone dips meat, tofu and vegetables.",
+            "ingredients": [
+              "Hotpot base (doubanjiang, chilies, Sichuan peppercorn, aromatics)",
+              "6 cups stock",
+              "Thinly sliced beef & lamb",
+              "Tofu, mushrooms, leafy greens, noodles",
+              "Dipping sauce: sesame oil, garlic, coriander"
+            ],
+            "steps": [
+              "Fry the hotpot base, then add stock and simmer to build a deep, spicy broth.",
+              "Bring the pot to the table on a burner, keeping it at a gentle boil.",
+              "Dip raw ingredients in to cook to your liking — thin meats take seconds.",
+              "Fish them out into your sesame-garlic dipping bowl."
+            ],
+            "video": ""
+          },
+          {
+            "id": "red-oil-wontons",
+            "name": "Red Oil Wontons",
+            "hanzi": "红油抄手",
+            "pinyin": "hóngyóu chāoshǒu",
+            "categories": [
+              "dumpling",
+              "spicy",
+              "pork"
+            ],
+            "time": "35 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/red-oil-wontons.jpg",
+            "description": "Plump pork wontons bathed in a sweet, garlicky chili oil rather than soup — Sichuan's punchy answer to the wonton.",
+            "ingredients": [
+              "Pork wontons (200g pork, ginger, soy, sesame oil; wrappers)",
+              "2 tbsp chili oil with sediment",
+              "1 tbsp soy, 1 tsp black vinegar, 1 tsp sugar",
+              "1 clove garlic (grated), scallions"
+            ],
+            "steps": [
+              "Wrap and boil the wontons until they float.",
+              "Whisk the chili oil, soy, vinegar, sugar and garlic into a sauce in a bowl.",
+              "Drain the wontons and toss through the red oil sauce.",
+              "Scatter with scallions and serve warm."
+            ],
+            "video": ""
+          },
+          {
+            "id": "smashed-cucumber",
+            "name": "Smashed Cucumber",
+            "hanzi": "拍黄瓜",
+            "pinyin": "pāi huángguā",
+            "categories": [
+              "vegetable",
+              "cold"
+            ],
+            "time": "15 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/smashed-cucumber.jpg",
+            "description": "The cooling counterpoint to all that chili — cucumber smashed so it drinks up a garlicky, tangy dressing. Five minutes of work.",
+            "ingredients": [
+              "2 cucumbers",
+              "3 cloves garlic, minced",
+              "1 tbsp soy, 1 tbsp black vinegar, 1 tsp sugar",
+              "1 tbsp chili oil, 1 tsp sesame oil, pinch of salt"
+            ],
+            "steps": [
+              "Smash the cucumbers with the flat of a knife, then tear into bite-size pieces.",
+              "Salt briefly and drain off the excess water.",
+              "Whisk the garlic, soy, vinegar, sugar and oils into a dressing.",
+              "Toss just before serving so it stays crunchy."
+            ],
+            "video": ""
+          }
+        ]
+      }
     }
   ]
 }

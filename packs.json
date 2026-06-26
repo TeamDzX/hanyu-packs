@@ -9789,6 +9789,245 @@
           }
         ]
       }
+    },
+    {
+      "revision": 1,
+      "packId": "food-everyday-classics",
+      "name": "Chinese Food: Everyday Classics",
+      "icon": "utensils",
+      "releaseDate": "2026-06-26",
+      "minApp": "2.4",
+      "whatsNew": "Unlocks a brand-new Chinese Food section — 8 classic home-style recipes with photos, ingredient lists and step-by-step methods, browsable by ingredient.",
+      "content": {
+        "recipes": [
+          {
+            "id": "kung-pao",
+            "name": "Kung Pao Chicken",
+            "hanzi": "宫保鸡丁",
+            "pinyin": "gōngbǎo jīdīng",
+            "categories": [
+              "chicken",
+              "spicy"
+            ],
+            "time": "30 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/kung-pao.jpg",
+            "description": "A Sichuan classic of diced chicken stir-fried with peanuts, dried chilies and a glossy sweet-savoury sauce — quick, punchy and a takeaway favourite the world over.",
+            "ingredients": [
+              "2 chicken breasts, diced",
+              "1/2 cup roasted peanuts",
+              "8-10 dried red chilies",
+              "3 spring onions, chopped",
+              "2 cloves garlic + 1 tsp ginger, minced",
+              "2 tbsp soy sauce, 1 tbsp black vinegar, 1 tsp sugar",
+              "1 tsp cornflour + 1 tbsp water"
+            ],
+            "steps": [
+              "Marinate the diced chicken in 1 tbsp soy sauce and the cornflour slurry for 10 minutes.",
+              "Mix the remaining soy sauce, vinegar and sugar into a sauce.",
+              "Stir-fry the chilies briefly in hot oil, then add the chicken and cook until golden.",
+              "Add garlic, ginger and spring onion, then pour in the sauce and toss until glossy.",
+              "Stir through the peanuts and serve with steamed rice."
+            ],
+            "video": ""
+          },
+          {
+            "id": "mapo-tofu",
+            "name": "Mapo Tofu",
+            "hanzi": "麻婆豆腐",
+            "pinyin": "mápó dòufu",
+            "categories": [
+              "tofu",
+              "spicy"
+            ],
+            "time": "25 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/mapo-tofu.jpg",
+            "description": "Silky tofu in a fiery, numbing Sichuan sauce of doubanjiang and peppercorns. Comforting, bold and ready in minutes.",
+            "ingredients": [
+              "1 block soft tofu, cubed",
+              "100g minced pork or beef (optional)",
+              "1.5 tbsp doubanjiang (chili bean paste)",
+              "1 tsp ground Sichuan peppercorn",
+              "2 cloves garlic + 1 tsp ginger, minced",
+              "1 cup stock, 1 tsp cornflour slurry",
+              "Spring onion to finish"
+            ],
+            "steps": [
+              "Gently blanch the tofu cubes in salted water, then drain.",
+              "Fry the mince until browned, add doubanjiang, garlic and ginger until fragrant and red.",
+              "Pour in the stock, slide in the tofu and simmer gently for 4-5 minutes.",
+              "Thicken with the cornflour slurry, sprinkle with Sichuan pepper and spring onion."
+            ],
+            "video": ""
+          },
+          {
+            "id": "sweet-sour-pork",
+            "name": "Sweet & Sour Pork",
+            "hanzi": "糖醋里脊",
+            "pinyin": "tángcù lǐjǐ",
+            "categories": [
+              "pork"
+            ],
+            "time": "40 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/sweet-sour-pork.jpg",
+            "description": "Crispy battered pork tossed in a bright, tangy sauce with peppers and pineapple — the perfect balance of sweet and sour.",
+            "ingredients": [
+              "400g pork loin, cut into chunks",
+              "1 egg + 1/2 cup cornflour for batter",
+              "1 bell pepper, 1/2 onion, chunked",
+              "1/2 cup pineapple pieces",
+              "3 tbsp ketchup, 2 tbsp vinegar, 2 tbsp sugar, 1 tbsp soy"
+            ],
+            "steps": [
+              "Coat the pork in egg then cornflour and deep-fry until golden and crisp; set aside.",
+              "Stir together the ketchup, vinegar, sugar and soy into a sauce.",
+              "Stir-fry the pepper and onion briefly, add the sauce and pineapple and bring to a glaze.",
+              "Toss the fried pork through the sauce just before serving so it stays crisp."
+            ],
+            "video": ""
+          },
+          {
+            "id": "egg-fried-rice",
+            "name": "Egg Fried Rice",
+            "hanzi": "蛋炒饭",
+            "pinyin": "dàn chǎofàn",
+            "categories": [
+              "rice"
+            ],
+            "time": "15 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/egg-fried-rice.jpg",
+            "description": "The ultimate quick meal — day-old rice tossed with egg, peas and spring onion over a high flame. Simple done well.",
+            "ingredients": [
+              "3 cups cold cooked rice (ideally a day old)",
+              "3 eggs, beaten",
+              "1/2 cup peas",
+              "3 spring onions, sliced",
+              "2 tbsp soy sauce, pinch of white pepper"
+            ],
+            "steps": [
+              "Scramble the eggs in hot oil and set aside.",
+              "Add the rice and stir-fry over high heat, breaking up any clumps.",
+              "Return the egg, add peas and spring onion, season with soy and pepper.",
+              "Toss until everything is hot and the rice is lightly toasted."
+            ],
+            "video": ""
+          },
+          {
+            "id": "dumplings",
+            "name": "Pork Dumplings",
+            "hanzi": "饺子",
+            "pinyin": "jiǎozi",
+            "categories": [
+              "pork",
+              "dumpling"
+            ],
+            "time": "60 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/dumplings.jpg",
+            "description": "Handmade jiaozi are the heart of family gatherings, especially at New Year. Juicy pork and cabbage wrapped and pleated by hand.",
+            "ingredients": [
+              "300g minced pork",
+              "2 cups napa cabbage, finely chopped & squeezed",
+              "1 tbsp ginger, 2 spring onions, minced",
+              "2 tbsp soy sauce, 1 tbsp sesame oil",
+              "1 pack dumpling wrappers"
+            ],
+            "steps": [
+              "Mix the pork, cabbage, ginger, spring onion, soy and sesame oil into a filling.",
+              "Place a spoonful on each wrapper, wet the edge and pleat closed.",
+              "Boil in batches until they float and the filling is cooked, about 6-8 minutes.",
+              "Serve with a dip of soy, vinegar and chili oil."
+            ],
+            "video": ""
+          },
+          {
+            "id": "hot-sour-soup",
+            "name": "Hot & Sour Soup",
+            "hanzi": "酸辣汤",
+            "pinyin": "suānlà tāng",
+            "categories": [
+              "soup",
+              "spicy"
+            ],
+            "time": "30 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/hot-sour-soup.jpg",
+            "description": "A warming, tangy soup of tofu, mushrooms and egg ribbons — sour with vinegar, hot with white pepper.",
+            "ingredients": [
+              "4 cups stock",
+              "1/2 block tofu, sliced",
+              "1 cup mushrooms, sliced",
+              "1 egg, beaten",
+              "3 tbsp black vinegar, 1 tsp white pepper, 2 tbsp soy",
+              "2 tbsp cornflour slurry"
+            ],
+            "steps": [
+              "Bring the stock to a simmer and add the mushrooms and tofu.",
+              "Season with soy, vinegar and plenty of white pepper.",
+              "Thicken with the cornflour slurry until silky.",
+              "Turn off the heat and stir in the beaten egg in a thin stream to form ribbons."
+            ],
+            "video": ""
+          },
+          {
+            "id": "beef-chow-mein",
+            "name": "Beef Chow Mein",
+            "hanzi": "牛肉炒面",
+            "pinyin": "niúròu chǎomiàn",
+            "categories": [
+              "beef",
+              "noodles"
+            ],
+            "time": "25 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/beef-chow-mein.jpg",
+            "description": "Springy noodles stir-fried with tender beef and crisp vegetables in a savoury sauce — a wok favourite.",
+            "ingredients": [
+              "250g egg noodles, cooked",
+              "200g beef, thinly sliced",
+              "2 cups mixed vegetables (cabbage, carrot, beansprouts)",
+              "2 cloves garlic, minced",
+              "3 tbsp soy sauce, 1 tbsp oyster sauce, 1 tsp sesame oil"
+            ],
+            "steps": [
+              "Sear the beef in a very hot wok, then remove.",
+              "Stir-fry the garlic and vegetables until just tender.",
+              "Add the noodles and sauces, tossing to coat.",
+              "Return the beef, toss through and finish with sesame oil."
+            ],
+            "video": ""
+          },
+          {
+            "id": "garlic-bok-choy",
+            "name": "Garlic Bok Choy",
+            "hanzi": "蒜蓉青菜",
+            "pinyin": "suànróng qīngcài",
+            "categories": [
+              "vegetable"
+            ],
+            "time": "10 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/garlic-bok-choy.jpg",
+            "description": "A bright, simple side of baby bok choy flashed with garlic — the green that finishes almost every Chinese meal.",
+            "ingredients": [
+              "400g baby bok choy, halved",
+              "4 cloves garlic, sliced",
+              "1 tbsp oyster sauce (or soy)",
+              "1 tsp sugar, splash of water"
+            ],
+            "steps": [
+              "Heat oil and fry the garlic until just fragrant (don't brown it).",
+              "Add the bok choy and a splash of water, tossing over high heat.",
+              "Add the oyster sauce and sugar and stir-fry until the stems are crisp-tender.",
+              "Serve immediately while vivid green."
+            ],
+            "video": ""
+          }
+        ]
+      }
     }
   ]
 }

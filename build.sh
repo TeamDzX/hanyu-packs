@@ -31,6 +31,7 @@ ORDER=(
   great-figures
   treasure-ship-era
   philosophy
+  food-everyday-classics
 )
 
 FILES=()

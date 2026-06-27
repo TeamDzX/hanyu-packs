@@ -1,5 +1,5 @@
 {
-  "revision": 3,
+  "revision": 4,
   "packId": "food-sichuan",
   "name": "Chinese Food: Sichuan Classics",
   "icon": "pepper-hot",
@@ -35,7 +35,34 @@
           "Boil the noodles and add them with a splash of cooking water.",
           "Top with the pork, peanuts and scallions — toss well before eating."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "面条",
+            "pinyin": "miàntiáo",
+            "english": "noodles"
+          },
+          {
+            "hanzi": "辣椒油",
+            "pinyin": "làjiāoyóu",
+            "english": "chili oil"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "花生",
+            "pinyin": "huāshēng",
+            "english": "peanut"
+          },
+          {
+            "hanzi": "花椒",
+            "pinyin": "huājiāo",
+            "english": "Sichuan pepper"
+          }
+        ]
       },
       {
         "id": "twice-cooked-pork",
@@ -63,7 +90,34 @@
           "Push aside, fry the doubanjiang and black beans until red and fragrant.",
           "Add the leeks and seasonings, toss briefly and serve."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "五花肉",
+            "pinyin": "wǔhuāròu",
+            "english": "pork belly"
+          },
+          {
+            "hanzi": "豆瓣酱",
+            "pinyin": "dòubànjiàng",
+            "english": "chili bean paste"
+          },
+          {
+            "hanzi": "蒜苗",
+            "pinyin": "suànmiáo",
+            "english": "garlic shoots"
+          },
+          {
+            "hanzi": "炒",
+            "pinyin": "chǎo",
+            "english": "to stir-fry"
+          },
+          {
+            "hanzi": "辣",
+            "pinyin": "là",
+            "english": "spicy"
+          }
+        ]
       },
       {
         "id": "boiled-fish",
@@ -92,7 +146,34 @@
           "Fry the doubanjiang in oil, add stock, then gently poach the fish; pour over the sprouts.",
           "Top with chilies and peppercorns, then pour over smoking-hot oil to release the aroma."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/boiled-fish.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/boiled-fish.mp4",
+        "vocab": [
+          {
+            "hanzi": "鱼",
+            "pinyin": "yú",
+            "english": "fish"
+          },
+          {
+            "hanzi": "辣椒",
+            "pinyin": "làjiāo",
+            "english": "chili"
+          },
+          {
+            "hanzi": "油",
+            "pinyin": "yóu",
+            "english": "oil"
+          },
+          {
+            "hanzi": "花椒",
+            "pinyin": "huājiāo",
+            "english": "Sichuan pepper"
+          },
+          {
+            "hanzi": "煮",
+            "pinyin": "zhǔ",
+            "english": "to boil"
+          }
+        ]
       },
       {
         "id": "fish-fragrant-eggplant",
@@ -119,7 +200,34 @@
           "Add soy, sugar and vinegar, return the eggplant and toss to coat.",
           "Thicken with the slurry and finish with spring onion."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "茄子",
+            "pinyin": "qiézi",
+            "english": "eggplant"
+          },
+          {
+            "hanzi": "蒜",
+            "pinyin": "suàn",
+            "english": "garlic"
+          },
+          {
+            "hanzi": "糖",
+            "pinyin": "táng",
+            "english": "sugar"
+          },
+          {
+            "hanzi": "醋",
+            "pinyin": "cù",
+            "english": "vinegar"
+          },
+          {
+            "hanzi": "豆瓣酱",
+            "pinyin": "dòubànjiàng",
+            "english": "chili bean paste"
+          }
+        ]
       },
       {
         "id": "laziji",
@@ -147,7 +255,34 @@
           "Return the chicken and toss to coat in the aromatics.",
           "Serve dry — pick the crisp chicken from the chilies."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/laziji.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/laziji.mp4",
+        "vocab": [
+          {
+            "hanzi": "鸡",
+            "pinyin": "jī",
+            "english": "chicken"
+          },
+          {
+            "hanzi": "辣椒",
+            "pinyin": "làjiāo",
+            "english": "chili"
+          },
+          {
+            "hanzi": "花椒",
+            "pinyin": "huājiāo",
+            "english": "Sichuan pepper"
+          },
+          {
+            "hanzi": "蒜",
+            "pinyin": "suàn",
+            "english": "garlic"
+          },
+          {
+            "hanzi": "炸",
+            "pinyin": "zhá",
+            "english": "to deep-fry"
+          }
+        ]
       },
       {
         "id": "sichuan-hotpot",
@@ -175,7 +310,34 @@
           "Dip raw ingredients in to cook to your liking — thin meats take seconds.",
           "Fish them out into your sesame-garlic dipping bowl."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/sichuan-hotpot.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/sichuan-hotpot.mp4",
+        "vocab": [
+          {
+            "hanzi": "火锅",
+            "pinyin": "huǒguō",
+            "english": "hotpot"
+          },
+          {
+            "hanzi": "汤",
+            "pinyin": "tāng",
+            "english": "broth"
+          },
+          {
+            "hanzi": "辣椒",
+            "pinyin": "làjiāo",
+            "english": "chili"
+          },
+          {
+            "hanzi": "牛肉",
+            "pinyin": "niúròu",
+            "english": "beef"
+          },
+          {
+            "hanzi": "豆腐",
+            "pinyin": "dòufu",
+            "english": "tofu"
+          }
+        ]
       },
       {
         "id": "red-oil-wontons",
@@ -203,7 +365,34 @@
           "Drain the wontons and toss through the red oil sauce.",
           "Scatter with scallions and serve warm."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/red-oil-wontons.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/red-oil-wontons.mp4",
+        "vocab": [
+          {
+            "hanzi": "抄手",
+            "pinyin": "chāoshǒu",
+            "english": "wonton"
+          },
+          {
+            "hanzi": "红油",
+            "pinyin": "hóngyóu",
+            "english": "chili oil"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "蒜",
+            "pinyin": "suàn",
+            "english": "garlic"
+          },
+          {
+            "hanzi": "醋",
+            "pinyin": "cù",
+            "english": "vinegar"
+          }
+        ]
       },
       {
         "id": "smashed-cucumber",
@@ -230,7 +419,34 @@
           "Whisk the garlic, soy, vinegar, sugar and oils into a dressing.",
           "Toss just before serving so it stays crunchy."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "黄瓜",
+            "pinyin": "huángguā",
+            "english": "cucumber"
+          },
+          {
+            "hanzi": "蒜",
+            "pinyin": "suàn",
+            "english": "garlic"
+          },
+          {
+            "hanzi": "醋",
+            "pinyin": "cù",
+            "english": "vinegar"
+          },
+          {
+            "hanzi": "辣椒油",
+            "pinyin": "làjiāoyóu",
+            "english": "chili oil"
+          },
+          {
+            "hanzi": "盐",
+            "pinyin": "yán",
+            "english": "salt"
+          }
+        ]
       }
     ]
   }

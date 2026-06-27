@@ -1,5 +1,5 @@
 {
-  "revision": 3,
+  "revision": 4,
   "packId": "food-noodles",
   "name": "Chinese Food: Noodles",
   "icon": "utensils",
@@ -34,7 +34,34 @@
           "Cook the noodles separately and blanch the greens.",
           "Assemble the noodles in bowls, ladle over broth and beef, top with greens."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/beef-noodle-soup.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/beef-noodle-soup.mp4",
+        "vocab": [
+          {
+            "hanzi": "牛肉",
+            "pinyin": "niúròu",
+            "english": "beef"
+          },
+          {
+            "hanzi": "面条",
+            "pinyin": "miàntiáo",
+            "english": "noodles"
+          },
+          {
+            "hanzi": "汤",
+            "pinyin": "tāng",
+            "english": "broth"
+          },
+          {
+            "hanzi": "青菜",
+            "pinyin": "qīngcài",
+            "english": "greens"
+          },
+          {
+            "hanzi": "炖",
+            "pinyin": "dùn",
+            "english": "to braise"
+          }
+        ]
       },
       {
         "id": "zhajiangmian",
@@ -62,7 +89,34 @@
           "Boil the noodles and drain.",
           "Top the noodles with the sauce and a pile of raw vegetables; mix before eating."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "面条",
+            "pinyin": "miàntiáo",
+            "english": "noodles"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "酱",
+            "pinyin": "jiàng",
+            "english": "bean sauce"
+          },
+          {
+            "hanzi": "黄瓜",
+            "pinyin": "huángguā",
+            "english": "cucumber"
+          },
+          {
+            "hanzi": "炒",
+            "pinyin": "chǎo",
+            "english": "to stir-fry"
+          }
+        ]
       },
       {
         "id": "biangbiang-noodles",
@@ -89,7 +143,34 @@
           "Heat oil until smoking and pour it directly over the aromatics so they sizzle.",
           "Add soy and vinegar and toss everything together."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/biangbiang-noodles.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/biangbiang-noodles.mp4",
+        "vocab": [
+          {
+            "hanzi": "面条",
+            "pinyin": "miàntiáo",
+            "english": "noodles"
+          },
+          {
+            "hanzi": "辣椒",
+            "pinyin": "làjiāo",
+            "english": "chili"
+          },
+          {
+            "hanzi": "油",
+            "pinyin": "yóu",
+            "english": "oil"
+          },
+          {
+            "hanzi": "蒜",
+            "pinyin": "suàn",
+            "english": "garlic"
+          },
+          {
+            "hanzi": "葱",
+            "pinyin": "cōng",
+            "english": "spring onion"
+          }
+        ]
       },
       {
         "id": "cold-sesame-noodles",
@@ -116,7 +197,34 @@
           "Toss the noodles in the sauce.",
           "Top with cucumber and a drizzle of chili oil."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "面条",
+            "pinyin": "miàntiáo",
+            "english": "noodles"
+          },
+          {
+            "hanzi": "芝麻",
+            "pinyin": "zhīma",
+            "english": "sesame"
+          },
+          {
+            "hanzi": "酱",
+            "pinyin": "jiàng",
+            "english": "paste"
+          },
+          {
+            "hanzi": "黄瓜",
+            "pinyin": "huángguā",
+            "english": "cucumber"
+          },
+          {
+            "hanzi": "凉",
+            "pinyin": "liáng",
+            "english": "cold"
+          }
+        ]
       },
       {
         "id": "wonton-noodles",
@@ -144,7 +252,34 @@
           "Briefly blanch the egg noodles so they stay springy.",
           "Nest the noodles in bowls, add wontons and broth, finish with greens."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/wonton-noodles.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/wonton-noodles.mp4",
+        "vocab": [
+          {
+            "hanzi": "云吞",
+            "pinyin": "yúntūn",
+            "english": "wonton"
+          },
+          {
+            "hanzi": "面条",
+            "pinyin": "miàntiáo",
+            "english": "noodles"
+          },
+          {
+            "hanzi": "虾",
+            "pinyin": "xiā",
+            "english": "shrimp"
+          },
+          {
+            "hanzi": "汤",
+            "pinyin": "tāng",
+            "english": "soup"
+          },
+          {
+            "hanzi": "青菜",
+            "pinyin": "qīngcài",
+            "english": "greens"
+          }
+        ]
       },
       {
         "id": "crossing-bridge-noodles",
@@ -172,7 +307,34 @@
           "Slide in the thin meats first — they cook in seconds in the hot broth.",
           "Add the vegetables and rice noodles, then eat."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/crossing-bridge-noodles.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/crossing-bridge-noodles.mp4",
+        "vocab": [
+          {
+            "hanzi": "米线",
+            "pinyin": "mǐxiàn",
+            "english": "rice noodles"
+          },
+          {
+            "hanzi": "汤",
+            "pinyin": "tāng",
+            "english": "broth"
+          },
+          {
+            "hanzi": "肉",
+            "pinyin": "ròu",
+            "english": "meat"
+          },
+          {
+            "hanzi": "蔬菜",
+            "pinyin": "shūcài",
+            "english": "vegetables"
+          },
+          {
+            "hanzi": "热",
+            "pinyin": "rè",
+            "english": "hot"
+          }
+        ]
       },
       {
         "id": "guilin-rice-noodles",
@@ -199,7 +361,34 @@
           "Top with the sliced braised meat.",
           "Pile on pickles, peanuts and scallions; mix before eating (broth optional on the side)."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "米粉",
+            "pinyin": "mǐfěn",
+            "english": "rice noodles"
+          },
+          {
+            "hanzi": "牛肉",
+            "pinyin": "niúròu",
+            "english": "beef"
+          },
+          {
+            "hanzi": "花生",
+            "pinyin": "huāshēng",
+            "english": "peanut"
+          },
+          {
+            "hanzi": "酸菜",
+            "pinyin": "suāncài",
+            "english": "pickled greens"
+          },
+          {
+            "hanzi": "葱",
+            "pinyin": "cōng",
+            "english": "spring onion"
+          }
+        ]
       },
       {
         "id": "liangpi",
@@ -228,7 +417,34 @@
           "Dress generously with garlic water, vinegar, chili oil and a little salt.",
           "Toss with the vegetables and serve cold."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "凉皮",
+            "pinyin": "liángpí",
+            "english": "cold noodles"
+          },
+          {
+            "hanzi": "黄瓜",
+            "pinyin": "huángguā",
+            "english": "cucumber"
+          },
+          {
+            "hanzi": "豆芽",
+            "pinyin": "dòuyá",
+            "english": "beansprouts"
+          },
+          {
+            "hanzi": "辣椒油",
+            "pinyin": "làjiāoyóu",
+            "english": "chili oil"
+          },
+          {
+            "hanzi": "醋",
+            "pinyin": "cù",
+            "english": "vinegar"
+          }
+        ]
       }
     ]
   }

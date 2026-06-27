@@ -1,5 +1,5 @@
 {
-  "revision": 3,
+  "revision": 4,
   "packId": "food-street-breakfast",
   "name": "Chinese Food: Street Food & Breakfast",
   "icon": "mug-hot",
@@ -34,7 +34,34 @@
           "Flip, brush with hoisin and chili sauce, add the crispy cracker and pickles.",
           "Fold into a parcel and serve hot."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/jianbing.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/jianbing.mp4",
+        "vocab": [
+          {
+            "hanzi": "煎饼",
+            "pinyin": "jiānbing",
+            "english": "crepe"
+          },
+          {
+            "hanzi": "蛋",
+            "pinyin": "dàn",
+            "english": "egg"
+          },
+          {
+            "hanzi": "葱",
+            "pinyin": "cōng",
+            "english": "spring onion"
+          },
+          {
+            "hanzi": "酱",
+            "pinyin": "jiàng",
+            "english": "sauce"
+          },
+          {
+            "hanzi": "煎",
+            "pinyin": "jiān",
+            "english": "to griddle"
+          }
+        ]
       },
       {
         "id": "baozi",
@@ -63,7 +90,34 @@
           "Add filling and pleat the edges up into a sealed twist.",
           "Prove until puffy, then steam for 12-15 minutes; rest before opening the lid."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/baozi.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/baozi.mp4",
+        "vocab": [
+          {
+            "hanzi": "包子",
+            "pinyin": "bāozi",
+            "english": "bun"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "面团",
+            "pinyin": "miàntuán",
+            "english": "dough"
+          },
+          {
+            "hanzi": "葱",
+            "pinyin": "cōng",
+            "english": "spring onion"
+          },
+          {
+            "hanzi": "蒸",
+            "pinyin": "zhēng",
+            "english": "to steam"
+          }
+        ]
       },
       {
         "id": "congee",
@@ -90,7 +144,34 @@
           "Season with salt, soy and white pepper.",
           "Ladle into bowls and add your toppings."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/congee.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/congee.mp4",
+        "vocab": [
+          {
+            "hanzi": "粥",
+            "pinyin": "zhōu",
+            "english": "congee"
+          },
+          {
+            "hanzi": "米",
+            "pinyin": "mǐ",
+            "english": "rice"
+          },
+          {
+            "hanzi": "蛋",
+            "pinyin": "dàn",
+            "english": "egg"
+          },
+          {
+            "hanzi": "葱",
+            "pinyin": "cōng",
+            "english": "spring onion"
+          },
+          {
+            "hanzi": "煮",
+            "pinyin": "zhǔ",
+            "english": "to simmer"
+          }
+        ]
       },
       {
         "id": "youtiao",
@@ -117,7 +198,34 @@
           "Stretch and slide into hot oil (190°C), turning until puffed and golden.",
           "Drain and serve immediately with warm soy milk."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "油条",
+            "pinyin": "yóutiáo",
+            "english": "fried dough stick"
+          },
+          {
+            "hanzi": "面",
+            "pinyin": "miàn",
+            "english": "dough"
+          },
+          {
+            "hanzi": "油",
+            "pinyin": "yóu",
+            "english": "oil"
+          },
+          {
+            "hanzi": "炸",
+            "pinyin": "zhá",
+            "english": "to deep-fry"
+          },
+          {
+            "hanzi": "豆浆",
+            "pinyin": "dòujiāng",
+            "english": "soy milk"
+          }
+        ]
       },
       {
         "id": "scallion-pancakes",
@@ -145,7 +253,34 @@
           "Flatten the coil and roll out again to trap the layers.",
           "Pan-fry in oil until golden and crisp on both sides; cut into wedges."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "葱",
+            "pinyin": "cōng",
+            "english": "scallion"
+          },
+          {
+            "hanzi": "油",
+            "pinyin": "yóu",
+            "english": "oil"
+          },
+          {
+            "hanzi": "饼",
+            "pinyin": "bǐng",
+            "english": "flatbread"
+          },
+          {
+            "hanzi": "面",
+            "pinyin": "miàn",
+            "english": "dough"
+          },
+          {
+            "hanzi": "煎",
+            "pinyin": "jiān",
+            "english": "to pan-fry"
+          }
+        ]
       },
       {
         "id": "roujiamo",
@@ -172,7 +307,34 @@
           "Split each bread open into a pocket.",
           "Stuff with the chopped pork, a spoon of braising liquid and coriander."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "肉",
+            "pinyin": "ròu",
+            "english": "meat"
+          },
+          {
+            "hanzi": "馍",
+            "pinyin": "mó",
+            "english": "flatbread"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "炖",
+            "pinyin": "dùn",
+            "english": "to braise"
+          },
+          {
+            "hanzi": "香菜",
+            "pinyin": "xiāngcài",
+            "english": "coriander"
+          }
+        ]
       },
       {
         "id": "lamb-skewers",
@@ -200,7 +362,34 @@
           "Dust generously with cumin, chili and salt as they cook.",
           "Serve hot off the grill, ideally with cold beer."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/lamb-skewers.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/lamb-skewers.mp4",
+        "vocab": [
+          {
+            "hanzi": "羊肉",
+            "pinyin": "yángròu",
+            "english": "lamb"
+          },
+          {
+            "hanzi": "串",
+            "pinyin": "chuàn",
+            "english": "skewer"
+          },
+          {
+            "hanzi": "孜然",
+            "pinyin": "zīrán",
+            "english": "cumin"
+          },
+          {
+            "hanzi": "辣椒",
+            "pinyin": "làjiāo",
+            "english": "chili"
+          },
+          {
+            "hanzi": "烤",
+            "pinyin": "kǎo",
+            "english": "to grill"
+          }
+        ]
       },
       {
         "id": "tanghulu",
@@ -227,7 +416,34 @@
           "Quickly roll each skewer in the hot syrup to coat thinly.",
           "Set on an oiled tray until the shell hardens, then eat fresh."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "糖葫芦",
+            "pinyin": "tánghúlu",
+            "english": "candied hawthorn"
+          },
+          {
+            "hanzi": "糖",
+            "pinyin": "táng",
+            "english": "sugar"
+          },
+          {
+            "hanzi": "山楂",
+            "pinyin": "shānzhā",
+            "english": "hawthorn"
+          },
+          {
+            "hanzi": "串",
+            "pinyin": "chuàn",
+            "english": "skewer"
+          },
+          {
+            "hanzi": "甜",
+            "pinyin": "tián",
+            "english": "sweet"
+          }
+        ]
       }
     ]
   }

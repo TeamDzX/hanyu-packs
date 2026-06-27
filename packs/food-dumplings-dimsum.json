@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "packId": "food-dumplings-dimsum",
   "name": "Chinese Food: Dumplings & Dim Sum",
   "icon": "bowl-rice",
@@ -36,7 +36,34 @@
           "Steam over high heat for 8 minutes until the filling is cooked and soupy.",
           "Lift carefully, dip in black vinegar with ginger, and bite gently to sip the soup first."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/xiaolongbao.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/xiaolongbao.mp4",
+        "vocab": [
+          {
+            "hanzi": "小笼包",
+            "pinyin": "xiǎolóngbāo",
+            "english": "soup dumpling"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "汤",
+            "pinyin": "tāng",
+            "english": "soup"
+          },
+          {
+            "hanzi": "蒸",
+            "pinyin": "zhēng",
+            "english": "to steam"
+          },
+          {
+            "hanzi": "醋",
+            "pinyin": "cù",
+            "english": "vinegar"
+          }
+        ]
       },
       {
         "id": "har-gow",
@@ -64,7 +91,34 @@
           "Fill and pleat into the classic crescent with 7-10 folds.",
           "Steam for about 6 minutes until the wrappers turn glassy."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/har-gow.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/har-gow.mp4",
+        "vocab": [
+          {
+            "hanzi": "虾",
+            "pinyin": "xiā",
+            "english": "shrimp"
+          },
+          {
+            "hanzi": "饺子",
+            "pinyin": "jiǎozi",
+            "english": "dumpling"
+          },
+          {
+            "hanzi": "笋",
+            "pinyin": "sǔn",
+            "english": "bamboo shoot"
+          },
+          {
+            "hanzi": "皮",
+            "pinyin": "pí",
+            "english": "wrapper"
+          },
+          {
+            "hanzi": "蒸",
+            "pinyin": "zhēng",
+            "english": "to steam"
+          }
+        ]
       },
       {
         "id": "siu-mai",
@@ -94,7 +148,34 @@
           "Tap flat-bottomed and top with a little roe or diced carrot.",
           "Steam for 8-10 minutes until firm and juicy."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/siu-mai.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/siu-mai.mp4",
+        "vocab": [
+          {
+            "hanzi": "烧卖",
+            "pinyin": "shāomài",
+            "english": "siu mai"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "虾",
+            "pinyin": "xiā",
+            "english": "shrimp"
+          },
+          {
+            "hanzi": "香菇",
+            "pinyin": "xiānggū",
+            "english": "shiitake"
+          },
+          {
+            "hanzi": "蒸",
+            "pinyin": "zhēng",
+            "english": "to steam"
+          }
+        ]
       },
       {
         "id": "char-siu-bao",
@@ -122,7 +203,34 @@
           "Prove again until puffy, then steam for 12 minutes.",
           "Serve warm — the tops should crack open slightly."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/char-siu-bao.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/char-siu-bao.mp4",
+        "vocab": [
+          {
+            "hanzi": "叉烧",
+            "pinyin": "chāshāo",
+            "english": "BBQ pork"
+          },
+          {
+            "hanzi": "包子",
+            "pinyin": "bāozi",
+            "english": "bun"
+          },
+          {
+            "hanzi": "面团",
+            "pinyin": "miàntuán",
+            "english": "dough"
+          },
+          {
+            "hanzi": "蒸",
+            "pinyin": "zhēng",
+            "english": "to steam"
+          },
+          {
+            "hanzi": "甜",
+            "pinyin": "tián",
+            "english": "sweet"
+          }
+        ]
       },
       {
         "id": "potstickers",
@@ -150,7 +258,34 @@
           "Add water and cover to steam until the tops are cooked and the water evaporates.",
           "Uncover to re-crisp the base, then serve crispy-side up."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "锅贴",
+            "pinyin": "guōtiē",
+            "english": "potsticker"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "白菜",
+            "pinyin": "báicài",
+            "english": "cabbage"
+          },
+          {
+            "hanzi": "煎",
+            "pinyin": "jiān",
+            "english": "to pan-fry"
+          },
+          {
+            "hanzi": "水",
+            "pinyin": "shuǐ",
+            "english": "water"
+          }
+        ]
       },
       {
         "id": "spring-rolls",
@@ -178,7 +313,34 @@
           "Deep-fry at 180°C until golden and crisp.",
           "Drain and serve hot with a sweet chili or soy dip."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "春卷",
+            "pinyin": "chūnjuǎn",
+            "english": "spring roll"
+          },
+          {
+            "hanzi": "蔬菜",
+            "pinyin": "shūcài",
+            "english": "vegetables"
+          },
+          {
+            "hanzi": "豆芽",
+            "pinyin": "dòuyá",
+            "english": "beansprouts"
+          },
+          {
+            "hanzi": "卷",
+            "pinyin": "juǎn",
+            "english": "to roll"
+          },
+          {
+            "hanzi": "炸",
+            "pinyin": "zhá",
+            "english": "to deep-fry"
+          }
+        ]
       },
       {
         "id": "wonton-soup",
@@ -206,7 +368,34 @@
           "Poach the wontons until they float and turn translucent, 3-4 minutes.",
           "Ladle into bowls with the broth and greens."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/wonton-soup.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/wonton-soup.mp4",
+        "vocab": [
+          {
+            "hanzi": "馄饨",
+            "pinyin": "húntún",
+            "english": "wonton"
+          },
+          {
+            "hanzi": "虾",
+            "pinyin": "xiā",
+            "english": "shrimp"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "汤",
+            "pinyin": "tāng",
+            "english": "soup"
+          },
+          {
+            "hanzi": "煮",
+            "pinyin": "zhǔ",
+            "english": "to boil"
+          }
+        ]
       },
       {
         "id": "egg-tarts",
@@ -233,7 +422,34 @@
           "Fill the shells two-thirds full.",
           "Bake at 200°C for ~15-18 minutes until just set with a slight wobble."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "蛋挞",
+            "pinyin": "dàntǎ",
+            "english": "egg tart"
+          },
+          {
+            "hanzi": "蛋",
+            "pinyin": "dàn",
+            "english": "egg"
+          },
+          {
+            "hanzi": "糖",
+            "pinyin": "táng",
+            "english": "sugar"
+          },
+          {
+            "hanzi": "奶",
+            "pinyin": "nǎi",
+            "english": "milk"
+          },
+          {
+            "hanzi": "烤",
+            "pinyin": "kǎo",
+            "english": "to bake"
+          }
+        ]
       }
     ]
   }

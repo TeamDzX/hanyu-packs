@@ -1,5 +1,5 @@
 {
-  "revision": 3,
+  "revision": 4,
   "packId": "food-everyday-classics",
   "name": "Chinese Food: Everyday Classics",
   "icon": "utensils",
@@ -37,7 +37,34 @@
           "Add garlic, ginger and spring onion, then pour in the sauce and toss until glossy.",
           "Stir through the peanuts and serve with steamed rice."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/kung-pao.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/kung-pao.mp4",
+        "vocab": [
+          {
+            "hanzi": "鸡",
+            "pinyin": "jī",
+            "english": "chicken"
+          },
+          {
+            "hanzi": "花生",
+            "pinyin": "huāshēng",
+            "english": "peanut"
+          },
+          {
+            "hanzi": "辣椒",
+            "pinyin": "làjiāo",
+            "english": "chili"
+          },
+          {
+            "hanzi": "酱油",
+            "pinyin": "jiàngyóu",
+            "english": "soy sauce"
+          },
+          {
+            "hanzi": "炒",
+            "pinyin": "chǎo",
+            "english": "to stir-fry"
+          }
+        ]
       },
       {
         "id": "mapo-tofu",
@@ -67,7 +94,34 @@
           "Pour in the stock, slide in the tofu and simmer gently for 4-5 minutes.",
           "Thicken with the cornflour slurry, sprinkle with Sichuan pepper and spring onion."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/mapo-tofu.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/mapo-tofu.mp4",
+        "vocab": [
+          {
+            "hanzi": "豆腐",
+            "pinyin": "dòufu",
+            "english": "tofu"
+          },
+          {
+            "hanzi": "麻辣",
+            "pinyin": "málà",
+            "english": "numbing-spicy"
+          },
+          {
+            "hanzi": "肉末",
+            "pinyin": "ròumò",
+            "english": "minced meat"
+          },
+          {
+            "hanzi": "花椒",
+            "pinyin": "huājiāo",
+            "english": "Sichuan pepper"
+          },
+          {
+            "hanzi": "葱",
+            "pinyin": "cōng",
+            "english": "spring onion"
+          }
+        ]
       },
       {
         "id": "sweet-sour-pork",
@@ -94,7 +148,34 @@
           "Stir-fry the pepper and onion briefly, add the sauce and pineapple and bring to a glaze.",
           "Toss the fried pork through the sauce just before serving so it stays crisp."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "糖",
+            "pinyin": "táng",
+            "english": "sugar"
+          },
+          {
+            "hanzi": "醋",
+            "pinyin": "cù",
+            "english": "vinegar"
+          },
+          {
+            "hanzi": "菠萝",
+            "pinyin": "bōluó",
+            "english": "pineapple"
+          },
+          {
+            "hanzi": "炸",
+            "pinyin": "zhá",
+            "english": "to deep-fry"
+          }
+        ]
       },
       {
         "id": "egg-fried-rice",
@@ -121,7 +202,34 @@
           "Return the egg, add peas and spring onion, season with soy and pepper.",
           "Toss until everything is hot and the rice is lightly toasted."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/egg-fried-rice.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/egg-fried-rice.mp4",
+        "vocab": [
+          {
+            "hanzi": "蛋",
+            "pinyin": "dàn",
+            "english": "egg"
+          },
+          {
+            "hanzi": "米饭",
+            "pinyin": "mǐfàn",
+            "english": "cooked rice"
+          },
+          {
+            "hanzi": "豌豆",
+            "pinyin": "wāndòu",
+            "english": "peas"
+          },
+          {
+            "hanzi": "葱",
+            "pinyin": "cōng",
+            "english": "spring onion"
+          },
+          {
+            "hanzi": "炒",
+            "pinyin": "chǎo",
+            "english": "to stir-fry"
+          }
+        ]
       },
       {
         "id": "dumplings",
@@ -149,7 +257,34 @@
           "Boil in batches until they float and the filling is cooked, about 6-8 minutes.",
           "Serve with a dip of soy, vinegar and chili oil."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/dumplings.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/dumplings.mp4",
+        "vocab": [
+          {
+            "hanzi": "饺子",
+            "pinyin": "jiǎozi",
+            "english": "dumpling"
+          },
+          {
+            "hanzi": "猪肉",
+            "pinyin": "zhūròu",
+            "english": "pork"
+          },
+          {
+            "hanzi": "白菜",
+            "pinyin": "báicài",
+            "english": "cabbage"
+          },
+          {
+            "hanzi": "姜",
+            "pinyin": "jiāng",
+            "english": "ginger"
+          },
+          {
+            "hanzi": "煮",
+            "pinyin": "zhǔ",
+            "english": "to boil"
+          }
+        ]
       },
       {
         "id": "hot-sour-soup",
@@ -178,7 +313,34 @@
           "Thicken with the cornflour slurry until silky.",
           "Turn off the heat and stir in the beaten egg in a thin stream to form ribbons."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/hot-sour-soup.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/hot-sour-soup.mp4",
+        "vocab": [
+          {
+            "hanzi": "酸",
+            "pinyin": "suān",
+            "english": "sour"
+          },
+          {
+            "hanzi": "辣",
+            "pinyin": "là",
+            "english": "spicy"
+          },
+          {
+            "hanzi": "汤",
+            "pinyin": "tāng",
+            "english": "soup"
+          },
+          {
+            "hanzi": "蘑菇",
+            "pinyin": "mógu",
+            "english": "mushroom"
+          },
+          {
+            "hanzi": "蛋",
+            "pinyin": "dàn",
+            "english": "egg"
+          }
+        ]
       },
       {
         "id": "beef-chow-mein",
@@ -206,7 +368,34 @@
           "Add the noodles and sauces, tossing to coat.",
           "Return the beef, toss through and finish with sesame oil."
         ],
-        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/beef-chow-mein.mp4"
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/beef-chow-mein.mp4",
+        "vocab": [
+          {
+            "hanzi": "牛肉",
+            "pinyin": "niúròu",
+            "english": "beef"
+          },
+          {
+            "hanzi": "面条",
+            "pinyin": "miàntiáo",
+            "english": "noodles"
+          },
+          {
+            "hanzi": "蔬菜",
+            "pinyin": "shūcài",
+            "english": "vegetables"
+          },
+          {
+            "hanzi": "蒜",
+            "pinyin": "suàn",
+            "english": "garlic"
+          },
+          {
+            "hanzi": "炒",
+            "pinyin": "chǎo",
+            "english": "to stir-fry"
+          }
+        ]
       },
       {
         "id": "garlic-bok-choy",
@@ -232,7 +421,34 @@
           "Add the oyster sauce and sugar and stir-fry until the stems are crisp-tender.",
           "Serve immediately while vivid green."
         ],
-        "video": ""
+        "video": "",
+        "vocab": [
+          {
+            "hanzi": "青菜",
+            "pinyin": "qīngcài",
+            "english": "leafy greens"
+          },
+          {
+            "hanzi": "蒜",
+            "pinyin": "suàn",
+            "english": "garlic"
+          },
+          {
+            "hanzi": "油",
+            "pinyin": "yóu",
+            "english": "oil"
+          },
+          {
+            "hanzi": "盐",
+            "pinyin": "yán",
+            "english": "salt"
+          },
+          {
+            "hanzi": "炒",
+            "pinyin": "chǎo",
+            "english": "to stir-fry"
+          }
+        ]
       }
     ]
   }

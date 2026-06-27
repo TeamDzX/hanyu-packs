@@ -7837,6 +7837,229 @@
     },
     {
       "revision": 1,
+      "packId": "flashcards-vol-4",
+      "name": "Picture Flashcards · Vol. 4",
+      "icon": "clone",
+      "releaseDate": "2026-06-27",
+      "minApp": "2.0",
+      "whatsNew": "Three tech-themed picture-flashcard decks — Gadgets, At the Desk and Smart Home. Flip a card to reveal pinyin, meaning and audio.",
+      "content": {
+        "flashcardDecks": [
+          {
+            "id": "gadgets",
+            "title": "Gadgets",
+            "titleCn": "电子产品",
+            "icon": "mobile-screen-button",
+            "grad": "linear-gradient(135deg,#6366f1,#a855f7)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/gadgets/",
+            "cards": [
+              {
+                "hanzi": "手机",
+                "pinyin": "shǒujī",
+                "meaning": "smartphone"
+              },
+              {
+                "hanzi": "平板电脑",
+                "pinyin": "píngbǎn diànnǎo",
+                "meaning": "tablet"
+              },
+              {
+                "hanzi": "笔记本电脑",
+                "pinyin": "bǐjìběn diànnǎo",
+                "meaning": "laptop"
+              },
+              {
+                "hanzi": "智能手表",
+                "pinyin": "zhìnéng shǒubiǎo",
+                "meaning": "smartwatch"
+              },
+              {
+                "hanzi": "耳机",
+                "pinyin": "ěrjī",
+                "meaning": "headphones"
+              },
+              {
+                "hanzi": "相机",
+                "pinyin": "xiàngjī",
+                "meaning": "camera"
+              },
+              {
+                "hanzi": "游戏机",
+                "pinyin": "yóuxìjī",
+                "meaning": "games console"
+              },
+              {
+                "hanzi": "无人机",
+                "pinyin": "wúrénjī",
+                "meaning": "drone"
+              },
+              {
+                "hanzi": "充电宝",
+                "pinyin": "chōngdiànbǎo",
+                "meaning": "power bank"
+              },
+              {
+                "hanzi": "智能音箱",
+                "pinyin": "zhìnéng yīnxiāng",
+                "meaning": "smart speaker"
+              },
+              {
+                "hanzi": "电子书",
+                "pinyin": "diànzǐshū",
+                "meaning": "e-reader"
+              },
+              {
+                "hanzi": "充电器",
+                "pinyin": "chōngdiànqì",
+                "meaning": "charger"
+              }
+            ]
+          },
+          {
+            "id": "office-tech",
+            "title": "At the Desk",
+            "titleCn": "办公设备",
+            "icon": "desktop",
+            "grad": "linear-gradient(135deg,#0ea5e9,#3b82f6)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/office-tech/",
+            "cards": [
+              {
+                "hanzi": "台式电脑",
+                "pinyin": "táishì diànnǎo",
+                "meaning": "desktop computer"
+              },
+              {
+                "hanzi": "显示器",
+                "pinyin": "xiǎnshìqì",
+                "meaning": "monitor"
+              },
+              {
+                "hanzi": "键盘",
+                "pinyin": "jiànpán",
+                "meaning": "keyboard"
+              },
+              {
+                "hanzi": "鼠标",
+                "pinyin": "shǔbiāo",
+                "meaning": "mouse"
+              },
+              {
+                "hanzi": "打印机",
+                "pinyin": "dǎyìnjī",
+                "meaning": "printer"
+              },
+              {
+                "hanzi": "扫描仪",
+                "pinyin": "sǎomiáoyí",
+                "meaning": "scanner"
+              },
+              {
+                "hanzi": "投影仪",
+                "pinyin": "tóuyǐngyí",
+                "meaning": "projector"
+              },
+              {
+                "hanzi": "摄像头",
+                "pinyin": "shèxiàngtóu",
+                "meaning": "webcam"
+              },
+              {
+                "hanzi": "U盘",
+                "pinyin": "U pán",
+                "meaning": "USB flash drive"
+              },
+              {
+                "hanzi": "路由器",
+                "pinyin": "lùyóuqì",
+                "meaning": "router"
+              },
+              {
+                "hanzi": "台灯",
+                "pinyin": "táidēng",
+                "meaning": "desk lamp"
+              },
+              {
+                "hanzi": "计算器",
+                "pinyin": "jìsuànqì",
+                "meaning": "calculator"
+              }
+            ]
+          },
+          {
+            "id": "smart-home",
+            "title": "Smart Home",
+            "titleCn": "智能家居",
+            "icon": "house-signal",
+            "grad": "linear-gradient(135deg,#10b981,#14b8a6)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/smart-home/",
+            "cards": [
+              {
+                "hanzi": "电视",
+                "pinyin": "diànshì",
+                "meaning": "television"
+              },
+              {
+                "hanzi": "冰箱",
+                "pinyin": "bīngxiāng",
+                "meaning": "fridge"
+              },
+              {
+                "hanzi": "洗衣机",
+                "pinyin": "xǐyījī",
+                "meaning": "washing machine"
+              },
+              {
+                "hanzi": "空调",
+                "pinyin": "kōngtiáo",
+                "meaning": "air conditioner"
+              },
+              {
+                "hanzi": "微波炉",
+                "pinyin": "wēibōlú",
+                "meaning": "microwave"
+              },
+              {
+                "hanzi": "吸尘器",
+                "pinyin": "xīchénqì",
+                "meaning": "vacuum cleaner"
+              },
+              {
+                "hanzi": "电风扇",
+                "pinyin": "diànfēngshàn",
+                "meaning": "electric fan"
+              },
+              {
+                "hanzi": "电饭煲",
+                "pinyin": "diànfànbāo",
+                "meaning": "rice cooker"
+              },
+              {
+                "hanzi": "智能门锁",
+                "pinyin": "zhìnéng ménsuǒ",
+                "meaning": "smart lock"
+              },
+              {
+                "hanzi": "监控摄像头",
+                "pinyin": "jiānkòng shèxiàngtóu",
+                "meaning": "security camera"
+              },
+              {
+                "hanzi": "机器人",
+                "pinyin": "jīqìrén",
+                "meaning": "robot"
+              },
+              {
+                "hanzi": "遥控器",
+                "pinyin": "yáokòngqì",
+                "meaning": "remote control"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
       "packId": "street-smart",
       "name": "Street Smart",
       "icon": "camera",

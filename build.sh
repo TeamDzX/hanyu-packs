@@ -15,6 +15,7 @@ ORDER=(
   flashcards-vol-1
   flashcards-vol-2
   flashcards-vol-3
+  flashcards-vol-4
   street-smart
   tone-master
   parrot-talk

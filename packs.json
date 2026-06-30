@@ -13457,6 +13457,473 @@
           }
         ]
       }
+    },
+    {
+      "revision": 1,
+      "packId": "food-plant-based",
+      "name": "Chinese Food: Plant-Based",
+      "icon": "seedling",
+      "releaseDate": "2026-06-30",
+      "minApp": "2.4",
+      "whatsNew": "Eight plant-based Chinese recipes for the Chinese Food section — tomato & egg, home-style tofu, Buddha's delight, sweet & sour tofu and more, each with a photo, ingredients, step-by-step method and key kitchen vocab.",
+      "content": {
+        "recipes": [
+          {
+            "id": "tomato-egg",
+            "name": "Tomato & Egg Stir-Fry",
+            "hanzi": "西红柿炒鸡蛋",
+            "pinyin": "xīhóngshì chǎo jīdàn",
+            "categories": [
+              "egg",
+              "vegetable"
+            ],
+            "time": "15 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/tomato-egg.jpg",
+            "description": "The most beloved home-style dish in China — silky scrambled egg folded through sweet, jammy tomatoes. Comforting, quick and endlessly satisfying over rice.",
+            "ingredients": [
+              "4 ripe tomatoes, cut into wedges",
+              "4 eggs, beaten",
+              "2 spring onions, chopped",
+              "1 tsp sugar",
+              "1/2 tsp salt",
+              "2 tbsp oil"
+            ],
+            "steps": [
+              "Beat the eggs with a pinch of salt. Heat 1 tbsp oil and scramble until just set, then remove.",
+              "Add the remaining oil and fry the tomato wedges until they soften and release their juice.",
+              "Stir in the sugar and salt and cook down to a light sauce.",
+              "Return the egg, add the spring onion and toss gently to combine.",
+              "Serve hot over steamed rice."
+            ],
+            "video": "",
+            "vocab": [
+              {
+                "hanzi": "西红柿",
+                "pinyin": "xīhóngshì",
+                "english": "tomato"
+              },
+              {
+                "hanzi": "鸡蛋",
+                "pinyin": "jīdàn",
+                "english": "egg"
+              },
+              {
+                "hanzi": "炒",
+                "pinyin": "chǎo",
+                "english": "to stir-fry"
+              },
+              {
+                "hanzi": "糖",
+                "pinyin": "táng",
+                "english": "sugar"
+              },
+              {
+                "hanzi": "盐",
+                "pinyin": "yán",
+                "english": "salt"
+              }
+            ]
+          },
+          {
+            "id": "home-style-tofu",
+            "name": "Home-Style Braised Tofu",
+            "hanzi": "家常豆腐",
+            "pinyin": "jiācháng dòufu",
+            "categories": [
+              "tofu",
+              "vegetable"
+            ],
+            "time": "25 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/home-style-tofu.jpg",
+            "description": "Golden pan-fried tofu braised with peppers, carrot and mushrooms in a savoury brown sauce — a homely classic that's hearty without any meat.",
+            "ingredients": [
+              "1 block firm tofu, sliced",
+              "1 green pepper, chunked",
+              "1 carrot, sliced",
+              "3 dried shiitake mushrooms, soaked and sliced",
+              "2 cloves garlic, minced",
+              "2 tbsp soy sauce, 1 tbsp mushroom sauce, 1 tsp sugar",
+              "1 tsp cornflour + 2 tbsp water"
+            ],
+            "steps": [
+              "Pan-fry the tofu slices in oil until golden on both sides, then set aside.",
+              "Stir-fry the garlic, carrot and mushrooms for 2 minutes.",
+              "Add the green pepper and the sauces with a splash of water; bring to a simmer.",
+              "Return the tofu and braise gently for 5 minutes.",
+              "Thicken with the cornflour slurry and serve."
+            ],
+            "video": "",
+            "vocab": [
+              {
+                "hanzi": "豆腐",
+                "pinyin": "dòufu",
+                "english": "tofu"
+              },
+              {
+                "hanzi": "青椒",
+                "pinyin": "qīngjiāo",
+                "english": "green pepper"
+              },
+              {
+                "hanzi": "蘑菇",
+                "pinyin": "mógu",
+                "english": "mushroom"
+              },
+              {
+                "hanzi": "煎",
+                "pinyin": "jiān",
+                "english": "to pan-fry"
+              },
+              {
+                "hanzi": "酱油",
+                "pinyin": "jiàngyóu",
+                "english": "soy sauce"
+              }
+            ]
+          },
+          {
+            "id": "potato-slivers",
+            "name": "Stir-Fried Potato Slivers",
+            "hanzi": "醋溜土豆丝",
+            "pinyin": "cùliū tǔdòusī",
+            "categories": [
+              "vegetable",
+              "spicy"
+            ],
+            "time": "20 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/potato-slivers.jpg",
+            "description": "Crisp-tender matchsticks of potato flashed in the wok with vinegar and dried chili — tangy, light and wonderfully addictive. Naturally vegan.",
+            "ingredients": [
+              "2 large potatoes, julienned",
+              "2 dried red chilies",
+              "1 spring onion, shredded",
+              "2 cloves garlic, sliced",
+              "2 tbsp rice vinegar",
+              "1/2 tsp salt"
+            ],
+            "steps": [
+              "Rinse the potato slivers in cold water to remove starch, then drain well.",
+              "Heat oil and briefly fry the chilies and garlic until fragrant.",
+              "Add the potato and stir-fry over high heat for 2-3 minutes until just tender.",
+              "Splash in the vinegar and season with salt, tossing quickly.",
+              "Finish with spring onion and serve crisp."
+            ],
+            "video": "",
+            "vocab": [
+              {
+                "hanzi": "土豆",
+                "pinyin": "tǔdòu",
+                "english": "potato"
+              },
+              {
+                "hanzi": "醋",
+                "pinyin": "cù",
+                "english": "vinegar"
+              },
+              {
+                "hanzi": "辣椒",
+                "pinyin": "làjiāo",
+                "english": "chili"
+              },
+              {
+                "hanzi": "蒜",
+                "pinyin": "suàn",
+                "english": "garlic"
+              },
+              {
+                "hanzi": "丝",
+                "pinyin": "sī",
+                "english": "shred / sliver"
+              }
+            ]
+          },
+          {
+            "id": "green-beans",
+            "name": "Dry-Fried Green Beans",
+            "hanzi": "干煸四季豆",
+            "pinyin": "gānbiān sìjìdòu",
+            "categories": [
+              "vegetable",
+              "spicy"
+            ],
+            "time": "25 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/green-beans.jpg",
+            "description": "Green beans blistered until wrinkled and smoky, then tossed with garlic, ginger and chili — a Sichuan favourite, here made fully vegetarian.",
+            "ingredients": [
+              "400g green beans, trimmed",
+              "2 cloves garlic + 1 tsp ginger, minced",
+              "2 dried chilies, chopped",
+              "1 tbsp preserved mustard greens (ya cai), optional",
+              "1 tbsp soy sauce, 1 tsp sugar"
+            ],
+            "steps": [
+              "Dry the beans well. Fry in hot oil until the skins blister and wrinkle, then remove.",
+              "Pour off most of the oil; fry the garlic, ginger, chili and ya cai until fragrant.",
+              "Return the beans, add soy sauce and sugar and toss over high heat.",
+              "Stir-fry until the sauce coats and the beans are tender.",
+              "Serve hot."
+            ],
+            "video": "",
+            "vocab": [
+              {
+                "hanzi": "四季豆",
+                "pinyin": "sìjìdòu",
+                "english": "green beans"
+              },
+              {
+                "hanzi": "干煸",
+                "pinyin": "gānbiān",
+                "english": "to dry-fry"
+              },
+              {
+                "hanzi": "姜",
+                "pinyin": "jiāng",
+                "english": "ginger"
+              },
+              {
+                "hanzi": "辣",
+                "pinyin": "là",
+                "english": "spicy"
+              },
+              {
+                "hanzi": "蒜",
+                "pinyin": "suàn",
+                "english": "garlic"
+              }
+            ]
+          },
+          {
+            "id": "buddhas-delight",
+            "name": "Buddha's Delight",
+            "hanzi": "罗汉斋",
+            "pinyin": "luóhàn zhāi",
+            "categories": [
+              "vegetable",
+              "tofu"
+            ],
+            "time": "40 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/buddhas-delight.jpg",
+            "description": "The classic Buddhist temple dish — a gentle braise of mushrooms, tofu, wood ear and vegetables in a glossy savoury sauce. Pure plant-based comfort.",
+            "ingredients": [
+              "6 dried shiitake mushrooms, soaked",
+              "1 cup wood ear fungus, soaked",
+              "100g fried tofu puffs",
+              "1 carrot + 1 cup napa cabbage, chopped",
+              "1/2 cup snow peas",
+              "2 tbsp soy sauce, 1 tbsp mushroom sauce, 1 tsp sugar",
+              "1 tsp cornflour + 2 tbsp water"
+            ],
+            "steps": [
+              "Soak the dried mushrooms and wood ear, then slice; keep the soaking water.",
+              "Stir-fry the carrot, mushrooms and wood ear for 3 minutes.",
+              "Add the cabbage, tofu puffs and snow peas with the sauces and a little mushroom water.",
+              "Simmer covered for 10 minutes until everything is tender.",
+              "Thicken with the cornflour slurry and serve."
+            ],
+            "video": "",
+            "vocab": [
+              {
+                "hanzi": "蘑菇",
+                "pinyin": "mógu",
+                "english": "mushroom"
+              },
+              {
+                "hanzi": "豆腐",
+                "pinyin": "dòufu",
+                "english": "tofu"
+              },
+              {
+                "hanzi": "白菜",
+                "pinyin": "báicài",
+                "english": "cabbage"
+              },
+              {
+                "hanzi": "素",
+                "pinyin": "sù",
+                "english": "vegetarian"
+              },
+              {
+                "hanzi": "炖",
+                "pinyin": "dùn",
+                "english": "to braise"
+              }
+            ]
+          },
+          {
+            "id": "sweet-sour-tofu",
+            "name": "Sweet & Sour Tofu",
+            "hanzi": "糖醋豆腐",
+            "pinyin": "tángcù dòufu",
+            "categories": [
+              "tofu",
+              "sweet"
+            ],
+            "time": "30 min",
+            "difficulty": "Medium",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/sweet-sour-tofu.jpg",
+            "description": "Crisp cubes of tofu in a glossy sweet-and-sour sauce with pineapple and peppers — all the joy of the takeaway classic, completely meat-free.",
+            "ingredients": [
+              "1 block firm tofu, cubed",
+              "1/2 cup pineapple chunks",
+              "1 red and 1 green pepper, chunked",
+              "3 tbsp ketchup, 2 tbsp rice vinegar, 2 tbsp sugar",
+              "cornflour for coating + 1 tsp for the sauce"
+            ],
+            "steps": [
+              "Toss the tofu cubes in cornflour and fry until golden and crisp; set aside.",
+              "Mix the ketchup, vinegar, sugar and 1/2 cup water into a sauce.",
+              "Stir-fry the peppers and pineapple for 2 minutes.",
+              "Pour in the sauce and simmer until thick and glossy.",
+              "Fold through the crisp tofu and serve at once."
+            ],
+            "video": "",
+            "vocab": [
+              {
+                "hanzi": "豆腐",
+                "pinyin": "dòufu",
+                "english": "tofu"
+              },
+              {
+                "hanzi": "糖醋",
+                "pinyin": "tángcù",
+                "english": "sweet-and-sour"
+              },
+              {
+                "hanzi": "菠萝",
+                "pinyin": "bōluó",
+                "english": "pineapple"
+              },
+              {
+                "hanzi": "炸",
+                "pinyin": "zhá",
+                "english": "to deep-fry"
+              },
+              {
+                "hanzi": "酸",
+                "pinyin": "suān",
+                "english": "sour"
+              }
+            ]
+          },
+          {
+            "id": "chive-egg",
+            "name": "Chinese Chives with Egg",
+            "hanzi": "韭菜炒鸡蛋",
+            "pinyin": "jiǔcài chǎo jīdàn",
+            "categories": [
+              "egg",
+              "vegetable"
+            ],
+            "time": "15 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/chive-egg.jpg",
+            "description": "Fragrant garlic chives stir-fried with fluffy egg — a five-minute home dish that's fresh, green and packed with flavour.",
+            "ingredients": [
+              "1 bunch Chinese garlic chives, cut into 3cm lengths",
+              "4 eggs, beaten",
+              "1/2 tsp salt",
+              "1 tsp sesame oil",
+              "2 tbsp oil"
+            ],
+            "steps": [
+              "Beat the eggs with a pinch of salt.",
+              "Heat oil and scramble the egg until just set, then remove.",
+              "Stir-fry the chives over high heat for 1 minute until bright and just wilted.",
+              "Return the egg, season with salt and a drizzle of sesame oil.",
+              "Toss together and serve immediately."
+            ],
+            "video": "",
+            "vocab": [
+              {
+                "hanzi": "韭菜",
+                "pinyin": "jiǔcài",
+                "english": "garlic chives"
+              },
+              {
+                "hanzi": "鸡蛋",
+                "pinyin": "jīdàn",
+                "english": "egg"
+              },
+              {
+                "hanzi": "炒",
+                "pinyin": "chǎo",
+                "english": "to stir-fry"
+              },
+              {
+                "hanzi": "香",
+                "pinyin": "xiāng",
+                "english": "fragrant"
+              },
+              {
+                "hanzi": "盐",
+                "pinyin": "yán",
+                "english": "salt"
+              }
+            ]
+          },
+          {
+            "id": "mushroom-greens",
+            "name": "Braised Mushrooms with Greens",
+            "hanzi": "香菇油菜",
+            "pinyin": "xiānggū yóucài",
+            "categories": [
+              "vegetable",
+              "mushroom"
+            ],
+            "time": "25 min",
+            "difficulty": "Easy",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/food/mushroom-greens.jpg",
+            "description": "Plump shiitake mushrooms and tender baby bok choy in a silky sauce — an elegant, restaurant-style vegetable dish that's simple to make.",
+            "ingredients": [
+              "8 fresh shiitake mushrooms",
+              "400g baby bok choy, halved",
+              "2 cloves garlic, minced",
+              "2 tbsp soy sauce, 1 tbsp mushroom sauce, 1 tsp sugar",
+              "1 tsp cornflour + 2 tbsp water"
+            ],
+            "steps": [
+              "Blanch the bok choy in salted water for 1 minute, then arrange on a plate.",
+              "Stir-fry the garlic and mushrooms until softened.",
+              "Add the soy sauce, mushroom sauce, sugar and 1/2 cup water; simmer 3 minutes.",
+              "Thicken with the cornflour slurry to a glossy sauce.",
+              "Spoon the mushrooms and sauce over the greens and serve."
+            ],
+            "video": "",
+            "vocab": [
+              {
+                "hanzi": "香菇",
+                "pinyin": "xiānggū",
+                "english": "shiitake mushroom"
+              },
+              {
+                "hanzi": "油菜",
+                "pinyin": "yóucài",
+                "english": "bok choy"
+              },
+              {
+                "hanzi": "蒜",
+                "pinyin": "suàn",
+                "english": "garlic"
+              },
+              {
+                "hanzi": "炖",
+                "pinyin": "dùn",
+                "english": "to braise"
+              },
+              {
+                "hanzi": "菜",
+                "pinyin": "cài",
+                "english": "vegetable"
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

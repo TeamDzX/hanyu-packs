@@ -39,6 +39,7 @@ ORDER=(
   food-sichuan
   food-street-breakfast
   food-noodles
+  food-plant-based
 )
 
 FILES=()

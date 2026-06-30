@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-06-27",
+  "generated": "2026-06-30",
   "packs": [
     {
       "revision": 1,
@@ -6133,6 +6133,963 @@
     },
     {
       "revision": 1,
+      "packId": "stories-vol-7",
+      "name": "New Stories · Vol. 7",
+      "icon": "book-open",
+      "releaseDate": "2026-06-30",
+      "minApp": "1.7",
+      "whatsNew": "Five new graded-reader stories with a plant-based and working-life theme — ordering vegetarian, a cooking class, the farmers market, your first day at work and the meeting.",
+      "content": {
+        "stories": [
+          {
+            "id": "pack7_story_orderveg",
+            "title": "点素菜",
+            "titlePinyin": "diǎn sùcài",
+            "titleEnglish": "Ordering Vegetarian",
+            "level": 1,
+            "theme": "<i class=\"fas fa-leaf\" style=\"color:#16a34a\"></i>",
+            "sentences": [
+              {
+                "chinese": "今天我和朋友去饭馆。",
+                "pinyin": "Jīntiān wǒ hé péngyou qù fànguǎn.",
+                "english": "Today my friend and I go to a restaurant.",
+                "words": [
+                  {
+                    "hanzi": "今天",
+                    "pinyin": "jīntiān",
+                    "english": "today"
+                  },
+                  {
+                    "hanzi": "和",
+                    "pinyin": "hé",
+                    "english": "and"
+                  },
+                  {
+                    "hanzi": "朋友",
+                    "pinyin": "péngyou",
+                    "english": "friend"
+                  },
+                  {
+                    "hanzi": "饭馆",
+                    "pinyin": "fànguǎn",
+                    "english": "restaurant"
+                  }
+                ]
+              },
+              {
+                "chinese": "我不吃肉，我吃素。",
+                "pinyin": "Wǒ bù chī ròu, wǒ chī sù.",
+                "english": "I don't eat meat; I eat vegetarian.",
+                "words": [
+                  {
+                    "hanzi": "不",
+                    "pinyin": "bù",
+                    "english": "not"
+                  },
+                  {
+                    "hanzi": "吃",
+                    "pinyin": "chī",
+                    "english": "to eat"
+                  },
+                  {
+                    "hanzi": "肉",
+                    "pinyin": "ròu",
+                    "english": "meat"
+                  },
+                  {
+                    "hanzi": "吃素",
+                    "pinyin": "chīsù",
+                    "english": "eat vegetarian"
+                  }
+                ]
+              },
+              {
+                "chinese": "我点了一个豆腐和青菜。",
+                "pinyin": "Wǒ diǎn le yí ge dòufu hé qīngcài.",
+                "english": "I ordered a tofu dish and green vegetables.",
+                "words": [
+                  {
+                    "hanzi": "点",
+                    "pinyin": "diǎn",
+                    "english": "to order"
+                  },
+                  {
+                    "hanzi": "豆腐",
+                    "pinyin": "dòufu",
+                    "english": "tofu"
+                  },
+                  {
+                    "hanzi": "和",
+                    "pinyin": "hé",
+                    "english": "and"
+                  },
+                  {
+                    "hanzi": "青菜",
+                    "pinyin": "qīngcài",
+                    "english": "green vegetables"
+                  }
+                ]
+              },
+              {
+                "chinese": "朋友要了米饭和鸡蛋汤。",
+                "pinyin": "Péngyou yào le mǐfàn hé jīdàn tāng.",
+                "english": "My friend ordered rice and egg-drop soup.",
+                "words": [
+                  {
+                    "hanzi": "要",
+                    "pinyin": "yào",
+                    "english": "to want"
+                  },
+                  {
+                    "hanzi": "米饭",
+                    "pinyin": "mǐfàn",
+                    "english": "rice"
+                  },
+                  {
+                    "hanzi": "鸡蛋",
+                    "pinyin": "jīdàn",
+                    "english": "egg"
+                  },
+                  {
+                    "hanzi": "汤",
+                    "pinyin": "tāng",
+                    "english": "soup"
+                  }
+                ]
+              },
+              {
+                "chinese": "菜很好吃，我们很高兴。",
+                "pinyin": "Cài hěn hǎochī, wǒmen hěn gāoxìng.",
+                "english": "The food is delicious and we are happy.",
+                "words": [
+                  {
+                    "hanzi": "菜",
+                    "pinyin": "cài",
+                    "english": "food/dish"
+                  },
+                  {
+                    "hanzi": "好吃",
+                    "pinyin": "hǎochī",
+                    "english": "delicious"
+                  },
+                  {
+                    "hanzi": "我们",
+                    "pinyin": "wǒmen",
+                    "english": "we"
+                  },
+                  {
+                    "hanzi": "高兴",
+                    "pinyin": "gāoxìng",
+                    "english": "happy"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What does the narrator not eat?",
+                "options": [
+                  "Meat",
+                  "Rice",
+                  "Tofu",
+                  "Vegetables"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What did the narrator order?",
+                "options": [
+                  "Tofu and greens",
+                  "Beef",
+                  "Fish",
+                  "Chicken"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "How do they feel at the end?",
+                "options": [
+                  "Happy",
+                  "Tired",
+                  "Angry",
+                  "Sad"
+                ],
+                "correct": 0
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack7_story_orderveg.jpg"
+          },
+          {
+            "id": "pack7_story_cookclass",
+            "title": "学做素菜",
+            "titlePinyin": "xué zuò sùcài",
+            "titleEnglish": "A Cooking Class",
+            "level": 2,
+            "theme": "<i class=\"fas fa-utensils\" style=\"color:#ea580c\"></i>",
+            "sentences": [
+              {
+                "chinese": "周末我去上烹饪课。",
+                "pinyin": "Zhōumò wǒ qù shàng pēngrèn kè.",
+                "english": "On the weekend I go to a cooking class.",
+                "words": [
+                  {
+                    "hanzi": "周末",
+                    "pinyin": "zhōumò",
+                    "english": "weekend"
+                  },
+                  {
+                    "hanzi": "上课",
+                    "pinyin": "shàngkè",
+                    "english": "to attend class"
+                  },
+                  {
+                    "hanzi": "烹饪",
+                    "pinyin": "pēngrèn",
+                    "english": "cooking"
+                  },
+                  {
+                    "hanzi": "课",
+                    "pinyin": "kè",
+                    "english": "class"
+                  }
+                ]
+              },
+              {
+                "chinese": "老师教我们做植物餐。",
+                "pinyin": "Lǎoshī jiāo wǒmen zuò zhíwù cān.",
+                "english": "The teacher teaches us to make plant-based meals.",
+                "words": [
+                  {
+                    "hanzi": "老师",
+                    "pinyin": "lǎoshī",
+                    "english": "teacher"
+                  },
+                  {
+                    "hanzi": "教",
+                    "pinyin": "jiāo",
+                    "english": "to teach"
+                  },
+                  {
+                    "hanzi": "做",
+                    "pinyin": "zuò",
+                    "english": "to make"
+                  },
+                  {
+                    "hanzi": "植物餐",
+                    "pinyin": "zhíwù cān",
+                    "english": "plant-based meal"
+                  }
+                ]
+              },
+              {
+                "chinese": "我们先把豆腐切成小块。",
+                "pinyin": "Wǒmen xiān bǎ dòufu qiē chéng xiǎo kuài.",
+                "english": "First we cut the tofu into small cubes.",
+                "words": [
+                  {
+                    "hanzi": "先",
+                    "pinyin": "xiān",
+                    "english": "first"
+                  },
+                  {
+                    "hanzi": "切",
+                    "pinyin": "qiē",
+                    "english": "to cut"
+                  },
+                  {
+                    "hanzi": "成",
+                    "pinyin": "chéng",
+                    "english": "into"
+                  },
+                  {
+                    "hanzi": "小块",
+                    "pinyin": "xiǎo kuài",
+                    "english": "small pieces"
+                  }
+                ]
+              },
+              {
+                "chinese": "然后加蔬菜一起炒。",
+                "pinyin": "Ránhòu jiā shūcài yìqǐ chǎo.",
+                "english": "Then we add vegetables and stir-fry them together.",
+                "words": [
+                  {
+                    "hanzi": "然后",
+                    "pinyin": "ránhòu",
+                    "english": "then"
+                  },
+                  {
+                    "hanzi": "加",
+                    "pinyin": "jiā",
+                    "english": "to add"
+                  },
+                  {
+                    "hanzi": "蔬菜",
+                    "pinyin": "shūcài",
+                    "english": "vegetables"
+                  },
+                  {
+                    "hanzi": "炒",
+                    "pinyin": "chǎo",
+                    "english": "to stir-fry"
+                  }
+                ]
+              },
+              {
+                "chinese": "自己做的菜真好吃！",
+                "pinyin": "Zìjǐ zuò de cài zhēn hǎochī!",
+                "english": "The food I made myself is really delicious!",
+                "words": [
+                  {
+                    "hanzi": "自己",
+                    "pinyin": "zìjǐ",
+                    "english": "oneself"
+                  },
+                  {
+                    "hanzi": "做",
+                    "pinyin": "zuò",
+                    "english": "to make"
+                  },
+                  {
+                    "hanzi": "真",
+                    "pinyin": "zhēn",
+                    "english": "really"
+                  },
+                  {
+                    "hanzi": "好吃",
+                    "pinyin": "hǎochī",
+                    "english": "delicious"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "When does the narrator go to the class?",
+                "options": [
+                  "Weekend",
+                  "Monday",
+                  "Morning",
+                  "Night"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What do they cut first?",
+                "options": [
+                  "Tofu",
+                  "Carrots",
+                  "Bread",
+                  "Egg"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does the teacher teach?",
+                "options": [
+                  "Plant-based meals",
+                  "Baking",
+                  "Meat dishes",
+                  "Desserts"
+                ],
+                "correct": 0
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack7_story_cookclass.jpg"
+          },
+          {
+            "id": "pack7_story_market",
+            "title": "逛农贸市场",
+            "titlePinyin": "guàng nóngmào shìchǎng",
+            "titleEnglish": "At the Farmers Market",
+            "level": 2,
+            "theme": "<i class=\"fas fa-carrot\" style=\"color:#f97316\"></i>",
+            "sentences": [
+              {
+                "chinese": "早上我去农贸市场买菜。",
+                "pinyin": "Zǎoshang wǒ qù nóngmào shìchǎng mǎi cài.",
+                "english": "In the morning I go to the farmers market to buy vegetables.",
+                "words": [
+                  {
+                    "hanzi": "早上",
+                    "pinyin": "zǎoshang",
+                    "english": "morning"
+                  },
+                  {
+                    "hanzi": "农贸市场",
+                    "pinyin": "nóngmào shìchǎng",
+                    "english": "farmers market"
+                  },
+                  {
+                    "hanzi": "买",
+                    "pinyin": "mǎi",
+                    "english": "to buy"
+                  },
+                  {
+                    "hanzi": "菜",
+                    "pinyin": "cài",
+                    "english": "vegetables"
+                  }
+                ]
+              },
+              {
+                "chinese": "这里的蔬菜又新鲜又便宜。",
+                "pinyin": "Zhèlǐ de shūcài yòu xīnxiān yòu piányi.",
+                "english": "The vegetables here are both fresh and cheap.",
+                "words": [
+                  {
+                    "hanzi": "这里",
+                    "pinyin": "zhèlǐ",
+                    "english": "here"
+                  },
+                  {
+                    "hanzi": "新鲜",
+                    "pinyin": "xīnxiān",
+                    "english": "fresh"
+                  },
+                  {
+                    "hanzi": "又…又",
+                    "pinyin": "yòu…yòu",
+                    "english": "both…and"
+                  },
+                  {
+                    "hanzi": "便宜",
+                    "pinyin": "piányi",
+                    "english": "cheap"
+                  }
+                ]
+              },
+              {
+                "chinese": "我买了西红柿、土豆和蘑菇。",
+                "pinyin": "Wǒ mǎi le xīhóngshì, tǔdòu hé mógu.",
+                "english": "I bought tomatoes, potatoes and mushrooms.",
+                "words": [
+                  {
+                    "hanzi": "西红柿",
+                    "pinyin": "xīhóngshì",
+                    "english": "tomato"
+                  },
+                  {
+                    "hanzi": "土豆",
+                    "pinyin": "tǔdòu",
+                    "english": "potato"
+                  },
+                  {
+                    "hanzi": "蘑菇",
+                    "pinyin": "mógu",
+                    "english": "mushroom"
+                  },
+                  {
+                    "hanzi": "买",
+                    "pinyin": "mǎi",
+                    "english": "to buy"
+                  }
+                ]
+              },
+              {
+                "chinese": "老板还送了我一把青菜。",
+                "pinyin": "Lǎobǎn hái sòng le wǒ yì bǎ qīngcài.",
+                "english": "The stall owner even gave me a bunch of greens for free.",
+                "words": [
+                  {
+                    "hanzi": "老板",
+                    "pinyin": "lǎobǎn",
+                    "english": "stall owner"
+                  },
+                  {
+                    "hanzi": "还",
+                    "pinyin": "hái",
+                    "english": "also"
+                  },
+                  {
+                    "hanzi": "送",
+                    "pinyin": "sòng",
+                    "english": "to give (free)"
+                  },
+                  {
+                    "hanzi": "青菜",
+                    "pinyin": "qīngcài",
+                    "english": "greens"
+                  }
+                ]
+              },
+              {
+                "chinese": "我提着满满的菜回家了。",
+                "pinyin": "Wǒ tí zhe mǎnmǎn de cài huí jiā le.",
+                "english": "I carried a full bag of vegetables home.",
+                "words": [
+                  {
+                    "hanzi": "提",
+                    "pinyin": "tí",
+                    "english": "to carry"
+                  },
+                  {
+                    "hanzi": "满满",
+                    "pinyin": "mǎnmǎn",
+                    "english": "full"
+                  },
+                  {
+                    "hanzi": "回家",
+                    "pinyin": "huí jiā",
+                    "english": "go home"
+                  },
+                  {
+                    "hanzi": "菜",
+                    "pinyin": "cài",
+                    "english": "vegetables"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Where does the narrator go?",
+                "options": [
+                  "Farmers market",
+                  "Supermarket",
+                  "Restaurant",
+                  "Mall"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What are the vegetables like?",
+                "options": [
+                  "Fresh and cheap",
+                  "Expensive",
+                  "Old",
+                  "Frozen"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What did the vendor give for free?",
+                "options": [
+                  "Greens",
+                  "Fruit",
+                  "Eggs",
+                  "Rice"
+                ],
+                "correct": 0
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack7_story_market.jpg"
+          },
+          {
+            "id": "pack7_story_firstday",
+            "title": "第一天上班",
+            "titlePinyin": "dì-yī tiān shàngbān",
+            "titleEnglish": "First Day at Work",
+            "level": 2,
+            "theme": "<i class=\"fas fa-briefcase\" style=\"color:#4f46e5\"></i>",
+            "sentences": [
+              {
+                "chinese": "今天是我上班的第一天。",
+                "pinyin": "Jīntiān shì wǒ shàngbān de dì-yī tiān.",
+                "english": "Today is my first day at work.",
+                "words": [
+                  {
+                    "hanzi": "今天",
+                    "pinyin": "jīntiān",
+                    "english": "today"
+                  },
+                  {
+                    "hanzi": "上班",
+                    "pinyin": "shàngbān",
+                    "english": "to go to work"
+                  },
+                  {
+                    "hanzi": "第一",
+                    "pinyin": "dì-yī",
+                    "english": "first"
+                  },
+                  {
+                    "hanzi": "天",
+                    "pinyin": "tiān",
+                    "english": "day"
+                  }
+                ]
+              },
+              {
+                "chinese": "我很早就到了办公室。",
+                "pinyin": "Wǒ hěn zǎo jiù dào le bàngōngshì.",
+                "english": "I arrived at the office very early.",
+                "words": [
+                  {
+                    "hanzi": "早",
+                    "pinyin": "zǎo",
+                    "english": "early"
+                  },
+                  {
+                    "hanzi": "就",
+                    "pinyin": "jiù",
+                    "english": "already"
+                  },
+                  {
+                    "hanzi": "到",
+                    "pinyin": "dào",
+                    "english": "to arrive"
+                  },
+                  {
+                    "hanzi": "办公室",
+                    "pinyin": "bàngōngshì",
+                    "english": "office"
+                  }
+                ]
+              },
+              {
+                "chinese": "经理向大家介绍了我。",
+                "pinyin": "Jīnglǐ xiàng dàjiā jièshào le wǒ.",
+                "english": "The manager introduced me to everyone.",
+                "words": [
+                  {
+                    "hanzi": "经理",
+                    "pinyin": "jīnglǐ",
+                    "english": "manager"
+                  },
+                  {
+                    "hanzi": "向",
+                    "pinyin": "xiàng",
+                    "english": "towards"
+                  },
+                  {
+                    "hanzi": "大家",
+                    "pinyin": "dàjiā",
+                    "english": "everyone"
+                  },
+                  {
+                    "hanzi": "介绍",
+                    "pinyin": "jièshào",
+                    "english": "to introduce"
+                  }
+                ]
+              },
+              {
+                "chinese": "同事们都很友好。",
+                "pinyin": "Tóngshìmen dōu hěn yǒuhǎo.",
+                "english": "My colleagues are all very friendly.",
+                "words": [
+                  {
+                    "hanzi": "同事",
+                    "pinyin": "tóngshì",
+                    "english": "colleague"
+                  },
+                  {
+                    "hanzi": "都",
+                    "pinyin": "dōu",
+                    "english": "all"
+                  },
+                  {
+                    "hanzi": "很",
+                    "pinyin": "hěn",
+                    "english": "very"
+                  },
+                  {
+                    "hanzi": "友好",
+                    "pinyin": "yǒuhǎo",
+                    "english": "friendly"
+                  }
+                ]
+              },
+              {
+                "chinese": "下午我参加了一个会议。",
+                "pinyin": "Xiàwǔ wǒ cānjiā le yí ge huìyì.",
+                "english": "In the afternoon I attended a meeting.",
+                "words": [
+                  {
+                    "hanzi": "下午",
+                    "pinyin": "xiàwǔ",
+                    "english": "afternoon"
+                  },
+                  {
+                    "hanzi": "参加",
+                    "pinyin": "cānjiā",
+                    "english": "to attend"
+                  },
+                  {
+                    "hanzi": "一个",
+                    "pinyin": "yí ge",
+                    "english": "a/one"
+                  },
+                  {
+                    "hanzi": "会议",
+                    "pinyin": "huìyì",
+                    "english": "meeting"
+                  }
+                ]
+              },
+              {
+                "chinese": "第一天虽然累，但是很开心。",
+                "pinyin": "Dì-yī tiān suīrán lèi, dànshì hěn kāixīn.",
+                "english": "Although the first day was tiring, I was very happy.",
+                "words": [
+                  {
+                    "hanzi": "虽然…但是",
+                    "pinyin": "suīrán…dànshì",
+                    "english": "although…"
+                  },
+                  {
+                    "hanzi": "累",
+                    "pinyin": "lèi",
+                    "english": "tired"
+                  },
+                  {
+                    "hanzi": "开心",
+                    "pinyin": "kāixīn",
+                    "english": "happy"
+                  },
+                  {
+                    "hanzi": "第一天",
+                    "pinyin": "dì-yī tiān",
+                    "english": "the first day"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What day is it for the narrator?",
+                "options": [
+                  "First day at work",
+                  "Birthday",
+                  "Last day",
+                  "Holiday"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Who introduced the narrator?",
+                "options": [
+                  "The manager",
+                  "A client",
+                  "A friend",
+                  "The teacher"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "How were the colleagues?",
+                "options": [
+                  "Friendly",
+                  "Rude",
+                  "Busy",
+                  "Quiet"
+                ],
+                "correct": 0
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack7_story_firstday.jpg"
+          },
+          {
+            "id": "pack7_story_meeting",
+            "title": "开会",
+            "titlePinyin": "kāihuì",
+            "titleEnglish": "The Meeting",
+            "level": 3,
+            "theme": "<i class=\"fas fa-chart-line\" style=\"color:#0ea5e9\"></i>",
+            "sentences": [
+              {
+                "chinese": "上午九点，我们开了一个重要的会议。",
+                "pinyin": "Shàngwǔ jiǔ diǎn, wǒmen kāi le yí ge zhòngyào de huìyì.",
+                "english": "At nine in the morning, we held an important meeting.",
+                "words": [
+                  {
+                    "hanzi": "上午",
+                    "pinyin": "shàngwǔ",
+                    "english": "morning"
+                  },
+                  {
+                    "hanzi": "九点",
+                    "pinyin": "jiǔ diǎn",
+                    "english": "nine o'clock"
+                  },
+                  {
+                    "hanzi": "重要",
+                    "pinyin": "zhòngyào",
+                    "english": "important"
+                  },
+                  {
+                    "hanzi": "会议",
+                    "pinyin": "huìyì",
+                    "english": "meeting"
+                  }
+                ]
+              },
+              {
+                "chinese": "经理介绍了这个月的销售报告。",
+                "pinyin": "Jīnglǐ jièshào le zhège yuè de xiāoshòu bàogào.",
+                "english": "The manager presented this month's sales report.",
+                "words": [
+                  {
+                    "hanzi": "介绍",
+                    "pinyin": "jièshào",
+                    "english": "to present"
+                  },
+                  {
+                    "hanzi": "这个月",
+                    "pinyin": "zhège yuè",
+                    "english": "this month"
+                  },
+                  {
+                    "hanzi": "销售",
+                    "pinyin": "xiāoshòu",
+                    "english": "sales"
+                  },
+                  {
+                    "hanzi": "报告",
+                    "pinyin": "bàogào",
+                    "english": "report"
+                  }
+                ]
+              },
+              {
+                "chinese": "大家一起讨论了新的项目。",
+                "pinyin": "Dàjiā yìqǐ tǎolùn le xīn de xiàngmù.",
+                "english": "Everyone discussed the new project together.",
+                "words": [
+                  {
+                    "hanzi": "一起",
+                    "pinyin": "yìqǐ",
+                    "english": "together"
+                  },
+                  {
+                    "hanzi": "讨论",
+                    "pinyin": "tǎolùn",
+                    "english": "to discuss"
+                  },
+                  {
+                    "hanzi": "新",
+                    "pinyin": "xīn",
+                    "english": "new"
+                  },
+                  {
+                    "hanzi": "项目",
+                    "pinyin": "xiàngmù",
+                    "english": "project"
+                  }
+                ]
+              },
+              {
+                "chinese": "我提出了一个好主意。",
+                "pinyin": "Wǒ tíchū le yí ge hǎo zhǔyi.",
+                "english": "I put forward a good idea.",
+                "words": [
+                  {
+                    "hanzi": "提出",
+                    "pinyin": "tíchū",
+                    "english": "to put forward"
+                  },
+                  {
+                    "hanzi": "一个",
+                    "pinyin": "yí ge",
+                    "english": "a"
+                  },
+                  {
+                    "hanzi": "好",
+                    "pinyin": "hǎo",
+                    "english": "good"
+                  },
+                  {
+                    "hanzi": "主意",
+                    "pinyin": "zhǔyi",
+                    "english": "idea"
+                  }
+                ]
+              },
+              {
+                "chinese": "经理觉得我的想法很不错。",
+                "pinyin": "Jīnglǐ juéde wǒ de xiǎngfǎ hěn búcuò.",
+                "english": "The manager thought my idea was very good.",
+                "words": [
+                  {
+                    "hanzi": "觉得",
+                    "pinyin": "juéde",
+                    "english": "to think"
+                  },
+                  {
+                    "hanzi": "想法",
+                    "pinyin": "xiǎngfǎ",
+                    "english": "idea"
+                  },
+                  {
+                    "hanzi": "很",
+                    "pinyin": "hěn",
+                    "english": "very"
+                  },
+                  {
+                    "hanzi": "不错",
+                    "pinyin": "búcuò",
+                    "english": "pretty good"
+                  }
+                ]
+              },
+              {
+                "chinese": "会议结束后，我们一起去吃午饭。",
+                "pinyin": "Huìyì jiéshù hòu, wǒmen yìqǐ qù chī wǔfàn.",
+                "english": "After the meeting, we went to lunch together.",
+                "words": [
+                  {
+                    "hanzi": "结束",
+                    "pinyin": "jiéshù",
+                    "english": "to end"
+                  },
+                  {
+                    "hanzi": "后",
+                    "pinyin": "hòu",
+                    "english": "after"
+                  },
+                  {
+                    "hanzi": "一起",
+                    "pinyin": "yìqǐ",
+                    "english": "together"
+                  },
+                  {
+                    "hanzi": "午饭",
+                    "pinyin": "wǔfàn",
+                    "english": "lunch"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "When was the meeting?",
+                "options": [
+                  "Nine in the morning",
+                  "Noon",
+                  "Evening",
+                  "Night"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What did the manager present?",
+                "options": [
+                  "Sales report",
+                  "A contract",
+                  "A budget",
+                  "A video"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What did the manager think of the narrator's idea?",
+                "options": [
+                  "Very good",
+                  "Bad",
+                  "Boring",
+                  "Strange"
+                ],
+                "correct": 0
+              }
+            ],
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack7_story_meeting.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
       "packId": "flashcards-vol-1",
       "name": "Picture Flashcards · Vol. 1",
       "icon": "clone",
@@ -8052,6 +9009,229 @@
                 "hanzi": "遥控器",
                 "pinyin": "yáokòngqì",
                 "meaning": "remote control"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "flashcards-vol-5",
+      "name": "Picture Flashcards · Vol. 5",
+      "icon": "clone",
+      "releaseDate": "2026-06-30",
+      "minApp": "2.0",
+      "whatsNew": "Three new picture-flashcard decks — Plant-Based Plate, Business & Work and Money & Finance. Flip a card to reveal pinyin, meaning and audio.",
+      "content": {
+        "flashcardDecks": [
+          {
+            "id": "plant-based",
+            "title": "Plant-Based Plate",
+            "titleCn": "植物餐",
+            "icon": "leaf",
+            "grad": "linear-gradient(135deg,#22c55e,#15803d)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/plant-based/",
+            "cards": [
+              {
+                "hanzi": "豆腐",
+                "pinyin": "dòufu",
+                "meaning": "tofu"
+              },
+              {
+                "hanzi": "鸡蛋",
+                "pinyin": "jīdàn",
+                "meaning": "egg"
+              },
+              {
+                "hanzi": "黄豆",
+                "pinyin": "huángdòu",
+                "meaning": "soybeans"
+              },
+              {
+                "hanzi": "鹰嘴豆",
+                "pinyin": "yīngzuǐdòu",
+                "meaning": "chickpeas"
+              },
+              {
+                "hanzi": "小扁豆",
+                "pinyin": "xiǎobiǎndòu",
+                "meaning": "lentils"
+              },
+              {
+                "hanzi": "西兰花",
+                "pinyin": "xīlánhuā",
+                "meaning": "broccoli"
+              },
+              {
+                "hanzi": "牛油果",
+                "pinyin": "niúyóuguǒ",
+                "meaning": "avocado"
+              },
+              {
+                "hanzi": "红薯",
+                "pinyin": "hóngshǔ",
+                "meaning": "sweet potato"
+              },
+              {
+                "hanzi": "燕麦",
+                "pinyin": "yànmài",
+                "meaning": "oats"
+              },
+              {
+                "hanzi": "坚果",
+                "pinyin": "jiānguǒ",
+                "meaning": "nuts"
+              },
+              {
+                "hanzi": "沙拉",
+                "pinyin": "shālā",
+                "meaning": "salad"
+              },
+              {
+                "hanzi": "糙米",
+                "pinyin": "cāomǐ",
+                "meaning": "brown rice"
+              }
+            ]
+          },
+          {
+            "id": "business",
+            "title": "Business & Work",
+            "titleCn": "商务",
+            "icon": "briefcase",
+            "grad": "linear-gradient(135deg,#4f46e5,#3b82f6)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/business/",
+            "cards": [
+              {
+                "hanzi": "会议",
+                "pinyin": "huìyì",
+                "meaning": "meeting"
+              },
+              {
+                "hanzi": "合同",
+                "pinyin": "hétong",
+                "meaning": "contract"
+              },
+              {
+                "hanzi": "名片",
+                "pinyin": "míngpiàn",
+                "meaning": "business card"
+              },
+              {
+                "hanzi": "客户",
+                "pinyin": "kèhù",
+                "meaning": "client"
+              },
+              {
+                "hanzi": "经理",
+                "pinyin": "jīnglǐ",
+                "meaning": "manager"
+              },
+              {
+                "hanzi": "同事",
+                "pinyin": "tóngshì",
+                "meaning": "colleague"
+              },
+              {
+                "hanzi": "办公室",
+                "pinyin": "bàngōngshì",
+                "meaning": "office"
+              },
+              {
+                "hanzi": "报告",
+                "pinyin": "bàogào",
+                "meaning": "report"
+              },
+              {
+                "hanzi": "项目",
+                "pinyin": "xiàngmù",
+                "meaning": "project"
+              },
+              {
+                "hanzi": "演讲",
+                "pinyin": "yǎnjiǎng",
+                "meaning": "presentation"
+              },
+              {
+                "hanzi": "握手",
+                "pinyin": "wòshǒu",
+                "meaning": "handshake"
+              },
+              {
+                "hanzi": "简历",
+                "pinyin": "jiǎnlì",
+                "meaning": "résumé"
+              }
+            ]
+          },
+          {
+            "id": "finance",
+            "title": "Money & Finance",
+            "titleCn": "理财",
+            "icon": "coins",
+            "grad": "linear-gradient(135deg,#f59e0b,#0d9488)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/finance/",
+            "cards": [
+              {
+                "hanzi": "钱",
+                "pinyin": "qián",
+                "meaning": "money"
+              },
+              {
+                "hanzi": "现金",
+                "pinyin": "xiànjīn",
+                "meaning": "cash"
+              },
+              {
+                "hanzi": "硬币",
+                "pinyin": "yìngbì",
+                "meaning": "coins"
+              },
+              {
+                "hanzi": "钱包",
+                "pinyin": "qiánbāo",
+                "meaning": "wallet"
+              },
+              {
+                "hanzi": "信用卡",
+                "pinyin": "xìnyòngkǎ",
+                "meaning": "credit card"
+              },
+              {
+                "hanzi": "工资",
+                "pinyin": "gōngzī",
+                "meaning": "salary"
+              },
+              {
+                "hanzi": "发票",
+                "pinyin": "fāpiào",
+                "meaning": "receipt"
+              },
+              {
+                "hanzi": "账单",
+                "pinyin": "zhàngdān",
+                "meaning": "bill"
+              },
+              {
+                "hanzi": "存钱罐",
+                "pinyin": "cúnqiánguàn",
+                "meaning": "piggy bank"
+              },
+              {
+                "hanzi": "价格",
+                "pinyin": "jiàgé",
+                "meaning": "price"
+              },
+              {
+                "hanzi": "股票",
+                "pinyin": "gǔpiào",
+                "meaning": "stock"
+              },
+              {
+                "hanzi": "预算",
+                "pinyin": "yùsuàn",
+                "meaning": "budget"
               }
             ]
           }

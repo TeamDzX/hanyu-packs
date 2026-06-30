@@ -1,0 +1,223 @@
+{
+  "revision": 1,
+  "packId": "flashcards-vol-5",
+  "name": "Picture Flashcards · Vol. 5",
+  "icon": "clone",
+  "releaseDate": "2026-06-30",
+  "minApp": "2.0",
+  "whatsNew": "Three new picture-flashcard decks — Plant-Based Plate, Business & Work and Money & Finance. Flip a card to reveal pinyin, meaning and audio.",
+  "content": {
+    "flashcardDecks": [
+      {
+        "id": "plant-based",
+        "title": "Plant-Based Plate",
+        "titleCn": "植物餐",
+        "icon": "leaf",
+        "grad": "linear-gradient(135deg,#22c55e,#15803d)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/plant-based/",
+        "cards": [
+          {
+            "hanzi": "豆腐",
+            "pinyin": "dòufu",
+            "meaning": "tofu"
+          },
+          {
+            "hanzi": "鸡蛋",
+            "pinyin": "jīdàn",
+            "meaning": "egg"
+          },
+          {
+            "hanzi": "黄豆",
+            "pinyin": "huángdòu",
+            "meaning": "soybeans"
+          },
+          {
+            "hanzi": "鹰嘴豆",
+            "pinyin": "yīngzuǐdòu",
+            "meaning": "chickpeas"
+          },
+          {
+            "hanzi": "小扁豆",
+            "pinyin": "xiǎobiǎndòu",
+            "meaning": "lentils"
+          },
+          {
+            "hanzi": "西兰花",
+            "pinyin": "xīlánhuā",
+            "meaning": "broccoli"
+          },
+          {
+            "hanzi": "牛油果",
+            "pinyin": "niúyóuguǒ",
+            "meaning": "avocado"
+          },
+          {
+            "hanzi": "红薯",
+            "pinyin": "hóngshǔ",
+            "meaning": "sweet potato"
+          },
+          {
+            "hanzi": "燕麦",
+            "pinyin": "yànmài",
+            "meaning": "oats"
+          },
+          {
+            "hanzi": "坚果",
+            "pinyin": "jiānguǒ",
+            "meaning": "nuts"
+          },
+          {
+            "hanzi": "沙拉",
+            "pinyin": "shālā",
+            "meaning": "salad"
+          },
+          {
+            "hanzi": "糙米",
+            "pinyin": "cāomǐ",
+            "meaning": "brown rice"
+          }
+        ]
+      },
+      {
+        "id": "business",
+        "title": "Business & Work",
+        "titleCn": "商务",
+        "icon": "briefcase",
+        "grad": "linear-gradient(135deg,#4f46e5,#3b82f6)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/business/",
+        "cards": [
+          {
+            "hanzi": "会议",
+            "pinyin": "huìyì",
+            "meaning": "meeting"
+          },
+          {
+            "hanzi": "合同",
+            "pinyin": "hétong",
+            "meaning": "contract"
+          },
+          {
+            "hanzi": "名片",
+            "pinyin": "míngpiàn",
+            "meaning": "business card"
+          },
+          {
+            "hanzi": "客户",
+            "pinyin": "kèhù",
+            "meaning": "client"
+          },
+          {
+            "hanzi": "经理",
+            "pinyin": "jīnglǐ",
+            "meaning": "manager"
+          },
+          {
+            "hanzi": "同事",
+            "pinyin": "tóngshì",
+            "meaning": "colleague"
+          },
+          {
+            "hanzi": "办公室",
+            "pinyin": "bàngōngshì",
+            "meaning": "office"
+          },
+          {
+            "hanzi": "报告",
+            "pinyin": "bàogào",
+            "meaning": "report"
+          },
+          {
+            "hanzi": "项目",
+            "pinyin": "xiàngmù",
+            "meaning": "project"
+          },
+          {
+            "hanzi": "演讲",
+            "pinyin": "yǎnjiǎng",
+            "meaning": "presentation"
+          },
+          {
+            "hanzi": "握手",
+            "pinyin": "wòshǒu",
+            "meaning": "handshake"
+          },
+          {
+            "hanzi": "简历",
+            "pinyin": "jiǎnlì",
+            "meaning": "résumé"
+          }
+        ]
+      },
+      {
+        "id": "finance",
+        "title": "Money & Finance",
+        "titleCn": "理财",
+        "icon": "coins",
+        "grad": "linear-gradient(135deg,#f59e0b,#0d9488)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/finance/",
+        "cards": [
+          {
+            "hanzi": "钱",
+            "pinyin": "qián",
+            "meaning": "money"
+          },
+          {
+            "hanzi": "现金",
+            "pinyin": "xiànjīn",
+            "meaning": "cash"
+          },
+          {
+            "hanzi": "硬币",
+            "pinyin": "yìngbì",
+            "meaning": "coins"
+          },
+          {
+            "hanzi": "钱包",
+            "pinyin": "qiánbāo",
+            "meaning": "wallet"
+          },
+          {
+            "hanzi": "信用卡",
+            "pinyin": "xìnyòngkǎ",
+            "meaning": "credit card"
+          },
+          {
+            "hanzi": "工资",
+            "pinyin": "gōngzī",
+            "meaning": "salary"
+          },
+          {
+            "hanzi": "发票",
+            "pinyin": "fāpiào",
+            "meaning": "receipt"
+          },
+          {
+            "hanzi": "账单",
+            "pinyin": "zhàngdān",
+            "meaning": "bill"
+          },
+          {
+            "hanzi": "存钱罐",
+            "pinyin": "cúnqiánguàn",
+            "meaning": "piggy bank"
+          },
+          {
+            "hanzi": "价格",
+            "pinyin": "jiàgé",
+            "meaning": "price"
+          },
+          {
+            "hanzi": "股票",
+            "pinyin": "gǔpiào",
+            "meaning": "stock"
+          },
+          {
+            "hanzi": "预算",
+            "pinyin": "yùsuàn",
+            "meaning": "budget"
+          }
+        ]
+      }
+    ]
+  }
+}

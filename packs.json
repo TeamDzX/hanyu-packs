@@ -13924,6 +13924,848 @@
           }
         ]
       }
+    },
+    {
+      "revision": 1,
+      "packId": "manga-everyday-essentials",
+      "name": "Manga Dialogues: Everyday Essentials",
+      "icon": "comments",
+      "releaseDate": "2026-07-01",
+      "minApp": "2.7",
+      "whatsNew": "Six animated manga dialogue scenes for everyday Chinese — meeting people, ordering at a restaurant, shopping, asking directions, taking a taxi and making a phone call. Watch the scene, tap any word, hear it spoken.",
+      "content": {
+        "situations": [
+          {
+            "id": "manga_greetings",
+            "title": "初次见面",
+            "titlePinyin": "chūcì jiànmiàn",
+            "titleEnglish": "Nice to Meet You",
+            "level": 1,
+            "icon": "hand-wave",
+            "grad": "linear-gradient(135deg,#7c3aed,#db2777)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/greetings.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-greetings.mp4",
+            "speakers": {
+              "A": {
+                "name": "Li Ming",
+                "cn": "李明"
+              },
+              "B": {
+                "name": "Wang Fang",
+                "cn": "王芳"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "你好！我叫李明。",
+                "pinyin": "Nǐ hǎo! Wǒ jiào Lǐ Míng.",
+                "english": "Hello! My name is Li Ming.",
+                "words": [
+                  {
+                    "hanzi": "你好",
+                    "pinyin": "nǐ hǎo",
+                    "english": "hello"
+                  },
+                  {
+                    "hanzi": "叫",
+                    "pinyin": "jiào",
+                    "english": "to be called"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "你好，李明！我是王芳。",
+                "pinyin": "Nǐ hǎo, Lǐ Míng! Wǒ shì Wáng Fāng.",
+                "english": "Hello Li Ming! I'm Wang Fang.",
+                "words": [
+                  {
+                    "hanzi": "我",
+                    "pinyin": "wǒ",
+                    "english": "I"
+                  },
+                  {
+                    "hanzi": "是",
+                    "pinyin": "shì",
+                    "english": "to be"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "认识你很高兴。",
+                "pinyin": "Rènshi nǐ hěn gāoxìng.",
+                "english": "Nice to meet you.",
+                "words": [
+                  {
+                    "hanzi": "认识",
+                    "pinyin": "rènshi",
+                    "english": "to know / meet"
+                  },
+                  {
+                    "hanzi": "高兴",
+                    "pinyin": "gāoxìng",
+                    "english": "happy"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "我也很高兴。你是哪国人？",
+                "pinyin": "Wǒ yě hěn gāoxìng. Nǐ shì nǎ guó rén?",
+                "english": "Me too. What country are you from?",
+                "words": [
+                  {
+                    "hanzi": "也",
+                    "pinyin": "yě",
+                    "english": "also"
+                  },
+                  {
+                    "hanzi": "哪国人",
+                    "pinyin": "nǎ guó rén",
+                    "english": "what nationality"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "我是中国人。你呢？",
+                "pinyin": "Wǒ shì Zhōngguó rén. Nǐ ne?",
+                "english": "I'm Chinese. And you?",
+                "words": [
+                  {
+                    "hanzi": "中国人",
+                    "pinyin": "Zhōngguó rén",
+                    "english": "Chinese (person)"
+                  },
+                  {
+                    "hanzi": "呢",
+                    "pinyin": "ne",
+                    "english": "and (you)?"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "我是美国人。",
+                "pinyin": "Wǒ shì Měiguó rén.",
+                "english": "I'm American.",
+                "words": [
+                  {
+                    "hanzi": "美国人",
+                    "pinyin": "Měiguó rén",
+                    "english": "American"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What is the woman's name?",
+                "options": [
+                  "Wang Fang",
+                  "Li Ming",
+                  "Zhang Wei",
+                  "Xiao Li"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Where is Li Ming from?",
+                "options": [
+                  "China",
+                  "America",
+                  "Japan",
+                  "Korea"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "manga_restaurant",
+            "title": "在饭馆点菜",
+            "titlePinyin": "zài fànguǎn diǎncài",
+            "titleEnglish": "At the Restaurant",
+            "level": 1,
+            "icon": "utensils",
+            "grad": "linear-gradient(135deg,#ea580c,#db2777)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/restaurant.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-restaurant.mp4",
+            "speakers": {
+              "A": {
+                "name": "Waiter",
+                "cn": "服务员"
+              },
+              "B": {
+                "name": "Customer",
+                "cn": "顾客"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "您好，几位？",
+                "pinyin": "Nín hǎo, jǐ wèi?",
+                "english": "Hello, how many people?",
+                "words": [
+                  {
+                    "hanzi": "您好",
+                    "pinyin": "nín hǎo",
+                    "english": "hello (polite)"
+                  },
+                  {
+                    "hanzi": "几位",
+                    "pinyin": "jǐ wèi",
+                    "english": "how many people"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "两位。",
+                "pinyin": "Liǎng wèi.",
+                "english": "Two.",
+                "words": [
+                  {
+                    "hanzi": "两",
+                    "pinyin": "liǎng",
+                    "english": "two"
+                  },
+                  {
+                    "hanzi": "位",
+                    "pinyin": "wèi",
+                    "english": "(measure word) people"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "请看菜单。您想点什么？",
+                "pinyin": "Qǐng kàn càidān. Nín xiǎng diǎn shénme?",
+                "english": "Please look at the menu. What would you like to order?",
+                "words": [
+                  {
+                    "hanzi": "菜单",
+                    "pinyin": "càidān",
+                    "english": "menu"
+                  },
+                  {
+                    "hanzi": "点",
+                    "pinyin": "diǎn",
+                    "english": "to order"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "我要一个青菜和一碗米饭。",
+                "pinyin": "Wǒ yào yí ge qīngcài hé yì wǎn mǐfàn.",
+                "english": "I'll have a vegetable dish and a bowl of rice.",
+                "words": [
+                  {
+                    "hanzi": "青菜",
+                    "pinyin": "qīngcài",
+                    "english": "green vegetables"
+                  },
+                  {
+                    "hanzi": "米饭",
+                    "pinyin": "mǐfàn",
+                    "english": "rice"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "好的，喝点什么？",
+                "pinyin": "Hǎo de, hē diǎn shénme?",
+                "english": "OK, anything to drink?",
+                "words": [
+                  {
+                    "hanzi": "喝",
+                    "pinyin": "hē",
+                    "english": "to drink"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "一杯茶，谢谢。",
+                "pinyin": "Yì bēi chá, xièxie.",
+                "english": "A cup of tea, thanks.",
+                "words": [
+                  {
+                    "hanzi": "一杯",
+                    "pinyin": "yì bēi",
+                    "english": "a cup of"
+                  },
+                  {
+                    "hanzi": "茶",
+                    "pinyin": "chá",
+                    "english": "tea"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "How many people are dining?",
+                "options": [
+                  "Two",
+                  "One",
+                  "Three",
+                  "Four"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does the customer drink?",
+                "options": [
+                  "Tea",
+                  "Coffee",
+                  "Water",
+                  "Juice"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "manga_shopping",
+            "title": "买东西",
+            "titlePinyin": "mǎi dōngxi",
+            "titleEnglish": "Shopping & Bargaining",
+            "level": 2,
+            "icon": "bag-shopping",
+            "grad": "linear-gradient(135deg,#f59e0b,#ef4444)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/shopping.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-shopping.mp4",
+            "speakers": {
+              "A": {
+                "name": "Customer",
+                "cn": "顾客"
+              },
+              "B": {
+                "name": "Vendor",
+                "cn": "老板"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "这个多少钱？",
+                "pinyin": "Zhège duōshao qián?",
+                "english": "How much is this?",
+                "words": [
+                  {
+                    "hanzi": "多少钱",
+                    "pinyin": "duōshao qián",
+                    "english": "how much money"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "五十块。",
+                "pinyin": "Wǔshí kuài.",
+                "english": "Fifty yuan.",
+                "words": [
+                  {
+                    "hanzi": "五十",
+                    "pinyin": "wǔshí",
+                    "english": "fifty"
+                  },
+                  {
+                    "hanzi": "块",
+                    "pinyin": "kuài",
+                    "english": "yuan"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "太贵了！便宜一点吧。",
+                "pinyin": "Tài guì le! Piányi yìdiǎn ba.",
+                "english": "Too expensive! A bit cheaper, please.",
+                "words": [
+                  {
+                    "hanzi": "贵",
+                    "pinyin": "guì",
+                    "english": "expensive"
+                  },
+                  {
+                    "hanzi": "便宜",
+                    "pinyin": "piányi",
+                    "english": "cheap"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "好吧，四十块。",
+                "pinyin": "Hǎo ba, sìshí kuài.",
+                "english": "OK, forty yuan.",
+                "words": [
+                  {
+                    "hanzi": "好吧",
+                    "pinyin": "hǎo ba",
+                    "english": "OK then"
+                  },
+                  {
+                    "hanzi": "四十",
+                    "pinyin": "sìshí",
+                    "english": "forty"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "好，我要这个。",
+                "pinyin": "Hǎo, wǒ yào zhège.",
+                "english": "OK, I'll take this one.",
+                "words": [
+                  {
+                    "hanzi": "要",
+                    "pinyin": "yào",
+                    "english": "to want"
+                  },
+                  {
+                    "hanzi": "这个",
+                    "pinyin": "zhège",
+                    "english": "this one"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What was the first price?",
+                "options": [
+                  "50 yuan",
+                  "40 yuan",
+                  "30 yuan",
+                  "60 yuan"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What price did they agree on?",
+                "options": [
+                  "40 yuan",
+                  "50 yuan",
+                  "20 yuan",
+                  "45 yuan"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "manga_directions",
+            "title": "问路",
+            "titlePinyin": "wènlù",
+            "titleEnglish": "Asking Directions",
+            "level": 2,
+            "icon": "map-location-dot",
+            "grad": "linear-gradient(135deg,#0ea5e9,#6366f1)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/directions.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-directions.mp4",
+            "speakers": {
+              "A": {
+                "name": "Tourist",
+                "cn": "游客"
+              },
+              "B": {
+                "name": "Local",
+                "cn": "路人"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "请问，地铁站在哪儿？",
+                "pinyin": "Qǐngwèn, dìtiě zhàn zài nǎr?",
+                "english": "Excuse me, where is the subway station?",
+                "words": [
+                  {
+                    "hanzi": "请问",
+                    "pinyin": "qǐngwèn",
+                    "english": "excuse me"
+                  },
+                  {
+                    "hanzi": "地铁站",
+                    "pinyin": "dìtiě zhàn",
+                    "english": "subway station"
+                  },
+                  {
+                    "hanzi": "哪儿",
+                    "pinyin": "nǎr",
+                    "english": "where"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "一直往前走。",
+                "pinyin": "Yìzhí wǎng qián zǒu.",
+                "english": "Go straight ahead.",
+                "words": [
+                  {
+                    "hanzi": "一直",
+                    "pinyin": "yìzhí",
+                    "english": "straight"
+                  },
+                  {
+                    "hanzi": "往前",
+                    "pinyin": "wǎng qián",
+                    "english": "forward"
+                  },
+                  {
+                    "hanzi": "走",
+                    "pinyin": "zǒu",
+                    "english": "to walk"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "远吗？",
+                "pinyin": "Yuǎn ma?",
+                "english": "Is it far?",
+                "words": [
+                  {
+                    "hanzi": "远",
+                    "pinyin": "yuǎn",
+                    "english": "far"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "不远，五分钟就到。",
+                "pinyin": "Bù yuǎn, wǔ fēnzhōng jiù dào.",
+                "english": "Not far, five minutes and you're there.",
+                "words": [
+                  {
+                    "hanzi": "分钟",
+                    "pinyin": "fēnzhōng",
+                    "english": "minute"
+                  },
+                  {
+                    "hanzi": "到",
+                    "pinyin": "dào",
+                    "english": "to arrive"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "谢谢你！",
+                "pinyin": "Xièxie nǐ!",
+                "english": "Thank you!",
+                "words": [
+                  {
+                    "hanzi": "谢谢",
+                    "pinyin": "xièxie",
+                    "english": "thanks"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Where is the tourist going?",
+                "options": [
+                  "Subway station",
+                  "Airport",
+                  "Hotel",
+                  "Restaurant"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "How long does it take?",
+                "options": [
+                  "Five minutes",
+                  "Half an hour",
+                  "Ten minutes",
+                  "One hour"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "manga_taxi",
+            "title": "坐出租车",
+            "titlePinyin": "zuò chūzūchē",
+            "titleEnglish": "Taking a Taxi",
+            "level": 2,
+            "icon": "taxi",
+            "grad": "linear-gradient(135deg,#eab308,#f97316)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/taxi.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-taxi.mp4",
+            "speakers": {
+              "A": {
+                "name": "Driver",
+                "cn": "司机"
+              },
+              "B": {
+                "name": "Passenger",
+                "cn": "乘客"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "您去哪儿？",
+                "pinyin": "Nín qù nǎr?",
+                "english": "Where are you going?",
+                "words": [
+                  {
+                    "hanzi": "去",
+                    "pinyin": "qù",
+                    "english": "to go"
+                  },
+                  {
+                    "hanzi": "哪儿",
+                    "pinyin": "nǎr",
+                    "english": "where"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "我去机场。",
+                "pinyin": "Wǒ qù jīchǎng.",
+                "english": "I'm going to the airport.",
+                "words": [
+                  {
+                    "hanzi": "机场",
+                    "pinyin": "jīchǎng",
+                    "english": "airport"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "好的，请系安全带。",
+                "pinyin": "Hǎo de, qǐng jì ānquándài.",
+                "english": "OK, please fasten your seatbelt.",
+                "words": [
+                  {
+                    "hanzi": "系",
+                    "pinyin": "jì",
+                    "english": "to fasten"
+                  },
+                  {
+                    "hanzi": "安全带",
+                    "pinyin": "ānquándài",
+                    "english": "seatbelt"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "大概要多久？",
+                "pinyin": "Dàgài yào duōjiǔ?",
+                "english": "About how long will it take?",
+                "words": [
+                  {
+                    "hanzi": "大概",
+                    "pinyin": "dàgài",
+                    "english": "about"
+                  },
+                  {
+                    "hanzi": "多久",
+                    "pinyin": "duōjiǔ",
+                    "english": "how long"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "半个小时左右。",
+                "pinyin": "Bàn ge xiǎoshí zuǒyòu.",
+                "english": "About half an hour.",
+                "words": [
+                  {
+                    "hanzi": "半个小时",
+                    "pinyin": "bàn ge xiǎoshí",
+                    "english": "half an hour"
+                  },
+                  {
+                    "hanzi": "左右",
+                    "pinyin": "zuǒyòu",
+                    "english": "about"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Where is the passenger going?",
+                "options": [
+                  "Airport",
+                  "Train station",
+                  "Hotel",
+                  "Home"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "How long is the ride?",
+                "options": [
+                  "About half an hour",
+                  "Five minutes",
+                  "Two hours",
+                  "Ten minutes"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "manga_phonecall",
+            "title": "打电话",
+            "titlePinyin": "dǎ diànhuà",
+            "titleEnglish": "Making a Phone Call",
+            "level": 2,
+            "icon": "phone",
+            "grad": "linear-gradient(135deg,#10b981,#0ea5e9)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/phonecall.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-phonecall.mp4",
+            "speakers": {
+              "A": {
+                "name": "Xiao Li",
+                "cn": "小李"
+              },
+              "B": {
+                "name": "Zhang Wei",
+                "cn": "张伟"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "喂，你好！",
+                "pinyin": "Wéi, nǐ hǎo!",
+                "english": "Hello!",
+                "words": [
+                  {
+                    "hanzi": "喂",
+                    "pinyin": "wéi",
+                    "english": "hello (phone)"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "喂，小李吗？我是张伟。",
+                "pinyin": "Wéi, Xiǎo Lǐ ma? Wǒ shì Zhāng Wěi.",
+                "english": "Hello, is this Xiao Li? It's Zhang Wei.",
+                "words": [
+                  {
+                    "hanzi": "是",
+                    "pinyin": "shì",
+                    "english": "to be"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "是我。有什么事吗？",
+                "pinyin": "Shì wǒ. Yǒu shénme shì ma?",
+                "english": "It's me. What's up?",
+                "words": [
+                  {
+                    "hanzi": "有事",
+                    "pinyin": "yǒu shì",
+                    "english": "have something up"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "今晚一起吃饭吗？",
+                "pinyin": "Jīnwǎn yìqǐ chīfàn ma?",
+                "english": "Want to have dinner together tonight?",
+                "words": [
+                  {
+                    "hanzi": "今晚",
+                    "pinyin": "jīnwǎn",
+                    "english": "tonight"
+                  },
+                  {
+                    "hanzi": "一起",
+                    "pinyin": "yìqǐ",
+                    "english": "together"
+                  },
+                  {
+                    "hanzi": "吃饭",
+                    "pinyin": "chīfàn",
+                    "english": "to eat"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "好啊，几点？",
+                "pinyin": "Hǎo a, jǐ diǎn?",
+                "english": "Sure, what time?",
+                "words": [
+                  {
+                    "hanzi": "几点",
+                    "pinyin": "jǐ diǎn",
+                    "english": "what time"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "七点，饭馆见！",
+                "pinyin": "Qī diǎn, fànguǎn jiàn!",
+                "english": "Seven o'clock, see you at the restaurant!",
+                "words": [
+                  {
+                    "hanzi": "七点",
+                    "pinyin": "qī diǎn",
+                    "english": "seven o'clock"
+                  },
+                  {
+                    "hanzi": "见",
+                    "pinyin": "jiàn",
+                    "english": "to see / meet"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Who is calling?",
+                "options": [
+                  "Zhang Wei",
+                  "Xiao Li",
+                  "Li Ming",
+                  "Wang Fang"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What time will they meet?",
+                "options": [
+                  "Seven",
+                  "Six",
+                  "Eight",
+                  "Five"
+                ],
+                "correct": 0
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

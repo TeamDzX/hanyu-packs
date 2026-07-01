@@ -40,6 +40,7 @@ ORDER=(
   food-street-breakfast
   food-noodles
   food-plant-based
+  manga-everyday-essentials
 )
 
 FILES=()

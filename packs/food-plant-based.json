@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "food-plant-based",
   "name": "Chinese Food: Plant-Based",
   "icon": "seedling",
@@ -36,7 +36,7 @@
           "Return the egg, add the spring onion and toss gently to combine.",
           "Serve hot over steamed rice."
         ],
-        "video": "",
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/tomato-egg.mp4",
         "vocab": [
           {
             "hanzi": "西红柿",
@@ -94,7 +94,7 @@
           "Return the tofu and braise gently for 5 minutes.",
           "Thicken with the cornflour slurry and serve."
         ],
-        "video": "",
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/home-style-tofu.mp4",
         "vocab": [
           {
             "hanzi": "豆腐",
@@ -151,7 +151,7 @@
           "Splash in the vinegar and season with salt, tossing quickly.",
           "Finish with spring onion and serve crisp."
         ],
-        "video": "",
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/potato-slivers.mp4",
         "vocab": [
           {
             "hanzi": "土豆",
@@ -207,7 +207,7 @@
           "Stir-fry until the sauce coats and the beans are tender.",
           "Serve hot."
         ],
-        "video": "",
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/green-beans.mp4",
         "vocab": [
           {
             "hanzi": "四季豆",
@@ -265,7 +265,7 @@
           "Simmer covered for 10 minutes until everything is tender.",
           "Thicken with the cornflour slurry and serve."
         ],
-        "video": "",
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/buddhas-delight.mp4",
         "vocab": [
           {
             "hanzi": "蘑菇",
@@ -321,7 +321,7 @@
           "Pour in the sauce and simmer until thick and glossy.",
           "Fold through the crisp tofu and serve at once."
         ],
-        "video": "",
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/sweet-sour-tofu.mp4",
         "vocab": [
           {
             "hanzi": "豆腐",
@@ -377,7 +377,7 @@
           "Return the egg, season with salt and a drizzle of sesame oil.",
           "Toss together and serve immediately."
         ],
-        "video": "",
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/chive-egg.mp4",
         "vocab": [
           {
             "hanzi": "韭菜",
@@ -433,7 +433,7 @@
           "Thicken with the cornflour slurry to a glossy sauce.",
           "Spoon the mushrooms and sauce over the greens and serve."
         ],
-        "video": "",
+        "video": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/mushroom-greens.mp4",
         "vocab": [
           {
             "hanzi": "香菇",

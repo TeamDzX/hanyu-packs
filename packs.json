@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-07-01",
+  "generated": "2026-07-02",
   "packs": [
     {
       "revision": 1,
@@ -14759,6 +14759,360 @@
                   "Six",
                   "Eight",
                   "Five"
+                ],
+                "correct": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "manga-out-and-about",
+      "name": "Manga Dialogues: Out & About",
+      "icon": "comments",
+      "releaseDate": "2026-07-02",
+      "minApp": "2.7",
+      "whatsNew": "Two more animated manga dialogue scenes — ordering coffee at a café and making friends by chatting about hobbies. Watch the scene, tap any word, hear it spoken.",
+      "content": {
+        "situations": [
+          {
+            "id": "manga_cafe",
+            "title": "点咖啡",
+            "titlePinyin": "diǎn kāfēi",
+            "titleEnglish": "Ordering Coffee",
+            "level": 2,
+            "icon": "mug-hot",
+            "grad": "linear-gradient(135deg,#7c3aed,#db2777)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/cafe.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-cafe.mp4",
+            "speakers": {
+              "A": {
+                "name": "Kai",
+                "cn": "小凯"
+              },
+              "B": {
+                "name": "Yaya",
+                "cn": "雅雅"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "你好，我要一杯拿铁。",
+                "pinyin": "Nǐ hǎo, wǒ yào yì bēi nátiě.",
+                "english": "Hi, I'd like a latte.",
+                "words": [
+                  {
+                    "hanzi": "要",
+                    "pinyin": "yào",
+                    "english": "to want"
+                  },
+                  {
+                    "hanzi": "一杯",
+                    "pinyin": "yì bēi",
+                    "english": "a cup of"
+                  },
+                  {
+                    "hanzi": "拿铁",
+                    "pinyin": "nátiě",
+                    "english": "latte"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "好的，热的还是冰的？",
+                "pinyin": "Hǎo de, rè de háishì bīng de?",
+                "english": "Sure, hot or iced?",
+                "words": [
+                  {
+                    "hanzi": "热",
+                    "pinyin": "rè",
+                    "english": "hot"
+                  },
+                  {
+                    "hanzi": "还是",
+                    "pinyin": "háishì",
+                    "english": "or"
+                  },
+                  {
+                    "hanzi": "冰",
+                    "pinyin": "bīng",
+                    "english": "iced / ice"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "热的，谢谢。大杯的。",
+                "pinyin": "Rè de, xièxie. Dà bēi de.",
+                "english": "Hot, thanks. A large one.",
+                "words": [
+                  {
+                    "hanzi": "大",
+                    "pinyin": "dà",
+                    "english": "big / large"
+                  },
+                  {
+                    "hanzi": "谢谢",
+                    "pinyin": "xièxie",
+                    "english": "thank you"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "在这儿喝还是带走？",
+                "pinyin": "Zài zhèr hē háishì dàizǒu?",
+                "english": "For here or to go?",
+                "words": [
+                  {
+                    "hanzi": "喝",
+                    "pinyin": "hē",
+                    "english": "to drink"
+                  },
+                  {
+                    "hanzi": "带走",
+                    "pinyin": "dàizǒu",
+                    "english": "to take away"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "带走。多少钱？",
+                "pinyin": "Dàizǒu. Duōshǎo qián?",
+                "english": "To go. How much is it?",
+                "words": [
+                  {
+                    "hanzi": "带走",
+                    "pinyin": "dàizǒu",
+                    "english": "to take away"
+                  },
+                  {
+                    "hanzi": "多少钱",
+                    "pinyin": "duōshǎo qián",
+                    "english": "how much (money)"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "三十块。这是你的咖啡。",
+                "pinyin": "Sānshí kuài. Zhè shì nǐ de kāfēi.",
+                "english": "Thirty yuan. Here's your coffee.",
+                "words": [
+                  {
+                    "hanzi": "块",
+                    "pinyin": "kuài",
+                    "english": "yuan (colloquial)"
+                  },
+                  {
+                    "hanzi": "咖啡",
+                    "pinyin": "kāfēi",
+                    "english": "coffee"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What does Kai order?",
+                "options": [
+                  "A latte",
+                  "A tea",
+                  "A cake",
+                  "Iced water"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Does he want it hot or iced?",
+                "options": [
+                  "Hot",
+                  "Iced",
+                  "Both",
+                  "Neither"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Is the coffee for here or to go?",
+                "options": [
+                  "To go",
+                  "For here",
+                  "Delivery",
+                  "He didn't say"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "manga_hobbies",
+            "title": "聊爱好",
+            "titlePinyin": "liáo àihào",
+            "titleEnglish": "Talking About Hobbies",
+            "level": 2,
+            "icon": "basketball",
+            "grad": "linear-gradient(135deg,#2563eb,#7c3aed)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/hobbies.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-hobbies.mp4",
+            "speakers": {
+              "A": {
+                "name": "Xiaolong",
+                "cn": "小龙"
+              },
+              "B": {
+                "name": "Meiling",
+                "cn": "美玲"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "你平时喜欢做什么？",
+                "pinyin": "Nǐ píngshí xǐhuan zuò shénme?",
+                "english": "What do you usually like to do?",
+                "words": [
+                  {
+                    "hanzi": "平时",
+                    "pinyin": "píngshí",
+                    "english": "usually"
+                  },
+                  {
+                    "hanzi": "喜欢",
+                    "pinyin": "xǐhuan",
+                    "english": "to like"
+                  },
+                  {
+                    "hanzi": "做",
+                    "pinyin": "zuò",
+                    "english": "to do"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "我喜欢看书。你呢？",
+                "pinyin": "Wǒ xǐhuan kànshū. Nǐ ne?",
+                "english": "I like reading. And you?",
+                "words": [
+                  {
+                    "hanzi": "看书",
+                    "pinyin": "kànshū",
+                    "english": "to read (books)"
+                  },
+                  {
+                    "hanzi": "你呢",
+                    "pinyin": "nǐ ne",
+                    "english": "and you?"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "我喜欢打篮球。",
+                "pinyin": "Wǒ xǐhuan dǎ lánqiú.",
+                "english": "I like playing basketball.",
+                "words": [
+                  {
+                    "hanzi": "打篮球",
+                    "pinyin": "dǎ lánqiú",
+                    "english": "to play basketball"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "真的吗？我也喜欢运动。",
+                "pinyin": "Zhēn de ma? Wǒ yě xǐhuan yùndòng.",
+                "english": "Really? I like sports too.",
+                "words": [
+                  {
+                    "hanzi": "真的",
+                    "pinyin": "zhēn de",
+                    "english": "really"
+                  },
+                  {
+                    "hanzi": "也",
+                    "pinyin": "yě",
+                    "english": "also"
+                  },
+                  {
+                    "hanzi": "运动",
+                    "pinyin": "yùndòng",
+                    "english": "sports / exercise"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "那我们周末一起打球吧！",
+                "pinyin": "Nà wǒmen zhōumò yìqǐ dǎ qiú ba!",
+                "english": "Then let's play together this weekend!",
+                "words": [
+                  {
+                    "hanzi": "周末",
+                    "pinyin": "zhōumò",
+                    "english": "weekend"
+                  },
+                  {
+                    "hanzi": "一起",
+                    "pinyin": "yìqǐ",
+                    "english": "together"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "好啊！听起来很有意思。",
+                "pinyin": "Hǎo a! Tīng qǐlái hěn yǒuyìsi.",
+                "english": "Sure! That sounds fun.",
+                "words": [
+                  {
+                    "hanzi": "好啊",
+                    "pinyin": "hǎo a",
+                    "english": "sure / okay"
+                  },
+                  {
+                    "hanzi": "有意思",
+                    "pinyin": "yǒuyìsi",
+                    "english": "interesting / fun"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What does Meiling like to do?",
+                "options": [
+                  "Reading",
+                  "Basketball",
+                  "Cooking",
+                  "Singing"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What is Xiaolong's hobby?",
+                "options": [
+                  "Basketball",
+                  "Reading",
+                  "Swimming",
+                  "Painting"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "When will they meet up?",
+                "options": [
+                  "This weekend",
+                  "Tomorrow",
+                  "Tonight",
+                  "Next month"
                 ],
                 "correct": 0
               }

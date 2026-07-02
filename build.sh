@@ -41,6 +41,7 @@ ORDER=(
   food-noodles
   food-plant-based
   manga-everyday-essentials
+  manga-out-and-about
 )
 
 FILES=()

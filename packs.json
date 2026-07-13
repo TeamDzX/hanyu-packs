@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-07-02",
+  "generated": "2026-07-13",
   "packs": [
     {
       "revision": 1,
@@ -11189,6 +11189,179 @@
             "summary": "The vital energy of life",
             "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/history/phil-qi.jpg",
             "detailHtml": "Qi (气) is the vital energy believed to flow through all living things and the cosmos itself. Balanced, free-flowing qi means health and vitality; blocked or depleted qi means illness.<br><br>The idea underpins traditional Chinese medicine, acupuncture, feng shui and the slow, breath-led movements of tai chi (太极) and qigong (气功)."
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "modern-music",
+      "name": "Modern Music & Influence",
+      "icon": "compact-disc",
+      "releaseDate": "2026-07-13",
+      "minApp": "2.9",
+      "whatsNew": "Expands Chinese Music with today's scene — Zhou Shen, Mayday, Higher Brothers and more artists, plus how Douyin, idol shows and game soundtracks shape what China listens to now.",
+      "content": {
+        "music": [
+          {
+            "id": "mm-zhou-shen",
+            "category": "artist",
+            "title": "Zhou Shen",
+            "hanzi": "周深 Zhōu Shēn",
+            "era": "b. 1992 · The voice of a generation",
+            "symbol": "深",
+            "iconBg": "linear-gradient(135deg,#38bdf8,#1e40af)",
+            "detailHtml": "An otherworldly, genre-defying voice discovered on <em>The Voice of China</em>. His theme for the film <em>Big Fish &amp; Begonia</em>, 《大鱼》 <em>Big Fish</em>, made him the undisputed king of Chinese film and drama soundtracks — if a big series has a theme song, it's probably his."
+          },
+          {
+            "id": "mm-mao-buyi",
+            "category": "artist",
+            "title": "Mao Buyi",
+            "hanzi": "毛不易 Máo Bùyì",
+            "era": "b. 1994 · The storyteller",
+            "symbol": "毛",
+            "iconBg": "linear-gradient(135deg,#a3a3a3,#525252)",
+            "detailHtml": "A trainee nurse who won a talent show with quiet, literate folk-pop and became the everyman voice of young China. 《消愁》 <em>Drown One's Sorrows</em> toasts life's hardships one cup at a time. His slow, crystal-clear Mandarin is superb listening practice."
+          },
+          {
+            "id": "mm-hua-chenyu",
+            "category": "artist",
+            "title": "Hua Chenyu",
+            "hanzi": "华晨宇 Huà Chényǔ",
+            "era": "b. 1990 · Mars in concert",
+            "symbol": "华",
+            "iconBg": "linear-gradient(135deg,#ef4444,#7f1d1d)",
+            "detailHtml": "Art-pop showman nicknamed 火星弟弟 — \"Martian brother\" — for his out-there stage persona. Fills stadiums with theatrical, operatic performances; his live shows are events on the scale of Western arena tours."
+          },
+          {
+            "id": "mm-mayday",
+            "category": "artist",
+            "title": "Mayday",
+            "hanzi": "五月天 Wǔyuètiān",
+            "era": "formed 1997 · Asia's biggest rock band",
+            "symbol": "五",
+            "iconBg": "linear-gradient(135deg,#2563eb,#1e3a8a)",
+            "detailHtml": "Taiwan's beloved five-piece, often called \"the Beatles of the Chinese-speaking world.\" Anthems like 《倔强》 <em>Stubborn</em> soundtrack every graduation season, and their concerts sell out stadiums from Taipei to Beijing to Paris."
+          },
+          {
+            "id": "mm-phoenix-legend",
+            "category": "artist",
+            "title": "Phoenix Legend",
+            "hanzi": "凤凰传奇 Fènghuáng Chuánqí",
+            "era": "duo · The people's champions",
+            "symbol": "凤",
+            "iconBg": "linear-gradient(135deg,#f59e0b,#b45309)",
+            "detailHtml": "The folk-dance-pop duo behind 《最炫民族风》 <em>The Most Dazzling Folk Style</em> — the eternal anthem of 广场舞 (square dancing) aunties in every park in China. Once dismissed as uncool, now celebrated as national treasures. Impossible not to sing along."
+          },
+          {
+            "id": "mm-jackson-wang",
+            "category": "artist",
+            "title": "Jackson Wang",
+            "hanzi": "王嘉尔 Wáng Jiā'ěr",
+            "era": "b. 1994 · The global crossover",
+            "symbol": "嘉",
+            "iconBg": "linear-gradient(135deg,#111827,#4b5563)",
+            "detailHtml": "Hong Kong-born fencer turned K-pop idol (GOT7) turned global solo artist. Headlined Coachella, built the TEAM WANG brand, and moves fluidly between English, Mandarin, Cantonese and Korean — the model of the new borderless C-pop star."
+          },
+          {
+            "id": "mm-higher-brothers",
+            "category": "artist",
+            "title": "Higher Brothers",
+            "hanzi": "更高兄弟 Gènggāo Xiōngdì",
+            "era": "formed 2016 · Chengdu to the world",
+            "symbol": "高",
+            "iconBg": "linear-gradient(135deg,#d946ef,#86198f)",
+            "detailHtml": "The Chengdu rap crew that proved Chinese hip-hop travels: their hit 《Made in China》 racked up tens of millions of views worldwide via 88rising. Sichuan-dialect flows over trap beats — hard-mode listening, but a window into how young China actually talks."
+          },
+          {
+            "id": "mm-dao-lang",
+            "category": "artist",
+            "title": "Dao Lang",
+            "hanzi": "刀郎 Dāo Láng",
+            "era": "b. 1971 · The comeback of the century",
+            "symbol": "刀",
+            "iconBg": "linear-gradient(135deg,#78716c,#292524)",
+            "detailHtml": "A raspy-voiced folk singer who vanished from the spotlight for a decade — then returned in 2023 with 《罗刹海市》 <em>Luocha Kingdom</em>, a satirical song based on a Qing-dynasty tale that smashed global streaming records in days and had the whole internet decoding its lyrics."
+          },
+          {
+            "id": "mm-douyin",
+            "category": "genre",
+            "title": "Douyin hits",
+            "hanzi": "抖音神曲 Dǒuyīn shénqǔ",
+            "era": "The 15-second hit machine",
+            "symbol": "抖",
+            "iconBg": "linear-gradient(135deg,#0ea5e9,#0e7490)",
+            "detailHtml": "Douyin (China's TikTok) is now the country's biggest hit-maker: a 15-second hook goes viral, and overnight a song is everywhere — shops, taxis, your teacher's phone. 神曲 (\"divine songs\") chart purely on meme power. Love them or hate them, they're the fastest way to sound current."
+          },
+          {
+            "id": "mm-ost",
+            "category": "genre",
+            "title": "Soundtrack culture",
+            "hanzi": "影视原声 yǐngshì yuánshēng",
+            "era": "Dramas & games as the new charts",
+            "symbol": "影",
+            "iconBg": "linear-gradient(135deg,#8b5cf6,#5b21b6)",
+            "detailHtml": "In China the biggest songs often come from screens: costume-drama themes dominate streaming, and game studios hire full orchestras — <em>Genshin Impact</em>'s scores blend guzheng, dizi and erhu with symphonic writing and introduced Chinese instrumentation to millions of players worldwide."
+          },
+          {
+            "id": "mm-big-band",
+            "category": "genre",
+            "title": "The Big Band effect",
+            "hanzi": "乐队的夏天 Yuèduì de Xiàtiān",
+            "era": "The indie revival",
+            "symbol": "夏",
+            "iconBg": "linear-gradient(135deg,#10b981,#065f46)",
+            "detailHtml": "The 2019 TV show <em>The Big Band</em> (\"Summer of Bands\") dragged China's underground into the mainstream overnight. Veteran punks New Pants (新裤子) and folk-rock eccentrics Wutiaoren (五条人) became household names, and livehouse tickets across China have been selling out ever since."
+          },
+          {
+            "id": "mm-idol",
+            "category": "genre",
+            "title": "The idol industry",
+            "hanzi": "偶像 ǒuxiàng",
+            "era": "Survival shows & super-fans",
+            "symbol": "偶",
+            "iconBg": "linear-gradient(135deg,#ec4899,#9d174d)",
+            "detailHtml": "Borrowing the K-pop playbook, shows like <em>Produce 101 China</em> and groups like TFBoys and 时代少年团 (Teens in Times) built a fan economy of astonishing scale — fans coordinate streaming, voting and charity drives with military precision. 饭圈 (fan circle) culture is a phenomenon all its own."
+          },
+          {
+            "id": "mm-guofeng",
+            "category": "genre",
+            "title": "New guofeng",
+            "hanzi": "国风音乐 guófēng yīnyuè",
+            "era": "Tradition, rebooted",
+            "symbol": "国",
+            "iconBg": "linear-gradient(135deg,#b91c1c,#7f1d1d)",
+            "detailHtml": "The next generation of China-wind: young producers on Bilibili mixing guzheng and opera vocals with EDM and rap, virtual idols singing in ancient verse, and the hanfu fashion revival all feeding one aesthetic — proudly, playfully traditional. Search 国风 on any Chinese platform and fall down the rabbit hole."
+          },
+          {
+            "id": "mm-88rising",
+            "category": "genre",
+            "title": "The global bridge",
+            "hanzi": "出海 chūhǎi",
+            "era": "C-pop goes overseas",
+            "symbol": "海",
+            "iconBg": "linear-gradient(135deg,#0891b2,#164e63)",
+            "detailHtml": "出海 — \"sailing out to sea\" — is the industry word for going global. Labels like 88rising carried Higher Brothers and Jackson Wang to Western festivals, Mandarin tracks now chart on Spotify, and Chinese artists increasingly skip the West entirely, building audiences across Southeast Asia first."
+          },
+          {
+            "id": "mm-zide",
+            "category": "instrument",
+            "title": "Traditional goes viral",
+            "hanzi": "自得琴社 Zìdé Qínshè",
+            "era": "Ancient instruments, internet fame",
+            "symbol": "琴",
+            "iconBg": "linear-gradient(135deg,#d4a017,#92600a)",
+            "detailHtml": "Ensembles like Zide Guqin Studio dress in Tang-dynasty costume and arrange everything from film themes to pop hits for guqin, guzheng and dizi — their painting-come-to-life videos have hundreds of millions of views and made traditional instruments cool for a new generation (and for learners abroad)."
+          },
+          {
+            "id": "mm-electric-guoyue",
+            "category": "instrument",
+            "title": "Electric guoyue",
+            "hanzi": "电子国乐 diànzǐ guóyuè",
+            "era": "Plugged-in tradition",
+            "symbol": "电",
+            "iconBg": "linear-gradient(135deg,#22d3ee,#0e7490)",
+            "detailHtml": "Erhu players shredding over synthwave, suona solos in EDM drops, pipa in metal bands — a wave of musicians is proving the old instruments can headbang. If you thought the suona was loud at weddings, wait until you hear it over a festival sound system."
           }
         ]
       }

@@ -34,6 +34,7 @@ ORDER=(
   great-figures
   treasure-ship-era
   philosophy
+  modern-music
   food-everyday-classics
   food-dumplings-dimsum
   food-sichuan

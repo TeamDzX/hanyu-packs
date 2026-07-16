@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-07-13",
+  "generated": "2026-07-16",
   "packs": [
     {
       "revision": 1,
@@ -9232,6 +9232,674 @@
                 "hanzi": "预算",
                 "pinyin": "yùsuàn",
                 "meaning": "budget"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "hearts-feelings",
+      "name": "Hearts & Feelings",
+      "icon": "heart",
+      "releaseDate": "2026-07-16",
+      "minApp": "2.0",
+      "whatsNew": "Say how you feel — two picture-flashcard decks (Feelings & Moods, Love & Dating) and three sweet graded stories: a café crush, a nervous first date and the big confession.",
+      "content": {
+        "flashcardDecks": [
+          {
+            "id": "emotions",
+            "title": "Feelings & Moods",
+            "titleCn": "心情",
+            "icon": "smile",
+            "grad": "linear-gradient(135deg,#f472b6,#db2777)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/emotions/",
+            "cards": [
+              {
+                "hanzi": "开心",
+                "pinyin": "kāixīn",
+                "meaning": "happy"
+              },
+              {
+                "hanzi": "难过",
+                "pinyin": "nánguò",
+                "meaning": "sad"
+              },
+              {
+                "hanzi": "生气",
+                "pinyin": "shēngqì",
+                "meaning": "angry"
+              },
+              {
+                "hanzi": "紧张",
+                "pinyin": "jǐnzhāng",
+                "meaning": "nervous"
+              },
+              {
+                "hanzi": "害羞",
+                "pinyin": "hàixiū",
+                "meaning": "shy"
+              },
+              {
+                "hanzi": "兴奋",
+                "pinyin": "xīngfèn",
+                "meaning": "excited"
+              },
+              {
+                "hanzi": "累",
+                "pinyin": "lèi",
+                "meaning": "tired"
+              },
+              {
+                "hanzi": "无聊",
+                "pinyin": "wúliáo",
+                "meaning": "bored"
+              },
+              {
+                "hanzi": "害怕",
+                "pinyin": "hàipà",
+                "meaning": "scared; afraid"
+              },
+              {
+                "hanzi": "惊讶",
+                "pinyin": "jīngyà",
+                "meaning": "surprised"
+              },
+              {
+                "hanzi": "骄傲",
+                "pinyin": "jiāo'ào",
+                "meaning": "proud"
+              },
+              {
+                "hanzi": "担心",
+                "pinyin": "dānxīn",
+                "meaning": "worried"
+              },
+              {
+                "hanzi": "哭",
+                "pinyin": "kū",
+                "meaning": "to cry"
+              },
+              {
+                "hanzi": "笑",
+                "pinyin": "xiào",
+                "meaning": "to laugh; to smile"
+              },
+              {
+                "hanzi": "想家",
+                "pinyin": "xiǎng jiā",
+                "meaning": "homesick"
+              }
+            ]
+          },
+          {
+            "id": "dating",
+            "title": "Love & Dating",
+            "titleCn": "恋爱",
+            "icon": "heart",
+            "grad": "linear-gradient(135deg,#f43f5e,#be123c)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/dating/",
+            "cards": [
+              {
+                "hanzi": "爱",
+                "pinyin": "ài",
+                "meaning": "love; to love"
+              },
+              {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuan",
+                "meaning": "to like"
+              },
+              {
+                "hanzi": "约会",
+                "pinyin": "yuēhuì",
+                "meaning": "date; to date"
+              },
+              {
+                "hanzi": "男朋友",
+                "pinyin": "nánpéngyou",
+                "meaning": "boyfriend"
+              },
+              {
+                "hanzi": "女朋友",
+                "pinyin": "nǚpéngyou",
+                "meaning": "girlfriend"
+              },
+              {
+                "hanzi": "帅",
+                "pinyin": "shuài",
+                "meaning": "handsome"
+              },
+              {
+                "hanzi": "漂亮",
+                "pinyin": "piàoliang",
+                "meaning": "pretty; beautiful"
+              },
+              {
+                "hanzi": "可爱",
+                "pinyin": "kě'ài",
+                "meaning": "cute"
+              },
+              {
+                "hanzi": "拥抱",
+                "pinyin": "yōngbào",
+                "meaning": "hug; to hug"
+              },
+              {
+                "hanzi": "牵手",
+                "pinyin": "qiānshǒu",
+                "meaning": "to hold hands"
+              },
+              {
+                "hanzi": "礼物",
+                "pinyin": "lǐwù",
+                "meaning": "gift; present"
+              },
+              {
+                "hanzi": "玫瑰",
+                "pinyin": "méigui",
+                "meaning": "rose"
+              },
+              {
+                "hanzi": "情人节",
+                "pinyin": "Qíngrén Jié",
+                "meaning": "Valentine's Day"
+              },
+              {
+                "hanzi": "微笑",
+                "pinyin": "wēixiào",
+                "meaning": "smile; to smile"
+              },
+              {
+                "hanzi": "心",
+                "pinyin": "xīn",
+                "meaning": "heart"
+              }
+            ]
+          }
+        ],
+        "stories": [
+          {
+            "id": "pack_hf_story_cafe",
+            "title": "咖啡店的女孩",
+            "titlePinyin": "kāfēidiàn de nǚhái",
+            "titleEnglish": "The Girl in the Café",
+            "level": 1,
+            "theme": "<i class=\"fas fa-mug-hot\" style=\"color:#db2777\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_hf_story_cafe.jpg",
+            "sentences": [
+              {
+                "chinese": "我每天去咖啡店买咖啡。",
+                "pinyin": "Wǒ měitiān qù kāfēidiàn mǎi kāfēi.",
+                "english": "I go to the café to buy coffee every day.",
+                "words": [
+                  {
+                    "hanzi": "每天",
+                    "pinyin": "měitiān",
+                    "english": "every day"
+                  },
+                  {
+                    "hanzi": "咖啡店",
+                    "pinyin": "kāfēidiàn",
+                    "english": "café; coffee shop"
+                  },
+                  {
+                    "hanzi": "买",
+                    "pinyin": "mǎi",
+                    "english": "to buy"
+                  }
+                ]
+              },
+              {
+                "chinese": "咖啡店里有一个女孩。",
+                "pinyin": "Kāfēidiàn lǐ yǒu yí ge nǚhái.",
+                "english": "There is a girl in the café.",
+                "words": [
+                  {
+                    "hanzi": "里",
+                    "pinyin": "lǐ",
+                    "english": "inside"
+                  },
+                  {
+                    "hanzi": "有",
+                    "pinyin": "yǒu",
+                    "english": "to have; there is"
+                  },
+                  {
+                    "hanzi": "女孩",
+                    "pinyin": "nǚhái",
+                    "english": "girl"
+                  }
+                ]
+              },
+              {
+                "chinese": "她的笑很好看。",
+                "pinyin": "Tā de xiào hěn hǎokàn.",
+                "english": "Her smile is very pretty.",
+                "words": [
+                  {
+                    "hanzi": "笑",
+                    "pinyin": "xiào",
+                    "english": "smile; to smile"
+                  },
+                  {
+                    "hanzi": "好看",
+                    "pinyin": "hǎokàn",
+                    "english": "good-looking; pretty"
+                  }
+                ]
+              },
+              {
+                "chinese": "我看她，她也看我。",
+                "pinyin": "Wǒ kàn tā, tā yě kàn wǒ.",
+                "english": "I look at her, and she looks at me too.",
+                "words": [
+                  {
+                    "hanzi": "看",
+                    "pinyin": "kàn",
+                    "english": "to look at"
+                  },
+                  {
+                    "hanzi": "也",
+                    "pinyin": "yě",
+                    "english": "also; too"
+                  }
+                ]
+              },
+              {
+                "chinese": "今天她对我笑了，我很开心。",
+                "pinyin": "Jīntiān tā duì wǒ xiào le, wǒ hěn kāixīn.",
+                "english": "Today she smiled at me — I am very happy.",
+                "words": [
+                  {
+                    "hanzi": "今天",
+                    "pinyin": "jīntiān",
+                    "english": "today"
+                  },
+                  {
+                    "hanzi": "对",
+                    "pinyin": "duì",
+                    "english": "towards; at"
+                  },
+                  {
+                    "hanzi": "开心",
+                    "pinyin": "kāixīn",
+                    "english": "happy"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Where does the narrator go every day?",
+                "options": [
+                  "The café",
+                  "The park",
+                  "School",
+                  "A restaurant"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does the narrator think of the girl's smile?",
+                "options": [
+                  "It is very pretty",
+                  "It is strange",
+                  "It is funny",
+                  "It is sad"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Why is the narrator happy today?",
+                "options": [
+                  "She smiled at him",
+                  "He got free coffee",
+                  "He bought a gift",
+                  "It is his birthday"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "pack_hf_story_date",
+            "title": "第一次约会",
+            "titlePinyin": "dì-yī cì yuēhuì",
+            "titleEnglish": "First Date",
+            "level": 2,
+            "theme": "<i class=\"fas fa-heart\" style=\"color:#f43f5e\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_hf_story_date.jpg",
+            "sentences": [
+              {
+                "chinese": "今天晚上我有一个约会，我很紧张。",
+                "pinyin": "Jīntiān wǎnshang wǒ yǒu yí ge yuēhuì, wǒ hěn jǐnzhāng.",
+                "english": "Tonight I have a date, and I am very nervous.",
+                "words": [
+                  {
+                    "hanzi": "晚上",
+                    "pinyin": "wǎnshang",
+                    "english": "evening; night"
+                  },
+                  {
+                    "hanzi": "约会",
+                    "pinyin": "yuēhuì",
+                    "english": "date"
+                  },
+                  {
+                    "hanzi": "紧张",
+                    "pinyin": "jǐnzhāng",
+                    "english": "nervous"
+                  }
+                ]
+              },
+              {
+                "chinese": "我穿了新衣服，还买了一朵玫瑰。",
+                "pinyin": "Wǒ chuān le xīn yīfu, hái mǎi le yì duǒ méigui.",
+                "english": "I put on new clothes and also bought a rose.",
+                "words": [
+                  {
+                    "hanzi": "穿",
+                    "pinyin": "chuān",
+                    "english": "to wear; to put on"
+                  },
+                  {
+                    "hanzi": "衣服",
+                    "pinyin": "yīfu",
+                    "english": "clothes"
+                  },
+                  {
+                    "hanzi": "朵",
+                    "pinyin": "duǒ",
+                    "english": "measure word for flowers"
+                  },
+                  {
+                    "hanzi": "玫瑰",
+                    "pinyin": "méigui",
+                    "english": "rose"
+                  }
+                ]
+              },
+              {
+                "chinese": "她来的时候，我的心跳得很快。",
+                "pinyin": "Tā lái de shíhou, wǒ de xīn tiào de hěn kuài.",
+                "english": "When she arrived, my heart was beating very fast.",
+                "words": [
+                  {
+                    "hanzi": "时候",
+                    "pinyin": "shíhou",
+                    "english": "time; moment"
+                  },
+                  {
+                    "hanzi": "心",
+                    "pinyin": "xīn",
+                    "english": "heart"
+                  },
+                  {
+                    "hanzi": "跳",
+                    "pinyin": "tiào",
+                    "english": "to beat; to jump"
+                  },
+                  {
+                    "hanzi": "快",
+                    "pinyin": "kuài",
+                    "english": "fast"
+                  }
+                ]
+              },
+              {
+                "chinese": "我们一起吃饭，聊了很多。",
+                "pinyin": "Wǒmen yìqǐ chīfàn, liáo le hěn duō.",
+                "english": "We ate together and talked a lot.",
+                "words": [
+                  {
+                    "hanzi": "一起",
+                    "pinyin": "yìqǐ",
+                    "english": "together"
+                  },
+                  {
+                    "hanzi": "聊",
+                    "pinyin": "liáo",
+                    "english": "to chat"
+                  }
+                ]
+              },
+              {
+                "chinese": "她笑的时候，我忘了紧张。",
+                "pinyin": "Tā xiào de shíhou, wǒ wàng le jǐnzhāng.",
+                "english": "When she laughed, I forgot my nerves.",
+                "words": [
+                  {
+                    "hanzi": "忘",
+                    "pinyin": "wàng",
+                    "english": "to forget"
+                  }
+                ]
+              },
+              {
+                "chinese": "我希望还有第二次约会。",
+                "pinyin": "Wǒ xīwàng hái yǒu dì-èr cì yuēhuì.",
+                "english": "I hope there will be a second date.",
+                "words": [
+                  {
+                    "hanzi": "希望",
+                    "pinyin": "xīwàng",
+                    "english": "to hope"
+                  },
+                  {
+                    "hanzi": "第二次",
+                    "pinyin": "dì-èr cì",
+                    "english": "the second time"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "How does the narrator feel before the date?",
+                "options": [
+                  "Nervous",
+                  "Bored",
+                  "Angry",
+                  "Tired"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What did the narrator buy?",
+                "options": [
+                  "A rose",
+                  "Chocolates",
+                  "A book",
+                  "Coffee"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does the narrator hope for?",
+                "options": [
+                  "A second date",
+                  "A new job",
+                  "A holiday",
+                  "A gift"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "pack_hf_story_confess",
+            "title": "我喜欢你",
+            "titlePinyin": "wǒ xǐhuan nǐ",
+            "titleEnglish": "I Like You",
+            "level": 3,
+            "theme": "<i class=\"fas fa-envelope-open-text\" style=\"color:#be123c\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_hf_story_confess.jpg",
+            "sentences": [
+              {
+                "chinese": "小美和我是大学同学，我们认识两年了。",
+                "pinyin": "Xiǎoměi hé wǒ shì dàxué tóngxué, wǒmen rènshi liǎng nián le.",
+                "english": "Xiaomei and I are university classmates; we have known each other for two years.",
+                "words": [
+                  {
+                    "hanzi": "大学",
+                    "pinyin": "dàxué",
+                    "english": "university"
+                  },
+                  {
+                    "hanzi": "同学",
+                    "pinyin": "tóngxué",
+                    "english": "classmate"
+                  },
+                  {
+                    "hanzi": "认识",
+                    "pinyin": "rènshi",
+                    "english": "to know (a person)"
+                  }
+                ]
+              },
+              {
+                "chinese": "每次见到她，我都想说一句话，可是不敢。",
+                "pinyin": "Měi cì jiàndào tā, wǒ dōu xiǎng shuō yí jù huà, kěshì bù gǎn.",
+                "english": "Every time I see her, I want to say something, but I do not dare.",
+                "words": [
+                  {
+                    "hanzi": "每次",
+                    "pinyin": "měi cì",
+                    "english": "every time"
+                  },
+                  {
+                    "hanzi": "见到",
+                    "pinyin": "jiàndào",
+                    "english": "to see; to meet"
+                  },
+                  {
+                    "hanzi": "可是",
+                    "pinyin": "kěshì",
+                    "english": "but"
+                  },
+                  {
+                    "hanzi": "敢",
+                    "pinyin": "gǎn",
+                    "english": "to dare"
+                  }
+                ]
+              },
+              {
+                "chinese": "朋友说：“你再不说，她就要去北京工作了。”",
+                "pinyin": "Péngyou shuō: “Nǐ zài bù shuō, tā jiù yào qù Běijīng gōngzuò le.”",
+                "english": "My friend said: \"If you don't speak up soon, she is going to Beijing for work.\"",
+                "words": [
+                  {
+                    "hanzi": "再不",
+                    "pinyin": "zài bù",
+                    "english": "if (you) don't … soon"
+                  },
+                  {
+                    "hanzi": "就要…了",
+                    "pinyin": "jiù yào… le",
+                    "english": "about to"
+                  },
+                  {
+                    "hanzi": "工作",
+                    "pinyin": "gōngzuò",
+                    "english": "to work; job"
+                  }
+                ]
+              },
+              {
+                "chinese": "昨天晚上，我在图书馆门口等她。",
+                "pinyin": "Zuótiān wǎnshang, wǒ zài túshūguǎn ménkǒu děng tā.",
+                "english": "Last night, I waited for her at the library entrance.",
+                "words": [
+                  {
+                    "hanzi": "图书馆",
+                    "pinyin": "túshūguǎn",
+                    "english": "library"
+                  },
+                  {
+                    "hanzi": "门口",
+                    "pinyin": "ménkǒu",
+                    "english": "doorway; entrance"
+                  },
+                  {
+                    "hanzi": "等",
+                    "pinyin": "děng",
+                    "english": "to wait"
+                  }
+                ]
+              },
+              {
+                "chinese": "我深吸一口气，对她说：“我喜欢你，很久了。”",
+                "pinyin": "Wǒ shēn xī yì kǒu qì, duì tā shuō: “Wǒ xǐhuan nǐ, hěn jiǔ le.”",
+                "english": "I took a deep breath and said to her: \"I like you — and have for a long time.\"",
+                "words": [
+                  {
+                    "hanzi": "深吸一口气",
+                    "pinyin": "shēn xī yì kǒu qì",
+                    "english": "to take a deep breath"
+                  },
+                  {
+                    "hanzi": "喜欢",
+                    "pinyin": "xǐhuan",
+                    "english": "to like"
+                  },
+                  {
+                    "hanzi": "很久",
+                    "pinyin": "hěn jiǔ",
+                    "english": "a long time"
+                  }
+                ]
+              },
+              {
+                "chinese": "她脸红了，小声说：“我也是。”",
+                "pinyin": "Tā liǎnhóng le, xiǎoshēng shuō: “Wǒ yě shì.”",
+                "english": "She blushed and said quietly: \"Me too.\"",
+                "words": [
+                  {
+                    "hanzi": "脸红",
+                    "pinyin": "liǎnhóng",
+                    "english": "to blush"
+                  },
+                  {
+                    "hanzi": "小声",
+                    "pinyin": "xiǎoshēng",
+                    "english": "in a quiet voice"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "How long have the narrator and Xiaomei known each other?",
+                "options": [
+                  "Two years",
+                  "Two months",
+                  "Ten years",
+                  "One week"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Why does the narrator need to speak up soon?",
+                "options": [
+                  "Xiaomei is moving to Beijing for work",
+                  "The library is closing",
+                  "His friend is leaving",
+                  "Valentine's Day is over"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What was Xiaomei's answer?",
+                "options": [
+                  "\"Me too\"",
+                  "\"No, sorry\"",
+                  "\"Let me think\"",
+                  "She said nothing"
+                ],
+                "correct": 0
               }
             ]
           }

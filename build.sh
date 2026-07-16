@@ -18,6 +18,7 @@ ORDER=(
   flashcards-vol-3
   flashcards-vol-4
   flashcards-vol-5
+  hearts-feelings
   street-smart
   tone-master
   parrot-talk

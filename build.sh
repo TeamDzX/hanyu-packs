@@ -6,6 +6,7 @@ cd "$(dirname "$0")"
 
 ORDER=(
   new-hanzi-100
+  hsk4-foundations-1
   stories-vol-1
   stories-vol-2
   stories-vol-3

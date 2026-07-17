@@ -1,0 +1,837 @@
+{
+ "revision": 1,
+ "packId": "hsk4-foundations-1",
+ "name": "HSK 4 Foundations · Vol. 1",
+ "icon": "graduation-cap",
+ "releaseDate": "2026-07-17",
+ "minApp": "2.0",
+ "whatsNew": "Break through the intermediate ceiling — 100 essential HSK 4 words with pinyin, meanings and stroke counts, browsable as their own category in Learn, plus 10 practice sentences.",
+ "content": {
+  "characters": [
+   {
+    "character": "安排",
+    "pinyin": "ānpái",
+    "meaning": "to arrange; arrangement",
+    "strokes": 17,
+    "hsk": 4
+   },
+   {
+    "character": "安全",
+    "pinyin": "ānquán",
+    "meaning": "safe; safety",
+    "strokes": 12,
+    "hsk": 4
+   },
+   {
+    "character": "按时",
+    "pinyin": "ànshí",
+    "meaning": "on time",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "按照",
+    "pinyin": "ànzhào",
+    "meaning": "according to",
+    "strokes": 22,
+    "hsk": 4
+   },
+   {
+    "character": "保护",
+    "pinyin": "bǎohù",
+    "meaning": "to protect",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "保证",
+    "pinyin": "bǎozhèng",
+    "meaning": "to guarantee",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "报名",
+    "pinyin": "bàomíng",
+    "meaning": "to sign up",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "笨",
+    "pinyin": "bèn",
+    "meaning": "stupid; clumsy",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "比如",
+    "pinyin": "bǐrú",
+    "meaning": "for example",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "标准",
+    "pinyin": "biāozhǔn",
+    "meaning": "standard",
+    "strokes": 19,
+    "hsk": 4
+   },
+   {
+    "character": "表扬",
+    "pinyin": "biǎoyáng",
+    "meaning": "to praise",
+    "strokes": 14,
+    "hsk": 4
+   },
+   {
+    "character": "饼干",
+    "pinyin": "bǐnggān",
+    "meaning": "biscuit; cracker",
+    "strokes": 12,
+    "hsk": 4
+   },
+   {
+    "character": "并且",
+    "pinyin": "bìngqiě",
+    "meaning": "moreover; and",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "博士",
+    "pinyin": "bóshì",
+    "meaning": "doctor (PhD)",
+    "strokes": 15,
+    "hsk": 4
+   },
+   {
+    "character": "不得不",
+    "pinyin": "bùdébù",
+    "meaning": "to have no choice but",
+    "strokes": 19,
+    "hsk": 4
+   },
+   {
+    "character": "不管",
+    "pinyin": "bùguǎn",
+    "meaning": "no matter",
+    "strokes": 18,
+    "hsk": 4
+   },
+   {
+    "character": "不仅",
+    "pinyin": "bùjǐn",
+    "meaning": "not only",
+    "strokes": 8,
+    "hsk": 4
+   },
+   {
+    "character": "部分",
+    "pinyin": "bùfen",
+    "meaning": "part; section",
+    "strokes": 14,
+    "hsk": 4
+   },
+   {
+    "character": "擦",
+    "pinyin": "cā",
+    "meaning": "to wipe",
+    "strokes": 17,
+    "hsk": 4
+   },
+   {
+    "character": "猜",
+    "pinyin": "cāi",
+    "meaning": "to guess",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "材料",
+    "pinyin": "cáiliào",
+    "meaning": "material",
+    "strokes": 17,
+    "hsk": 4
+   },
+   {
+    "character": "参观",
+    "pinyin": "cānguān",
+    "meaning": "to visit (a place)",
+    "strokes": 14,
+    "hsk": 4
+   },
+   {
+    "character": "差不多",
+    "pinyin": "chàbuduō",
+    "meaning": "almost; nearly",
+    "strokes": 19,
+    "hsk": 4
+   },
+   {
+    "character": "尝",
+    "pinyin": "cháng",
+    "meaning": "to taste",
+    "strokes": 9,
+    "hsk": 4
+   },
+   {
+    "character": "超过",
+    "pinyin": "chāoguò",
+    "meaning": "to exceed",
+    "strokes": 18,
+    "hsk": 4
+   },
+   {
+    "character": "成功",
+    "pinyin": "chénggōng",
+    "meaning": "success; to succeed",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "成为",
+    "pinyin": "chéngwéi",
+    "meaning": "to become",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "诚实",
+    "pinyin": "chéngshí",
+    "meaning": "honest",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "吃惊",
+    "pinyin": "chījīng",
+    "meaning": "to be shocked",
+    "strokes": 17,
+    "hsk": 4
+   },
+   {
+    "character": "重新",
+    "pinyin": "chóngxīn",
+    "meaning": "again; anew",
+    "strokes": 22,
+    "hsk": 4
+   },
+   {
+    "character": "抽烟",
+    "pinyin": "chōuyān",
+    "meaning": "to smoke",
+    "strokes": 18,
+    "hsk": 4
+   },
+   {
+    "character": "出发",
+    "pinyin": "chūfā",
+    "meaning": "to set off",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "出生",
+    "pinyin": "chūshēng",
+    "meaning": "to be born",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "出现",
+    "pinyin": "chūxiàn",
+    "meaning": "to appear",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "窗户",
+    "pinyin": "chuānghu",
+    "meaning": "window",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "词语",
+    "pinyin": "cíyǔ",
+    "meaning": "word; term",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "从来",
+    "pinyin": "cónglái",
+    "meaning": "always; (with 不) never",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "粗心",
+    "pinyin": "cūxīn",
+    "meaning": "careless",
+    "strokes": 15,
+    "hsk": 4
+   },
+   {
+    "character": "错误",
+    "pinyin": "cuòwù",
+    "meaning": "mistake; error",
+    "strokes": 22,
+    "hsk": 4
+   },
+   {
+    "character": "答案",
+    "pinyin": "dá'àn",
+    "meaning": "answer",
+    "strokes": 22,
+    "hsk": 4
+   },
+   {
+    "character": "打扮",
+    "pinyin": "dǎban",
+    "meaning": "to dress up",
+    "strokes": 12,
+    "hsk": 4
+   },
+   {
+    "character": "打扰",
+    "pinyin": "dǎrǎo",
+    "meaning": "to disturb",
+    "strokes": 12,
+    "hsk": 4
+   },
+   {
+    "character": "打印",
+    "pinyin": "dǎyìn",
+    "meaning": "to print",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "打招呼",
+    "pinyin": "dǎ zhāohu",
+    "meaning": "to greet",
+    "strokes": 21,
+    "hsk": 4
+   },
+   {
+    "character": "打折",
+    "pinyin": "dǎzhé",
+    "meaning": "to give a discount",
+    "strokes": 12,
+    "hsk": 4
+   },
+   {
+    "character": "打针",
+    "pinyin": "dǎzhēn",
+    "meaning": "to give an injection",
+    "strokes": 12,
+    "hsk": 4
+   },
+   {
+    "character": "大概",
+    "pinyin": "dàgài",
+    "meaning": "probably; roughly",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "大使馆",
+    "pinyin": "dàshǐguǎn",
+    "meaning": "embassy",
+    "strokes": 22,
+    "hsk": 4
+   },
+   {
+    "character": "大约",
+    "pinyin": "dàyuē",
+    "meaning": "approximately",
+    "strokes": 9,
+    "hsk": 4
+   },
+   {
+    "character": "当时",
+    "pinyin": "dāngshí",
+    "meaning": "at that time",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "到处",
+    "pinyin": "dàochù",
+    "meaning": "everywhere",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "到底",
+    "pinyin": "dàodǐ",
+    "meaning": "after all; in the end",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "道歉",
+    "pinyin": "dàoqiàn",
+    "meaning": "to apologize",
+    "strokes": 26,
+    "hsk": 4
+   },
+   {
+    "character": "登机牌",
+    "pinyin": "dēngjīpái",
+    "meaning": "boarding pass",
+    "strokes": 30,
+    "hsk": 4
+   },
+   {
+    "character": "地点",
+    "pinyin": "dìdiǎn",
+    "meaning": "location; place",
+    "strokes": 15,
+    "hsk": 4
+   },
+   {
+    "character": "地球",
+    "pinyin": "dìqiú",
+    "meaning": "the Earth",
+    "strokes": 17,
+    "hsk": 4
+   },
+   {
+    "character": "地址",
+    "pinyin": "dìzhǐ",
+    "meaning": "address",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "调查",
+    "pinyin": "diàochá",
+    "meaning": "to investigate; survey",
+    "strokes": 19,
+    "hsk": 4
+   },
+   {
+    "character": "掉",
+    "pinyin": "diào",
+    "meaning": "to drop; to fall",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "丢",
+    "pinyin": "diū",
+    "meaning": "to lose; to mislay",
+    "strokes": 6,
+    "hsk": 4
+   },
+   {
+    "character": "动作",
+    "pinyin": "dòngzuò",
+    "meaning": "movement; action",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "堵车",
+    "pinyin": "dǔchē",
+    "meaning": "traffic jam",
+    "strokes": 15,
+    "hsk": 4
+   },
+   {
+    "character": "肚子",
+    "pinyin": "dùzi",
+    "meaning": "belly; stomach",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "对话",
+    "pinyin": "duìhuà",
+    "meaning": "dialogue",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "对面",
+    "pinyin": "duìmiàn",
+    "meaning": "opposite side",
+    "strokes": 14,
+    "hsk": 4
+   },
+   {
+    "character": "儿童",
+    "pinyin": "értóng",
+    "meaning": "children",
+    "strokes": 14,
+    "hsk": 4
+   },
+   {
+    "character": "发生",
+    "pinyin": "fāshēng",
+    "meaning": "to happen",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "发展",
+    "pinyin": "fāzhǎn",
+    "meaning": "to develop",
+    "strokes": 15,
+    "hsk": 4
+   },
+   {
+    "character": "法律",
+    "pinyin": "fǎlǜ",
+    "meaning": "law",
+    "strokes": 17,
+    "hsk": 4
+   },
+   {
+    "character": "翻译",
+    "pinyin": "fānyì",
+    "meaning": "to translate; translator",
+    "strokes": 25,
+    "hsk": 4
+   },
+   {
+    "character": "烦恼",
+    "pinyin": "fánnǎo",
+    "meaning": "worried; vexed",
+    "strokes": 19,
+    "hsk": 4
+   },
+   {
+    "character": "反对",
+    "pinyin": "fǎnduì",
+    "meaning": "to oppose",
+    "strokes": 9,
+    "hsk": 4
+   },
+   {
+    "character": "方法",
+    "pinyin": "fāngfǎ",
+    "meaning": "method",
+    "strokes": 12,
+    "hsk": 4
+   },
+   {
+    "character": "方面",
+    "pinyin": "fāngmiàn",
+    "meaning": "aspect",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "方向",
+    "pinyin": "fāngxiàng",
+    "meaning": "direction",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "房东",
+    "pinyin": "fángdōng",
+    "meaning": "landlord",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "放弃",
+    "pinyin": "fàngqì",
+    "meaning": "to give up",
+    "strokes": 15,
+    "hsk": 4
+   },
+   {
+    "character": "放松",
+    "pinyin": "fàngsōng",
+    "meaning": "to relax",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "丰富",
+    "pinyin": "fēngfù",
+    "meaning": "rich; abundant",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "否则",
+    "pinyin": "fǒuzé",
+    "meaning": "otherwise",
+    "strokes": 13,
+    "hsk": 4
+   },
+   {
+    "character": "符合",
+    "pinyin": "fúhé",
+    "meaning": "to conform to; to match",
+    "strokes": 17,
+    "hsk": 4
+   },
+   {
+    "character": "付款",
+    "pinyin": "fùkuǎn",
+    "meaning": "to pay",
+    "strokes": 17,
+    "hsk": 4
+   },
+   {
+    "character": "负责",
+    "pinyin": "fùzé",
+    "meaning": "to be responsible",
+    "strokes": 14,
+    "hsk": 4
+   },
+   {
+    "character": "复印",
+    "pinyin": "fùyìn",
+    "meaning": "to photocopy",
+    "strokes": 14,
+    "hsk": 4
+   },
+   {
+    "character": "复杂",
+    "pinyin": "fùzá",
+    "meaning": "complicated",
+    "strokes": 15,
+    "hsk": 4
+   },
+   {
+    "character": "改变",
+    "pinyin": "gǎibiàn",
+    "meaning": "to change",
+    "strokes": 15,
+    "hsk": 4
+   },
+   {
+    "character": "干杯",
+    "pinyin": "gānbēi",
+    "meaning": "cheers!; bottoms up",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "赶",
+    "pinyin": "gǎn",
+    "meaning": "to hurry; to catch",
+    "strokes": 10,
+    "hsk": 4
+   },
+   {
+    "character": "感觉",
+    "pinyin": "gǎnjué",
+    "meaning": "feeling; to feel",
+    "strokes": 22,
+    "hsk": 4
+   },
+   {
+    "character": "感情",
+    "pinyin": "gǎnqíng",
+    "meaning": "feelings; emotion",
+    "strokes": 24,
+    "hsk": 4
+   },
+   {
+    "character": "公里",
+    "pinyin": "gōnglǐ",
+    "meaning": "kilometre",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "功夫",
+    "pinyin": "gōngfu",
+    "meaning": "kung fu; effort",
+    "strokes": 9,
+    "hsk": 4
+   },
+   {
+    "character": "共同",
+    "pinyin": "gòngtóng",
+    "meaning": "common; joint",
+    "strokes": 12,
+    "hsk": 4
+   },
+   {
+    "character": "购物",
+    "pinyin": "gòuwù",
+    "meaning": "to go shopping",
+    "strokes": 16,
+    "hsk": 4
+   },
+   {
+    "character": "够",
+    "pinyin": "gòu",
+    "meaning": "enough",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "估计",
+    "pinyin": "gūjì",
+    "meaning": "to estimate",
+    "strokes": 11,
+    "hsk": 4
+   },
+   {
+    "character": "鼓励",
+    "pinyin": "gǔlì",
+    "meaning": "to encourage",
+    "strokes": 20,
+    "hsk": 4
+   },
+   {
+    "character": "故意",
+    "pinyin": "gùyì",
+    "meaning": "on purpose",
+    "strokes": 22,
+    "hsk": 4
+   },
+   {
+    "character": "顾客",
+    "pinyin": "gùkè",
+    "meaning": "customer",
+    "strokes": 19,
+    "hsk": 4
+   },
+   {
+    "character": "挂",
+    "pinyin": "guà",
+    "meaning": "to hang; to hang up",
+    "strokes": 9,
+    "hsk": 4
+   }
+  ],
+  "sentencesDatabase": [
+   {
+    "chinese": [
+     "我",
+     "打算",
+     "毕业",
+     "以后",
+     "出国"
+    ],
+    "pinyin": "Wǒ dǎsuàn bìyè yǐhòu chūguó",
+    "english": "I plan to go abroad after graduating",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "请",
+     "按照",
+     "这个",
+     "方法",
+     "做"
+    ],
+    "pinyin": "Qǐng ànzhào zhège fāngfǎ zuò",
+    "english": "Please do it according to this method",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "他",
+     "从来",
+     "不",
+     "抽烟"
+    ],
+    "pinyin": "Tā cónglái bù chōuyān",
+    "english": "He has never smoked",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "这",
+     "件",
+     "事",
+     "我",
+     "负责"
+    ],
+    "pinyin": "Zhè jiàn shì wǒ fùzé",
+    "english": "I am responsible for this matter",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "路上",
+     "堵车",
+     "我",
+     "大概",
+     "会",
+     "迟到"
+    ],
+    "pinyin": "Lùshang dǔchē, wǒ dàgài huì chídào",
+    "english": "There's a traffic jam — I'll probably be late",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "老师",
+     "鼓励",
+     "我们",
+     "多",
+     "提",
+     "问题"
+    ],
+    "pinyin": "Lǎoshī gǔlì wǒmen duō tí wèntí",
+    "english": "The teacher encourages us to ask more questions",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "明天",
+     "的",
+     "航班",
+     "几点",
+     "出发"
+    ],
+    "pinyin": "Míngtiān de hángbān jǐ diǎn chūfā?",
+    "english": "What time does tomorrow's flight leave?",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "互联网",
+     "改变",
+     "了",
+     "我们",
+     "的",
+     "生活"
+    ],
+    "pinyin": "Hùliánwǎng gǎibiàn le wǒmen de shēnghuó",
+    "english": "The internet has changed our lives",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "很",
+     "抱歉",
+     "打扰",
+     "你",
+     "了"
+    ],
+    "pinyin": "Hěn bàoqiàn dǎrǎo nǐ le",
+    "english": "I'm very sorry to disturb you",
+    "difficulty": "hard"
+   },
+   {
+    "chinese": [
+     "这里",
+     "禁止",
+     "抽烟",
+     "否则",
+     "罚款"
+    ],
+    "pinyin": "Zhèlǐ jìnzhǐ chōuyān, fǒuzé fákuǎn",
+    "english": "Smoking is forbidden here, otherwise there is a fine",
+    "difficulty": "hard"
+   }
+  ]
+ }
+}

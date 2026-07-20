@@ -1,0 +1,109 @@
+{
+ "revision": 1,
+ "packId": "manga-friends",
+ "name": "Manga Dialogues: Making Friends & Dating",
+ "icon": "heart",
+ "releaseDate": "2026-07-20",
+ "minApp": "2.7",
+ "whatsNew": "Four animated scenes for the language of connection — making a new friend, asking someone out, a first date and the big confession. Pairs perfectly with the Hearts & Feelings pack.",
+ "content": {
+  "situations": [
+   {
+    "id": "friends-meet",
+    "title": "交朋友",
+    "titlePinyin": "jiāo péngyou",
+    "titleEnglish": "Making a Friend",
+    "level": 1,
+    "icon": "user-plus",
+    "grad": "linear-gradient(135deg,#22c55e,#0ea5e9)",
+    "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/friends-meet.jpg",
+    "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-friends-meet.mp4",
+    "speakers": { "A": { "name": "Lin", "cn": "小林" }, "B": { "name": "Anna", "cn": "安娜" } },
+    "dialogue": [
+     { "sp": "A", "chinese": "你好，我们是同一个班的吧？", "pinyin": "Nǐ hǎo, wǒmen shì tóng yí ge bān de ba?", "english": "Hi, we're in the same class, right?", "words": [ { "hanzi": "同一个", "pinyin": "tóng yí ge", "english": "the same" }, { "hanzi": "班", "pinyin": "bān", "english": "class" } ] },
+     { "sp": "B", "chinese": "对，我叫安娜。你呢？", "pinyin": "Duì, wǒ jiào Ānnà. Nǐ ne?", "english": "Yes, I'm Anna. And you?", "words": [ { "hanzi": "叫", "pinyin": "jiào", "english": "to be called" }, { "hanzi": "呢", "pinyin": "ne", "english": "and (you)?" } ] },
+     { "sp": "A", "chinese": "我叫小林。你平时有什么爱好？", "pinyin": "Wǒ jiào Xiǎolín. Nǐ píngshí yǒu shénme àihào?", "english": "I'm Lin. What do you usually like to do?", "words": [ { "hanzi": "平时", "pinyin": "píngshí", "english": "usually" }, { "hanzi": "爱好", "pinyin": "àihào", "english": "hobby" } ] },
+     { "sp": "B", "chinese": "我喜欢看电影，你呢？", "pinyin": "Wǒ xǐhuan kàn diànyǐng, nǐ ne?", "english": "I like watching films — you?", "words": [ { "hanzi": "电影", "pinyin": "diànyǐng", "english": "film; movie" } ] },
+     { "sp": "A", "chinese": "我也是！加个微信吧？", "pinyin": "Wǒ yě shì! Jiā ge wēixìn ba?", "english": "Me too! Shall we add each other on WeChat?", "words": [ { "hanzi": "加", "pinyin": "jiā", "english": "to add" }, { "hanzi": "微信", "pinyin": "wēixìn", "english": "WeChat" } ] },
+     { "sp": "B", "chinese": "好啊，很高兴认识你！", "pinyin": "Hǎo a, hěn gāoxìng rènshi nǐ!", "english": "Sure — nice to meet you!", "words": [ { "hanzi": "认识", "pinyin": "rènshi", "english": "to get to know" } ] }
+    ],
+    "questions": [
+     { "question": "What hobby do they share?", "options": ["Watching films", "Cooking", "Running", "Singing"], "correct": 0 },
+     { "question": "How do they stay in touch?", "options": ["Add each other on WeChat", "Exchange numbers", "Meet tomorrow", "Email"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "friends-askout",
+    "title": "约你出去",
+    "titlePinyin": "yuē nǐ chūqù",
+    "titleEnglish": "Asking Someone Out",
+    "level": 2,
+    "icon": "calendar-heart",
+    "grad": "linear-gradient(135deg,#f472b6,#db2777)",
+    "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/friends-askout.jpg",
+    "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-friends-askout.mp4",
+    "speakers": { "A": { "name": "Lin", "cn": "小林" }, "B": { "name": "Anna", "cn": "安娜" } },
+    "dialogue": [
+     { "sp": "A", "chinese": "这个周末你有空吗？", "pinyin": "Zhège zhōumò nǐ yǒu kòng ma?", "english": "Are you free this weekend?", "words": [ { "hanzi": "周末", "pinyin": "zhōumò", "english": "weekend" }, { "hanzi": "有空", "pinyin": "yǒu kòng", "english": "to have free time" } ] },
+     { "sp": "B", "chinese": "有啊，怎么了？", "pinyin": "Yǒu a, zěnme le?", "english": "Yes — why?", "words": [ { "hanzi": "怎么了", "pinyin": "zěnme le", "english": "what's up" } ] },
+     { "sp": "A", "chinese": "有一部新电影，想不想一起看？", "pinyin": "Yǒu yí bù xīn diànyǐng, xiǎng bu xiǎng yìqǐ kàn?", "english": "There's a new film — want to see it together?", "words": [ { "hanzi": "部", "pinyin": "bù", "english": "(measure word for films)" }, { "hanzi": "一起", "pinyin": "yìqǐ", "english": "together" } ] },
+     { "sp": "B", "chinese": "好呀！几点见面？", "pinyin": "Hǎo ya! Jǐ diǎn jiànmiàn?", "english": "Sure! What time shall we meet?", "words": [ { "hanzi": "见面", "pinyin": "jiànmiàn", "english": "to meet up" } ] },
+     { "sp": "A", "chinese": "下午两点，电影院门口。", "pinyin": "Xiàwǔ liǎng diǎn, diànyǐngyuàn ménkǒu.", "english": "Two p.m., outside the cinema.", "words": [ { "hanzi": "电影院", "pinyin": "diànyǐngyuàn", "english": "cinema" }, { "hanzi": "门口", "pinyin": "ménkǒu", "english": "entrance" } ] },
+     { "sp": "B", "chinese": "没问题，不见不散！", "pinyin": "Méi wèntí, bú jiàn bú sàn!", "english": "No problem — see you there for sure!", "words": [ { "hanzi": "不见不散", "pinyin": "bú jiàn bú sàn", "english": "be there or wait (idiom)" } ] }
+    ],
+    "questions": [
+     { "question": "What does Lin invite Anna to do?", "options": ["See a new film", "Have dinner", "Go running", "Study"], "correct": 0 },
+     { "question": "Where will they meet?", "options": ["Outside the cinema", "At a cafe", "At school", "In the park"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "friends-date",
+    "title": "约会",
+    "titlePinyin": "yuēhuì",
+    "titleEnglish": "On a Date",
+    "level": 2,
+    "icon": "mug-hot",
+    "grad": "linear-gradient(135deg,#f59e0b,#ec4899)",
+    "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/friends-date.jpg",
+    "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-friends-date.mp4",
+    "speakers": { "A": { "name": "Lin", "cn": "小林" }, "B": { "name": "Anna", "cn": "安娜" } },
+    "dialogue": [
+     { "sp": "A", "chinese": "电影真好看，你饿不饿？", "pinyin": "Diànyǐng zhēn hǎokàn, nǐ è bu è?", "english": "The film was great — are you hungry?", "words": [ { "hanzi": "好看", "pinyin": "hǎokàn", "english": "good (to watch)" }, { "hanzi": "饿", "pinyin": "è", "english": "hungry" } ] },
+     { "sp": "B", "chinese": "有一点。这附近有咖啡店吗？", "pinyin": "Yǒu yìdiǎn. Zhè fùjìn yǒu kāfēidiàn ma?", "english": "A little. Is there a cafe nearby?", "words": [ { "hanzi": "附近", "pinyin": "fùjìn", "english": "nearby" }, { "hanzi": "咖啡店", "pinyin": "kāfēidiàn", "english": "cafe" } ] },
+     { "sp": "A", "chinese": "有，我请你喝咖啡。", "pinyin": "Yǒu, wǒ qǐng nǐ hē kāfēi.", "english": "Yes — my treat for coffee.", "words": [ { "hanzi": "请", "pinyin": "qǐng", "english": "to treat; invite" }, { "hanzi": "喝", "pinyin": "hē", "english": "to drink" } ] },
+     { "sp": "B", "chinese": "谢谢你，你人真好。", "pinyin": "Xièxie nǐ, nǐ rén zhēn hǎo.", "english": "Thank you — you're really kind.", "words": [ { "hanzi": "人真好", "pinyin": "rén zhēn hǎo", "english": "a really nice person" } ] },
+     { "sp": "A", "chinese": "和你在一起很开心。", "pinyin": "Hé nǐ zài yìqǐ hěn kāixīn.", "english": "I'm really happy being with you.", "words": [ { "hanzi": "开心", "pinyin": "kāixīn", "english": "happy" } ] },
+     { "sp": "B", "chinese": "我也是。", "pinyin": "Wǒ yě shì.", "english": "Me too.", "words": [ { "hanzi": "也", "pinyin": "yě", "english": "also; too" } ] }
+    ],
+    "questions": [
+     { "question": "Where do they go after the film?", "options": ["A cafe", "A restaurant", "Home", "The park"], "correct": 0 },
+     { "question": "Who pays for the coffee?", "options": ["Lin", "Anna", "They split it", "A friend"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "friends-confess",
+    "title": "表白",
+    "titlePinyin": "biǎobái",
+    "titleEnglish": "The Confession",
+    "level": 3,
+    "icon": "heart",
+    "grad": "linear-gradient(135deg,#ef4444,#be123c)",
+    "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/friends-confess.jpg",
+    "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-friends-confess.mp4",
+    "speakers": { "A": { "name": "Lin", "cn": "小林" }, "B": { "name": "Anna", "cn": "安娜" } },
+    "dialogue": [
+     { "sp": "A", "chinese": "安娜，我有话想对你说。", "pinyin": "Ānnà, wǒ yǒu huà xiǎng duì nǐ shuō.", "english": "Anna, there's something I want to tell you.", "words": [ { "hanzi": "有话", "pinyin": "yǒu huà", "english": "have something to say" }, { "hanzi": "对", "pinyin": "duì", "english": "to (someone)" } ] },
+     { "sp": "B", "chinese": "什么事？你说吧。", "pinyin": "Shénme shì? Nǐ shuō ba.", "english": "What is it? Go ahead.", "words": [ { "hanzi": "什么事", "pinyin": "shénme shì", "english": "what is it" } ] },
+     { "sp": "A", "chinese": "这段时间，我越来越喜欢你。", "pinyin": "Zhè duàn shíjiān, wǒ yuèláiyuè xǐhuan nǐ.", "english": "Lately, I've come to like you more and more.", "words": [ { "hanzi": "这段时间", "pinyin": "zhè duàn shíjiān", "english": "recently; this while" }, { "hanzi": "越来越", "pinyin": "yuèláiyuè", "english": "more and more" } ] },
+     { "sp": "A", "chinese": "你愿意做我的女朋友吗？", "pinyin": "Nǐ yuànyì zuò wǒ de nǚpéngyou ma?", "english": "Would you be my girlfriend?", "words": [ { "hanzi": "愿意", "pinyin": "yuànyì", "english": "to be willing" }, { "hanzi": "女朋友", "pinyin": "nǚpéngyou", "english": "girlfriend" } ] },
+     { "sp": "B", "chinese": "（脸红）其实……我也喜欢你。", "pinyin": "(Liǎnhóng) Qíshí…… wǒ yě xǐhuan nǐ.", "english": "(blushing) Actually… I like you too.", "words": [ { "hanzi": "脸红", "pinyin": "liǎnhóng", "english": "to blush" }, { "hanzi": "其实", "pinyin": "qíshí", "english": "actually" } ] },
+     { "sp": "A", "chinese": "太好了！", "pinyin": "Tài hǎo le!", "english": "That's wonderful!", "words": [ { "hanzi": "太好了", "pinyin": "tài hǎo le", "english": "that's great" } ] }
+    ],
+    "questions": [
+     { "question": "What does Lin confess?", "options": ["He likes her more and more", "He is leaving", "He is sorry", "He is busy"], "correct": 0 },
+     { "question": "How does Anna respond?", "options": ["She likes him too", "She says no", "She needs time", "She laughs"], "correct": 0 }
+    ]
+   }
+  ]
+ }
+}

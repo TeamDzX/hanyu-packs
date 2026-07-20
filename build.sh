@@ -54,6 +54,8 @@ ORDER=(
   manga-everyday-essentials
   manga-out-and-about
   manga-travel
+  manga-friends
+  manga-doctor
 )
 
 FILES=()

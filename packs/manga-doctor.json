@@ -1,0 +1,109 @@
+{
+ "revision": 1,
+ "packId": "manga-doctor",
+ "name": "Manga Dialogues: At the Doctor",
+ "icon": "stethoscope",
+ "releaseDate": "2026-07-20",
+ "minApp": "2.7",
+ "whatsNew": "Four animated scenes for when you're unwell in China — registering at the hospital, describing your symptoms, the pharmacy and an emergency. The vocabulary you hope you never need, and are very glad to have.",
+ "content": {
+  "situations": [
+   {
+    "id": "doctor-register",
+    "title": "挂号",
+    "titlePinyin": "guàhào",
+    "titleEnglish": "Registering at the Hospital",
+    "level": 2,
+    "icon": "clipboard-list",
+    "grad": "linear-gradient(135deg,#0ea5e9,#22d3ee)",
+    "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/doctor-register.jpg",
+    "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-doctor-register.mp4",
+    "speakers": { "A": { "name": "Nurse", "cn": "护士" }, "B": { "name": "Patient", "cn": "病人" } },
+    "dialogue": [
+     { "sp": "B", "chinese": "你好，我要挂号。", "pinyin": "Nǐ hǎo, wǒ yào guàhào.", "english": "Hi, I'd like to register (to see a doctor).", "words": [ { "hanzi": "挂号", "pinyin": "guàhào", "english": "to register at a hospital" } ] },
+     { "sp": "A", "chinese": "您哪里不舒服？", "pinyin": "Nín nǎlǐ bù shūfu?", "english": "Where do you feel unwell?", "words": [ { "hanzi": "不舒服", "pinyin": "bù shūfu", "english": "unwell; uncomfortable" } ] },
+     { "sp": "B", "chinese": "我肚子疼，还发烧。", "pinyin": "Wǒ dùzi téng, hái fāshāo.", "english": "My stomach hurts, and I have a fever.", "words": [ { "hanzi": "肚子", "pinyin": "dùzi", "english": "stomach; belly" }, { "hanzi": "疼", "pinyin": "téng", "english": "to hurt; ache" }, { "hanzi": "发烧", "pinyin": "fāshāo", "english": "to have a fever" } ] },
+     { "sp": "A", "chinese": "那您挂内科，二楼。", "pinyin": "Nà nín guà nèikē, èr lóu.", "english": "Then register for internal medicine, second floor.", "words": [ { "hanzi": "内科", "pinyin": "nèikē", "english": "internal medicine" }, { "hanzi": "楼", "pinyin": "lóu", "english": "floor" } ] },
+     { "sp": "B", "chinese": "挂号费多少钱？", "pinyin": "Guàhàofèi duōshao qián?", "english": "How much is the registration fee?", "words": [ { "hanzi": "挂号费", "pinyin": "guàhàofèi", "english": "registration fee" } ] },
+     { "sp": "A", "chinese": "十五块。请拿好这张单子。", "pinyin": "Shíwǔ kuài. Qǐng ná hǎo zhè zhāng dānzi.", "english": "Fifteen yuan. Please hold on to this slip.", "words": [ { "hanzi": "单子", "pinyin": "dānzi", "english": "form; slip" }, { "hanzi": "拿", "pinyin": "ná", "english": "to hold; take" } ] }
+    ],
+    "questions": [
+     { "question": "What are the patient's symptoms?", "options": ["Stomach ache and fever", "Headache", "Cough", "Sore throat"], "correct": 0 },
+     { "question": "Which department should they register for?", "options": ["Internal medicine", "Surgery", "Dentistry", "Pharmacy"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "doctor-visit",
+    "title": "看医生",
+    "titlePinyin": "kàn yīshēng",
+    "titleEnglish": "Seeing the Doctor",
+    "level": 2,
+    "icon": "user-doctor",
+    "grad": "linear-gradient(135deg,#059669,#10b981)",
+    "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/doctor-visit.jpg",
+    "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-doctor-visit.mp4",
+    "speakers": { "A": { "name": "Doctor", "cn": "医生" }, "B": { "name": "Patient", "cn": "病人" } },
+    "dialogue": [
+     { "sp": "A", "chinese": "请坐。你怎么了？", "pinyin": "Qǐng zuò. Nǐ zěnme le?", "english": "Please sit. What's the matter?", "words": [ { "hanzi": "怎么了", "pinyin": "zěnme le", "english": "what's wrong" } ] },
+     { "sp": "B", "chinese": "我头疼，喉咙也很难受。", "pinyin": "Wǒ tóuténg, hóulóng yě hěn nánshòu.", "english": "I have a headache, and my throat feels bad.", "words": [ { "hanzi": "头疼", "pinyin": "tóuténg", "english": "headache" }, { "hanzi": "喉咙", "pinyin": "hóulóng", "english": "throat" }, { "hanzi": "难受", "pinyin": "nánshòu", "english": "to feel awful" } ] },
+     { "sp": "A", "chinese": "从什么时候开始的？", "pinyin": "Cóng shénme shíhou kāishǐ de?", "english": "When did it start?", "words": [ { "hanzi": "从", "pinyin": "cóng", "english": "from; since" }, { "hanzi": "开始", "pinyin": "kāishǐ", "english": "to start" } ] },
+     { "sp": "B", "chinese": "昨天晚上。", "pinyin": "Zuótiān wǎnshang.", "english": "Last night.", "words": [ { "hanzi": "昨天", "pinyin": "zuótiān", "english": "yesterday" }, { "hanzi": "晚上", "pinyin": "wǎnshang", "english": "evening; night" } ] },
+     { "sp": "A", "chinese": "你感冒了，多喝水，好好休息。", "pinyin": "Nǐ gǎnmào le, duō hē shuǐ, hǎohāo xiūxi.", "english": "You've caught a cold — drink plenty of water and rest well.", "words": [ { "hanzi": "感冒", "pinyin": "gǎnmào", "english": "to catch a cold" }, { "hanzi": "休息", "pinyin": "xiūxi", "english": "to rest" } ] },
+     { "sp": "B", "chinese": "好的，谢谢医生。", "pinyin": "Hǎo de, xièxie yīshēng.", "english": "OK, thank you, doctor.", "words": [ { "hanzi": "医生", "pinyin": "yīshēng", "english": "doctor" } ] }
+    ],
+    "questions": [
+     { "question": "What is wrong with the patient?", "options": ["A headache and sore throat", "A broken arm", "Stomach ache", "Toothache"], "correct": 0 },
+     { "question": "What does the doctor diagnose?", "options": ["A cold", "The flu", "An allergy", "Food poisoning"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "doctor-pharmacy",
+    "title": "在药店",
+    "titlePinyin": "zài yàodiàn",
+    "titleEnglish": "At the Pharmacy",
+    "level": 2,
+    "icon": "prescription-bottle-medical",
+    "grad": "linear-gradient(135deg,#7c3aed,#a855f7)",
+    "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/doctor-pharmacy.jpg",
+    "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-doctor-pharmacy.mp4",
+    "speakers": { "A": { "name": "Pharmacist", "cn": "药剂师" }, "B": { "name": "Customer", "cn": "顾客" } },
+    "dialogue": [
+     { "sp": "B", "chinese": "你好，我感冒了，买点药。", "pinyin": "Nǐ hǎo, wǒ gǎnmào le, mǎi diǎn yào.", "english": "Hi, I have a cold — I'd like some medicine.", "words": [ { "hanzi": "药", "pinyin": "yào", "english": "medicine" }, { "hanzi": "买", "pinyin": "mǎi", "english": "to buy" } ] },
+     { "sp": "A", "chinese": "有咳嗽吗？", "pinyin": "Yǒu késou ma?", "english": "Do you have a cough?", "words": [ { "hanzi": "咳嗽", "pinyin": "késou", "english": "to cough" } ] },
+     { "sp": "B", "chinese": "有一点，还流鼻涕。", "pinyin": "Yǒu yìdiǎn, hái liú bítì.", "english": "A little, and a runny nose too.", "words": [ { "hanzi": "流鼻涕", "pinyin": "liú bítì", "english": "runny nose" } ] },
+     { "sp": "A", "chinese": "这个感冒药，一天三次。", "pinyin": "Zhège gǎnmàoyào, yì tiān sān cì.", "english": "This cold medicine — three times a day.", "words": [ { "hanzi": "感冒药", "pinyin": "gǎnmàoyào", "english": "cold medicine" }, { "hanzi": "次", "pinyin": "cì", "english": "time(s)" } ] },
+     { "sp": "B", "chinese": "饭前还是饭后吃？", "pinyin": "Fàn qián háishì fàn hòu chī?", "english": "Before or after meals?", "words": [ { "hanzi": "饭前", "pinyin": "fàn qián", "english": "before meals" }, { "hanzi": "饭后", "pinyin": "fàn hòu", "english": "after meals" } ] },
+     { "sp": "A", "chinese": "饭后吃。多休息就好了。", "pinyin": "Fàn hòu chī. Duō xiūxi jiù hǎo le.", "english": "After meals. Rest well and you'll be fine.", "words": [ { "hanzi": "休息", "pinyin": "xiūxi", "english": "to rest" } ] }
+    ],
+    "questions": [
+     { "question": "What symptoms does the customer have?", "options": ["Cough and runny nose", "Fever only", "Stomach ache", "Rash"], "correct": 0 },
+     { "question": "When should the medicine be taken?", "options": ["After meals, three times a day", "Before meals", "Once at night", "Any time"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "doctor-emergency",
+    "title": "紧急情况",
+    "titlePinyin": "jǐnjí qíngkuàng",
+    "titleEnglish": "An Emergency",
+    "level": 3,
+    "icon": "truck-medical",
+    "grad": "linear-gradient(135deg,#dc2626,#f59e0b)",
+    "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/doctor-emergency.jpg",
+    "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-doctor-emergency.mp4",
+    "speakers": { "A": { "name": "Operator", "cn": "接线员" }, "B": { "name": "Caller", "cn": "求助者" } },
+    "dialogue": [
+     { "sp": "A", "chinese": "您好，120急救中心。", "pinyin": "Nín hǎo, yāo-èr-líng jíjiù zhōngxīn.", "english": "Hello, 120 emergency centre.", "words": [ { "hanzi": "急救", "pinyin": "jíjiù", "english": "emergency aid" }, { "hanzi": "中心", "pinyin": "zhōngxīn", "english": "centre" } ] },
+     { "sp": "B", "chinese": "快来人！我朋友晕倒了！", "pinyin": "Kuài lái rén! Wǒ péngyou yūndǎo le!", "english": "Send someone quick! My friend has fainted!", "words": [ { "hanzi": "快", "pinyin": "kuài", "english": "quick; hurry" }, { "hanzi": "晕倒", "pinyin": "yūndǎo", "english": "to faint; pass out" } ] },
+     { "sp": "A", "chinese": "别慌，你们在哪里？", "pinyin": "Bié huāng, nǐmen zài nǎlǐ?", "english": "Stay calm — where are you?", "words": [ { "hanzi": "别慌", "pinyin": "bié huāng", "english": "don't panic" }, { "hanzi": "哪里", "pinyin": "nǎlǐ", "english": "where" } ] },
+     { "sp": "B", "chinese": "在人民公园的南门。", "pinyin": "Zài Rénmín Gōngyuán de nánmén.", "english": "At the south gate of People's Park.", "words": [ { "hanzi": "公园", "pinyin": "gōngyuán", "english": "park" }, { "hanzi": "南门", "pinyin": "nánmén", "english": "south gate" } ] },
+     { "sp": "A", "chinese": "救护车马上就到，请等一下。", "pinyin": "Jiùhùchē mǎshàng jiù dào, qǐng děng yíxià.", "english": "An ambulance is coming right away — please wait.", "words": [ { "hanzi": "救护车", "pinyin": "jiùhùchē", "english": "ambulance" }, { "hanzi": "马上", "pinyin": "mǎshàng", "english": "right away" } ] },
+     { "sp": "B", "chinese": "好，谢谢，快一点！", "pinyin": "Hǎo, xièxie, kuài yìdiǎn!", "english": "OK, thank you — please hurry!", "words": [ { "hanzi": "快一点", "pinyin": "kuài yìdiǎn", "english": "a bit faster; hurry" } ] }
+    ],
+    "questions": [
+     { "question": "What number is called for an ambulance in China?", "options": ["120", "110", "119", "911"], "correct": 0 },
+     { "question": "What happened to the caller's friend?", "options": ["They fainted", "They fell", "They were robbed", "They got lost"], "correct": 0 }
+    ]
+   }
+  ]
+ }
+}

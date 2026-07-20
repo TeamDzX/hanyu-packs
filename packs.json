@@ -3119,6 +3119,668 @@
       }
     },
     {
+      "revision": 1,
+      "packId": "hsk5-starter",
+      "name": "HSK 5 Starter",
+      "icon": "medal",
+      "releaseDate": "2026-07-20",
+      "minApp": "2.0",
+      "whatsNew": "Step up to HSK 5 — 80 advanced words for abstract ideas, opinions and formal Chinese, browsable as their own category in Learn, with 8 practice sentences.",
+      "content": {
+        "characters": [
+          {
+            "character": "哎",
+            "pinyin": "āi",
+            "meaning": "hey (interjection)",
+            "strokes": 9,
+            "hsk": 5
+          },
+          {
+            "character": "爱护",
+            "pinyin": "àihù",
+            "meaning": "to cherish; take care of",
+            "strokes": 17,
+            "hsk": 5
+          },
+          {
+            "character": "爱惜",
+            "pinyin": "àixī",
+            "meaning": "to treasure; use sparingly",
+            "strokes": 21,
+            "hsk": 5
+          },
+          {
+            "character": "安慰",
+            "pinyin": "ānwèi",
+            "meaning": "to comfort; console",
+            "strokes": 21,
+            "hsk": 5
+          },
+          {
+            "character": "把握",
+            "pinyin": "bǎwò",
+            "meaning": "to grasp; assurance",
+            "strokes": 19,
+            "hsk": 5
+          },
+          {
+            "character": "摆",
+            "pinyin": "bǎi",
+            "meaning": "to place; arrange",
+            "strokes": 13,
+            "hsk": 5
+          },
+          {
+            "character": "办理",
+            "pinyin": "bànlǐ",
+            "meaning": "to handle; process",
+            "strokes": 15,
+            "hsk": 5
+          },
+          {
+            "character": "傍晚",
+            "pinyin": "bàngwǎn",
+            "meaning": "dusk; nightfall",
+            "strokes": 23,
+            "hsk": 5
+          },
+          {
+            "character": "宝贵",
+            "pinyin": "bǎoguì",
+            "meaning": "valuable; precious",
+            "strokes": 17,
+            "hsk": 5
+          },
+          {
+            "character": "保持",
+            "pinyin": "bǎochí",
+            "meaning": "to keep; maintain",
+            "strokes": 18,
+            "hsk": 5
+          },
+          {
+            "character": "保存",
+            "pinyin": "bǎocún",
+            "meaning": "to preserve; save",
+            "strokes": 15,
+            "hsk": 5
+          },
+          {
+            "character": "报道",
+            "pinyin": "bàodào",
+            "meaning": "to report; news report",
+            "strokes": 19,
+            "hsk": 5
+          },
+          {
+            "character": "悲观",
+            "pinyin": "bēiguān",
+            "meaning": "pessimistic",
+            "strokes": 18,
+            "hsk": 5
+          },
+          {
+            "character": "背景",
+            "pinyin": "bèijǐng",
+            "meaning": "background",
+            "strokes": 21,
+            "hsk": 5
+          },
+          {
+            "character": "被子",
+            "pinyin": "bèizi",
+            "meaning": "quilt; duvet",
+            "strokes": 13,
+            "hsk": 5
+          },
+          {
+            "character": "必然",
+            "pinyin": "bìrán",
+            "meaning": "inevitable",
+            "strokes": 17,
+            "hsk": 5
+          },
+          {
+            "character": "必要",
+            "pinyin": "bìyào",
+            "meaning": "necessary; necessity",
+            "strokes": 14,
+            "hsk": 5
+          },
+          {
+            "character": "避免",
+            "pinyin": "bìmiǎn",
+            "meaning": "to avoid",
+            "strokes": 23,
+            "hsk": 5
+          },
+          {
+            "character": "编辑",
+            "pinyin": "biānjí",
+            "meaning": "to edit; editor",
+            "strokes": 25,
+            "hsk": 5
+          },
+          {
+            "character": "辩论",
+            "pinyin": "biànlùn",
+            "meaning": "to debate",
+            "strokes": 22,
+            "hsk": 5
+          },
+          {
+            "character": "表达",
+            "pinyin": "biǎodá",
+            "meaning": "to express",
+            "strokes": 14,
+            "hsk": 5
+          },
+          {
+            "character": "表面",
+            "pinyin": "biǎomiàn",
+            "meaning": "surface",
+            "strokes": 17,
+            "hsk": 5
+          },
+          {
+            "character": "表现",
+            "pinyin": "biǎoxiàn",
+            "meaning": "to show; performance",
+            "strokes": 16,
+            "hsk": 5
+          },
+          {
+            "character": "玻璃",
+            "pinyin": "bōli",
+            "meaning": "glass",
+            "strokes": 23,
+            "hsk": 5
+          },
+          {
+            "character": "博物馆",
+            "pinyin": "bówùguǎn",
+            "meaning": "museum",
+            "strokes": 31,
+            "hsk": 5
+          },
+          {
+            "character": "补充",
+            "pinyin": "bǔchōng",
+            "meaning": "to supplement; add",
+            "strokes": 13,
+            "hsk": 5
+          },
+          {
+            "character": "不断",
+            "pinyin": "búduàn",
+            "meaning": "unceasingly; continuously",
+            "strokes": 15,
+            "hsk": 5
+          },
+          {
+            "character": "不安",
+            "pinyin": "bù'ān",
+            "meaning": "uneasy; anxious",
+            "strokes": 10,
+            "hsk": 5
+          },
+          {
+            "character": "布置",
+            "pinyin": "bùzhì",
+            "meaning": "to arrange; assign",
+            "strokes": 18,
+            "hsk": 5
+          },
+          {
+            "character": "采访",
+            "pinyin": "cǎifǎng",
+            "meaning": "to interview",
+            "strokes": 14,
+            "hsk": 5
+          },
+          {
+            "character": "采取",
+            "pinyin": "cǎiqǔ",
+            "meaning": "to adopt (a measure)",
+            "strokes": 16,
+            "hsk": 5
+          },
+          {
+            "character": "彩虹",
+            "pinyin": "cǎihóng",
+            "meaning": "rainbow",
+            "strokes": 20,
+            "hsk": 5
+          },
+          {
+            "character": "参考",
+            "pinyin": "cānkǎo",
+            "meaning": "to consult; reference",
+            "strokes": 14,
+            "hsk": 5
+          },
+          {
+            "character": "参与",
+            "pinyin": "cānyù",
+            "meaning": "to participate in",
+            "strokes": 11,
+            "hsk": 5
+          },
+          {
+            "character": "惭愧",
+            "pinyin": "cánkuì",
+            "meaning": "ashamed",
+            "strokes": 23,
+            "hsk": 5
+          },
+          {
+            "character": "操场",
+            "pinyin": "cāochǎng",
+            "meaning": "sports ground",
+            "strokes": 22,
+            "hsk": 5
+          },
+          {
+            "character": "操心",
+            "pinyin": "cāoxīn",
+            "meaning": "to worry about",
+            "strokes": 20,
+            "hsk": 5
+          },
+          {
+            "character": "册",
+            "pinyin": "cè",
+            "meaning": "volume; book (measure word)",
+            "strokes": 5,
+            "hsk": 5
+          },
+          {
+            "character": "测验",
+            "pinyin": "cèyàn",
+            "meaning": "test; quiz",
+            "strokes": 19,
+            "hsk": 5
+          },
+          {
+            "character": "曾经",
+            "pinyin": "céngjīng",
+            "meaning": "once; formerly",
+            "strokes": 20,
+            "hsk": 5
+          },
+          {
+            "character": "差距",
+            "pinyin": "chājù",
+            "meaning": "gap; disparity",
+            "strokes": 20,
+            "hsk": 5
+          },
+          {
+            "character": "插",
+            "pinyin": "chā",
+            "meaning": "to insert; stick in",
+            "strokes": 12,
+            "hsk": 5
+          },
+          {
+            "character": "拆",
+            "pinyin": "chāi",
+            "meaning": "to tear down; dismantle",
+            "strokes": 8,
+            "hsk": 5
+          },
+          {
+            "character": "产品",
+            "pinyin": "chǎnpǐn",
+            "meaning": "product",
+            "strokes": 15,
+            "hsk": 5
+          },
+          {
+            "character": "产生",
+            "pinyin": "chǎnshēng",
+            "meaning": "to produce; give rise to",
+            "strokes": 11,
+            "hsk": 5
+          },
+          {
+            "character": "长途",
+            "pinyin": "chángtú",
+            "meaning": "long-distance",
+            "strokes": 14,
+            "hsk": 5
+          },
+          {
+            "character": "常识",
+            "pinyin": "chángshí",
+            "meaning": "common sense",
+            "strokes": 18,
+            "hsk": 5
+          },
+          {
+            "character": "抄",
+            "pinyin": "chāo",
+            "meaning": "to copy; plagiarise",
+            "strokes": 7,
+            "hsk": 5
+          },
+          {
+            "character": "超级",
+            "pinyin": "chāojí",
+            "meaning": "super; extra",
+            "strokes": 18,
+            "hsk": 5
+          },
+          {
+            "character": "朝",
+            "pinyin": "cháo",
+            "meaning": "towards; dynasty",
+            "strokes": 12,
+            "hsk": 5
+          },
+          {
+            "character": "潮湿",
+            "pinyin": "cháoshī",
+            "meaning": "damp; humid",
+            "strokes": 27,
+            "hsk": 5
+          },
+          {
+            "character": "吵",
+            "pinyin": "chǎo",
+            "meaning": "noisy; to quarrel",
+            "strokes": 7,
+            "hsk": 5
+          },
+          {
+            "character": "车库",
+            "pinyin": "chēkù",
+            "meaning": "garage",
+            "strokes": 11,
+            "hsk": 5
+          },
+          {
+            "character": "彻底",
+            "pinyin": "chèdǐ",
+            "meaning": "thorough; complete",
+            "strokes": 15,
+            "hsk": 5
+          },
+          {
+            "character": "沉默",
+            "pinyin": "chénmò",
+            "meaning": "silent; taciturn",
+            "strokes": 23,
+            "hsk": 5
+          },
+          {
+            "character": "称呼",
+            "pinyin": "chēnghu",
+            "meaning": "to address; form of address",
+            "strokes": 18,
+            "hsk": 5
+          },
+          {
+            "character": "称赞",
+            "pinyin": "chēngzàn",
+            "meaning": "to praise",
+            "strokes": 26,
+            "hsk": 5
+          },
+          {
+            "character": "成分",
+            "pinyin": "chéngfèn",
+            "meaning": "composition; ingredient",
+            "strokes": 10,
+            "hsk": 5
+          },
+          {
+            "character": "成果",
+            "pinyin": "chéngguǒ",
+            "meaning": "achievement; fruit",
+            "strokes": 14,
+            "hsk": 5
+          },
+          {
+            "character": "成就",
+            "pinyin": "chéngjiù",
+            "meaning": "accomplishment",
+            "strokes": 18,
+            "hsk": 5
+          },
+          {
+            "character": "成熟",
+            "pinyin": "chéngshú",
+            "meaning": "mature; ripe",
+            "strokes": 21,
+            "hsk": 5
+          },
+          {
+            "character": "成语",
+            "pinyin": "chéngyǔ",
+            "meaning": "idiom; set phrase",
+            "strokes": 15,
+            "hsk": 5
+          },
+          {
+            "character": "承担",
+            "pinyin": "chéngdān",
+            "meaning": "to undertake; bear",
+            "strokes": 16,
+            "hsk": 5
+          },
+          {
+            "character": "承认",
+            "pinyin": "chéngrèn",
+            "meaning": "to admit; acknowledge",
+            "strokes": 12,
+            "hsk": 5
+          },
+          {
+            "character": "承受",
+            "pinyin": "chéngshòu",
+            "meaning": "to bear; endure",
+            "strokes": 16,
+            "hsk": 5
+          },
+          {
+            "character": "程度",
+            "pinyin": "chéngdù",
+            "meaning": "degree; extent",
+            "strokes": 21,
+            "hsk": 5
+          },
+          {
+            "character": "池塘",
+            "pinyin": "chítáng",
+            "meaning": "pond",
+            "strokes": 19,
+            "hsk": 5
+          },
+          {
+            "character": "迟早",
+            "pinyin": "chízǎo",
+            "meaning": "sooner or later",
+            "strokes": 13,
+            "hsk": 5
+          },
+          {
+            "character": "持续",
+            "pinyin": "chíxù",
+            "meaning": "to continue; sustain",
+            "strokes": 20,
+            "hsk": 5
+          },
+          {
+            "character": "尺子",
+            "pinyin": "chǐzi",
+            "meaning": "ruler",
+            "strokes": 7,
+            "hsk": 5
+          },
+          {
+            "character": "冲",
+            "pinyin": "chōng",
+            "meaning": "to rush; rinse",
+            "strokes": 6,
+            "hsk": 5
+          },
+          {
+            "character": "充分",
+            "pinyin": "chōngfèn",
+            "meaning": "full; ample",
+            "strokes": 10,
+            "hsk": 5
+          },
+          {
+            "character": "充满",
+            "pinyin": "chōngmǎn",
+            "meaning": "to be full of",
+            "strokes": 19,
+            "hsk": 5
+          },
+          {
+            "character": "重复",
+            "pinyin": "chóngfù",
+            "meaning": "to repeat",
+            "strokes": 18,
+            "hsk": 5
+          },
+          {
+            "character": "崇拜",
+            "pinyin": "chóngbài",
+            "meaning": "to worship; adore",
+            "strokes": 20,
+            "hsk": 5
+          },
+          {
+            "character": "抽象",
+            "pinyin": "chōuxiàng",
+            "meaning": "abstract",
+            "strokes": 19,
+            "hsk": 5
+          },
+          {
+            "character": "臭",
+            "pinyin": "chòu",
+            "meaning": "smelly; stinking",
+            "strokes": 10,
+            "hsk": 5
+          },
+          {
+            "character": "出版",
+            "pinyin": "chūbǎn",
+            "meaning": "to publish",
+            "strokes": 13,
+            "hsk": 5
+          },
+          {
+            "character": "出色",
+            "pinyin": "chūsè",
+            "meaning": "outstanding; remarkable",
+            "strokes": 11,
+            "hsk": 5
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "我们",
+              "必须",
+              "采取",
+              "有效",
+              "的",
+              "措施"
+            ],
+            "pinyin": "Wǒmen bìxū cǎiqǔ yǒuxiào de cuòshī",
+            "english": "We must adopt effective measures",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "他",
+              "承认",
+              "了",
+              "自己",
+              "的",
+              "错误"
+            ],
+            "pinyin": "Tā chéngrèn le zìjǐ de cuòwù",
+            "english": "He admitted his own mistake",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "这",
+              "本",
+              "书",
+              "值得",
+              "参考"
+            ],
+            "pinyin": "Zhè běn shū zhídé cānkǎo",
+            "english": "This book is worth consulting",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "请",
+              "保持",
+              "安静"
+            ],
+            "pinyin": "Qǐng bǎochí ānjìng",
+            "english": "Please keep quiet",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "我们",
+              "应该",
+              "避免",
+              "浪费"
+            ],
+            "pinyin": "Wǒmen yīnggāi bìmiǎn làngfèi",
+            "english": "We should avoid waste",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "他",
+              "的",
+              "表现",
+              "非常",
+              "出色"
+            ],
+            "pinyin": "Tā de biǎoxiàn fēicháng chūsè",
+            "english": "His performance was outstanding",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "经验",
+              "是",
+              "宝贵",
+              "的",
+              "财富"
+            ],
+            "pinyin": "Jīngyàn shì bǎoguì de cáifù",
+            "english": "Experience is precious wealth",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "请",
+              "承担",
+              "这个",
+              "责任"
+            ],
+            "pinyin": "Qǐng chéngdān zhège zérèn",
+            "english": "Please take on this responsibility",
+            "difficulty": "hard"
+          }
+        ]
+      }
+    },
+    {
       "revision": 2,
       "packId": "stories-vol-1",
       "name": "New Stories · Vol. 1",
@@ -12832,6 +13494,487 @@
                 "meaning": "how much money"
               }
             ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "business-chinese",
+      "name": "Business & Workplace Chinese",
+      "icon": "briefcase",
+      "releaseDate": "2026-07-20",
+      "minApp": "2.0",
+      "whatsNew": "Chinese for the workplace — five lessons on meetings, email, introductions, office etiquette and doing deals, plus business compound words and practice sentences.",
+      "content": {
+        "bespokeLessons": [
+          {
+            "id": "biz-intro",
+            "title": "Introducing Yourself",
+            "titleChinese": "自我介绍",
+            "titlePinyin": "Zìwǒ jièshào",
+            "icon": "id-card",
+            "color": "#2563eb",
+            "colorEnd": "#1e40af",
+            "level": "Intermediate · HSK 3-4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "名片",
+                "pinyin": "míngpiàn",
+                "meaning": "business card"
+              },
+              {
+                "char": "公司",
+                "pinyin": "gōngsī",
+                "meaning": "company"
+              },
+              {
+                "char": "职位",
+                "pinyin": "zhíwèi",
+                "meaning": "position; post"
+              },
+              {
+                "char": "经理",
+                "pinyin": "jīnglǐ",
+                "meaning": "manager"
+              },
+              {
+                "char": "负责",
+                "pinyin": "fùzé",
+                "meaning": "to be in charge of"
+              },
+              {
+                "char": "部门",
+                "pinyin": "bùmén",
+                "meaning": "department"
+              },
+              {
+                "char": "同事",
+                "pinyin": "tóngshì",
+                "meaning": "colleague"
+              },
+              {
+                "char": "合作",
+                "pinyin": "hézuò",
+                "meaning": "to cooperate"
+              }
+            ]
+          },
+          {
+            "id": "biz-meeting",
+            "title": "In the Meeting",
+            "titleChinese": "开会",
+            "titlePinyin": "Kāihuì",
+            "icon": "users",
+            "color": "#7c3aed",
+            "colorEnd": "#5b21b6",
+            "level": "Intermediate · HSK 4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "会议",
+                "pinyin": "huìyì",
+                "meaning": "meeting; conference"
+              },
+              {
+                "char": "议程",
+                "pinyin": "yìchéng",
+                "meaning": "agenda"
+              },
+              {
+                "char": "报告",
+                "pinyin": "bàogào",
+                "meaning": "report; to report"
+              },
+              {
+                "char": "讨论",
+                "pinyin": "tǎolùn",
+                "meaning": "to discuss"
+              },
+              {
+                "char": "决定",
+                "pinyin": "juédìng",
+                "meaning": "to decide; decision"
+              },
+              {
+                "char": "意见",
+                "pinyin": "yìjiàn",
+                "meaning": "opinion; suggestion"
+              },
+              {
+                "char": "计划",
+                "pinyin": "jìhuà",
+                "meaning": "plan"
+              },
+              {
+                "char": "总结",
+                "pinyin": "zǒngjié",
+                "meaning": "to sum up; summary"
+              }
+            ]
+          },
+          {
+            "id": "biz-email",
+            "title": "Email & Messages",
+            "titleChinese": "邮件与消息",
+            "titlePinyin": "Yóujiàn yǔ xiāoxi",
+            "icon": "envelope",
+            "color": "#0891b2",
+            "colorEnd": "#0e7490",
+            "level": "Intermediate · HSK 4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "邮件",
+                "pinyin": "yóujiàn",
+                "meaning": "email"
+              },
+              {
+                "char": "附件",
+                "pinyin": "fùjiàn",
+                "meaning": "attachment"
+              },
+              {
+                "char": "回复",
+                "pinyin": "huífù",
+                "meaning": "to reply"
+              },
+              {
+                "char": "通知",
+                "pinyin": "tōngzhī",
+                "meaning": "to notify; notice"
+              },
+              {
+                "char": "确认",
+                "pinyin": "quèrèn",
+                "meaning": "to confirm"
+              },
+              {
+                "char": "尽快",
+                "pinyin": "jǐnkuài",
+                "meaning": "as soon as possible"
+              },
+              {
+                "char": "麻烦您",
+                "pinyin": "máfan nín",
+                "meaning": "may I trouble you (polite)"
+              },
+              {
+                "char": "期待",
+                "pinyin": "qīdài",
+                "meaning": "to look forward to"
+              }
+            ]
+          },
+          {
+            "id": "biz-etiquette",
+            "title": "Office Etiquette",
+            "titleChinese": "职场礼仪",
+            "titlePinyin": "Zhíchǎng lǐyí",
+            "icon": "handshake",
+            "color": "#059669",
+            "colorEnd": "#047857",
+            "level": "Intermediate · HSK 4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "加班",
+                "pinyin": "jiābān",
+                "meaning": "to work overtime"
+              },
+              {
+                "char": "请假",
+                "pinyin": "qǐngjià",
+                "meaning": "to ask for leave"
+              },
+              {
+                "char": "迟到",
+                "pinyin": "chídào",
+                "meaning": "to be late"
+              },
+              {
+                "char": "准时",
+                "pinyin": "zhǔnshí",
+                "meaning": "on time; punctual"
+              },
+              {
+                "char": "尊重",
+                "pinyin": "zūnzhòng",
+                "meaning": "to respect"
+              },
+              {
+                "char": "客气",
+                "pinyin": "kèqi",
+                "meaning": "polite; courteous"
+              },
+              {
+                "char": "辛苦了",
+                "pinyin": "xīnkǔ le",
+                "meaning": "thanks for your hard work"
+              },
+              {
+                "char": "领导",
+                "pinyin": "lǐngdǎo",
+                "meaning": "leader; boss"
+              }
+            ]
+          },
+          {
+            "id": "biz-deals",
+            "title": "Negotiation & Deals",
+            "titleChinese": "谈判与生意",
+            "titlePinyin": "Tánpàn yǔ shēngyi",
+            "icon": "file-signature",
+            "color": "#d97706",
+            "colorEnd": "#b45309",
+            "level": "Advanced · HSK 4-5",
+            "difficulty": 3,
+            "vocabulary": [
+              {
+                "char": "合同",
+                "pinyin": "hétong",
+                "meaning": "contract"
+              },
+              {
+                "char": "谈判",
+                "pinyin": "tánpàn",
+                "meaning": "to negotiate"
+              },
+              {
+                "char": "价格",
+                "pinyin": "jiàgé",
+                "meaning": "price"
+              },
+              {
+                "char": "报价",
+                "pinyin": "bàojià",
+                "meaning": "quote; to quote a price"
+              },
+              {
+                "char": "折扣",
+                "pinyin": "zhékòu",
+                "meaning": "discount"
+              },
+              {
+                "char": "签",
+                "pinyin": "qiān",
+                "meaning": "to sign"
+              },
+              {
+                "char": "利润",
+                "pinyin": "lìrùn",
+                "meaning": "profit"
+              },
+              {
+                "char": "双赢",
+                "pinyin": "shuāngyíng",
+                "meaning": "win-win"
+              }
+            ]
+          }
+        ],
+        "compoundWords": [
+          {
+            "char1": "公",
+            "char2": "司",
+            "compound": "公司",
+            "pinyin": "gōngsī",
+            "meaning": "company",
+            "hint": "public + manage"
+          },
+          {
+            "char1": "经",
+            "char2": "理",
+            "compound": "经理",
+            "pinyin": "jīnglǐ",
+            "meaning": "manager",
+            "hint": "manage + reason"
+          },
+          {
+            "char1": "会",
+            "char2": "议",
+            "compound": "会议",
+            "pinyin": "huìyì",
+            "meaning": "meeting",
+            "hint": "meet + discuss"
+          },
+          {
+            "char1": "合",
+            "char2": "同",
+            "compound": "合同",
+            "pinyin": "hétong",
+            "meaning": "contract",
+            "hint": "join + together"
+          },
+          {
+            "char1": "报",
+            "char2": "告",
+            "compound": "报告",
+            "pinyin": "bàogào",
+            "meaning": "report",
+            "hint": "report + tell"
+          },
+          {
+            "char1": "同",
+            "char2": "事",
+            "compound": "同事",
+            "pinyin": "tóngshì",
+            "meaning": "colleague",
+            "hint": "same + affair"
+          },
+          {
+            "char1": "加",
+            "char2": "班",
+            "compound": "加班",
+            "pinyin": "jiābān",
+            "meaning": "overtime",
+            "hint": "add + shift"
+          },
+          {
+            "char1": "谈",
+            "char2": "判",
+            "compound": "谈判",
+            "pinyin": "tánpàn",
+            "meaning": "to negotiate",
+            "hint": "talk + judge"
+          },
+          {
+            "char1": "双",
+            "char2": "赢",
+            "compound": "双赢",
+            "pinyin": "shuāngyíng",
+            "meaning": "win-win",
+            "hint": "double + win"
+          },
+          {
+            "char1": "领",
+            "char2": "导",
+            "compound": "领导",
+            "pinyin": "lǐngdǎo",
+            "meaning": "leader",
+            "hint": "lead + guide"
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "我",
+              "负责",
+              "市场",
+              "部门"
+            ],
+            "pinyin": "Wǒ fùzé shìchǎng bùmén",
+            "english": "I'm in charge of the marketing department",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "请",
+              "把",
+              "报告",
+              "发",
+              "到",
+              "我",
+              "的",
+              "邮箱"
+            ],
+            "pinyin": "Qǐng bǎ bàogào fā dào wǒ de yóuxiāng",
+            "english": "Please send the report to my email",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "我们",
+              "明天",
+              "上午",
+              "开",
+              "会"
+            ],
+            "pinyin": "Wǒmen míngtiān shàngwǔ kāi huì",
+            "english": "We have a meeting tomorrow morning",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "这个",
+              "价格",
+              "可以",
+              "打折",
+              "吗"
+            ],
+            "pinyin": "Zhège jiàgé kěyǐ dǎzhé ma?",
+            "english": "Can we get a discount on this price?",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "感谢",
+              "您",
+              "的",
+              "合作"
+            ],
+            "pinyin": "Gǎnxiè nín de hézuò",
+            "english": "Thank you for your cooperation",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "我",
+              "想",
+              "请",
+              "一天",
+              "假"
+            ],
+            "pinyin": "Wǒ xiǎng qǐng yì tiān jià",
+            "english": "I'd like to take a day off",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "请",
+              "尽快",
+              "回复",
+              "我"
+            ],
+            "pinyin": "Qǐng jǐnkuài huífù wǒ",
+            "english": "Please reply to me as soon as possible",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "合同",
+              "已经",
+              "签",
+              "好",
+              "了"
+            ],
+            "pinyin": "Hétong yǐjīng qiān hǎo le",
+            "english": "The contract has been signed",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "大家",
+              "辛苦",
+              "了"
+            ],
+            "pinyin": "Dàjiā xīnkǔ le",
+            "english": "Thank you all for your hard work",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "我们",
+              "希望",
+              "达成",
+              "双赢",
+              "的",
+              "合作"
+            ],
+            "pinyin": "Wǒmen xīwàng dáchéng shuāngyíng de hézuò",
+            "english": "We hope to reach a win-win partnership",
+            "difficulty": "hard"
           }
         ]
       }

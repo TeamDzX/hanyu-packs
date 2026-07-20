@@ -1,0 +1,142 @@
+{
+ "revision": 1,
+ "packId": "business-chinese",
+ "name": "Business & Workplace Chinese",
+ "icon": "briefcase",
+ "releaseDate": "2026-07-20",
+ "minApp": "2.0",
+ "whatsNew": "Chinese for the workplace — five lessons on meetings, email, introductions, office etiquette and doing deals, plus business compound words and practice sentences.",
+ "content": {
+  "bespokeLessons": [
+   {
+    "id": "biz-intro",
+    "title": "Introducing Yourself",
+    "titleChinese": "自我介绍",
+    "titlePinyin": "Zìwǒ jièshào",
+    "icon": "id-card",
+    "color": "#2563eb",
+    "colorEnd": "#1e40af",
+    "level": "Intermediate · HSK 3-4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "名片", "pinyin": "míngpiàn", "meaning": "business card" },
+     { "char": "公司", "pinyin": "gōngsī", "meaning": "company" },
+     { "char": "职位", "pinyin": "zhíwèi", "meaning": "position; post" },
+     { "char": "经理", "pinyin": "jīnglǐ", "meaning": "manager" },
+     { "char": "负责", "pinyin": "fùzé", "meaning": "to be in charge of" },
+     { "char": "部门", "pinyin": "bùmén", "meaning": "department" },
+     { "char": "同事", "pinyin": "tóngshì", "meaning": "colleague" },
+     { "char": "合作", "pinyin": "hézuò", "meaning": "to cooperate" }
+    ]
+   },
+   {
+    "id": "biz-meeting",
+    "title": "In the Meeting",
+    "titleChinese": "开会",
+    "titlePinyin": "Kāihuì",
+    "icon": "users",
+    "color": "#7c3aed",
+    "colorEnd": "#5b21b6",
+    "level": "Intermediate · HSK 4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "会议", "pinyin": "huìyì", "meaning": "meeting; conference" },
+     { "char": "议程", "pinyin": "yìchéng", "meaning": "agenda" },
+     { "char": "报告", "pinyin": "bàogào", "meaning": "report; to report" },
+     { "char": "讨论", "pinyin": "tǎolùn", "meaning": "to discuss" },
+     { "char": "决定", "pinyin": "juédìng", "meaning": "to decide; decision" },
+     { "char": "意见", "pinyin": "yìjiàn", "meaning": "opinion; suggestion" },
+     { "char": "计划", "pinyin": "jìhuà", "meaning": "plan" },
+     { "char": "总结", "pinyin": "zǒngjié", "meaning": "to sum up; summary" }
+    ]
+   },
+   {
+    "id": "biz-email",
+    "title": "Email & Messages",
+    "titleChinese": "邮件与消息",
+    "titlePinyin": "Yóujiàn yǔ xiāoxi",
+    "icon": "envelope",
+    "color": "#0891b2",
+    "colorEnd": "#0e7490",
+    "level": "Intermediate · HSK 4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "邮件", "pinyin": "yóujiàn", "meaning": "email" },
+     { "char": "附件", "pinyin": "fùjiàn", "meaning": "attachment" },
+     { "char": "回复", "pinyin": "huífù", "meaning": "to reply" },
+     { "char": "通知", "pinyin": "tōngzhī", "meaning": "to notify; notice" },
+     { "char": "确认", "pinyin": "quèrèn", "meaning": "to confirm" },
+     { "char": "尽快", "pinyin": "jǐnkuài", "meaning": "as soon as possible" },
+     { "char": "麻烦您", "pinyin": "máfan nín", "meaning": "may I trouble you (polite)" },
+     { "char": "期待", "pinyin": "qīdài", "meaning": "to look forward to" }
+    ]
+   },
+   {
+    "id": "biz-etiquette",
+    "title": "Office Etiquette",
+    "titleChinese": "职场礼仪",
+    "titlePinyin": "Zhíchǎng lǐyí",
+    "icon": "handshake",
+    "color": "#059669",
+    "colorEnd": "#047857",
+    "level": "Intermediate · HSK 4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "加班", "pinyin": "jiābān", "meaning": "to work overtime" },
+     { "char": "请假", "pinyin": "qǐngjià", "meaning": "to ask for leave" },
+     { "char": "迟到", "pinyin": "chídào", "meaning": "to be late" },
+     { "char": "准时", "pinyin": "zhǔnshí", "meaning": "on time; punctual" },
+     { "char": "尊重", "pinyin": "zūnzhòng", "meaning": "to respect" },
+     { "char": "客气", "pinyin": "kèqi", "meaning": "polite; courteous" },
+     { "char": "辛苦了", "pinyin": "xīnkǔ le", "meaning": "thanks for your hard work" },
+     { "char": "领导", "pinyin": "lǐngdǎo", "meaning": "leader; boss" }
+    ]
+   },
+   {
+    "id": "biz-deals",
+    "title": "Negotiation & Deals",
+    "titleChinese": "谈判与生意",
+    "titlePinyin": "Tánpàn yǔ shēngyi",
+    "icon": "file-signature",
+    "color": "#d97706",
+    "colorEnd": "#b45309",
+    "level": "Advanced · HSK 4-5",
+    "difficulty": 3,
+    "vocabulary": [
+     { "char": "合同", "pinyin": "hétong", "meaning": "contract" },
+     { "char": "谈判", "pinyin": "tánpàn", "meaning": "to negotiate" },
+     { "char": "价格", "pinyin": "jiàgé", "meaning": "price" },
+     { "char": "报价", "pinyin": "bàojià", "meaning": "quote; to quote a price" },
+     { "char": "折扣", "pinyin": "zhékòu", "meaning": "discount" },
+     { "char": "签", "pinyin": "qiān", "meaning": "to sign" },
+     { "char": "利润", "pinyin": "lìrùn", "meaning": "profit" },
+     { "char": "双赢", "pinyin": "shuāngyíng", "meaning": "win-win" }
+    ]
+   }
+  ],
+  "compoundWords": [
+   { "char1": "公", "char2": "司", "compound": "公司", "pinyin": "gōngsī", "meaning": "company", "hint": "public + manage" },
+   { "char1": "经", "char2": "理", "compound": "经理", "pinyin": "jīnglǐ", "meaning": "manager", "hint": "manage + reason" },
+   { "char1": "会", "char2": "议", "compound": "会议", "pinyin": "huìyì", "meaning": "meeting", "hint": "meet + discuss" },
+   { "char1": "合", "char2": "同", "compound": "合同", "pinyin": "hétong", "meaning": "contract", "hint": "join + together" },
+   { "char1": "报", "char2": "告", "compound": "报告", "pinyin": "bàogào", "meaning": "report", "hint": "report + tell" },
+   { "char1": "同", "char2": "事", "compound": "同事", "pinyin": "tóngshì", "meaning": "colleague", "hint": "same + affair" },
+   { "char1": "加", "char2": "班", "compound": "加班", "pinyin": "jiābān", "meaning": "overtime", "hint": "add + shift" },
+   { "char1": "谈", "char2": "判", "compound": "谈判", "pinyin": "tánpàn", "meaning": "to negotiate", "hint": "talk + judge" },
+   { "char1": "双", "char2": "赢", "compound": "双赢", "pinyin": "shuāngyíng", "meaning": "win-win", "hint": "double + win" },
+   { "char1": "领", "char2": "导", "compound": "领导", "pinyin": "lǐngdǎo", "meaning": "leader", "hint": "lead + guide" }
+  ],
+  "sentencesDatabase": [
+   { "chinese": ["我", "负责", "市场", "部门"], "pinyin": "Wǒ fùzé shìchǎng bùmén", "english": "I'm in charge of the marketing department", "difficulty": "medium" },
+   { "chinese": ["请", "把", "报告", "发", "到", "我", "的", "邮箱"], "pinyin": "Qǐng bǎ bàogào fā dào wǒ de yóuxiāng", "english": "Please send the report to my email", "difficulty": "hard" },
+   { "chinese": ["我们", "明天", "上午", "开", "会"], "pinyin": "Wǒmen míngtiān shàngwǔ kāi huì", "english": "We have a meeting tomorrow morning", "difficulty": "medium" },
+   { "chinese": ["这个", "价格", "可以", "打折", "吗"], "pinyin": "Zhège jiàgé kěyǐ dǎzhé ma?", "english": "Can we get a discount on this price?", "difficulty": "medium" },
+   { "chinese": ["感谢", "您", "的", "合作"], "pinyin": "Gǎnxiè nín de hézuò", "english": "Thank you for your cooperation", "difficulty": "medium" },
+   { "chinese": ["我", "想", "请", "一天", "假"], "pinyin": "Wǒ xiǎng qǐng yì tiān jià", "english": "I'd like to take a day off", "difficulty": "medium" },
+   { "chinese": ["请", "尽快", "回复", "我"], "pinyin": "Qǐng jǐnkuài huífù wǒ", "english": "Please reply to me as soon as possible", "difficulty": "medium" },
+   { "chinese": ["合同", "已经", "签", "好", "了"], "pinyin": "Hétong yǐjīng qiān hǎo le", "english": "The contract has been signed", "difficulty": "hard" },
+   { "chinese": ["大家", "辛苦", "了"], "pinyin": "Dàjiā xīnkǔ le", "english": "Thank you all for your hard work", "difficulty": "medium" },
+   { "chinese": ["我们", "希望", "达成", "双赢", "的", "合作"], "pinyin": "Wǒmen xīwàng dáchéng shuāngyíng de hézuò", "english": "We hope to reach a win-win partnership", "difficulty": "hard" }
+  ]
+ }
+}

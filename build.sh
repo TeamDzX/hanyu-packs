@@ -9,6 +9,7 @@ ORDER=(
   hsk4-foundations-1
   hsk4-foundations-2
   hsk4-foundations-3
+  hsk5-starter
   stories-vol-1
   stories-vol-2
   stories-vol-3
@@ -26,6 +27,7 @@ ORDER=(
   tone-master
   parrot-talk
   meet-the-tutor
+  business-chinese
   brushstroke
   story-time
   hsk-sprint

@@ -53,6 +53,7 @@ ORDER=(
   food-plant-based
   manga-everyday-essentials
   manga-out-and-about
+  manga-travel
 )
 
 FILES=()

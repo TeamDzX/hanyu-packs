@@ -21520,6 +21520,749 @@
           }
         ]
       }
+    },
+    {
+      "revision": 1,
+      "packId": "manga-travel",
+      "name": "Manga Dialogues: Travel & Survival",
+      "icon": "plane",
+      "releaseDate": "2026-07-20",
+      "minApp": "2.7",
+      "whatsNew": "Five animated travel scenes to get you through a trip to China — the airport, hotel check-in, buying a train ticket, bargaining at a market and asking for help. Watch, listen, tap any word, then read it as a comic.",
+      "content": {
+        "situations": [
+          {
+            "id": "travel-airport",
+            "title": "在机场",
+            "titlePinyin": "zài jīchǎng",
+            "titleEnglish": "At the Airport",
+            "level": 2,
+            "icon": "plane-departure",
+            "grad": "linear-gradient(135deg,#0ea5e9,#6366f1)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/airport.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-airport.mp4",
+            "speakers": {
+              "A": {
+                "name": "Agent",
+                "cn": "地勤"
+              },
+              "B": {
+                "name": "Traveller",
+                "cn": "旅客"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "A",
+                "chinese": "您好，请出示护照和机票。",
+                "pinyin": "Nín hǎo, qǐng chūshì hùzhào hé jīpiào.",
+                "english": "Hello, please show your passport and ticket.",
+                "words": [
+                  {
+                    "hanzi": "出示",
+                    "pinyin": "chūshì",
+                    "english": "to show; present"
+                  },
+                  {
+                    "hanzi": "护照",
+                    "pinyin": "hùzhào",
+                    "english": "passport"
+                  },
+                  {
+                    "hanzi": "机票",
+                    "pinyin": "jīpiào",
+                    "english": "plane ticket"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "给您。我想要靠窗的座位。",
+                "pinyin": "Gěi nín. Wǒ xiǎng yào kào chuāng de zuòwèi.",
+                "english": "Here you are. I'd like a window seat.",
+                "words": [
+                  {
+                    "hanzi": "靠窗",
+                    "pinyin": "kào chuāng",
+                    "english": "by the window"
+                  },
+                  {
+                    "hanzi": "座位",
+                    "pinyin": "zuòwèi",
+                    "english": "seat"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "好的。您有几件行李要托运？",
+                "pinyin": "Hǎo de. Nín yǒu jǐ jiàn xíngli yào tuōyùn?",
+                "english": "Sure. How many bags are you checking in?",
+                "words": [
+                  {
+                    "hanzi": "行李",
+                    "pinyin": "xíngli",
+                    "english": "luggage"
+                  },
+                  {
+                    "hanzi": "托运",
+                    "pinyin": "tuōyùn",
+                    "english": "to check in (luggage)"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "一件。登机口在哪里？",
+                "pinyin": "Yí jiàn. Dēngjīkǒu zài nǎlǐ?",
+                "english": "One. Where is the boarding gate?",
+                "words": [
+                  {
+                    "hanzi": "登机口",
+                    "pinyin": "dēngjīkǒu",
+                    "english": "boarding gate"
+                  },
+                  {
+                    "hanzi": "哪里",
+                    "pinyin": "nǎlǐ",
+                    "english": "where"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "在三十八号，请走这边。",
+                "pinyin": "Zài sānshíbā hào, qǐng zǒu zhèbiān.",
+                "english": "Gate 38 — please go this way.",
+                "words": [
+                  {
+                    "hanzi": "号",
+                    "pinyin": "hào",
+                    "english": "number"
+                  },
+                  {
+                    "hanzi": "这边",
+                    "pinyin": "zhèbiān",
+                    "english": "this way"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "谢谢！祝我一路顺风。",
+                "pinyin": "Xièxie! Zhù wǒ yílù shùnfēng.",
+                "english": "Thanks! Wish me a smooth journey.",
+                "words": [
+                  {
+                    "hanzi": "一路顺风",
+                    "pinyin": "yílù shùnfēng",
+                    "english": "have a good trip (idiom)"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What seat does the traveller want?",
+                "options": [
+                  "A window seat",
+                  "An aisle seat",
+                  "First class",
+                  "Any seat"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Which gate is the flight?",
+                "options": [
+                  "Gate 38",
+                  "Gate 18",
+                  "Gate 8",
+                  "Gate 30"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "travel-hotel",
+            "title": "酒店入住",
+            "titlePinyin": "jiǔdiàn rùzhù",
+            "titleEnglish": "Hotel Check-in",
+            "level": 2,
+            "icon": "hotel",
+            "grad": "linear-gradient(135deg,#8b5cf6,#db2777)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/hotel.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-hotel.mp4",
+            "speakers": {
+              "A": {
+                "name": "Receptionist",
+                "cn": "前台"
+              },
+              "B": {
+                "name": "Guest",
+                "cn": "客人"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "B",
+                "chinese": "你好，我订了一个房间。",
+                "pinyin": "Nǐ hǎo, wǒ dìng le yí ge fángjiān.",
+                "english": "Hi, I've booked a room.",
+                "words": [
+                  {
+                    "hanzi": "订",
+                    "pinyin": "dìng",
+                    "english": "to book; reserve"
+                  },
+                  {
+                    "hanzi": "房间",
+                    "pinyin": "fángjiān",
+                    "english": "room"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "请问您贵姓？",
+                "pinyin": "Qǐngwèn nín guìxìng?",
+                "english": "May I ask your surname?",
+                "words": [
+                  {
+                    "hanzi": "贵姓",
+                    "pinyin": "guìxìng",
+                    "english": "your (honourable) surname"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "我姓王。这是我的身份证。",
+                "pinyin": "Wǒ xìng Wáng. Zhè shì wǒ de shēnfènzhèng.",
+                "english": "My surname is Wang. Here's my ID.",
+                "words": [
+                  {
+                    "hanzi": "姓",
+                    "pinyin": "xìng",
+                    "english": "surname"
+                  },
+                  {
+                    "hanzi": "身份证",
+                    "pinyin": "shēnfènzhèng",
+                    "english": "ID card"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "好的，您住两晚，房间在五楼。",
+                "pinyin": "Hǎo de, nín zhù liǎng wǎn, fángjiān zài wǔ lóu.",
+                "english": "OK, two nights, your room is on the fifth floor.",
+                "words": [
+                  {
+                    "hanzi": "住",
+                    "pinyin": "zhù",
+                    "english": "to stay"
+                  },
+                  {
+                    "hanzi": "晚",
+                    "pinyin": "wǎn",
+                    "english": "night"
+                  },
+                  {
+                    "hanzi": "楼",
+                    "pinyin": "lóu",
+                    "english": "floor"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "早餐几点开始？",
+                "pinyin": "Zǎocān jǐ diǎn kāishǐ?",
+                "english": "What time does breakfast start?",
+                "words": [
+                  {
+                    "hanzi": "早餐",
+                    "pinyin": "zǎocān",
+                    "english": "breakfast"
+                  },
+                  {
+                    "hanzi": "开始",
+                    "pinyin": "kāishǐ",
+                    "english": "to start"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "早上七点。这是您的房卡。",
+                "pinyin": "Zǎoshang qī diǎn. Zhè shì nín de fángkǎ.",
+                "english": "Seven a.m. Here's your key card.",
+                "words": [
+                  {
+                    "hanzi": "房卡",
+                    "pinyin": "fángkǎ",
+                    "english": "room key card"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "How many nights is the guest staying?",
+                "options": [
+                  "Two nights",
+                  "One night",
+                  "Three nights",
+                  "A week"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What time does breakfast start?",
+                "options": [
+                  "7 a.m.",
+                  "6 a.m.",
+                  "8 a.m.",
+                  "9 a.m."
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "travel-train",
+            "title": "买火车票",
+            "titlePinyin": "mǎi huǒchēpiào",
+            "titleEnglish": "Buying a Train Ticket",
+            "level": 2,
+            "icon": "train",
+            "grad": "linear-gradient(135deg,#059669,#0ea5e9)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/train.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-train.mp4",
+            "speakers": {
+              "A": {
+                "name": "Clerk",
+                "cn": "售票员"
+              },
+              "B": {
+                "name": "Passenger",
+                "cn": "乘客"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "B",
+                "chinese": "我要一张去上海的高铁票。",
+                "pinyin": "Wǒ yào yì zhāng qù Shànghǎi de gāotiě piào.",
+                "english": "I'd like one high-speed rail ticket to Shanghai.",
+                "words": [
+                  {
+                    "hanzi": "张",
+                    "pinyin": "zhāng",
+                    "english": "(measure word for tickets)"
+                  },
+                  {
+                    "hanzi": "高铁",
+                    "pinyin": "gāotiě",
+                    "english": "high-speed rail"
+                  },
+                  {
+                    "hanzi": "票",
+                    "pinyin": "piào",
+                    "english": "ticket"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "您要几点的？",
+                "pinyin": "Nín yào jǐ diǎn de?",
+                "english": "What time would you like?",
+                "words": [
+                  {
+                    "hanzi": "几点",
+                    "pinyin": "jǐ diǎn",
+                    "english": "what time"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "下午三点左右的。",
+                "pinyin": "Xiàwǔ sān diǎn zuǒyòu de.",
+                "english": "Around three in the afternoon.",
+                "words": [
+                  {
+                    "hanzi": "左右",
+                    "pinyin": "zuǒyòu",
+                    "english": "about; approximately"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "有一趟三点十分的，二等座。",
+                "pinyin": "Yǒu yí tàng sān diǎn shí fēn de, èr děng zuò.",
+                "english": "There's one at 3:10, second class.",
+                "words": [
+                  {
+                    "hanzi": "趟",
+                    "pinyin": "tàng",
+                    "english": "(measure word for trips)"
+                  },
+                  {
+                    "hanzi": "二等座",
+                    "pinyin": "èr děng zuò",
+                    "english": "second-class seat"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "好，多少钱？",
+                "pinyin": "Hǎo, duōshao qián?",
+                "english": "Great, how much is it?",
+                "words": [
+                  {
+                    "hanzi": "多少钱",
+                    "pinyin": "duōshao qián",
+                    "english": "how much money"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "五百五十三块。",
+                "pinyin": "Wǔbǎi wǔshísān kuài.",
+                "english": "553 yuan.",
+                "words": [
+                  {
+                    "hanzi": "块",
+                    "pinyin": "kuài",
+                    "english": "yuan (colloquial)"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Where is the passenger going?",
+                "options": [
+                  "Shanghai",
+                  "Beijing",
+                  "Guangzhou",
+                  "Xi'an"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What time is the train?",
+                "options": [
+                  "3:10 pm",
+                  "3:00 pm",
+                  "3:30 pm",
+                  "1:10 pm"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "travel-bargain",
+            "title": "讨价还价",
+            "titlePinyin": "tǎojià huánjià",
+            "titleEnglish": "Bargaining at the Market",
+            "level": 3,
+            "icon": "tags",
+            "grad": "linear-gradient(135deg,#f59e0b,#ef4444)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/bargain.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-bargain.mp4",
+            "speakers": {
+              "A": {
+                "name": "Vendor",
+                "cn": "老板"
+              },
+              "B": {
+                "name": "Shopper",
+                "cn": "顾客"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "B",
+                "chinese": "老板，这个多少钱？",
+                "pinyin": "Lǎobǎn, zhège duōshao qián?",
+                "english": "Boss, how much is this?",
+                "words": [
+                  {
+                    "hanzi": "老板",
+                    "pinyin": "lǎobǎn",
+                    "english": "boss; shopkeeper"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "两百块，很便宜的。",
+                "pinyin": "Liǎngbǎi kuài, hěn piányi de.",
+                "english": "Two hundred yuan — very cheap.",
+                "words": [
+                  {
+                    "hanzi": "便宜",
+                    "pinyin": "piányi",
+                    "english": "cheap"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "太贵了！能不能便宜一点？",
+                "pinyin": "Tài guì le! Néng bu néng piányi yìdiǎn?",
+                "english": "Too expensive! Can you make it a bit cheaper?",
+                "words": [
+                  {
+                    "hanzi": "贵",
+                    "pinyin": "guì",
+                    "english": "expensive"
+                  },
+                  {
+                    "hanzi": "一点",
+                    "pinyin": "yìdiǎn",
+                    "english": "a little"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "那给你便宜一点，一百八。",
+                "pinyin": "Nà gěi nǐ piányi yìdiǎn, yìbǎi bā.",
+                "english": "OK, a bit cheaper for you — 180.",
+                "words": [
+                  {
+                    "hanzi": "那",
+                    "pinyin": "nà",
+                    "english": "then; in that case"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "一百块，行不行？",
+                "pinyin": "Yìbǎi kuài, xíng bu xíng?",
+                "english": "One hundred — is that OK?",
+                "words": [
+                  {
+                    "hanzi": "行",
+                    "pinyin": "xíng",
+                    "english": "OK; will do"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "一百二，不能再少了。",
+                "pinyin": "Yìbǎi èr, bù néng zài shǎo le.",
+                "english": "120 — I can't go any lower.",
+                "words": [
+                  {
+                    "hanzi": "再",
+                    "pinyin": "zài",
+                    "english": "any more; again"
+                  },
+                  {
+                    "hanzi": "少",
+                    "pinyin": "shǎo",
+                    "english": "less"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What was the first price the vendor gave?",
+                "options": [
+                  "200 yuan",
+                  "180 yuan",
+                  "120 yuan",
+                  "100 yuan"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What is the vendor's final price?",
+                "options": [
+                  "120 yuan",
+                  "100 yuan",
+                  "180 yuan",
+                  "150 yuan"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "travel-help",
+            "title": "求助",
+            "titlePinyin": "qiúzhù",
+            "titleEnglish": "Asking for Help",
+            "level": 3,
+            "icon": "circle-question",
+            "grad": "linear-gradient(135deg,#dc2626,#f59e0b)",
+            "poster": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/help.jpg",
+            "scene": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/videos/manga-help.mp4",
+            "speakers": {
+              "A": {
+                "name": "Passer-by",
+                "cn": "路人"
+              },
+              "B": {
+                "name": "Tourist",
+                "cn": "游客"
+              }
+            },
+            "dialogue": [
+              {
+                "sp": "B",
+                "chinese": "不好意思，能帮我一下吗？",
+                "pinyin": "Bù hǎoyìsi, néng bāng wǒ yíxià ma?",
+                "english": "Excuse me, could you help me?",
+                "words": [
+                  {
+                    "hanzi": "不好意思",
+                    "pinyin": "bù hǎoyìsi",
+                    "english": "excuse me; sorry"
+                  },
+                  {
+                    "hanzi": "帮",
+                    "pinyin": "bāng",
+                    "english": "to help"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "当然可以，怎么了？",
+                "pinyin": "Dāngrán kěyǐ, zěnme le?",
+                "english": "Of course. What's wrong?",
+                "words": [
+                  {
+                    "hanzi": "当然",
+                    "pinyin": "dāngrán",
+                    "english": "of course"
+                  },
+                  {
+                    "hanzi": "怎么了",
+                    "pinyin": "zěnme le",
+                    "english": "what's wrong"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "我的手机丢了，我迷路了。",
+                "pinyin": "Wǒ de shǒujī diū le, wǒ mílù le.",
+                "english": "I've lost my phone and I'm lost.",
+                "words": [
+                  {
+                    "hanzi": "手机",
+                    "pinyin": "shǒujī",
+                    "english": "mobile phone"
+                  },
+                  {
+                    "hanzi": "丢",
+                    "pinyin": "diū",
+                    "english": "to lose"
+                  },
+                  {
+                    "hanzi": "迷路",
+                    "pinyin": "mílù",
+                    "english": "to get lost"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "别着急。你要去哪里？",
+                "pinyin": "Bié zháojí. Nǐ yào qù nǎlǐ?",
+                "english": "Don't worry. Where do you need to go?",
+                "words": [
+                  {
+                    "hanzi": "别着急",
+                    "pinyin": "bié zháojí",
+                    "english": "don't worry / rush"
+                  }
+                ]
+              },
+              {
+                "sp": "B",
+                "chinese": "我要回和平饭店。",
+                "pinyin": "Wǒ yào huí Hépíng Fàndiàn.",
+                "english": "I need to get back to the Peace Hotel.",
+                "words": [
+                  {
+                    "hanzi": "回",
+                    "pinyin": "huí",
+                    "english": "to return"
+                  },
+                  {
+                    "hanzi": "饭店",
+                    "pinyin": "fàndiàn",
+                    "english": "hotel"
+                  }
+                ]
+              },
+              {
+                "sp": "A",
+                "chinese": "我带你去地铁站，很近。",
+                "pinyin": "Wǒ dài nǐ qù dìtiě zhàn, hěn jìn.",
+                "english": "I'll take you to the subway station — it's close.",
+                "words": [
+                  {
+                    "hanzi": "带",
+                    "pinyin": "dài",
+                    "english": "to lead; take"
+                  },
+                  {
+                    "hanzi": "地铁站",
+                    "pinyin": "dìtiě zhàn",
+                    "english": "subway station"
+                  },
+                  {
+                    "hanzi": "近",
+                    "pinyin": "jìn",
+                    "english": "near"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What problem does the tourist have?",
+                "options": [
+                  "Lost phone and lost the way",
+                  "Lost passport",
+                  "No money",
+                  "Feeling ill"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "How will the passer-by help?",
+                "options": [
+                  "Take them to the subway station",
+                  "Call the police",
+                  "Lend a phone",
+                  "Give directions only"
+                ],
+                "correct": 0
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

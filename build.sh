@@ -41,6 +41,9 @@ ORDER=(
   great-figures
   treasure-ship-era
   philosophy
+  festivals-traditions
+  chengyu-idioms
+  tang-poetry
   modern-music
   food-everyday-classics
   food-dumplings-dimsum

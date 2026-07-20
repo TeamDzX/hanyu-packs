@@ -15629,6 +15629,1799 @@
     },
     {
       "revision": 1,
+      "packId": "festivals-traditions",
+      "name": "Chinese Festivals & Traditions",
+      "icon": "gift",
+      "releaseDate": "2026-07-20",
+      "minApp": "2.0",
+      "whatsNew": "Celebrate like a local — the vocabulary, greetings, food and customs of China's biggest festivals: Spring Festival, Lantern Festival, Qingming, Dragon Boat and Mid-Autumn, plus festive practice sentences.",
+      "content": {
+        "bespokeLessons": [
+          {
+            "id": "fest-spring",
+            "title": "Spring Festival",
+            "titleChinese": "春节",
+            "titlePinyin": "Chūnjié",
+            "icon": "dragon",
+            "color": "#dc2626",
+            "colorEnd": "#b91c1c",
+            "level": "Culture · HSK 2-4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "春节",
+                "pinyin": "chūnjié",
+                "meaning": "Spring Festival; Chinese New Year"
+              },
+              {
+                "char": "红包",
+                "pinyin": "hóngbāo",
+                "meaning": "red envelope (with money)"
+              },
+              {
+                "char": "年夜饭",
+                "pinyin": "niányèfàn",
+                "meaning": "New Year's Eve reunion dinner"
+              },
+              {
+                "char": "拜年",
+                "pinyin": "bàinián",
+                "meaning": "to pay a New Year visit; give greetings"
+              },
+              {
+                "char": "春联",
+                "pinyin": "chūnlián",
+                "meaning": "Spring Festival couplets"
+              },
+              {
+                "char": "鞭炮",
+                "pinyin": "biānpào",
+                "meaning": "firecrackers"
+              },
+              {
+                "char": "饺子",
+                "pinyin": "jiǎozi",
+                "meaning": "dumplings (eaten at New Year)"
+              },
+              {
+                "char": "恭喜发财",
+                "pinyin": "gōngxǐ fācái",
+                "meaning": "wishing you wealth (New Year greeting)"
+              }
+            ]
+          },
+          {
+            "id": "fest-lantern",
+            "title": "Lantern Festival",
+            "titleChinese": "元宵节",
+            "titlePinyin": "Yuánxiāojié",
+            "icon": "lightbulb",
+            "color": "#f59e0b",
+            "colorEnd": "#d97706",
+            "level": "Culture · HSK 3-4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "元宵节",
+                "pinyin": "yuánxiāojié",
+                "meaning": "Lantern Festival (15th day of New Year)"
+              },
+              {
+                "char": "汤圆",
+                "pinyin": "tāngyuán",
+                "meaning": "sweet glutinous rice balls"
+              },
+              {
+                "char": "灯笼",
+                "pinyin": "dēnglong",
+                "meaning": "lantern"
+              },
+              {
+                "char": "猜灯谜",
+                "pinyin": "cāi dēngmí",
+                "meaning": "to guess lantern riddles"
+              },
+              {
+                "char": "赏灯",
+                "pinyin": "shǎngdēng",
+                "meaning": "to admire the lanterns"
+              },
+              {
+                "char": "团圆",
+                "pinyin": "tuányuán",
+                "meaning": "reunion; togetherness"
+              }
+            ]
+          },
+          {
+            "id": "fest-qingming",
+            "title": "Qingming Festival",
+            "titleChinese": "清明节",
+            "titlePinyin": "Qīngmíngjié",
+            "icon": "leaf",
+            "color": "#16a34a",
+            "colorEnd": "#15803d",
+            "level": "Culture · HSK 3-4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "清明节",
+                "pinyin": "qīngmíngjié",
+                "meaning": "Qingming; Tomb-Sweeping Festival"
+              },
+              {
+                "char": "扫墓",
+                "pinyin": "sǎomù",
+                "meaning": "to sweep tombs; honour the dead"
+              },
+              {
+                "char": "祖先",
+                "pinyin": "zǔxiān",
+                "meaning": "ancestors"
+              },
+              {
+                "char": "纪念",
+                "pinyin": "jìniàn",
+                "meaning": "to commemorate"
+              },
+              {
+                "char": "踏青",
+                "pinyin": "tàqīng",
+                "meaning": "spring outing in the countryside"
+              },
+              {
+                "char": "风筝",
+                "pinyin": "fēngzheng",
+                "meaning": "kite"
+              }
+            ]
+          },
+          {
+            "id": "fest-dragonboat",
+            "title": "Dragon Boat Festival",
+            "titleChinese": "端午节",
+            "titlePinyin": "Duānwǔjié",
+            "icon": "water",
+            "color": "#0891b2",
+            "colorEnd": "#0e7490",
+            "level": "Culture · HSK 3-4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "端午节",
+                "pinyin": "duānwǔjié",
+                "meaning": "Dragon Boat Festival"
+              },
+              {
+                "char": "粽子",
+                "pinyin": "zòngzi",
+                "meaning": "sticky-rice dumpling in bamboo leaves"
+              },
+              {
+                "char": "龙舟",
+                "pinyin": "lóngzhōu",
+                "meaning": "dragon boat"
+              },
+              {
+                "char": "赛龙舟",
+                "pinyin": "sài lóngzhōu",
+                "meaning": "dragon boat race"
+              },
+              {
+                "char": "屈原",
+                "pinyin": "Qū Yuán",
+                "meaning": "Qu Yuan (the ancient poet honoured)"
+              },
+              {
+                "char": "纪念",
+                "pinyin": "jìniàn",
+                "meaning": "to commemorate"
+              }
+            ]
+          },
+          {
+            "id": "fest-midautumn",
+            "title": "Mid-Autumn Festival",
+            "titleChinese": "中秋节",
+            "titlePinyin": "Zhōngqiūjié",
+            "icon": "moon",
+            "color": "#7c3aed",
+            "colorEnd": "#5b21b6",
+            "level": "Culture · HSK 2-4",
+            "difficulty": 2,
+            "vocabulary": [
+              {
+                "char": "中秋节",
+                "pinyin": "zhōngqiūjié",
+                "meaning": "Mid-Autumn Festival"
+              },
+              {
+                "char": "月饼",
+                "pinyin": "yuèbǐng",
+                "meaning": "mooncake"
+              },
+              {
+                "char": "赏月",
+                "pinyin": "shǎngyuè",
+                "meaning": "to admire the full moon"
+              },
+              {
+                "char": "满月",
+                "pinyin": "mǎnyuè",
+                "meaning": "full moon"
+              },
+              {
+                "char": "嫦娥",
+                "pinyin": "Cháng'é",
+                "meaning": "Chang'e, the moon goddess"
+              },
+              {
+                "char": "团圆",
+                "pinyin": "tuányuán",
+                "meaning": "family reunion"
+              }
+            ]
+          }
+        ],
+        "sentencesDatabase": [
+          {
+            "chinese": [
+              "春节",
+              "快乐"
+            ],
+            "pinyin": "Chūnjié kuàilè!",
+            "english": "Happy Spring Festival!",
+            "difficulty": "easy"
+          },
+          {
+            "chinese": [
+              "孩子",
+              "们",
+              "最",
+              "喜欢",
+              "收",
+              "红包"
+            ],
+            "pinyin": "Háizimen zuì xǐhuan shōu hóngbāo",
+            "english": "Children love receiving red envelopes most",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "中秋节",
+              "我们",
+              "一起",
+              "吃",
+              "月饼",
+              "赏月"
+            ],
+            "pinyin": "Zhōngqiūjié wǒmen yìqǐ chī yuèbǐng shǎngyuè",
+            "english": "At Mid-Autumn we eat mooncakes and admire the moon together",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "端午节",
+              "要",
+              "吃",
+              "粽子",
+              "看",
+              "赛龙舟"
+            ],
+            "pinyin": "Duānwǔjié yào chī zòngzi, kàn sài lóngzhōu",
+            "english": "At the Dragon Boat Festival we eat zongzi and watch the boat races",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "清明节",
+              "全家",
+              "去",
+              "扫墓"
+            ],
+            "pinyin": "Qīngmíngjié quánjiā qù sǎomù",
+            "english": "At Qingming the whole family goes to sweep the tombs",
+            "difficulty": "medium"
+          },
+          {
+            "chinese": [
+              "除夕",
+              "全家",
+              "一起",
+              "吃",
+              "年夜饭"
+            ],
+            "pinyin": "Chúxī quánjiā yìqǐ chī niányèfàn",
+            "english": "On New Year's Eve the whole family eats the reunion dinner together",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "祝",
+              "您",
+              "身体",
+              "健康",
+              "万事如意"
+            ],
+            "pinyin": "Zhù nín shēntǐ jiànkāng, wànshì rúyì",
+            "english": "Wishing you good health and that all goes as you wish",
+            "difficulty": "hard"
+          },
+          {
+            "chinese": [
+              "元宵节",
+              "的",
+              "晚上",
+              "到处",
+              "都",
+              "是",
+              "灯笼"
+            ],
+            "pinyin": "Yuánxiāojié de wǎnshang, dàochù dōu shì dēnglong",
+            "english": "On Lantern Festival night, lanterns are everywhere",
+            "difficulty": "hard"
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "chengyu-idioms",
+      "name": "Chengyu: Idioms & Their Stories",
+      "icon": "scroll",
+      "releaseDate": "2026-07-20",
+      "minApp": "1.7",
+      "whatsNew": "Five classic four-character idioms, each told as the short ancient story it comes from — read the tale, then use the idiom like a native. Includes tap-to-translate words and quizzes.",
+      "content": {
+        "stories": [
+          {
+            "id": "cy_huashe",
+            "title": "画蛇添足",
+            "titlePinyin": "huà shé tiān zú",
+            "titleEnglish": "Drawing Legs on a Snake",
+            "level": 2,
+            "theme": "<i class=\"fas fa-pen\" style=\"color:#7c3aed\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_huashe.jpg",
+            "sentences": [
+              {
+                "chinese": "从前，几个人比赛画蛇。",
+                "pinyin": "Cóngqián, jǐ ge rén bǐsài huà shé.",
+                "english": "Long ago, a few people held a contest to draw a snake.",
+                "words": [
+                  {
+                    "hanzi": "从前",
+                    "pinyin": "cóngqián",
+                    "english": "long ago"
+                  },
+                  {
+                    "hanzi": "比赛",
+                    "pinyin": "bǐsài",
+                    "english": "contest"
+                  },
+                  {
+                    "hanzi": "画",
+                    "pinyin": "huà",
+                    "english": "to draw"
+                  },
+                  {
+                    "hanzi": "蛇",
+                    "pinyin": "shé",
+                    "english": "snake"
+                  }
+                ]
+              },
+              {
+                "chinese": "谁先画好，谁就能喝那壶酒。",
+                "pinyin": "Shéi xiān huà hǎo, shéi jiù néng hē nà hú jiǔ.",
+                "english": "Whoever finished first could drink the pot of wine.",
+                "words": [
+                  {
+                    "hanzi": "先",
+                    "pinyin": "xiān",
+                    "english": "first"
+                  },
+                  {
+                    "hanzi": "壶",
+                    "pinyin": "hú",
+                    "english": "pot"
+                  },
+                  {
+                    "hanzi": "酒",
+                    "pinyin": "jiǔ",
+                    "english": "wine"
+                  }
+                ]
+              },
+              {
+                "chinese": "一个人很快就画好了。",
+                "pinyin": "Yí ge rén hěn kuài jiù huà hǎo le.",
+                "english": "One man finished very quickly.",
+                "words": [
+                  {
+                    "hanzi": "很快",
+                    "pinyin": "hěn kuài",
+                    "english": "very quickly"
+                  }
+                ]
+              },
+              {
+                "chinese": "他觉得没意思，就给蛇添上了脚。",
+                "pinyin": "Tā juéde méi yìsi, jiù gěi shé tiān shàng le jiǎo.",
+                "english": "Feeling bored, he added legs to his snake.",
+                "words": [
+                  {
+                    "hanzi": "觉得",
+                    "pinyin": "juéde",
+                    "english": "to feel"
+                  },
+                  {
+                    "hanzi": "添",
+                    "pinyin": "tiān",
+                    "english": "to add"
+                  },
+                  {
+                    "hanzi": "脚",
+                    "pinyin": "jiǎo",
+                    "english": "foot; leg"
+                  }
+                ]
+              },
+              {
+                "chinese": "别人说：“蛇没有脚，你输了！”",
+                "pinyin": "Biéren shuō: “Shé méiyǒu jiǎo, nǐ shū le!”",
+                "english": "The others said: \"Snakes have no legs — you lose!\"",
+                "words": [
+                  {
+                    "hanzi": "别人",
+                    "pinyin": "biéren",
+                    "english": "others"
+                  },
+                  {
+                    "hanzi": "输",
+                    "pinyin": "shū",
+                    "english": "to lose"
+                  }
+                ]
+              },
+              {
+                "chinese": "“画蛇添足”就是说：多做反而坏事。",
+                "pinyin": "“Huà shé tiān zú” jiùshì shuō: duō zuò fǎn'ér huài shì.",
+                "english": "\"Drawing legs on a snake\" means: doing too much ruins things.",
+                "words": [
+                  {
+                    "hanzi": "反而",
+                    "pinyin": "fǎn'ér",
+                    "english": "on the contrary"
+                  },
+                  {
+                    "hanzi": "坏",
+                    "pinyin": "huài",
+                    "english": "to spoil; bad"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What was the prize in the contest?",
+                "options": [
+                  "A pot of wine",
+                  "Gold",
+                  "A snake",
+                  "A meal"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does 画蛇添足 mean?",
+                "options": [
+                  "To ruin something by overdoing it",
+                  "To draw well",
+                  "To win easily",
+                  "To work hard"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "cy_shouzhu",
+            "title": "守株待兔",
+            "titlePinyin": "shǒu zhū dài tù",
+            "titleEnglish": "Waiting by the Tree Stump",
+            "level": 2,
+            "theme": "<i class=\"fas fa-tree\" style=\"color:#16a34a\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_shouzhu.jpg",
+            "sentences": [
+              {
+                "chinese": "从前有一个农民在田里种地。",
+                "pinyin": "Cóngqián yǒu yí ge nóngmín zài tián lǐ zhòng dì.",
+                "english": "Long ago a farmer was working in his field.",
+                "words": [
+                  {
+                    "hanzi": "农民",
+                    "pinyin": "nóngmín",
+                    "english": "farmer"
+                  },
+                  {
+                    "hanzi": "田",
+                    "pinyin": "tián",
+                    "english": "field"
+                  },
+                  {
+                    "hanzi": "种地",
+                    "pinyin": "zhòng dì",
+                    "english": "to farm the land"
+                  }
+                ]
+              },
+              {
+                "chinese": "一只兔子撞在树桩上，死了。",
+                "pinyin": "Yì zhī tùzi zhuàng zài shùzhuāng shàng, sǐ le.",
+                "english": "A rabbit ran into a tree stump and died.",
+                "words": [
+                  {
+                    "hanzi": "兔子",
+                    "pinyin": "tùzi",
+                    "english": "rabbit"
+                  },
+                  {
+                    "hanzi": "撞",
+                    "pinyin": "zhuàng",
+                    "english": "to crash into"
+                  },
+                  {
+                    "hanzi": "树桩",
+                    "pinyin": "shùzhuāng",
+                    "english": "tree stump"
+                  }
+                ]
+              },
+              {
+                "chinese": "农民很高兴，白白得到一只兔子。",
+                "pinyin": "Nóngmín hěn gāoxìng, báibái dédào yì zhī tùzi.",
+                "english": "The farmer was delighted to get a rabbit for free.",
+                "words": [
+                  {
+                    "hanzi": "白白",
+                    "pinyin": "báibái",
+                    "english": "for nothing; free"
+                  },
+                  {
+                    "hanzi": "得到",
+                    "pinyin": "dédào",
+                    "english": "to obtain"
+                  }
+                ]
+              },
+              {
+                "chinese": "从此他不种地了，天天守着树桩等兔子。",
+                "pinyin": "Cóngcǐ tā bù zhòng dì le, tiāntiān shǒu zhe shùzhuāng děng tùzi.",
+                "english": "After that he stopped farming and waited by the stump every day for rabbits.",
+                "words": [
+                  {
+                    "hanzi": "从此",
+                    "pinyin": "cóngcǐ",
+                    "english": "from then on"
+                  },
+                  {
+                    "hanzi": "守",
+                    "pinyin": "shǒu",
+                    "english": "to guard; wait by"
+                  },
+                  {
+                    "hanzi": "等",
+                    "pinyin": "děng",
+                    "english": "to wait"
+                  }
+                ]
+              },
+              {
+                "chinese": "可是再也没有兔子来，他的田也荒了。",
+                "pinyin": "Kěshì zài yě méiyǒu tùzi lái, tā de tián yě huāng le.",
+                "english": "But no more rabbits came, and his field went to waste.",
+                "words": [
+                  {
+                    "hanzi": "再也",
+                    "pinyin": "zài yě",
+                    "english": "no longer"
+                  },
+                  {
+                    "hanzi": "荒",
+                    "pinyin": "huāng",
+                    "english": "to lie waste"
+                  }
+                ]
+              },
+              {
+                "chinese": "“守株待兔”就是说：靠运气，不肯努力。",
+                "pinyin": "“Shǒu zhū dài tù” jiùshì shuō: kào yùnqì, bù kěn nǔlì.",
+                "english": "\"Waiting by the stump\" means: relying on luck instead of effort.",
+                "words": [
+                  {
+                    "hanzi": "靠",
+                    "pinyin": "kào",
+                    "english": "to rely on"
+                  },
+                  {
+                    "hanzi": "运气",
+                    "pinyin": "yùnqì",
+                    "english": "luck"
+                  },
+                  {
+                    "hanzi": "努力",
+                    "pinyin": "nǔlì",
+                    "english": "to make an effort"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "How did the farmer first get a rabbit?",
+                "options": [
+                  "It crashed into a stump",
+                  "He hunted it",
+                  "He bought it",
+                  "A friend gave it"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What lesson does 守株待兔 teach?",
+                "options": [
+                  "Don't rely on luck instead of effort",
+                  "Rabbits are fast",
+                  "Farming is easy",
+                  "Save your money"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "cy_jingwa",
+            "title": "井底之蛙",
+            "titlePinyin": "jǐng dǐ zhī wā",
+            "titleEnglish": "The Frog in the Well",
+            "level": 2,
+            "theme": "<i class=\"fas fa-frog\" style=\"color:#0891b2\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_jingwa.jpg",
+            "sentences": [
+              {
+                "chinese": "一只青蛙住在一口井里。",
+                "pinyin": "Yì zhī qīngwā zhù zài yì kǒu jǐng lǐ.",
+                "english": "A frog lived at the bottom of a well.",
+                "words": [
+                  {
+                    "hanzi": "青蛙",
+                    "pinyin": "qīngwā",
+                    "english": "frog"
+                  },
+                  {
+                    "hanzi": "井",
+                    "pinyin": "jǐng",
+                    "english": "well"
+                  }
+                ]
+              },
+              {
+                "chinese": "它抬头看天，天只有井口那么大。",
+                "pinyin": "Tā táitóu kàn tiān, tiān zhǐ yǒu jǐngkǒu nàme dà.",
+                "english": "Looking up, it saw a sky only as big as the mouth of the well.",
+                "words": [
+                  {
+                    "hanzi": "抬头",
+                    "pinyin": "táitóu",
+                    "english": "to look up"
+                  },
+                  {
+                    "hanzi": "井口",
+                    "pinyin": "jǐngkǒu",
+                    "english": "mouth of the well"
+                  }
+                ]
+              },
+              {
+                "chinese": "它觉得自己的世界最大、最好。",
+                "pinyin": "Tā juéde zìjǐ de shìjiè zuì dà, zuì hǎo.",
+                "english": "It thought its own world was the biggest and best.",
+                "words": [
+                  {
+                    "hanzi": "自己",
+                    "pinyin": "zìjǐ",
+                    "english": "oneself"
+                  },
+                  {
+                    "hanzi": "世界",
+                    "pinyin": "shìjiè",
+                    "english": "world"
+                  }
+                ]
+              },
+              {
+                "chinese": "一只海龟告诉它：外面的大海无边无际。",
+                "pinyin": "Yì zhī hǎiguī gàosu tā: wàimiàn de dàhǎi wúbiān-wújì.",
+                "english": "A sea turtle told it: the ocean outside is boundless.",
+                "words": [
+                  {
+                    "hanzi": "海龟",
+                    "pinyin": "hǎiguī",
+                    "english": "sea turtle"
+                  },
+                  {
+                    "hanzi": "大海",
+                    "pinyin": "dàhǎi",
+                    "english": "the sea"
+                  },
+                  {
+                    "hanzi": "无边无际",
+                    "pinyin": "wúbiān-wújì",
+                    "english": "boundless"
+                  }
+                ]
+              },
+              {
+                "chinese": "青蛙这才知道自己见得太少。",
+                "pinyin": "Qīngwā zhè cái zhīdào zìjǐ jiàn de tài shǎo.",
+                "english": "Only then did the frog realise how little it had seen.",
+                "words": [
+                  {
+                    "hanzi": "才",
+                    "pinyin": "cái",
+                    "english": "only then"
+                  },
+                  {
+                    "hanzi": "见",
+                    "pinyin": "jiàn",
+                    "english": "to see; experience"
+                  }
+                ]
+              },
+              {
+                "chinese": "“井底之蛙”就是说：眼界太小的人。",
+                "pinyin": "“Jǐng dǐ zhī wā” jiùshì shuō: yǎnjiè tài xiǎo de rén.",
+                "english": "\"A frog in a well\" means: someone with a narrow outlook.",
+                "words": [
+                  {
+                    "hanzi": "眼界",
+                    "pinyin": "yǎnjiè",
+                    "english": "outlook; horizons"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Why did the frog think the sky was small?",
+                "options": [
+                  "It only saw it through the well",
+                  "It was blind",
+                  "It was night",
+                  "The sky was cloudy"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does 井底之蛙 describe?",
+                "options": [
+                  "A narrow-minded person",
+                  "A brave frog",
+                  "A deep well",
+                  "A wise turtle"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "cy_wangyang",
+            "title": "亡羊补牢",
+            "titlePinyin": "wáng yáng bǔ láo",
+            "titleEnglish": "Mending the Pen",
+            "level": 2,
+            "theme": "<i class=\"fas fa-hammer\" style=\"color:#d97706\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_wangyang.jpg",
+            "sentences": [
+              {
+                "chinese": "一个牧民养了很多羊。",
+                "pinyin": "Yí ge mùmín yǎng le hěn duō yáng.",
+                "english": "A herdsman kept many sheep.",
+                "words": [
+                  {
+                    "hanzi": "牧民",
+                    "pinyin": "mùmín",
+                    "english": "herdsman"
+                  },
+                  {
+                    "hanzi": "养",
+                    "pinyin": "yǎng",
+                    "english": "to raise; keep"
+                  },
+                  {
+                    "hanzi": "羊",
+                    "pinyin": "yáng",
+                    "english": "sheep"
+                  }
+                ]
+              },
+              {
+                "chinese": "羊圈破了一个洞，跑了一只羊。",
+                "pinyin": "Yángjuàn pò le yí ge dòng, pǎo le yì zhī yáng.",
+                "english": "The pen had a hole, and one sheep escaped.",
+                "words": [
+                  {
+                    "hanzi": "羊圈",
+                    "pinyin": "yángjuàn",
+                    "english": "sheep pen"
+                  },
+                  {
+                    "hanzi": "洞",
+                    "pinyin": "dòng",
+                    "english": "hole"
+                  },
+                  {
+                    "hanzi": "跑",
+                    "pinyin": "pǎo",
+                    "english": "to run (away)"
+                  }
+                ]
+              },
+              {
+                "chinese": "邻居劝他快修，他却不听。",
+                "pinyin": "Línjū quàn tā kuài xiū, tā què bù tīng.",
+                "english": "A neighbour urged him to fix it quickly, but he wouldn't listen.",
+                "words": [
+                  {
+                    "hanzi": "邻居",
+                    "pinyin": "línjū",
+                    "english": "neighbour"
+                  },
+                  {
+                    "hanzi": "劝",
+                    "pinyin": "quàn",
+                    "english": "to advise; urge"
+                  },
+                  {
+                    "hanzi": "修",
+                    "pinyin": "xiū",
+                    "english": "to repair"
+                  }
+                ]
+              },
+              {
+                "chinese": "第二天，又少了一只羊。",
+                "pinyin": "Dì-èr tiān, yòu shǎo le yì zhī yáng.",
+                "english": "The next day, another sheep was gone.",
+                "words": [
+                  {
+                    "hanzi": "第二天",
+                    "pinyin": "dì-èr tiān",
+                    "english": "the next day"
+                  },
+                  {
+                    "hanzi": "又",
+                    "pinyin": "yòu",
+                    "english": "again"
+                  }
+                ]
+              },
+              {
+                "chinese": "他赶紧把羊圈修好，再也没丢羊。",
+                "pinyin": "Tā gǎnjǐn bǎ yángjuàn xiū hǎo, zài yě méi diū yáng.",
+                "english": "He hurried to mend the pen, and never lost a sheep again.",
+                "words": [
+                  {
+                    "hanzi": "赶紧",
+                    "pinyin": "gǎnjǐn",
+                    "english": "hurriedly"
+                  },
+                  {
+                    "hanzi": "丢",
+                    "pinyin": "diū",
+                    "english": "to lose"
+                  }
+                ]
+              },
+              {
+                "chinese": "“亡羊补牢”就是说：出了问题，及时改还不晚。",
+                "pinyin": "“Wáng yáng bǔ láo” jiùshì shuō: chū le wèntí, jíshí gǎi hái bù wǎn.",
+                "english": "\"Mending the pen\" means: it's not too late to fix a problem in time.",
+                "words": [
+                  {
+                    "hanzi": "及时",
+                    "pinyin": "jíshí",
+                    "english": "in time"
+                  },
+                  {
+                    "hanzi": "改",
+                    "pinyin": "gǎi",
+                    "english": "to change; fix"
+                  },
+                  {
+                    "hanzi": "晚",
+                    "pinyin": "wǎn",
+                    "english": "late"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Why did the sheep escape?",
+                "options": [
+                  "There was a hole in the pen",
+                  "A wolf came",
+                  "The gate was open",
+                  "They were hungry"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does 亡羊补牢 mean?",
+                "options": [
+                  "It's not too late to fix a problem",
+                  "Sheep are hard to keep",
+                  "Never trust a neighbour",
+                  "Give up early"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "cy_duiniu",
+            "title": "对牛弹琴",
+            "titlePinyin": "duì niú tán qín",
+            "titleEnglish": "Playing Music to a Cow",
+            "level": 2,
+            "theme": "<i class=\"fas fa-music\" style=\"color:#be185d\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_duiniu.jpg",
+            "sentences": [
+              {
+                "chinese": "古时候有一个音乐家，琴弹得很好。",
+                "pinyin": "Gǔ shíhou yǒu yí ge yīnyuèjiā, qín tán de hěn hǎo.",
+                "english": "In ancient times there was a musician who played beautifully.",
+                "words": [
+                  {
+                    "hanzi": "音乐家",
+                    "pinyin": "yīnyuèjiā",
+                    "english": "musician"
+                  },
+                  {
+                    "hanzi": "琴",
+                    "pinyin": "qín",
+                    "english": "zither; lute"
+                  },
+                  {
+                    "hanzi": "弹",
+                    "pinyin": "tán",
+                    "english": "to play (strings)"
+                  }
+                ]
+              },
+              {
+                "chinese": "有一天，他对着一头牛弹琴。",
+                "pinyin": "Yǒu yì tiān, tā duì zhe yì tóu niú tán qín.",
+                "english": "One day he played his music facing a cow.",
+                "words": [
+                  {
+                    "hanzi": "对着",
+                    "pinyin": "duì zhe",
+                    "english": "facing; towards"
+                  },
+                  {
+                    "hanzi": "牛",
+                    "pinyin": "niú",
+                    "english": "cow; ox"
+                  }
+                ]
+              },
+              {
+                "chinese": "他弹了最美的曲子。",
+                "pinyin": "Tā tán le zuì měi de qǔzi.",
+                "english": "He played his most beautiful piece.",
+                "words": [
+                  {
+                    "hanzi": "曲子",
+                    "pinyin": "qǔzi",
+                    "english": "tune; melody"
+                  }
+                ]
+              },
+              {
+                "chinese": "可是牛只顾吃草，一点也不理他。",
+                "pinyin": "Kěshì niú zhǐ gù chī cǎo, yìdiǎn yě bù lǐ tā.",
+                "english": "But the cow just kept eating grass, ignoring him completely.",
+                "words": [
+                  {
+                    "hanzi": "只顾",
+                    "pinyin": "zhǐ gù",
+                    "english": "to only care about"
+                  },
+                  {
+                    "hanzi": "草",
+                    "pinyin": "cǎo",
+                    "english": "grass"
+                  },
+                  {
+                    "hanzi": "理",
+                    "pinyin": "lǐ",
+                    "english": "to pay attention to"
+                  }
+                ]
+              },
+              {
+                "chinese": "音乐再好，牛也听不懂。",
+                "pinyin": "Yīnyuè zài hǎo, niú yě tīng bu dǒng.",
+                "english": "However good the music, the cow could not understand it.",
+                "words": [
+                  {
+                    "hanzi": "再",
+                    "pinyin": "zài",
+                    "english": "however (much)"
+                  },
+                  {
+                    "hanzi": "听不懂",
+                    "pinyin": "tīng bu dǒng",
+                    "english": "cannot understand (by hearing)"
+                  }
+                ]
+              },
+              {
+                "chinese": "“对牛弹琴”就是说：对不懂的人白费力气。",
+                "pinyin": "“Duì niú tán qín” jiùshì shuō: duì bù dǒng de rén báifèi lìqi.",
+                "english": "\"Playing music to a cow\" means: wasting effort on the wrong audience.",
+                "words": [
+                  {
+                    "hanzi": "白费",
+                    "pinyin": "báifèi",
+                    "english": "to waste"
+                  },
+                  {
+                    "hanzi": "力气",
+                    "pinyin": "lìqi",
+                    "english": "effort; energy"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "How did the cow react to the music?",
+                "options": [
+                  "It ignored him and ate grass",
+                  "It danced",
+                  "It ran away",
+                  "It fell asleep"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does 对牛弹琴 mean?",
+                "options": [
+                  "Wasting effort on someone who can't appreciate it",
+                  "Playing beautiful music",
+                  "Loving animals",
+                  "Practising hard"
+                ],
+                "correct": 0
+              }
+            ]
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "cy-review",
+            "title": "The Five Idioms",
+            "titleChinese": "五个成语",
+            "titlePinyin": "Wǔ ge chéngyǔ",
+            "icon": "scroll",
+            "color": "#7c3aed",
+            "colorEnd": "#5b21b6",
+            "level": "Culture · HSK 3-4",
+            "difficulty": 3,
+            "vocabulary": [
+              {
+                "char": "画蛇添足",
+                "pinyin": "huà shé tiān zú",
+                "meaning": "to ruin something by overdoing it"
+              },
+              {
+                "char": "守株待兔",
+                "pinyin": "shǒu zhū dài tù",
+                "meaning": "to trust to luck instead of effort"
+              },
+              {
+                "char": "井底之蛙",
+                "pinyin": "jǐng dǐ zhī wā",
+                "meaning": "a person of narrow outlook"
+              },
+              {
+                "char": "亡羊补牢",
+                "pinyin": "wáng yáng bǔ láo",
+                "meaning": "better late than never; fix it in time"
+              },
+              {
+                "char": "对牛弹琴",
+                "pinyin": "duì niú tán qín",
+                "meaning": "to waste words on the wrong audience"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "tang-poetry",
+      "name": "Tang Poetry",
+      "icon": "feather-pointed",
+      "releaseDate": "2026-07-20",
+      "minApp": "1.7",
+      "whatsNew": "Five of the best-loved Tang dynasty poems — the verses every Chinese child learns by heart. Read each line with pinyin, translation and tap-to-hear words, from Li Bai to Wang Wei.",
+      "content": {
+        "stories": [
+          {
+            "id": "tp_jingyesi",
+            "title": "静夜思",
+            "titlePinyin": "Jìng yè sī",
+            "titleEnglish": "Quiet Night Thoughts — Li Bai (李白)",
+            "level": 3,
+            "theme": "<i class=\"fas fa-moon\" style=\"color:#6366f1\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_jingyesi.jpg",
+            "sentences": [
+              {
+                "chinese": "床前明月光，",
+                "pinyin": "Chuáng qián míng yuè guāng,",
+                "english": "Before my bed, the bright moonlight —",
+                "words": [
+                  {
+                    "hanzi": "床",
+                    "pinyin": "chuáng",
+                    "english": "bed"
+                  },
+                  {
+                    "hanzi": "明月",
+                    "pinyin": "míng yuè",
+                    "english": "bright moon"
+                  },
+                  {
+                    "hanzi": "光",
+                    "pinyin": "guāng",
+                    "english": "light"
+                  }
+                ]
+              },
+              {
+                "chinese": "疑是地上霜。",
+                "pinyin": "Yí shì dì shàng shuāng.",
+                "english": "I wonder if it's frost on the ground.",
+                "words": [
+                  {
+                    "hanzi": "疑",
+                    "pinyin": "yí",
+                    "english": "to suspect; wonder"
+                  },
+                  {
+                    "hanzi": "地上",
+                    "pinyin": "dì shàng",
+                    "english": "on the ground"
+                  },
+                  {
+                    "hanzi": "霜",
+                    "pinyin": "shuāng",
+                    "english": "frost"
+                  }
+                ]
+              },
+              {
+                "chinese": "举头望明月，",
+                "pinyin": "Jǔ tóu wàng míng yuè,",
+                "english": "I raise my head and gaze at the bright moon,",
+                "words": [
+                  {
+                    "hanzi": "举头",
+                    "pinyin": "jǔ tóu",
+                    "english": "to raise the head"
+                  },
+                  {
+                    "hanzi": "望",
+                    "pinyin": "wàng",
+                    "english": "to gaze at"
+                  }
+                ]
+              },
+              {
+                "chinese": "低头思故乡。",
+                "pinyin": "Dī tóu sī gùxiāng.",
+                "english": "I lower my head and think of home.",
+                "words": [
+                  {
+                    "hanzi": "低头",
+                    "pinyin": "dī tóu",
+                    "english": "to lower the head"
+                  },
+                  {
+                    "hanzi": "思",
+                    "pinyin": "sī",
+                    "english": "to miss; long for"
+                  },
+                  {
+                    "hanzi": "故乡",
+                    "pinyin": "gùxiāng",
+                    "english": "hometown"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What does the poet mistake the moonlight for?",
+                "options": [
+                  "Frost on the ground",
+                  "Snow",
+                  "A lamp",
+                  "Water"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What feeling does the poem express?",
+                "options": [
+                  "Homesickness",
+                  "Anger",
+                  "Joy at a party",
+                  "Fear"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "tp_chunxiao",
+            "title": "春晓",
+            "titlePinyin": "Chūn xiǎo",
+            "titleEnglish": "Spring Dawn — Meng Haoran (孟浩然)",
+            "level": 3,
+            "theme": "<i class=\"fas fa-dove\" style=\"color:#16a34a\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_chunxiao.jpg",
+            "sentences": [
+              {
+                "chinese": "春眠不觉晓，",
+                "pinyin": "Chūn mián bù jué xiǎo,",
+                "english": "In spring I sleep, unaware of the dawn;",
+                "words": [
+                  {
+                    "hanzi": "春",
+                    "pinyin": "chūn",
+                    "english": "spring"
+                  },
+                  {
+                    "hanzi": "眠",
+                    "pinyin": "mián",
+                    "english": "to sleep"
+                  },
+                  {
+                    "hanzi": "晓",
+                    "pinyin": "xiǎo",
+                    "english": "dawn"
+                  }
+                ]
+              },
+              {
+                "chinese": "处处闻啼鸟。",
+                "pinyin": "Chù chù wén tí niǎo.",
+                "english": "everywhere I hear the birds singing.",
+                "words": [
+                  {
+                    "hanzi": "处处",
+                    "pinyin": "chù chù",
+                    "english": "everywhere"
+                  },
+                  {
+                    "hanzi": "闻",
+                    "pinyin": "wén",
+                    "english": "to hear"
+                  },
+                  {
+                    "hanzi": "啼鸟",
+                    "pinyin": "tí niǎo",
+                    "english": "singing birds"
+                  }
+                ]
+              },
+              {
+                "chinese": "夜来风雨声，",
+                "pinyin": "Yè lái fēng yǔ shēng,",
+                "english": "Last night came the sound of wind and rain;",
+                "words": [
+                  {
+                    "hanzi": "夜",
+                    "pinyin": "yè",
+                    "english": "night"
+                  },
+                  {
+                    "hanzi": "风雨",
+                    "pinyin": "fēng yǔ",
+                    "english": "wind and rain"
+                  },
+                  {
+                    "hanzi": "声",
+                    "pinyin": "shēng",
+                    "english": "sound"
+                  }
+                ]
+              },
+              {
+                "chinese": "花落知多少。",
+                "pinyin": "Huā luò zhī duō shǎo.",
+                "english": "how many blossoms have fallen, who knows?",
+                "words": [
+                  {
+                    "hanzi": "花",
+                    "pinyin": "huā",
+                    "english": "flower"
+                  },
+                  {
+                    "hanzi": "落",
+                    "pinyin": "luò",
+                    "english": "to fall"
+                  },
+                  {
+                    "hanzi": "多少",
+                    "pinyin": "duō shǎo",
+                    "english": "how many"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What woke the poet's awareness in the morning?",
+                "options": [
+                  "Birdsong",
+                  "Thunder",
+                  "A bell",
+                  "Voices"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What happened during the night?",
+                "options": [
+                  "Wind and rain",
+                  "A festival",
+                  "A journey",
+                  "Snowfall"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "tp_dengguanque",
+            "title": "登鹳雀楼",
+            "titlePinyin": "Dēng Guànquè lóu",
+            "titleEnglish": "Climbing Stork Tower — Wang Zhihuan (王之涣)",
+            "level": 3,
+            "theme": "<i class=\"fas fa-mountain-sun\" style=\"color:#d97706\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_dengguanque.jpg",
+            "sentences": [
+              {
+                "chinese": "白日依山尽，",
+                "pinyin": "Bái rì yī shān jìn,",
+                "english": "The white sun sinks behind the mountains;",
+                "words": [
+                  {
+                    "hanzi": "白日",
+                    "pinyin": "bái rì",
+                    "english": "the (white) sun"
+                  },
+                  {
+                    "hanzi": "依",
+                    "pinyin": "yī",
+                    "english": "to lean on; against"
+                  },
+                  {
+                    "hanzi": "尽",
+                    "pinyin": "jìn",
+                    "english": "to end; run out"
+                  }
+                ]
+              },
+              {
+                "chinese": "黄河入海流。",
+                "pinyin": "Huáng hé rù hǎi liú.",
+                "english": "the Yellow River flows on into the sea.",
+                "words": [
+                  {
+                    "hanzi": "黄河",
+                    "pinyin": "huáng hé",
+                    "english": "the Yellow River"
+                  },
+                  {
+                    "hanzi": "入海",
+                    "pinyin": "rù hǎi",
+                    "english": "to enter the sea"
+                  },
+                  {
+                    "hanzi": "流",
+                    "pinyin": "liú",
+                    "english": "to flow"
+                  }
+                ]
+              },
+              {
+                "chinese": "欲穷千里目，",
+                "pinyin": "Yù qióng qiān lǐ mù,",
+                "english": "To take in a view of a thousand miles,",
+                "words": [
+                  {
+                    "hanzi": "欲",
+                    "pinyin": "yù",
+                    "english": "to wish; want"
+                  },
+                  {
+                    "hanzi": "千里",
+                    "pinyin": "qiān lǐ",
+                    "english": "a thousand li (miles)"
+                  },
+                  {
+                    "hanzi": "目",
+                    "pinyin": "mù",
+                    "english": "eye; sight"
+                  }
+                ]
+              },
+              {
+                "chinese": "更上一层楼。",
+                "pinyin": "Gèng shàng yì céng lóu.",
+                "english": "climb one more storey higher.",
+                "words": [
+                  {
+                    "hanzi": "更",
+                    "pinyin": "gèng",
+                    "english": "even more"
+                  },
+                  {
+                    "hanzi": "一层",
+                    "pinyin": "yì céng",
+                    "english": "one floor/storey"
+                  },
+                  {
+                    "hanzi": "楼",
+                    "pinyin": "lóu",
+                    "english": "tower; building"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What must you do to see a thousand miles?",
+                "options": [
+                  "Climb one storey higher",
+                  "Wait for dawn",
+                  "Cross the river",
+                  "Wish hard"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "The last two lines are often quoted to mean…",
+                "options": [
+                  "Keep striving to reach greater heights",
+                  "The sun always sets",
+                  "Rivers reach the sea",
+                  "Rest when tired"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "tp_minnong",
+            "title": "悯农",
+            "titlePinyin": "Mǐn nóng",
+            "titleEnglish": "Pity the Farmer — Li Shen (李绅)",
+            "level": 3,
+            "theme": "<i class=\"fas fa-wheat-awn\" style=\"color:#ca8a04\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_minnong.jpg",
+            "sentences": [
+              {
+                "chinese": "锄禾日当午，",
+                "pinyin": "Chú hé rì dāng wǔ,",
+                "english": "Hoeing the grain in the noonday sun,",
+                "words": [
+                  {
+                    "hanzi": "锄",
+                    "pinyin": "chú",
+                    "english": "to hoe"
+                  },
+                  {
+                    "hanzi": "禾",
+                    "pinyin": "hé",
+                    "english": "growing grain"
+                  },
+                  {
+                    "hanzi": "当午",
+                    "pinyin": "dāng wǔ",
+                    "english": "at midday"
+                  }
+                ]
+              },
+              {
+                "chinese": "汗滴禾下土。",
+                "pinyin": "Hàn dī hé xià tǔ.",
+                "english": "sweat drips on the soil beneath the crop.",
+                "words": [
+                  {
+                    "hanzi": "汗",
+                    "pinyin": "hàn",
+                    "english": "sweat"
+                  },
+                  {
+                    "hanzi": "滴",
+                    "pinyin": "dī",
+                    "english": "to drip"
+                  },
+                  {
+                    "hanzi": "土",
+                    "pinyin": "tǔ",
+                    "english": "soil; earth"
+                  }
+                ]
+              },
+              {
+                "chinese": "谁知盘中餐，",
+                "pinyin": "Shéi zhī pán zhōng cān,",
+                "english": "Who realises that the food on the plate,",
+                "words": [
+                  {
+                    "hanzi": "谁知",
+                    "pinyin": "shéi zhī",
+                    "english": "who knows / realises"
+                  },
+                  {
+                    "hanzi": "盘中",
+                    "pinyin": "pán zhōng",
+                    "english": "on the plate"
+                  },
+                  {
+                    "hanzi": "餐",
+                    "pinyin": "cān",
+                    "english": "meal; food"
+                  }
+                ]
+              },
+              {
+                "chinese": "粒粒皆辛苦。",
+                "pinyin": "Lì lì jiē xīnkǔ.",
+                "english": "grain by grain, is all hard toil.",
+                "words": [
+                  {
+                    "hanzi": "粒",
+                    "pinyin": "lì",
+                    "english": "grain (measure word)"
+                  },
+                  {
+                    "hanzi": "皆",
+                    "pinyin": "jiē",
+                    "english": "all; every"
+                  },
+                  {
+                    "hanzi": "辛苦",
+                    "pinyin": "xīnkǔ",
+                    "english": "hard toil; hardship"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What is the poem asking us to value?",
+                "options": [
+                  "The hard work behind our food",
+                  "Sunny weather",
+                  "Fast farming",
+                  "Big harvests"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "When is the farmer working?",
+                "options": [
+                  "At midday",
+                  "At dawn",
+                  "At night",
+                  "In winter"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "tp_xiangsi",
+            "title": "相思",
+            "titlePinyin": "Xiāng sī",
+            "titleEnglish": "Longing — Wang Wei (王维)",
+            "level": 3,
+            "theme": "<i class=\"fas fa-heart\" style=\"color:#dc2626\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_xiangsi.jpg",
+            "sentences": [
+              {
+                "chinese": "红豆生南国，",
+                "pinyin": "Hóng dòu shēng nán guó,",
+                "english": "Red beans grow in the southern land;",
+                "words": [
+                  {
+                    "hanzi": "红豆",
+                    "pinyin": "hóng dòu",
+                    "english": "red bean (love pea)"
+                  },
+                  {
+                    "hanzi": "生",
+                    "pinyin": "shēng",
+                    "english": "to grow"
+                  },
+                  {
+                    "hanzi": "南国",
+                    "pinyin": "nán guó",
+                    "english": "the south"
+                  }
+                ]
+              },
+              {
+                "chinese": "春来发几枝。",
+                "pinyin": "Chūn lái fā jǐ zhī.",
+                "english": "when spring comes, they put out new shoots.",
+                "words": [
+                  {
+                    "hanzi": "春来",
+                    "pinyin": "chūn lái",
+                    "english": "when spring comes"
+                  },
+                  {
+                    "hanzi": "发",
+                    "pinyin": "fā",
+                    "english": "to sprout"
+                  },
+                  {
+                    "hanzi": "枝",
+                    "pinyin": "zhī",
+                    "english": "branch"
+                  }
+                ]
+              },
+              {
+                "chinese": "愿君多采撷，",
+                "pinyin": "Yuàn jūn duō cǎi xié,",
+                "english": "I wish you would gather many,",
+                "words": [
+                  {
+                    "hanzi": "愿",
+                    "pinyin": "yuàn",
+                    "english": "to wish"
+                  },
+                  {
+                    "hanzi": "君",
+                    "pinyin": "jūn",
+                    "english": "you (respectful)"
+                  },
+                  {
+                    "hanzi": "采撷",
+                    "pinyin": "cǎi xié",
+                    "english": "to pick; gather"
+                  }
+                ]
+              },
+              {
+                "chinese": "此物最相思。",
+                "pinyin": "Cǐ wù zuì xiāng sī.",
+                "english": "for this thing most embodies longing.",
+                "words": [
+                  {
+                    "hanzi": "此物",
+                    "pinyin": "cǐ wù",
+                    "english": "this thing"
+                  },
+                  {
+                    "hanzi": "最",
+                    "pinyin": "zuì",
+                    "english": "most"
+                  },
+                  {
+                    "hanzi": "相思",
+                    "pinyin": "xiāng sī",
+                    "english": "lovesick longing"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What do red beans symbolise in the poem?",
+                "options": [
+                  "Longing and love",
+                  "Wealth",
+                  "Spring rain",
+                  "Friendship gifts"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "When do the beans sprout?",
+                "options": [
+                  "When spring comes",
+                  "In autumn",
+                  "At night",
+                  "After rain"
+                ],
+                "correct": 0
+              }
+            ]
+          }
+        ],
+        "bespokeLessons": [
+          {
+            "id": "tp-words",
+            "title": "Words of the Poets",
+            "titleChinese": "诗词词汇",
+            "titlePinyin": "Shīcí cíhuì",
+            "icon": "feather-pointed",
+            "color": "#6366f1",
+            "colorEnd": "#4338ca",
+            "level": "Culture · HSK 3-4",
+            "difficulty": 3,
+            "vocabulary": [
+              {
+                "char": "明月",
+                "pinyin": "míng yuè",
+                "meaning": "bright moon"
+              },
+              {
+                "char": "故乡",
+                "pinyin": "gùxiāng",
+                "meaning": "hometown; native place"
+              },
+              {
+                "char": "思",
+                "pinyin": "sī",
+                "meaning": "to long for; miss"
+              },
+              {
+                "char": "黄河",
+                "pinyin": "huáng hé",
+                "meaning": "the Yellow River"
+              },
+              {
+                "char": "千里",
+                "pinyin": "qiān lǐ",
+                "meaning": "a thousand miles; far"
+              },
+              {
+                "char": "辛苦",
+                "pinyin": "xīnkǔ",
+                "meaning": "hard toil; hardship"
+              },
+              {
+                "char": "红豆",
+                "pinyin": "hóng dòu",
+                "meaning": "red bean; symbol of longing"
+              },
+              {
+                "char": "相思",
+                "pinyin": "xiāng sī",
+                "meaning": "lovesick longing"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
       "packId": "modern-music",
       "name": "Modern Music & Influence",
       "icon": "compact-disc",

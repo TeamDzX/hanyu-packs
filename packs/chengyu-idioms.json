@@ -1,0 +1,138 @@
+{
+ "revision": 1,
+ "packId": "chengyu-idioms",
+ "name": "Chengyu: Idioms & Their Stories",
+ "icon": "scroll",
+ "releaseDate": "2026-07-20",
+ "minApp": "1.7",
+ "whatsNew": "Five classic four-character idioms, each told as the short ancient story it comes from — read the tale, then use the idiom like a native. Includes tap-to-translate words and quizzes.",
+ "content": {
+  "stories": [
+   {
+    "id": "cy_huashe",
+    "title": "画蛇添足",
+    "titlePinyin": "huà shé tiān zú",
+    "titleEnglish": "Drawing Legs on a Snake",
+    "level": 2,
+    "theme": "<i class=\"fas fa-pen\" style=\"color:#7c3aed\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_huashe.jpg",
+    "sentences": [
+     { "chinese": "从前，几个人比赛画蛇。", "pinyin": "Cóngqián, jǐ ge rén bǐsài huà shé.", "english": "Long ago, a few people held a contest to draw a snake.", "words": [ { "hanzi": "从前", "pinyin": "cóngqián", "english": "long ago" }, { "hanzi": "比赛", "pinyin": "bǐsài", "english": "contest" }, { "hanzi": "画", "pinyin": "huà", "english": "to draw" }, { "hanzi": "蛇", "pinyin": "shé", "english": "snake" } ] },
+     { "chinese": "谁先画好，谁就能喝那壶酒。", "pinyin": "Shéi xiān huà hǎo, shéi jiù néng hē nà hú jiǔ.", "english": "Whoever finished first could drink the pot of wine.", "words": [ { "hanzi": "先", "pinyin": "xiān", "english": "first" }, { "hanzi": "壶", "pinyin": "hú", "english": "pot" }, { "hanzi": "酒", "pinyin": "jiǔ", "english": "wine" } ] },
+     { "chinese": "一个人很快就画好了。", "pinyin": "Yí ge rén hěn kuài jiù huà hǎo le.", "english": "One man finished very quickly.", "words": [ { "hanzi": "很快", "pinyin": "hěn kuài", "english": "very quickly" } ] },
+     { "chinese": "他觉得没意思，就给蛇添上了脚。", "pinyin": "Tā juéde méi yìsi, jiù gěi shé tiān shàng le jiǎo.", "english": "Feeling bored, he added legs to his snake.", "words": [ { "hanzi": "觉得", "pinyin": "juéde", "english": "to feel" }, { "hanzi": "添", "pinyin": "tiān", "english": "to add" }, { "hanzi": "脚", "pinyin": "jiǎo", "english": "foot; leg" } ] },
+     { "chinese": "别人说：“蛇没有脚，你输了！”", "pinyin": "Biéren shuō: “Shé méiyǒu jiǎo, nǐ shū le!”", "english": "The others said: \"Snakes have no legs — you lose!\"", "words": [ { "hanzi": "别人", "pinyin": "biéren", "english": "others" }, { "hanzi": "输", "pinyin": "shū", "english": "to lose" } ] },
+     { "chinese": "“画蛇添足”就是说：多做反而坏事。", "pinyin": "“Huà shé tiān zú” jiùshì shuō: duō zuò fǎn'ér huài shì.", "english": "\"Drawing legs on a snake\" means: doing too much ruins things.", "words": [ { "hanzi": "反而", "pinyin": "fǎn'ér", "english": "on the contrary" }, { "hanzi": "坏", "pinyin": "huài", "english": "to spoil; bad" } ] }
+    ],
+    "questions": [
+     { "question": "What was the prize in the contest?", "options": ["A pot of wine", "Gold", "A snake", "A meal"], "correct": 0 },
+     { "question": "What does 画蛇添足 mean?", "options": ["To ruin something by overdoing it", "To draw well", "To win easily", "To work hard"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "cy_shouzhu",
+    "title": "守株待兔",
+    "titlePinyin": "shǒu zhū dài tù",
+    "titleEnglish": "Waiting by the Tree Stump",
+    "level": 2,
+    "theme": "<i class=\"fas fa-tree\" style=\"color:#16a34a\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_shouzhu.jpg",
+    "sentences": [
+     { "chinese": "从前有一个农民在田里种地。", "pinyin": "Cóngqián yǒu yí ge nóngmín zài tián lǐ zhòng dì.", "english": "Long ago a farmer was working in his field.", "words": [ { "hanzi": "农民", "pinyin": "nóngmín", "english": "farmer" }, { "hanzi": "田", "pinyin": "tián", "english": "field" }, { "hanzi": "种地", "pinyin": "zhòng dì", "english": "to farm the land" } ] },
+     { "chinese": "一只兔子撞在树桩上，死了。", "pinyin": "Yì zhī tùzi zhuàng zài shùzhuāng shàng, sǐ le.", "english": "A rabbit ran into a tree stump and died.", "words": [ { "hanzi": "兔子", "pinyin": "tùzi", "english": "rabbit" }, { "hanzi": "撞", "pinyin": "zhuàng", "english": "to crash into" }, { "hanzi": "树桩", "pinyin": "shùzhuāng", "english": "tree stump" } ] },
+     { "chinese": "农民很高兴，白白得到一只兔子。", "pinyin": "Nóngmín hěn gāoxìng, báibái dédào yì zhī tùzi.", "english": "The farmer was delighted to get a rabbit for free.", "words": [ { "hanzi": "白白", "pinyin": "báibái", "english": "for nothing; free" }, { "hanzi": "得到", "pinyin": "dédào", "english": "to obtain" } ] },
+     { "chinese": "从此他不种地了，天天守着树桩等兔子。", "pinyin": "Cóngcǐ tā bù zhòng dì le, tiāntiān shǒu zhe shùzhuāng děng tùzi.", "english": "After that he stopped farming and waited by the stump every day for rabbits.", "words": [ { "hanzi": "从此", "pinyin": "cóngcǐ", "english": "from then on" }, { "hanzi": "守", "pinyin": "shǒu", "english": "to guard; wait by" }, { "hanzi": "等", "pinyin": "děng", "english": "to wait" } ] },
+     { "chinese": "可是再也没有兔子来，他的田也荒了。", "pinyin": "Kěshì zài yě méiyǒu tùzi lái, tā de tián yě huāng le.", "english": "But no more rabbits came, and his field went to waste.", "words": [ { "hanzi": "再也", "pinyin": "zài yě", "english": "no longer" }, { "hanzi": "荒", "pinyin": "huāng", "english": "to lie waste" } ] },
+     { "chinese": "“守株待兔”就是说：靠运气，不肯努力。", "pinyin": "“Shǒu zhū dài tù” jiùshì shuō: kào yùnqì, bù kěn nǔlì.", "english": "\"Waiting by the stump\" means: relying on luck instead of effort.", "words": [ { "hanzi": "靠", "pinyin": "kào", "english": "to rely on" }, { "hanzi": "运气", "pinyin": "yùnqì", "english": "luck" }, { "hanzi": "努力", "pinyin": "nǔlì", "english": "to make an effort" } ] }
+    ],
+    "questions": [
+     { "question": "How did the farmer first get a rabbit?", "options": ["It crashed into a stump", "He hunted it", "He bought it", "A friend gave it"], "correct": 0 },
+     { "question": "What lesson does 守株待兔 teach?", "options": ["Don't rely on luck instead of effort", "Rabbits are fast", "Farming is easy", "Save your money"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "cy_jingwa",
+    "title": "井底之蛙",
+    "titlePinyin": "jǐng dǐ zhī wā",
+    "titleEnglish": "The Frog in the Well",
+    "level": 2,
+    "theme": "<i class=\"fas fa-frog\" style=\"color:#0891b2\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_jingwa.jpg",
+    "sentences": [
+     { "chinese": "一只青蛙住在一口井里。", "pinyin": "Yì zhī qīngwā zhù zài yì kǒu jǐng lǐ.", "english": "A frog lived at the bottom of a well.", "words": [ { "hanzi": "青蛙", "pinyin": "qīngwā", "english": "frog" }, { "hanzi": "井", "pinyin": "jǐng", "english": "well" } ] },
+     { "chinese": "它抬头看天，天只有井口那么大。", "pinyin": "Tā táitóu kàn tiān, tiān zhǐ yǒu jǐngkǒu nàme dà.", "english": "Looking up, it saw a sky only as big as the mouth of the well.", "words": [ { "hanzi": "抬头", "pinyin": "táitóu", "english": "to look up" }, { "hanzi": "井口", "pinyin": "jǐngkǒu", "english": "mouth of the well" } ] },
+     { "chinese": "它觉得自己的世界最大、最好。", "pinyin": "Tā juéde zìjǐ de shìjiè zuì dà, zuì hǎo.", "english": "It thought its own world was the biggest and best.", "words": [ { "hanzi": "自己", "pinyin": "zìjǐ", "english": "oneself" }, { "hanzi": "世界", "pinyin": "shìjiè", "english": "world" } ] },
+     { "chinese": "一只海龟告诉它：外面的大海无边无际。", "pinyin": "Yì zhī hǎiguī gàosu tā: wàimiàn de dàhǎi wúbiān-wújì.", "english": "A sea turtle told it: the ocean outside is boundless.", "words": [ { "hanzi": "海龟", "pinyin": "hǎiguī", "english": "sea turtle" }, { "hanzi": "大海", "pinyin": "dàhǎi", "english": "the sea" }, { "hanzi": "无边无际", "pinyin": "wúbiān-wújì", "english": "boundless" } ] },
+     { "chinese": "青蛙这才知道自己见得太少。", "pinyin": "Qīngwā zhè cái zhīdào zìjǐ jiàn de tài shǎo.", "english": "Only then did the frog realise how little it had seen.", "words": [ { "hanzi": "才", "pinyin": "cái", "english": "only then" }, { "hanzi": "见", "pinyin": "jiàn", "english": "to see; experience" } ] },
+     { "chinese": "“井底之蛙”就是说：眼界太小的人。", "pinyin": "“Jǐng dǐ zhī wā” jiùshì shuō: yǎnjiè tài xiǎo de rén.", "english": "\"A frog in a well\" means: someone with a narrow outlook.", "words": [ { "hanzi": "眼界", "pinyin": "yǎnjiè", "english": "outlook; horizons" } ] }
+    ],
+    "questions": [
+     { "question": "Why did the frog think the sky was small?", "options": ["It only saw it through the well", "It was blind", "It was night", "The sky was cloudy"], "correct": 0 },
+     { "question": "What does 井底之蛙 describe?", "options": ["A narrow-minded person", "A brave frog", "A deep well", "A wise turtle"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "cy_wangyang",
+    "title": "亡羊补牢",
+    "titlePinyin": "wáng yáng bǔ láo",
+    "titleEnglish": "Mending the Pen",
+    "level": 2,
+    "theme": "<i class=\"fas fa-hammer\" style=\"color:#d97706\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_wangyang.jpg",
+    "sentences": [
+     { "chinese": "一个牧民养了很多羊。", "pinyin": "Yí ge mùmín yǎng le hěn duō yáng.", "english": "A herdsman kept many sheep.", "words": [ { "hanzi": "牧民", "pinyin": "mùmín", "english": "herdsman" }, { "hanzi": "养", "pinyin": "yǎng", "english": "to raise; keep" }, { "hanzi": "羊", "pinyin": "yáng", "english": "sheep" } ] },
+     { "chinese": "羊圈破了一个洞，跑了一只羊。", "pinyin": "Yángjuàn pò le yí ge dòng, pǎo le yì zhī yáng.", "english": "The pen had a hole, and one sheep escaped.", "words": [ { "hanzi": "羊圈", "pinyin": "yángjuàn", "english": "sheep pen" }, { "hanzi": "洞", "pinyin": "dòng", "english": "hole" }, { "hanzi": "跑", "pinyin": "pǎo", "english": "to run (away)" } ] },
+     { "chinese": "邻居劝他快修，他却不听。", "pinyin": "Línjū quàn tā kuài xiū, tā què bù tīng.", "english": "A neighbour urged him to fix it quickly, but he wouldn't listen.", "words": [ { "hanzi": "邻居", "pinyin": "línjū", "english": "neighbour" }, { "hanzi": "劝", "pinyin": "quàn", "english": "to advise; urge" }, { "hanzi": "修", "pinyin": "xiū", "english": "to repair" } ] },
+     { "chinese": "第二天，又少了一只羊。", "pinyin": "Dì-èr tiān, yòu shǎo le yì zhī yáng.", "english": "The next day, another sheep was gone.", "words": [ { "hanzi": "第二天", "pinyin": "dì-èr tiān", "english": "the next day" }, { "hanzi": "又", "pinyin": "yòu", "english": "again" } ] },
+     { "chinese": "他赶紧把羊圈修好，再也没丢羊。", "pinyin": "Tā gǎnjǐn bǎ yángjuàn xiū hǎo, zài yě méi diū yáng.", "english": "He hurried to mend the pen, and never lost a sheep again.", "words": [ { "hanzi": "赶紧", "pinyin": "gǎnjǐn", "english": "hurriedly" }, { "hanzi": "丢", "pinyin": "diū", "english": "to lose" } ] },
+     { "chinese": "“亡羊补牢”就是说：出了问题，及时改还不晚。", "pinyin": "“Wáng yáng bǔ láo” jiùshì shuō: chū le wèntí, jíshí gǎi hái bù wǎn.", "english": "\"Mending the pen\" means: it's not too late to fix a problem in time.", "words": [ { "hanzi": "及时", "pinyin": "jíshí", "english": "in time" }, { "hanzi": "改", "pinyin": "gǎi", "english": "to change; fix" }, { "hanzi": "晚", "pinyin": "wǎn", "english": "late" } ] }
+    ],
+    "questions": [
+     { "question": "Why did the sheep escape?", "options": ["There was a hole in the pen", "A wolf came", "The gate was open", "They were hungry"], "correct": 0 },
+     { "question": "What does 亡羊补牢 mean?", "options": ["It's not too late to fix a problem", "Sheep are hard to keep", "Never trust a neighbour", "Give up early"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "cy_duiniu",
+    "title": "对牛弹琴",
+    "titlePinyin": "duì niú tán qín",
+    "titleEnglish": "Playing Music to a Cow",
+    "level": 2,
+    "theme": "<i class=\"fas fa-music\" style=\"color:#be185d\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/chengyu_duiniu.jpg",
+    "sentences": [
+     { "chinese": "古时候有一个音乐家，琴弹得很好。", "pinyin": "Gǔ shíhou yǒu yí ge yīnyuèjiā, qín tán de hěn hǎo.", "english": "In ancient times there was a musician who played beautifully.", "words": [ { "hanzi": "音乐家", "pinyin": "yīnyuèjiā", "english": "musician" }, { "hanzi": "琴", "pinyin": "qín", "english": "zither; lute" }, { "hanzi": "弹", "pinyin": "tán", "english": "to play (strings)" } ] },
+     { "chinese": "有一天，他对着一头牛弹琴。", "pinyin": "Yǒu yì tiān, tā duì zhe yì tóu niú tán qín.", "english": "One day he played his music facing a cow.", "words": [ { "hanzi": "对着", "pinyin": "duì zhe", "english": "facing; towards" }, { "hanzi": "牛", "pinyin": "niú", "english": "cow; ox" } ] },
+     { "chinese": "他弹了最美的曲子。", "pinyin": "Tā tán le zuì měi de qǔzi.", "english": "He played his most beautiful piece.", "words": [ { "hanzi": "曲子", "pinyin": "qǔzi", "english": "tune; melody" } ] },
+     { "chinese": "可是牛只顾吃草，一点也不理他。", "pinyin": "Kěshì niú zhǐ gù chī cǎo, yìdiǎn yě bù lǐ tā.", "english": "But the cow just kept eating grass, ignoring him completely.", "words": [ { "hanzi": "只顾", "pinyin": "zhǐ gù", "english": "to only care about" }, { "hanzi": "草", "pinyin": "cǎo", "english": "grass" }, { "hanzi": "理", "pinyin": "lǐ", "english": "to pay attention to" } ] },
+     { "chinese": "音乐再好，牛也听不懂。", "pinyin": "Yīnyuè zài hǎo, niú yě tīng bu dǒng.", "english": "However good the music, the cow could not understand it.", "words": [ { "hanzi": "再", "pinyin": "zài", "english": "however (much)" }, { "hanzi": "听不懂", "pinyin": "tīng bu dǒng", "english": "cannot understand (by hearing)" } ] },
+     { "chinese": "“对牛弹琴”就是说：对不懂的人白费力气。", "pinyin": "“Duì niú tán qín” jiùshì shuō: duì bù dǒng de rén báifèi lìqi.", "english": "\"Playing music to a cow\" means: wasting effort on the wrong audience.", "words": [ { "hanzi": "白费", "pinyin": "báifèi", "english": "to waste" }, { "hanzi": "力气", "pinyin": "lìqi", "english": "effort; energy" } ] }
+    ],
+    "questions": [
+     { "question": "How did the cow react to the music?", "options": ["It ignored him and ate grass", "It danced", "It ran away", "It fell asleep"], "correct": 0 },
+     { "question": "What does 对牛弹琴 mean?", "options": ["Wasting effort on someone who can't appreciate it", "Playing beautiful music", "Loving animals", "Practising hard"], "correct": 0 }
+    ]
+   }
+  ],
+  "bespokeLessons": [
+   {
+    "id": "cy-review",
+    "title": "The Five Idioms",
+    "titleChinese": "五个成语",
+    "titlePinyin": "Wǔ ge chéngyǔ",
+    "icon": "scroll",
+    "color": "#7c3aed",
+    "colorEnd": "#5b21b6",
+    "level": "Culture · HSK 3-4",
+    "difficulty": 3,
+    "vocabulary": [
+     { "char": "画蛇添足", "pinyin": "huà shé tiān zú", "meaning": "to ruin something by overdoing it" },
+     { "char": "守株待兔", "pinyin": "shǒu zhū dài tù", "meaning": "to trust to luck instead of effort" },
+     { "char": "井底之蛙", "pinyin": "jǐng dǐ zhī wā", "meaning": "a person of narrow outlook" },
+     { "char": "亡羊补牢", "pinyin": "wáng yáng bǔ láo", "meaning": "better late than never; fix it in time" },
+     { "char": "对牛弹琴", "pinyin": "duì niú tán qín", "meaning": "to waste words on the wrong audience" }
+    ]
+   }
+  ]
+ }
+}

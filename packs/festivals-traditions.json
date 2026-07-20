@@ -1,0 +1,120 @@
+{
+ "revision": 1,
+ "packId": "festivals-traditions",
+ "name": "Chinese Festivals & Traditions",
+ "icon": "gift",
+ "releaseDate": "2026-07-20",
+ "minApp": "2.0",
+ "whatsNew": "Celebrate like a local — the vocabulary, greetings, food and customs of China's biggest festivals: Spring Festival, Lantern Festival, Qingming, Dragon Boat and Mid-Autumn, plus festive practice sentences.",
+ "content": {
+  "bespokeLessons": [
+   {
+    "id": "fest-spring",
+    "title": "Spring Festival",
+    "titleChinese": "春节",
+    "titlePinyin": "Chūnjié",
+    "icon": "dragon",
+    "color": "#dc2626",
+    "colorEnd": "#b91c1c",
+    "level": "Culture · HSK 2-4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "春节", "pinyin": "chūnjié", "meaning": "Spring Festival; Chinese New Year" },
+     { "char": "红包", "pinyin": "hóngbāo", "meaning": "red envelope (with money)" },
+     { "char": "年夜饭", "pinyin": "niányèfàn", "meaning": "New Year's Eve reunion dinner" },
+     { "char": "拜年", "pinyin": "bàinián", "meaning": "to pay a New Year visit; give greetings" },
+     { "char": "春联", "pinyin": "chūnlián", "meaning": "Spring Festival couplets" },
+     { "char": "鞭炮", "pinyin": "biānpào", "meaning": "firecrackers" },
+     { "char": "饺子", "pinyin": "jiǎozi", "meaning": "dumplings (eaten at New Year)" },
+     { "char": "恭喜发财", "pinyin": "gōngxǐ fācái", "meaning": "wishing you wealth (New Year greeting)" }
+    ]
+   },
+   {
+    "id": "fest-lantern",
+    "title": "Lantern Festival",
+    "titleChinese": "元宵节",
+    "titlePinyin": "Yuánxiāojié",
+    "icon": "lightbulb",
+    "color": "#f59e0b",
+    "colorEnd": "#d97706",
+    "level": "Culture · HSK 3-4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "元宵节", "pinyin": "yuánxiāojié", "meaning": "Lantern Festival (15th day of New Year)" },
+     { "char": "汤圆", "pinyin": "tāngyuán", "meaning": "sweet glutinous rice balls" },
+     { "char": "灯笼", "pinyin": "dēnglong", "meaning": "lantern" },
+     { "char": "猜灯谜", "pinyin": "cāi dēngmí", "meaning": "to guess lantern riddles" },
+     { "char": "赏灯", "pinyin": "shǎngdēng", "meaning": "to admire the lanterns" },
+     { "char": "团圆", "pinyin": "tuányuán", "meaning": "reunion; togetherness" }
+    ]
+   },
+   {
+    "id": "fest-qingming",
+    "title": "Qingming Festival",
+    "titleChinese": "清明节",
+    "titlePinyin": "Qīngmíngjié",
+    "icon": "leaf",
+    "color": "#16a34a",
+    "colorEnd": "#15803d",
+    "level": "Culture · HSK 3-4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "清明节", "pinyin": "qīngmíngjié", "meaning": "Qingming; Tomb-Sweeping Festival" },
+     { "char": "扫墓", "pinyin": "sǎomù", "meaning": "to sweep tombs; honour the dead" },
+     { "char": "祖先", "pinyin": "zǔxiān", "meaning": "ancestors" },
+     { "char": "纪念", "pinyin": "jìniàn", "meaning": "to commemorate" },
+     { "char": "踏青", "pinyin": "tàqīng", "meaning": "spring outing in the countryside" },
+     { "char": "风筝", "pinyin": "fēngzheng", "meaning": "kite" }
+    ]
+   },
+   {
+    "id": "fest-dragonboat",
+    "title": "Dragon Boat Festival",
+    "titleChinese": "端午节",
+    "titlePinyin": "Duānwǔjié",
+    "icon": "water",
+    "color": "#0891b2",
+    "colorEnd": "#0e7490",
+    "level": "Culture · HSK 3-4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "端午节", "pinyin": "duānwǔjié", "meaning": "Dragon Boat Festival" },
+     { "char": "粽子", "pinyin": "zòngzi", "meaning": "sticky-rice dumpling in bamboo leaves" },
+     { "char": "龙舟", "pinyin": "lóngzhōu", "meaning": "dragon boat" },
+     { "char": "赛龙舟", "pinyin": "sài lóngzhōu", "meaning": "dragon boat race" },
+     { "char": "屈原", "pinyin": "Qū Yuán", "meaning": "Qu Yuan (the ancient poet honoured)" },
+     { "char": "纪念", "pinyin": "jìniàn", "meaning": "to commemorate" }
+    ]
+   },
+   {
+    "id": "fest-midautumn",
+    "title": "Mid-Autumn Festival",
+    "titleChinese": "中秋节",
+    "titlePinyin": "Zhōngqiūjié",
+    "icon": "moon",
+    "color": "#7c3aed",
+    "colorEnd": "#5b21b6",
+    "level": "Culture · HSK 2-4",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "中秋节", "pinyin": "zhōngqiūjié", "meaning": "Mid-Autumn Festival" },
+     { "char": "月饼", "pinyin": "yuèbǐng", "meaning": "mooncake" },
+     { "char": "赏月", "pinyin": "shǎngyuè", "meaning": "to admire the full moon" },
+     { "char": "满月", "pinyin": "mǎnyuè", "meaning": "full moon" },
+     { "char": "嫦娥", "pinyin": "Cháng'é", "meaning": "Chang'e, the moon goddess" },
+     { "char": "团圆", "pinyin": "tuányuán", "meaning": "family reunion" }
+    ]
+   }
+  ],
+  "sentencesDatabase": [
+   { "chinese": ["春节", "快乐"], "pinyin": "Chūnjié kuàilè!", "english": "Happy Spring Festival!", "difficulty": "easy" },
+   { "chinese": ["孩子", "们", "最", "喜欢", "收", "红包"], "pinyin": "Háizimen zuì xǐhuan shōu hóngbāo", "english": "Children love receiving red envelopes most", "difficulty": "medium" },
+   { "chinese": ["中秋节", "我们", "一起", "吃", "月饼", "赏月"], "pinyin": "Zhōngqiūjié wǒmen yìqǐ chī yuèbǐng shǎngyuè", "english": "At Mid-Autumn we eat mooncakes and admire the moon together", "difficulty": "hard" },
+   { "chinese": ["端午节", "要", "吃", "粽子", "看", "赛龙舟"], "pinyin": "Duānwǔjié yào chī zòngzi, kàn sài lóngzhōu", "english": "At the Dragon Boat Festival we eat zongzi and watch the boat races", "difficulty": "hard" },
+   { "chinese": ["清明节", "全家", "去", "扫墓"], "pinyin": "Qīngmíngjié quánjiā qù sǎomù", "english": "At Qingming the whole family goes to sweep the tombs", "difficulty": "medium" },
+   { "chinese": ["除夕", "全家", "一起", "吃", "年夜饭"], "pinyin": "Chúxī quánjiā yìqǐ chī niányèfàn", "english": "On New Year's Eve the whole family eats the reunion dinner together", "difficulty": "hard" },
+   { "chinese": ["祝", "您", "身体", "健康", "万事如意"], "pinyin": "Zhù nín shēntǐ jiànkāng, wànshì rúyì", "english": "Wishing you good health and that all goes as you wish", "difficulty": "hard" },
+   { "chinese": ["元宵节", "的", "晚上", "到处", "都", "是", "灯笼"], "pinyin": "Yuánxiāojié de wǎnshang, dàochù dōu shì dēnglong", "english": "On Lantern Festival night, lanterns are everywhere", "difficulty": "hard" }
+  ]
+ }
+}

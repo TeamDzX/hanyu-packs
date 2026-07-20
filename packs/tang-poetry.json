@@ -1,0 +1,131 @@
+{
+ "revision": 1,
+ "packId": "tang-poetry",
+ "name": "Tang Poetry",
+ "icon": "feather-pointed",
+ "releaseDate": "2026-07-20",
+ "minApp": "1.7",
+ "whatsNew": "Five of the best-loved Tang dynasty poems — the verses every Chinese child learns by heart. Read each line with pinyin, translation and tap-to-hear words, from Li Bai to Wang Wei.",
+ "content": {
+  "stories": [
+   {
+    "id": "tp_jingyesi",
+    "title": "静夜思",
+    "titlePinyin": "Jìng yè sī",
+    "titleEnglish": "Quiet Night Thoughts — Li Bai (李白)",
+    "level": 3,
+    "theme": "<i class=\"fas fa-moon\" style=\"color:#6366f1\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_jingyesi.jpg",
+    "sentences": [
+     { "chinese": "床前明月光，", "pinyin": "Chuáng qián míng yuè guāng,", "english": "Before my bed, the bright moonlight —", "words": [ { "hanzi": "床", "pinyin": "chuáng", "english": "bed" }, { "hanzi": "明月", "pinyin": "míng yuè", "english": "bright moon" }, { "hanzi": "光", "pinyin": "guāng", "english": "light" } ] },
+     { "chinese": "疑是地上霜。", "pinyin": "Yí shì dì shàng shuāng.", "english": "I wonder if it's frost on the ground.", "words": [ { "hanzi": "疑", "pinyin": "yí", "english": "to suspect; wonder" }, { "hanzi": "地上", "pinyin": "dì shàng", "english": "on the ground" }, { "hanzi": "霜", "pinyin": "shuāng", "english": "frost" } ] },
+     { "chinese": "举头望明月，", "pinyin": "Jǔ tóu wàng míng yuè,", "english": "I raise my head and gaze at the bright moon,", "words": [ { "hanzi": "举头", "pinyin": "jǔ tóu", "english": "to raise the head" }, { "hanzi": "望", "pinyin": "wàng", "english": "to gaze at" } ] },
+     { "chinese": "低头思故乡。", "pinyin": "Dī tóu sī gùxiāng.", "english": "I lower my head and think of home.", "words": [ { "hanzi": "低头", "pinyin": "dī tóu", "english": "to lower the head" }, { "hanzi": "思", "pinyin": "sī", "english": "to miss; long for" }, { "hanzi": "故乡", "pinyin": "gùxiāng", "english": "hometown" } ] }
+    ],
+    "questions": [
+     { "question": "What does the poet mistake the moonlight for?", "options": ["Frost on the ground", "Snow", "A lamp", "Water"], "correct": 0 },
+     { "question": "What feeling does the poem express?", "options": ["Homesickness", "Anger", "Joy at a party", "Fear"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "tp_chunxiao",
+    "title": "春晓",
+    "titlePinyin": "Chūn xiǎo",
+    "titleEnglish": "Spring Dawn — Meng Haoran (孟浩然)",
+    "level": 3,
+    "theme": "<i class=\"fas fa-dove\" style=\"color:#16a34a\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_chunxiao.jpg",
+    "sentences": [
+     { "chinese": "春眠不觉晓，", "pinyin": "Chūn mián bù jué xiǎo,", "english": "In spring I sleep, unaware of the dawn;", "words": [ { "hanzi": "春", "pinyin": "chūn", "english": "spring" }, { "hanzi": "眠", "pinyin": "mián", "english": "to sleep" }, { "hanzi": "晓", "pinyin": "xiǎo", "english": "dawn" } ] },
+     { "chinese": "处处闻啼鸟。", "pinyin": "Chù chù wén tí niǎo.", "english": "everywhere I hear the birds singing.", "words": [ { "hanzi": "处处", "pinyin": "chù chù", "english": "everywhere" }, { "hanzi": "闻", "pinyin": "wén", "english": "to hear" }, { "hanzi": "啼鸟", "pinyin": "tí niǎo", "english": "singing birds" } ] },
+     { "chinese": "夜来风雨声，", "pinyin": "Yè lái fēng yǔ shēng,", "english": "Last night came the sound of wind and rain;", "words": [ { "hanzi": "夜", "pinyin": "yè", "english": "night" }, { "hanzi": "风雨", "pinyin": "fēng yǔ", "english": "wind and rain" }, { "hanzi": "声", "pinyin": "shēng", "english": "sound" } ] },
+     { "chinese": "花落知多少。", "pinyin": "Huā luò zhī duō shǎo.", "english": "how many blossoms have fallen, who knows?", "words": [ { "hanzi": "花", "pinyin": "huā", "english": "flower" }, { "hanzi": "落", "pinyin": "luò", "english": "to fall" }, { "hanzi": "多少", "pinyin": "duō shǎo", "english": "how many" } ] }
+    ],
+    "questions": [
+     { "question": "What woke the poet's awareness in the morning?", "options": ["Birdsong", "Thunder", "A bell", "Voices"], "correct": 0 },
+     { "question": "What happened during the night?", "options": ["Wind and rain", "A festival", "A journey", "Snowfall"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "tp_dengguanque",
+    "title": "登鹳雀楼",
+    "titlePinyin": "Dēng Guànquè lóu",
+    "titleEnglish": "Climbing Stork Tower — Wang Zhihuan (王之涣)",
+    "level": 3,
+    "theme": "<i class=\"fas fa-mountain-sun\" style=\"color:#d97706\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_dengguanque.jpg",
+    "sentences": [
+     { "chinese": "白日依山尽，", "pinyin": "Bái rì yī shān jìn,", "english": "The white sun sinks behind the mountains;", "words": [ { "hanzi": "白日", "pinyin": "bái rì", "english": "the (white) sun" }, { "hanzi": "依", "pinyin": "yī", "english": "to lean on; against" }, { "hanzi": "尽", "pinyin": "jìn", "english": "to end; run out" } ] },
+     { "chinese": "黄河入海流。", "pinyin": "Huáng hé rù hǎi liú.", "english": "the Yellow River flows on into the sea.", "words": [ { "hanzi": "黄河", "pinyin": "huáng hé", "english": "the Yellow River" }, { "hanzi": "入海", "pinyin": "rù hǎi", "english": "to enter the sea" }, { "hanzi": "流", "pinyin": "liú", "english": "to flow" } ] },
+     { "chinese": "欲穷千里目，", "pinyin": "Yù qióng qiān lǐ mù,", "english": "To take in a view of a thousand miles,", "words": [ { "hanzi": "欲", "pinyin": "yù", "english": "to wish; want" }, { "hanzi": "千里", "pinyin": "qiān lǐ", "english": "a thousand li (miles)" }, { "hanzi": "目", "pinyin": "mù", "english": "eye; sight" } ] },
+     { "chinese": "更上一层楼。", "pinyin": "Gèng shàng yì céng lóu.", "english": "climb one more storey higher.", "words": [ { "hanzi": "更", "pinyin": "gèng", "english": "even more" }, { "hanzi": "一层", "pinyin": "yì céng", "english": "one floor/storey" }, { "hanzi": "楼", "pinyin": "lóu", "english": "tower; building" } ] }
+    ],
+    "questions": [
+     { "question": "What must you do to see a thousand miles?", "options": ["Climb one storey higher", "Wait for dawn", "Cross the river", "Wish hard"], "correct": 0 },
+     { "question": "The last two lines are often quoted to mean…", "options": ["Keep striving to reach greater heights", "The sun always sets", "Rivers reach the sea", "Rest when tired"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "tp_minnong",
+    "title": "悯农",
+    "titlePinyin": "Mǐn nóng",
+    "titleEnglish": "Pity the Farmer — Li Shen (李绅)",
+    "level": 3,
+    "theme": "<i class=\"fas fa-wheat-awn\" style=\"color:#ca8a04\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_minnong.jpg",
+    "sentences": [
+     { "chinese": "锄禾日当午，", "pinyin": "Chú hé rì dāng wǔ,", "english": "Hoeing the grain in the noonday sun,", "words": [ { "hanzi": "锄", "pinyin": "chú", "english": "to hoe" }, { "hanzi": "禾", "pinyin": "hé", "english": "growing grain" }, { "hanzi": "当午", "pinyin": "dāng wǔ", "english": "at midday" } ] },
+     { "chinese": "汗滴禾下土。", "pinyin": "Hàn dī hé xià tǔ.", "english": "sweat drips on the soil beneath the crop.", "words": [ { "hanzi": "汗", "pinyin": "hàn", "english": "sweat" }, { "hanzi": "滴", "pinyin": "dī", "english": "to drip" }, { "hanzi": "土", "pinyin": "tǔ", "english": "soil; earth" } ] },
+     { "chinese": "谁知盘中餐，", "pinyin": "Shéi zhī pán zhōng cān,", "english": "Who realises that the food on the plate,", "words": [ { "hanzi": "谁知", "pinyin": "shéi zhī", "english": "who knows / realises" }, { "hanzi": "盘中", "pinyin": "pán zhōng", "english": "on the plate" }, { "hanzi": "餐", "pinyin": "cān", "english": "meal; food" } ] },
+     { "chinese": "粒粒皆辛苦。", "pinyin": "Lì lì jiē xīnkǔ.", "english": "grain by grain, is all hard toil.", "words": [ { "hanzi": "粒", "pinyin": "lì", "english": "grain (measure word)" }, { "hanzi": "皆", "pinyin": "jiē", "english": "all; every" }, { "hanzi": "辛苦", "pinyin": "xīnkǔ", "english": "hard toil; hardship" } ] }
+    ],
+    "questions": [
+     { "question": "What is the poem asking us to value?", "options": ["The hard work behind our food", "Sunny weather", "Fast farming", "Big harvests"], "correct": 0 },
+     { "question": "When is the farmer working?", "options": ["At midday", "At dawn", "At night", "In winter"], "correct": 0 }
+    ]
+   },
+   {
+    "id": "tp_xiangsi",
+    "title": "相思",
+    "titlePinyin": "Xiāng sī",
+    "titleEnglish": "Longing — Wang Wei (王维)",
+    "level": 3,
+    "theme": "<i class=\"fas fa-heart\" style=\"color:#dc2626\"></i>",
+    "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/poem_xiangsi.jpg",
+    "sentences": [
+     { "chinese": "红豆生南国，", "pinyin": "Hóng dòu shēng nán guó,", "english": "Red beans grow in the southern land;", "words": [ { "hanzi": "红豆", "pinyin": "hóng dòu", "english": "red bean (love pea)" }, { "hanzi": "生", "pinyin": "shēng", "english": "to grow" }, { "hanzi": "南国", "pinyin": "nán guó", "english": "the south" } ] },
+     { "chinese": "春来发几枝。", "pinyin": "Chūn lái fā jǐ zhī.", "english": "when spring comes, they put out new shoots.", "words": [ { "hanzi": "春来", "pinyin": "chūn lái", "english": "when spring comes" }, { "hanzi": "发", "pinyin": "fā", "english": "to sprout" }, { "hanzi": "枝", "pinyin": "zhī", "english": "branch" } ] },
+     { "chinese": "愿君多采撷，", "pinyin": "Yuàn jūn duō cǎi xié,", "english": "I wish you would gather many,", "words": [ { "hanzi": "愿", "pinyin": "yuàn", "english": "to wish" }, { "hanzi": "君", "pinyin": "jūn", "english": "you (respectful)" }, { "hanzi": "采撷", "pinyin": "cǎi xié", "english": "to pick; gather" } ] },
+     { "chinese": "此物最相思。", "pinyin": "Cǐ wù zuì xiāng sī.", "english": "for this thing most embodies longing.", "words": [ { "hanzi": "此物", "pinyin": "cǐ wù", "english": "this thing" }, { "hanzi": "最", "pinyin": "zuì", "english": "most" }, { "hanzi": "相思", "pinyin": "xiāng sī", "english": "lovesick longing" } ] }
+    ],
+    "questions": [
+     { "question": "What do red beans symbolise in the poem?", "options": ["Longing and love", "Wealth", "Spring rain", "Friendship gifts"], "correct": 0 },
+     { "question": "When do the beans sprout?", "options": ["When spring comes", "In autumn", "At night", "After rain"], "correct": 0 }
+    ]
+   }
+  ],
+  "bespokeLessons": [
+   {
+    "id": "tp-words",
+    "title": "Words of the Poets",
+    "titleChinese": "诗词词汇",
+    "titlePinyin": "Shīcí cíhuì",
+    "icon": "feather-pointed",
+    "color": "#6366f1",
+    "colorEnd": "#4338ca",
+    "level": "Culture · HSK 3-4",
+    "difficulty": 3,
+    "vocabulary": [
+     { "char": "明月", "pinyin": "míng yuè", "meaning": "bright moon" },
+     { "char": "故乡", "pinyin": "gùxiāng", "meaning": "hometown; native place" },
+     { "char": "思", "pinyin": "sī", "meaning": "to long for; miss" },
+     { "char": "黄河", "pinyin": "huáng hé", "meaning": "the Yellow River" },
+     { "char": "千里", "pinyin": "qiān lǐ", "meaning": "a thousand miles; far" },
+     { "char": "辛苦", "pinyin": "xīnkǔ", "meaning": "hard toil; hardship" },
+     { "char": "红豆", "pinyin": "hóng dòu", "meaning": "red bean; symbol of longing" },
+     { "char": "相思", "pinyin": "xiāng sī", "meaning": "lovesick longing" }
+    ]
+   }
+  ]
+ }
+}

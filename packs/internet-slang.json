@@ -1,0 +1,65 @@
+{
+ "revision": 1,
+ "packId": "internet-slang",
+ "name": "Internet Slang & Texting",
+ "icon": "hashtag",
+ "releaseDate": "2026-07-20",
+ "minApp": "2.0",
+ "whatsNew": "Talk like a local online — the slang, memes and reactions real people use when chatting and texting in Chinese, across two lessons plus texting practice.",
+ "content": {
+  "bespokeLessons": [
+   {
+    "id": "slang-chat",
+    "title": "Chat & Reactions",
+    "titleChinese": "聊天用语",
+    "titlePinyin": "Liáotiān yòngyǔ",
+    "icon": "comment-dots",
+    "color": "#ec4899",
+    "colorEnd": "#be185d",
+    "level": "Fun · all levels",
+    "difficulty": 2,
+    "vocabulary": [
+     { "char": "给力", "pinyin": "gěilì", "meaning": "awesome; impressive" },
+     { "char": "牛", "pinyin": "niú", "meaning": "amazing; badass (lit. 'cow')" },
+     { "char": "yyds", "pinyin": "yǒngyuǎn de shén", "meaning": "the GOAT; 'eternal god' (永远的神)" },
+     { "char": "666", "pinyin": "liù liù liù", "meaning": "so skilled / well played" },
+     { "char": "点赞", "pinyin": "diǎnzàn", "meaning": "to like; give a thumbs-up" },
+     { "char": "打call", "pinyin": "dǎ call", "meaning": "to cheer for; hype up" },
+     { "char": "吐槽", "pinyin": "tùcáo", "meaning": "to roast; poke fun at" },
+     { "char": "秒懂", "pinyin": "miǎodǒng", "meaning": "to get it instantly" }
+    ]
+   },
+   {
+    "id": "slang-life",
+    "title": "Modern Life Slang",
+    "titleChinese": "网络热词",
+    "titlePinyin": "Wǎngluò rècí",
+    "icon": "fire",
+    "color": "#f59e0b",
+    "colorEnd": "#d97706",
+    "level": "Fun · intermediate",
+    "difficulty": 3,
+    "vocabulary": [
+     { "char": "躺平", "pinyin": "tǎngpíng", "meaning": "to 'lie flat'; opt out of the rat race" },
+     { "char": "内卷", "pinyin": "nèijuǎn", "meaning": "involution; pointless over-competition" },
+     { "char": "佛系", "pinyin": "fóxì", "meaning": "chill; take-it-as-it-comes attitude" },
+     { "char": "破防", "pinyin": "pòfáng", "meaning": "emotionally hit; defences shattered" },
+     { "char": "绝了", "pinyin": "juéle", "meaning": "amazing; absolutely the best" },
+     { "char": "社死", "pinyin": "shèsǐ", "meaning": "'social death'; total embarrassment" },
+     { "char": "上头", "pinyin": "shàngtóu", "meaning": "to be carried away / obsessed" },
+     { "char": "网红", "pinyin": "wǎnghóng", "meaning": "internet celebrity; influencer" }
+    ]
+   }
+  ],
+  "sentencesDatabase": [
+   { "chinese": ["这个", "视频", "太", "绝了"], "pinyin": "Zhège shìpín tài juéle", "english": "This video is absolutely amazing", "difficulty": "medium" },
+   { "chinese": ["他", "真", "牛", "我", "给", "他", "点赞"], "pinyin": "Tā zhēn niú, wǒ gěi tā diǎnzàn", "english": "He's amazing — I'm giving him a thumbs-up", "difficulty": "medium" },
+   { "chinese": ["工作", "太", "累", "我", "想", "躺平"], "pinyin": "Gōngzuò tài lèi, wǒ xiǎng tǎngpíng", "english": "Work is exhausting — I just want to lie flat", "difficulty": "hard" },
+   { "chinese": ["这", "首", "歌", "太", "上头", "了"], "pinyin": "Zhè shǒu gē tài shàngtóu le", "english": "This song is so catchy I can't stop", "difficulty": "medium" },
+   { "chinese": ["别", "太", "内卷", "了", "放松", "一点"], "pinyin": "Bié tài nèijuǎn le, fàngsōng yìdiǎn", "english": "Don't compete so hard — relax a bit", "difficulty": "hard" },
+   { "chinese": ["我", "刚才", "社死", "了"], "pinyin": "Wǒ gāngcái shèsǐ le", "english": "I just died of embarrassment", "difficulty": "medium" },
+   { "chinese": ["这个", "网红", "很", "会", "吐槽"], "pinyin": "Zhège wǎnghóng hěn huì tùcáo", "english": "This influencer is great at roasting things", "difficulty": "hard" },
+   { "chinese": ["加油", "我们", "为", "你", "打call"], "pinyin": "Jiāyóu, wǒmen wèi nǐ dǎ call", "english": "Go for it — we're cheering you on", "difficulty": "medium" }
+  ]
+ }
+}

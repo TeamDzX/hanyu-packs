@@ -32,6 +32,7 @@ ORDER=(
   story-time
   hsk-sprint
   game-on
+  internet-slang
   across-china
   sentence-lab
   inventions-innovations

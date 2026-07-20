@@ -1,0 +1,110 @@
+[
+ {
+  "name": "Mandarin Corner",
+  "nameZh": "",
+  "platform": "YouTube",
+  "category": "learn",
+  "level": "intermediate",
+  "blurb": "Real-life comprehensible-input videos with full subtitles — street interviews and everyday topics.",
+  "url": "https://www.youtube.com/results?search_query=Mandarin%20Corner"
+ },
+ {
+  "name": "Shuoshuo Chinese",
+  "nameZh": "",
+  "platform": "YouTube",
+  "category": "learn",
+  "level": "beginner",
+  "blurb": "Slow, clear Mandarin stories and lessons aimed squarely at beginners.",
+  "url": "https://www.youtube.com/results?search_query=Shuoshuo%20Chinese"
+ },
+ {
+  "name": "Grace Mandarin Chinese",
+  "nameZh": "",
+  "platform": "YouTube",
+  "category": "learn",
+  "level": "beginner",
+  "blurb": "Taiwan-based teacher on pronunciation, tones and real spoken habits.",
+  "url": "https://www.youtube.com/results?search_query=Grace%20Mandarin%20Chinese"
+ },
+ {
+  "name": "Chinese Zero to Hero",
+  "nameZh": "",
+  "platform": "YouTube",
+  "category": "learn",
+  "level": "all",
+  "blurb": "Structured HSK-aligned courses from absolute beginner upward.",
+  "url": "https://www.youtube.com/results?search_query=Chinese%20Zero%20to%20Hero"
+ },
+ {
+  "name": "Everyday Chinese",
+  "nameZh": "",
+  "platform": "YouTube",
+  "category": "learn",
+  "level": "beginner",
+  "blurb": "Short practical dialogues for daily situations.",
+  "url": "https://www.youtube.com/results?search_query=Everyday%20Chinese%20101"
+ },
+ {
+  "name": "Blabla Chinese",
+  "nameZh": "",
+  "platform": "YouTube",
+  "category": "learn",
+  "level": "intermediate",
+  "blurb": "Natural-speed conversation practice with a friendly host.",
+  "url": "https://www.youtube.com/results?search_query=Blabla%20Chinese"
+ },
+ {
+  "name": "Li Ziqi",
+  "nameZh": "李子柒",
+  "platform": "YouTube",
+  "category": "immersion",
+  "level": "all",
+  "blurb": "Serene rural cooking and craft films — little dialogue, endlessly calming immersion.",
+  "url": "https://www.youtube.com/results?search_query=%E6%9D%8E%E5%AD%90%E6%9F%92%20Liziqi"
+ },
+ {
+  "name": "Ms Yeah",
+  "nameZh": "办公室小野",
+  "platform": "YouTube",
+  "category": "immersion",
+  "level": "all",
+  "blurb": "Playful office-cooking comedy — mostly visual, gentle on the ears.",
+  "url": "https://www.youtube.com/results?search_query=%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%B0%8F%E9%87%8E%20Ms%20Yeah"
+ },
+ {
+  "name": "Yit (Yī Tiáo)",
+  "nameZh": "一条",
+  "platform": "YouTube",
+  "category": "immersion",
+  "level": "advanced",
+  "blurb": "Beautifully shot mini-documentaries on design, homes and lives across China.",
+  "url": "https://www.youtube.com/results?search_query=%E4%B8%80%E6%9D%A1%20Yit%20video"
+ },
+ {
+  "name": "Teacher Li Yongle",
+  "nameZh": "李永乐老师",
+  "platform": "Bilibili",
+  "category": "immersion",
+  "level": "advanced",
+  "blurb": "Wildly popular physics and maths explainers — clear standard Mandarin, big vocabulary.",
+  "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88"
+ },
+ {
+  "name": "Papi Jiang",
+  "nameZh": "papi酱",
+  "platform": "Bilibili",
+  "category": "immersion",
+  "level": "advanced",
+  "blurb": "Rapid-fire comedy monologues on modern life — a real listening workout.",
+  "url": "https://search.bilibili.com/all?keyword=papi%E9%85%B1"
+ },
+ {
+  "name": "LKs",
+  "nameZh": "",
+  "platform": "Bilibili",
+  "category": "immersion",
+  "level": "advanced",
+  "blurb": "Funny skits on relationships and daily life, in fast colloquial Mandarin.",
+  "url": "https://search.bilibili.com/all?keyword=LKs%20%E6%95%AC%E6%B1%89%E5%8D%BF"
+ }
+]

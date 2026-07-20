@@ -10,7 +10,16 @@ merges into its built-in content — **no App Store submission required.**
 packs/<slug>.json   ← edit these (one file per pack, easy to read)
 packs.json          ← the MONOLITHIC catalog the app downloads (built from the above)
 build.sh            ← regenerates packs.json from packs/*.json
+radio.json          ← standalone: live radio stations (app v2.9+)
+creators.json       ← standalone: "Creators to Follow" directory (app v3.0+ ONLY)
 ```
+
+**Standalone catalogs** (`radio.json`, `creators.json`) are NOT built into
+`packs.json` — each is fetched directly by the feature that uses it, and only by
+app versions that have that feature. `creators.json` is consumed **only by
+v3.0+** (the Creators to Follow directory); older versions, including v2.9.x,
+have no code path that requests it, so pushing it is inert for them. Both are
+bare JSON arrays, refreshed at runtime with strict UTF-8 validation.
 
 The app downloads **`packs.json`** (a single file: `{ catalogRevision, packs: [...] }`),
 finds the pack it needs by `packId`, checks its `revision`, and installs it.

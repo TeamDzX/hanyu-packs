@@ -2,7 +2,7 @@
  {
   "name": "CNR-1 Voice of China",
   "nameZh": "中国之声",
-  "url": "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
+  "url": "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
   "region": "Mainland",
   "genre": "news",
   "language": "Mandarin"
@@ -10,7 +10,7 @@
  {
   "name": "CNR-2 Voice of Economics",
   "nameZh": "经济之声",
-  "url": "https://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
+  "url": "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
   "region": "Mainland",
   "genre": "talk",
   "language": "Mandarin"
@@ -18,9 +18,17 @@
  {
   "name": "CNR-3 Music Radio",
   "nameZh": "音乐之声",
-  "url": "https://ngcdn001.cnr.cn/live/yyzs/index.m3u8",
+  "url": "http://ngcdn001.cnr.cn/live/yyzs/index.m3u8",
   "region": "Mainland",
   "genre": "music",
+  "language": "Mandarin"
+ },
+ {
+  "name": "CRI Chinese Global",
+  "nameZh": "中文环球广播",
+  "url": "http://sk.cri.cn/hyhq.m3u8",
+  "region": "Mainland",
+  "genre": "general",
   "language": "Mandarin"
  },
  {
@@ -112,11 +120,27 @@
   "language": "Mandarin"
  },
  {
+  "name": "Hit FM Taipei",
+  "nameZh": "台北之音",
+  "url": "http://202.39.43.67:1935/live/RA000036/chunklist.m3u8",
+  "region": "Taiwan",
+  "genre": "music",
+  "language": "Mandarin"
+ },
+ {
   "name": "Cheng Sheng FM104.1",
   "nameZh": "正聲廣播電台",
   "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
   "region": "Taiwan",
   "genre": "general",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Classical Music Taiwan",
+  "nameZh": "古典音樂台",
+  "url": "http://59.120.88.155:8000/live.mp3",
+  "region": "Taiwan",
+  "genre": "music",
   "language": "Mandarin"
  },
  {
@@ -134,5 +158,13 @@
   "region": "Hong Kong",
   "genre": "news",
   "language": "Cantonese"
+ },
+ {
+  "name": "AsiaFM HD Music",
+  "nameZh": "亚洲高清音乐台",
+  "url": "http://asiafm.hk:8000/asiahd",
+  "region": "Hong Kong",
+  "genre": "music",
+  "language": "Mandarin"
  }
 ]

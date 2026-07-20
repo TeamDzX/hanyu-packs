@@ -1,23 +1,138 @@
 [
-  { "name": "CNR-1 Voice of China", "nameZh": "中国之声", "url": "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8", "region": "Mainland", "genre": "news", "language": "Mandarin" },
-  { "name": "CNR-2 Voice of Economics", "nameZh": "经济之声", "url": "https://ngcdn002.cnr.cn/live/jjzs/index.m3u8", "region": "Mainland", "genre": "talk", "language": "Mandarin" },
-  { "name": "CNR-3 Music Radio", "nameZh": "音乐之声", "url": "https://ngcdn001.cnr.cn/live/yyzs/index.m3u8", "region": "Mainland", "genre": "music", "language": "Mandarin" },
-  { "name": "CRI Chinese Global", "nameZh": "中文环球广播", "url": "http://sk.cri.cn/hyhq.m3u8", "region": "Mainland", "genre": "general", "language": "Mandarin" },
-  { "name": "Beijing News Radio", "nameZh": "北京新闻广播", "url": "https://lhttp.qtfm.cn/live/339/64k.mp3", "region": "Mainland", "genre": "news", "language": "Mandarin" },
-  { "name": "Beijing Music Radio", "nameZh": "北京音乐广播", "url": "https://lhttp.qtfm.cn/live/332/64k.mp3", "region": "Mainland", "genre": "music", "language": "Mandarin" },
-  { "name": "Shanghai News Radio", "nameZh": "上海新闻广播", "url": "https://lhttp.qtfm.cn/live/270/64k.mp3", "region": "Mainland", "genre": "news", "language": "Mandarin" },
-  { "name": "CBN Business Radio", "nameZh": "第一财经广播", "url": "https://lhttp.qtfm.cn/live/276/64k.mp3", "region": "Mainland", "genre": "talk", "language": "Mandarin" },
-  { "name": "Guangdong News Radio", "nameZh": "广东新闻广播", "url": "https://lhttp.qtfm.cn/live/1254/64k.mp3", "region": "Mainland", "genre": "news", "language": "Mandarin" },
-  { "name": "Guangdong Music FM", "nameZh": "广东音乐之声", "url": "https://lhttp.qtfm.cn/live/1260/64k.mp3", "region": "Mainland", "genre": "music", "language": "Mandarin" },
-  { "name": "Shenzhen News Radio", "nameZh": "深圳新闻广播", "url": "https://lhttp.qtfm.cn/live/1270/64k.mp3", "region": "Mainland", "genre": "news", "language": "Mandarin" },
-  { "name": "500 Chinese Classics", "nameZh": "500首华语经典", "url": "https://lhttp.qtfm.cn/live/5022308/64k.mp3", "region": "Mainland", "genre": "music", "language": "Mandarin" },
-  { "name": "Morning Music Radio", "nameZh": "清晨音乐台", "url": "https://lhttp.qtfm.cn/live/4915/64k.mp3", "region": "Mainland", "genre": "music", "language": "Mandarin" },
-  { "name": "Radio Taiwan International", "nameZh": "臺灣之音", "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8", "region": "Taiwan", "genre": "news", "language": "Mandarin" },
-  { "name": "Taipei Radio FM93.1", "nameZh": "臺北廣播電臺", "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8", "region": "Taiwan", "genre": "general", "language": "Mandarin" },
-  { "name": "Hit FM Taipei", "nameZh": "台北之音", "url": "http://202.39.43.67:1935/live/RA000036/chunklist.m3u8", "region": "Taiwan", "genre": "music", "language": "Mandarin" },
-  { "name": "Cheng Sheng FM104.1", "nameZh": "正聲廣播電台", "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8", "region": "Taiwan", "genre": "general", "language": "Mandarin" },
-  { "name": "Classical Music Taiwan", "nameZh": "古典音樂台", "url": "http://59.120.88.155:8000/live.mp3", "region": "Taiwan", "genre": "music", "language": "Mandarin" },
-  { "name": "RTHK Putonghua Channel", "nameZh": "香港电台普通话台", "url": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8", "region": "Hong Kong", "genre": "news", "language": "Mandarin" },
-  { "name": "RTHK Radio 1", "nameZh": "香港电台第一台", "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8", "region": "Hong Kong", "genre": "news", "language": "Cantonese" },
-  { "name": "AsiaFM HD Music", "nameZh": "亚洲高清音乐台", "url": "http://asiafm.hk:8000/asiahd", "region": "Hong Kong", "genre": "music", "language": "Mandarin" }
+ {
+  "name": "CNR-1 Voice of China",
+  "nameZh": "中国之声",
+  "url": "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
+  "region": "Mainland",
+  "genre": "news",
+  "language": "Mandarin"
+ },
+ {
+  "name": "CNR-2 Voice of Economics",
+  "nameZh": "经济之声",
+  "url": "https://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
+  "region": "Mainland",
+  "genre": "talk",
+  "language": "Mandarin"
+ },
+ {
+  "name": "CNR-3 Music Radio",
+  "nameZh": "音乐之声",
+  "url": "https://ngcdn001.cnr.cn/live/yyzs/index.m3u8",
+  "region": "Mainland",
+  "genre": "music",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Beijing News Radio",
+  "nameZh": "北京新闻广播",
+  "url": "https://lhttp.qtfm.cn/live/339/64k.mp3",
+  "region": "Mainland",
+  "genre": "news",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Beijing Music Radio",
+  "nameZh": "北京音乐广播",
+  "url": "https://lhttp.qtfm.cn/live/332/64k.mp3",
+  "region": "Mainland",
+  "genre": "music",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Shanghai News Radio",
+  "nameZh": "上海新闻广播",
+  "url": "https://lhttp.qtfm.cn/live/270/64k.mp3",
+  "region": "Mainland",
+  "genre": "news",
+  "language": "Mandarin"
+ },
+ {
+  "name": "CBN Business Radio",
+  "nameZh": "第一财经广播",
+  "url": "https://lhttp.qtfm.cn/live/276/64k.mp3",
+  "region": "Mainland",
+  "genre": "talk",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Guangdong News Radio",
+  "nameZh": "广东新闻广播",
+  "url": "https://lhttp.qtfm.cn/live/1254/64k.mp3",
+  "region": "Mainland",
+  "genre": "news",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Guangdong Music FM",
+  "nameZh": "广东音乐之声",
+  "url": "https://lhttp.qtfm.cn/live/1260/64k.mp3",
+  "region": "Mainland",
+  "genre": "music",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Shenzhen News Radio",
+  "nameZh": "深圳新闻广播",
+  "url": "https://lhttp.qtfm.cn/live/1270/64k.mp3",
+  "region": "Mainland",
+  "genre": "news",
+  "language": "Mandarin"
+ },
+ {
+  "name": "500 Chinese Classics",
+  "nameZh": "500首华语经典",
+  "url": "https://lhttp.qtfm.cn/live/5022308/64k.mp3",
+  "region": "Mainland",
+  "genre": "music",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Morning Music Radio",
+  "nameZh": "清晨音乐台",
+  "url": "https://lhttp.qtfm.cn/live/4915/64k.mp3",
+  "region": "Mainland",
+  "genre": "music",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Radio Taiwan International",
+  "nameZh": "臺灣之音",
+  "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+  "region": "Taiwan",
+  "genre": "news",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Taipei Radio FM93.1",
+  "nameZh": "臺北廣播電臺",
+  "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+  "region": "Taiwan",
+  "genre": "general",
+  "language": "Mandarin"
+ },
+ {
+  "name": "Cheng Sheng FM104.1",
+  "nameZh": "正聲廣播電台",
+  "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
+  "region": "Taiwan",
+  "genre": "general",
+  "language": "Mandarin"
+ },
+ {
+  "name": "RTHK Putonghua Channel",
+  "nameZh": "香港电台普通话台",
+  "url": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8",
+  "region": "Hong Kong",
+  "genre": "news",
+  "language": "Mandarin"
+ },
+ {
+  "name": "RTHK Radio 1",
+  "nameZh": "香港电台第一台",
+  "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8",
+  "region": "Hong Kong",
+  "genre": "news",
+  "language": "Cantonese"
+ }
 ]

@@ -8,43 +8,11 @@
   "language": "Mandarin"
  },
  {
-  "name": "CNR-2 Voice of Economics",
-  "nameZh": "经济之声",
-  "url": "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
-  "region": "Mainland",
-  "genre": "talk",
-  "language": "Mandarin"
- },
- {
-  "name": "CNR-3 Music Radio",
-  "nameZh": "音乐之声",
-  "url": "http://ngcdn001.cnr.cn/live/yyzs/index.m3u8",
-  "region": "Mainland",
-  "genre": "music",
-  "language": "Mandarin"
- },
- {
   "name": "CRI Chinese Global",
   "nameZh": "中文环球广播",
   "url": "http://sk.cri.cn/hyhq.m3u8",
   "region": "Mainland",
   "genre": "general",
-  "language": "Mandarin"
- },
- {
-  "name": "Beijing News Radio",
-  "nameZh": "北京新闻广播",
-  "url": "https://lhttp.qtfm.cn/live/339/64k.mp3",
-  "region": "Mainland",
-  "genre": "news",
-  "language": "Mandarin"
- },
- {
-  "name": "Beijing Music Radio",
-  "nameZh": "北京音乐广播",
-  "url": "https://lhttp.qtfm.cn/live/332/64k.mp3",
-  "region": "Mainland",
-  "genre": "music",
   "language": "Mandarin"
  },
  {

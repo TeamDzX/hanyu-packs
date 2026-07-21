@@ -16,14 +16,6 @@
   "language": "Mandarin"
  },
  {
-  "name": "CNR-3 Music Radio",
-  "nameZh": "音乐之声",
-  "url": "http://ngcdn001.cnr.cn/live/yyzs/index.m3u8",
-  "region": "Mainland",
-  "genre": "music",
-  "language": "Mandarin"
- },
- {
   "name": "CRI Chinese Global",
   "nameZh": "中文环球广播",
   "url": "http://sk.cri.cn/hyhq.m3u8",

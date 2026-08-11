@@ -28,16 +28,39 @@
    "difficulty": 4,
    "classical": false,
    "free": false,
-   "freeChapters": ["孔乙己"],
+   "freeChapters": [
+    "孔乙己"
+   ],
    "blurb": "The collection that founded modern Chinese fiction. Early vernacular 白话 — the first classic you can actually read without translating from Classical Chinese.",
    "pdBasis": "Lu Xun died 1936; public domain under life+70 since 2007.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 27166 },
+   "source": {
+    "type": "gutenberg",
+    "id": 27166
+   },
    "chapterMode": "titles",
    "chapterTitles": [
-    ["自序", "序"], "狂人日記", "孔乙己", "藥", "明天", "一件小事",
-    ["頭髮的故事", "頭发的故事"], "風波", "故鄉", "阿Q正傳", "端午節",
-    "白光", "兔和貓", "鴨的喜劇", "社戲"
+    [
+     "自序",
+     "序"
+    ],
+    "狂人日記",
+    "孔乙己",
+    "藥",
+    "明天",
+    "一件小事",
+    [
+     "頭髮的故事",
+     "頭发的故事"
+    ],
+    "風波",
+    "故鄉",
+    "阿Q正傳",
+    "端午節",
+    "白光",
+    "兔和貓",
+    "鴨的喜劇",
+    "社戲"
    ],
    "_note": "This source edition omits the preface and 頭髮的故事; 13 pieces are present.",
    "expectChapters": 13
@@ -60,10 +83,20 @@
    "blurb": "Lu Xun's childhood memoirs — warmer and gentler than his fiction, and some of the most approachable prose of the era.",
    "pdBasis": "Lu Xun died 1936; public domain under life+70 since 2007.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 25271 },
+   "source": {
+    "type": "gutenberg",
+    "id": 25271
+   },
    "chapterMode": "titles",
    "chapterTitles": [
-    "小引", "狗·貓·鼠", "阿長與山海經", "五猖會", "無常", "瑣記", "藤野先生", "后記"
+    "小引",
+    "狗·貓·鼠",
+    "阿長與山海經",
+    "五猖會",
+    "無常",
+    "瑣記",
+    "藤野先生",
+    "后記"
    ],
    "_note": "This source edition carries 8 of the 12 essays; the other four are absent from it entirely.",
    "expectChapters": 8
@@ -86,7 +119,10 @@
    "blurb": "A landmark of confessional modern fiction, written in plain vernacular Chinese.",
    "pdBasis": "Yu Dafu died 1945; public domain under life+70 since 2016.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 27636 },
+   "source": {
+    "type": "gutenberg",
+    "id": 27636
+   },
    "chapterMode": "auto",
    "minChapterChars": 400
   },
@@ -108,11 +144,13 @@
    "blurb": "Travel essays by a master of clear, unfussy modern prose — widely used in Chinese schools as a model of good writing.",
    "pdBasis": "Zhu Ziqing died 1948; public domain under life+70 since 2019.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 24110 },
+   "source": {
+    "type": "gutenberg",
+    "id": 24110
+   },
    "chapterMode": "auto",
    "minChapterChars": 400
   },
-
   {
    "slug": "tangshi-sanbai",
    "title": "唐诗三百首",
@@ -131,10 +169,33 @@
    "blurb": "The verses every Chinese child learns by heart. Short, famous and endlessly quotable — the friendliest way into classical Chinese.",
    "pdBasis": "Compiled 1763; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 52323 },
+   "source": {
+    "type": "gutenberg",
+    "id": 52323
+   },
    "chapterMode": "verse",
-   "verseLens": [6, 8],
-   "minChapterChars": 20
+   "verseLens": [
+    6,
+    8
+   ],
+   "minChapterChars": 20,
+   "links": [
+    {
+     "type": "figure",
+     "id": "gf-libai",
+     "label": "Li Bai"
+    },
+    {
+     "type": "figure",
+     "id": "gf-dufu",
+     "label": "Du Fu"
+    },
+    {
+     "type": "dynasty",
+     "id": "tang",
+     "label": "Tang Dynasty"
+    }
+   ]
   },
   {
    "slug": "shijing",
@@ -154,9 +215,19 @@
    "blurb": "The oldest anthology of Chinese poetry and one of the Five Classics — folk songs, court hymns and ritual odes.",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 23873 },
+   "source": {
+    "type": "gutenberg",
+    "id": 23873
+   },
    "chapterMode": "auto",
-   "minChapterChars": 40
+   "minChapterChars": 40,
+   "links": [
+    {
+     "type": "dynasty",
+     "id": "zhou",
+     "label": "Zhou Dynasty"
+    }
+   ]
   },
   {
    "slug": "libai-ji",
@@ -176,12 +247,34 @@
    "blurb": "China's most beloved poet, in full. Moonlight, wine, exile and the road home.",
    "pdBasis": "Li Bai died 762; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 24060 },
+   "source": {
+    "type": "gutenberg",
+    "id": 24060
+   },
    "chapterMode": "flush",
    "maxHeadingLen": 16,
-   "minChapterChars": 40
+   "minChapterChars": 40,
+   "links": [
+    {
+     "type": "figure",
+     "id": "gf-libai",
+     "label": "Li Bai"
+    },
+    {
+     "type": "dynasty",
+     "id": "tang",
+     "label": "Tang Dynasty"
+    }
+   ],
+   "revision": 2,
+   "substitutions": [
+    [
+     "（[^（）]*本[^（）]*作[^（）]*）",
+     ""
+    ]
+   ],
+   "_noteVariants": "〔校〕/〔注〕 apparatus is deliberate and kept; only the 4 inline in-verse citations are stripped."
   },
-
   {
    "slug": "lunyu",
    "title": "论语",
@@ -200,10 +293,30 @@
    "blurb": "The sayings of Confucius, in twenty books. Classical Chinese — read it with the parallel translation alongside.",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 23839 },
+   "source": {
+    "type": "gutenberg",
+    "id": 23839
+   },
    "chapterMode": "regex",
    "chapterRegex": "^\\S{1,4}第[一二三四五六七八九十]+$",
-   "expectChapters": 20
+   "expectChapters": 20,
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-ren",
+     "label": "Benevolence 仁"
+    },
+    {
+     "type": "figure",
+     "id": "fig-confucius",
+     "label": "Confucius"
+    }
+   ]
   },
   {
    "slug": "daodejing",
@@ -223,10 +336,30 @@
    "blurb": "Eighty-one short chapters, the foundation of Taoism. Each one is a few lines long — ideal for reading a chapter a day.",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 7337 },
+   "source": {
+    "type": "gutenberg",
+    "id": 7337
+   },
    "chapterMode": "regex",
    "chapterRegex": "^第[一二三四五六七八九十百]+章",
-   "expectChapters": 81
+   "expectChapters": 81,
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-taoism",
+     "label": "Taoism"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-wuwei",
+     "label": "Wu Wei 无为"
+    },
+    {
+     "type": "figure",
+     "id": "fig-laozi",
+     "label": "Laozi"
+    }
+   ]
   },
   {
    "slug": "sunzi-bingfa",
@@ -246,10 +379,25 @@
    "blurb": "Thirteen chapters on strategy — the most quoted Chinese book in the world, and short enough to finish.",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 23864 },
+   "source": {
+    "type": "gutenberg",
+    "id": 23864
+   },
    "chapterMode": "auto",
    "minChapterChars": 100,
-   "expectChapters": 13
+   "expectChapters": 13,
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-sunzi",
+     "label": "Sun Tzu"
+    },
+    {
+     "type": "figure",
+     "id": "fig-zhuge-liang",
+     "label": "Zhuge Liang"
+    }
+   ]
   },
   {
    "slug": "mengzi",
@@ -269,11 +417,26 @@
    "blurb": "The second great Confucian text, and a far livelier read than the Analects — Mencius argues, needles and tells stories.",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 24178 },
+   "source": {
+    "type": "gutenberg",
+    "id": 24178
+   },
    "chapterMode": "chunk",
    "chunkChars": 4000,
    "_note": "This source edition is a continuous stream with no book/chapter headings, so it is split into even reading sections rather than mislabelled as the traditional seven books.",
-   "expectChapters": 12
+   "expectChapters": 12,
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-mencius",
+     "label": "Mencius"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    }
+   ]
   },
   {
    "slug": "liaozhai",
@@ -293,7 +456,10 @@
    "blurb": "Ghost stories, fox spirits and scholars who fall in love with the wrong things. Hundreds of very short tales — dip in anywhere.",
    "pdBasis": "Pu Songling died 1715; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 51828 },
+   "source": {
+    "type": "gutenberg",
+    "id": 51828
+   },
    "chapterMode": "auto",
    "minChapterChars": 100
   },
@@ -315,7 +481,10 @@
    "blurb": "The standard anthology of classical prose for three centuries — the essays educated Chinese readers were expected to know.",
    "pdBasis": "Compiled 1695; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 25225 },
+   "source": {
+    "type": "gutenberg",
+    "id": 25225
+   },
    "chapterMode": "auto",
    "minChapterChars": 100
   },
@@ -337,11 +506,574 @@
    "blurb": "The classic children's primer: the whole of Confucian learning in rhyming three-character lines. Short, rhythmic and made to be memorised.",
    "pdBasis": "13th-century text; long out of copyright worldwide.",
    "sourceNote": "Public-domain text, re-typeset for Hanyu.",
-   "source": { "type": "gutenberg", "id": 12479 },
+   "source": {
+    "type": "gutenberg",
+    "id": 12479
+   },
    "chapterMode": "auto",
    "minChapterChars": 40,
    "_note": "Correctly a single continuous text — it is one unbroken rhyming primer, not a chaptered work.",
-   "expectChapters": 1
+   "expectChapters": 1,
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    }
+   ]
+  },
+  {
+   "slug": "zhuangzi",
+   "title": "庄子",
+   "titleTraditional": "莊子",
+   "titlePinyin": "Zhuāngzǐ",
+   "titleEnglish": "The Zhuangzi",
+   "author": "庄子",
+   "authorPinyin": "Zhuāngzǐ",
+   "authorEnglish": "Zhuangzi",
+   "era": "4th c. BC · Warring States",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [
+    "逍遙遊"
+   ],
+   "blurb": "The other great Daoist book, and the funnier one. Butterflies, useless trees and giant fish — Zhuangzi argues by story rather than by maxim, which makes him the most readable of the ancient philosophers.",
+   "pdBasis": "4th-century BC text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "wikisource-multi",
+    "indexPage": "莊子",
+    "prefix": "莊子/"
+   },
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-zhuangzi",
+     "label": "Zhuangzi"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-taoism",
+     "label": "Taoism"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-wuwei",
+     "label": "Wu Wei 无为"
+    },
+    {
+     "type": "figure",
+     "id": "fig-laozi",
+     "label": "Laozi"
+    }
+   ],
+   "_note": "Chapter order comes from the index page: 7 inner, 15 outer, 11 miscellaneous.",
+   "expectChapters": 33,
+   "substitutions": [
+    [
+     "\\s*一作「[^」]*」",
+     ""
+    ],
+    [
+     "\\s*一無「[^」]*」",
+     ""
+    ]
+   ]
+  },
+  {
+   "slug": "mozi",
+   "title": "墨子",
+   "titleTraditional": "墨子",
+   "titlePinyin": "Mòzǐ",
+   "titleEnglish": "The Mozi",
+   "author": "墨子及弟子",
+   "authorPinyin": "Mòzǐ jí dìzǐ",
+   "authorEnglish": "Mozi and disciples",
+   "era": "5th–4th c. BC · Warring States",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "blurb": "Confucianism's great rival: universal love, plain living and a hard-headed case against war. Mozi argues like an engineer, and his school built siege defences to prove it.",
+   "pdBasis": "5th-century BC text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "gutenberg",
+    "id": 24240
+   },
+   "chapterMode": "regex",
+   "chapterRegex": "^《.+》$",
+   "stripLines": [
+    "^\\d+$",
+    "^[^：]{1,12}:$",
+    "^\\d+\\.\\s"
+   ],
+   "substitutions": [
+    [
+     "(?m)^\\d+\\s*[^：:\\s]{1,12}:\\s*",
+     ""
+    ],
+    [
+     "(?<=[一-鿿])\\d+(?=[一-鿿])",
+     ""
+    ]
+   ],
+   "minChapterChars": 60,
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-mozi",
+     "label": "Mozi"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-mohism",
+     "label": "Mohism"
+    }
+   ],
+   "_note": "53 of the traditional 71 chapters survive; the source carries the surviving set.",
+   "expectChapters": 51,
+   "titleSub": [
+    "^《(.+)》$",
+    "\\1"
+   ]
+  },
+  {
+   "slug": "hanfeizi",
+   "title": "韩非子",
+   "titleTraditional": "韓非子",
+   "titlePinyin": "Hán Fēizǐ",
+   "titleEnglish": "The Han Feizi",
+   "author": "韩非",
+   "authorPinyin": "Hán Fēi",
+   "authorEnglish": "Han Fei",
+   "era": "3rd c. BC · Warring States",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "blurb": "The masterwork of Legalism, and the book that armed China's first emperor. Cold, brilliant and full of parables — this is where 守株待兔 and many other idioms come from.",
+   "pdBasis": "3rd-century BC text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "gutenberg",
+    "id": 24049
+   },
+   "chapterMode": "regex",
+   "chapterRegex": "^《.+》$",
+   "stripLines": [
+    "^\\d+$",
+    "^[^：]{1,12}:$",
+    "^\\d+\\.\\s"
+   ],
+   "substitutions": [
+    [
+     "(?m)^\\d+\\s*[^：:\\s]{1,12}:\\s*",
+     ""
+    ],
+    [
+     "(?<=[一-鿿])\\d+(?=[一-鿿])",
+     ""
+    ]
+   ],
+   "minChapterChars": 60,
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-legalism",
+     "label": "Legalism"
+    }
+   ],
+   "expectChapters": 53,
+   "titleSub": [
+    "^《(.+)》$",
+    "\\1"
+   ]
+  },
+  {
+   "slug": "xiaojing",
+   "title": "孝经",
+   "titleTraditional": "孝經",
+   "titlePinyin": "Xiào Jīng",
+   "titleEnglish": "The Classic of Filial Piety",
+   "author": "曾子及门人",
+   "authorPinyin": "Zēngzǐ jí ménrén",
+   "authorEnglish": "Attributed to Zengzi and his school",
+   "era": "4th–3rd c. BC · Warring States",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 3,
+   "classical": true,
+   "free": true,
+   "blurb": "The short classic behind 孝 — filial piety — set out as a conversation between Confucius and his student Zengzi. Eighteen tiny chapters; the whole book is a single sitting.",
+   "pdBasis": "Pre-Han text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "gutenberg",
+    "id": 24232
+   },
+   "chapterMode": "regex",
+   "chapterRegex": "^.{1,8}章第[一二三四五六七八九十]+$",
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-filial",
+     "label": "Filial Piety 孝"
+    },
+    {
+     "type": "figure",
+     "id": "fig-confucius",
+     "label": "Confucius"
+    }
+   ],
+   "_note": "Free: it is short, and it is the text behind the Filial Piety card in Philosophy.",
+   "expectChapters": 18
+  },
+  {
+   "slug": "daxue-zhongyong",
+   "title": "大学·中庸",
+   "titleTraditional": "大學·中庸",
+   "titlePinyin": "Dàxué · Zhōngyōng",
+   "titleEnglish": "The Great Learning & The Doctrine of the Mean",
+   "author": "朱熹 编注",
+   "authorPinyin": "Zhū Xī biānzhù",
+   "authorEnglish": "Edited by Zhu Xi",
+   "era": "Pre-Han text · 1190 Song edition",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "blurb": "The two short books that complete the Four Books alongside the Analects and the Mencius. Zhu Xi paired them in 1190 and they became the syllabus of imperial China for seven centuries.",
+   "pdBasis": "Pre-Han texts in Zhu Xi's 12th-century edition; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "gutenberg",
+    "ids": [
+     7375,
+     7376
+    ]
+   },
+   "chapterMode": "titles",
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    },
+    {
+     "type": "figure",
+     "id": "fig-mencius",
+     "label": "Mencius"
+    },
+    {
+     "type": "figure",
+     "id": "fig-confucius",
+     "label": "Confucius"
+    }
+   ],
+   "_note": "One book from two source texts — a reader wants the Four Books together, not two stubs.",
+   "chapterTitles": [
+    "大學章句序",
+    "大學章句",
+    "中庸章句序",
+    "中庸章句"
+   ],
+   "substitutions": [
+    [
+     "(?m)^\\s*中庸章句(?=中者)",
+     "\n中庸章句\n"
+    ]
+   ],
+   "expectChapters": 4
+  },
+  {
+   "slug": "shiji",
+   "title": "史记",
+   "titleTraditional": "史記",
+   "titlePinyin": "Shǐjì",
+   "titleEnglish": "Records of the Grand Historian",
+   "author": "司马迁",
+   "authorPinyin": "Sīmǎ Qiān",
+   "authorEnglish": "Sima Qian",
+   "era": "c. 94 BC · Han",
+   "genre": "history",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "blurb": "The foundation of Chinese history writing — 130 chapters covering 2,000 years, written by a man who chose disgrace over death to finish it. Reads like biography, not chronicle.",
+   "pdBasis": "1st-century BC text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "gutenberg",
+    "id": 24226
+   },
+   "chapterMode": "regex",
+   "chapterRegex": "^史記 .+$",
+   "titleSub": [
+    "^史記 ",
+    ""
+   ],
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-sima-qian",
+     "label": "Sima Qian"
+    },
+    {
+     "type": "figure",
+     "id": "fig-qinshihuang",
+     "label": "Qin Shi Huang"
+    },
+    {
+     "type": "figure",
+     "id": "fig-hanwudi",
+     "label": "Emperor Wu of Han"
+    }
+   ],
+   "_note": "This edition repeats three chapter names (呂后本紀 is headed 高祖本紀); left as the source has it.",
+   "expectChapters": 130
+  },
+  {
+   "slug": "dufu-shiji",
+   "title": "杜工部集",
+   "titleTraditional": "杜工部集",
+   "titlePinyin": "Dù Gōngbù Jí",
+   "titleEnglish": "The Collected Poems of Du Fu",
+   "author": "杜甫",
+   "authorPinyin": "Dù Fǔ",
+   "authorEnglish": "Du Fu",
+   "era": "8th c. · Tang",
+   "genre": "poetry",
+   "tier": "poetry",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [
+    "春望",
+    "月夜"
+   ],
+   "blurb": "The complete poems of the 詩聖, the Poet Sage — over a thousand of them, from the early mountain poems to the late exile verse. The other half of Chinese poetry's greatest pairing.",
+   "pdBasis": "8th-century poems; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text from the 全唐詩 (1705), re-typeset for Hanyu.",
+   "source": {
+    "type": "wikisource-multi",
+    "pages": [
+     "全唐詩/卷216",
+     "全唐詩/卷217",
+     "全唐詩/卷218",
+     "全唐詩/卷219",
+     "全唐詩/卷220",
+     "全唐詩/卷221",
+     "全唐詩/卷222",
+     "全唐詩/卷223",
+     "全唐詩/卷224",
+     "全唐詩/卷225",
+     "全唐詩/卷226",
+     "全唐詩/卷227",
+     "全唐詩/卷228",
+     "全唐詩/卷229",
+     "全唐詩/卷230",
+     "全唐詩/卷231",
+     "全唐詩/卷232",
+     "全唐詩/卷233",
+     "全唐詩/卷234"
+    ],
+    "splitHeadings": true,
+    "minLeadChars": 200
+   },
+   "substitutions": [
+    [
+     "一作「[^」]*」",
+     ""
+    ],
+    [
+     "一無「[^」]*」",
+     ""
+    ],
+    [
+     "〈[^〉]*〉",
+     ""
+    ]
+   ],
+   "links": [
+    {
+     "type": "figure",
+     "id": "gf-dufu",
+     "label": "Du Fu"
+    },
+    {
+     "type": "figure",
+     "id": "gf-libai",
+     "label": "Li Bai"
+    },
+    {
+     "type": "dynasty",
+     "id": "tang",
+     "label": "Tang Dynasty"
+    }
+   ],
+   "_note": "Sourced from Du Fu's own 19 juan in the 全唐詩 (216-234); the 杜工部集 pages on Wikisource are mostly unwritten. Variant readings (一作「X」) and editorial notes are stripped — this is a reading edition, not a critical one."
+  },
+  {
+   "slug": "chuci",
+   "title": "楚辞",
+   "titleTraditional": "楚辭",
+   "titlePinyin": "Chǔ Cí",
+   "titleEnglish": "Songs of the South",
+   "author": "屈原、宋玉等",
+   "authorPinyin": "Qū Yuán, Sòng Yù děng",
+   "authorEnglish": "Qu Yuan, Song Yu and others",
+   "era": "4th c. BC – 2nd c. AD · Chu",
+   "genre": "poetry",
+   "tier": "poetry",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [
+    "離騷"
+   ],
+   "blurb": "China's other poetic root, beside the Book of Songs — shamanic, southern and strange. Its author Qu Yuan drowned himself in the Miluo, and the Dragon Boat Festival still commemorates him.",
+   "pdBasis": "Ancient text with Han-era commentary; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "wikisource-multi",
+    "pages": [
+     "離騷",
+     "九歌",
+     "天問",
+     "楚辭/九章",
+     "楚辭/遠遊",
+     "卜居 (屈原)",
+     "漁父",
+     "九辯",
+     "楚辭/招䰟",
+     "楚辭/大招",
+     "楚辭/惜誓",
+     "招隱士",
+     "楚辭/七諫",
+     "楚辭/哀時命",
+     "九懷",
+     "九歎",
+     "九思"
+    ],
+    "titles": {
+     "楚辭/九章": "九章",
+     "楚辭/遠遊": "遠遊",
+     "卜居 (屈原)": "卜居",
+     "楚辭/招䰟": "招魂",
+     "楚辭/大招": "大招",
+     "楚辭/惜誓": "惜誓",
+     "楚辭/七諫": "七諫",
+     "楚辭/哀時命": "哀時命"
+    }
+   },
+   "links": [
+    {
+     "type": "lesson",
+     "id": "fest-dragonboat",
+     "label": "Dragon Boat Festival"
+    },
+    {
+     "type": "dynasty",
+     "id": "zhou",
+     "label": "Zhou Dynasty"
+    }
+   ],
+   "_note": "Explicit page list: the 17 juan are split between standalone pages and 楚辭/ subpages, so neither a prefix crawl nor the index links alone find them all. Each juan opens with Wang Yi's Han commentary preface.",
+   "expectChapters": 17,
+   "substitutions": [
+    [
+     "\\s*一作「[^」]*」",
+     ""
+    ],
+    [
+     "\\s*一無「[^」]*」",
+     ""
+    ]
+   ]
+  },
+  {
+   "slug": "gushi-shijiu",
+   "title": "古诗十九首",
+   "titleTraditional": "古詩十九首",
+   "titlePinyin": "Gǔshī Shíjiǔ Shǒu",
+   "titleEnglish": "Nineteen Old Poems",
+   "author": "佚名",
+   "authorPinyin": "Yìmíng",
+   "authorEnglish": "Anonymous",
+   "era": "2nd c. · Eastern Han",
+   "genre": "poetry",
+   "tier": "poetry",
+   "difficulty": 3,
+   "classical": true,
+   "free": true,
+   "blurb": "Nineteen anonymous Han poems about separation, time and homesickness — the bridge between the Book of Songs and Tang poetry. Plain five-character lines, and the easiest classical verse to start with.",
+   "pdBasis": "2nd-century poems; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "gutenberg",
+    "id": 43009
+   },
+   "chapterMode": "regex",
+   "chapterRegex": "^古詩十九首之.+$",
+   "titleSub": [
+    "^古詩十九首之[^《]*《(.+)》$",
+    "\\1"
+   ],
+   "links": [
+    {
+     "type": "dynasty",
+     "id": "han",
+     "label": "Han Dynasty"
+    }
+   ],
+   "_note": "Free: it is nineteen short poems and the gentlest way into classical verse.",
+   "expectChapters": 19
+  },
+  {
+   "slug": "shuyuci",
+   "title": "漱玉词",
+   "titleTraditional": "漱玉詞",
+   "titlePinyin": "Shùyù Cí",
+   "titleEnglish": "The Shuyu Ci",
+   "author": "李清照",
+   "authorPinyin": "Lǐ Qīngzhào",
+   "authorEnglish": "Li Qingzhao",
+   "era": "12th c. · Song",
+   "genre": "poetry",
+   "tier": "poetry",
+   "difficulty": 4,
+   "classical": true,
+   "free": false,
+   "blurb": "The collected ci of China's greatest woman poet. Early poems of wine and plum blossom; later ones written after war took her husband, her home and her collection. Song lyrics, so the rhythm is looser and closer to speech than Tang verse.",
+   "pdBasis": "12th-century poems; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "source": {
+    "type": "gutenberg",
+    "id": 25367
+   },
+   "chapterMode": "separator",
+   "separatorRegex": "^☆$",
+   "links": [
+    {
+     "type": "dynasty",
+     "id": "song",
+     "label": "Song Dynasty"
+    }
+   ],
+   "expectChapters": 46
   }
  ]
 }

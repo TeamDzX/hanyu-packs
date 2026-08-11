@@ -29,11 +29,13 @@ Dependencies: opencc-python-reimplemented  (pip3 install --user it)
 
 import argparse
 import hashlib
+import html
 import json
 import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import zipfile
@@ -74,10 +76,29 @@ def _cached(name, fetch):
     path = os.path.join(CACHE_DIR, name)
     if os.path.exists(path):
         return open(path, encoding="utf-8").read()
-    data = fetch()
+    data = _with_backoff(fetch)
     open(path, "w", encoding="utf-8").write(data)
     time.sleep(1.0)          # be polite to the source
     return data
+
+
+def _with_backoff(fetch, tries=5):
+    """
+    Retry a fetch through rate limiting. A multi-page work is hundreds of
+    requests to one host, so 429 is a normal thing to meet rather than a
+    failure — the build should slow down, not fall over.
+    """
+    for attempt in range(tries):
+        try:
+            return fetch()
+        except urllib.error.HTTPError as exc:
+            retriable = exc.code == 429 or 500 <= exc.code < 600
+            if not retriable or attempt == tries - 1:
+                raise
+            wait = float(exc.headers.get("Retry-After") or 0) or 2 ** (attempt + 1)
+            print("    …%s, waiting %.0fs" % (exc.code, wait))
+            time.sleep(wait)
+    raise RuntimeError("unreachable")
 
 
 # Everything between these markers is the public-domain work itself; everything
@@ -121,6 +142,211 @@ def fetch_wikisource(title, host="zh.wikisource.org"):
 
     wt = _cached("wikisource-%s.txt" % re.sub(r"\W+", "_", title), go)
     return strip_wikitext(wt)
+
+
+# Wikitext is the wrong surface for a lot of Wikisource. Two habits break it:
+# collections transclude their real content ({{:奉贈韋左丞丈二十二韻}} — the poem
+# lives on another page), and verse sits inside <poem> blocks whose line breaks
+# only become paragraphs once rendered. Both come out right if we ask the API to
+# render the page and then reduce the HTML to text, so that is what multi-page
+# sources use. `fetch_wikisource` above stays as-is for plain single pages.
+def fetch_wikisource_html(title, host="zh.wikisource.org"):
+    def go():
+        params = {"action": "parse", "page": title, "prop": "text",
+                  "formatversion": 2, "format": "json"}
+        url = "https://%s/w/api.php?%s" % (host, urllib.parse.urlencode(params))
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=90) as f:
+            doc = json.load(f)
+        if "error" in doc:
+            raise RuntimeError("wikisource %s: %s" % (title, doc["error"].get("info")))
+        return doc["parse"]["text"]
+
+    return _cached("wikisource-html-%s.html" % re.sub(r"\W+", "_", title), go)
+
+
+# Everything here is chrome the reader must never see: the editorial header
+# table, sister-project boxes, footnote superscripts.
+_HTML_DROP = re.compile(
+    r"(?s)"
+    r"<(script|style|table)\b.*?</\1>"
+    r"|<sup\b[^>]*>.*?</sup>"
+    r"|<div\b[^>]*class=\"[^\"]*(?:sister|noprint|navbox|"
+    r"ws-noexport|licence|header_notes)[^\"]*\".*?</div>")
+
+_EDITSECTION = re.compile(r"<span\b[^>]*class=\"[^\"]*mw-editsection[^\"]*\"[^>]*>")
+_SPAN_TAG = re.compile(r"<(/?)span\b[^>]*>")
+
+
+def drop_editsections(doc):
+    """
+    Remove MediaWiki's per-heading "[编辑]" links.
+
+    These nest spans inside spans, so a non-greedy regex stops at the inner
+    closing tag and leaks the link text into the chapter body. Count the nesting
+    instead and cut to the span that actually closes the block.
+    """
+    out, pos = [], 0
+    for m in _EDITSECTION.finditer(doc):
+        if m.start() < pos:
+            continue                       # already inside a block we removed
+        out.append(doc[pos:m.start()])
+        depth, i = 1, m.end()
+        for tag in _SPAN_TAG.finditer(doc, m.end()):
+            depth += -1 if tag.group(1) else 1
+            if depth == 0:
+                i = tag.end()
+                break
+        else:
+            i = len(doc)                   # unbalanced markup: drop the rest
+        pos = i
+    out.append(doc[pos:])
+    return "".join(out)
+
+# Headings become a sentinel line so a page can optionally be split on them
+# (see splitHeadings) without confusing them for body text. A control character,
+# because any printable marker would eventually collide with real Chinese text.
+HEADING_MARK = "\x01"
+
+# "此作品在全世界都属于公有领域…", but the banner often names the era first
+# ("此唐朝作品…", "此西汉作品…"), so allow a few characters before 作品.
+_LICENCE_TAIL = re.compile(
+    r"(?s)(?:此|本|這個|这个).{0,8}?(?:作品|文本).{0,60}?公有(?:领域|領域).*$")
+
+
+def html_to_text(doc):
+    x = _HTML_DROP.sub(" ", drop_editsections(doc))
+    x = re.sub(r"(?is)<h[1-6][^>]*>(.*?)</h[1-6]>",
+               lambda m: "\n\n%s%s\n\n" % (HEADING_MARK, re.sub(r"<[^>]+>", "", m.group(1)).strip()), x)
+    x = re.sub(r"(?i)<br\s*/?>", "\n", x)
+    x = re.sub(r"(?i)</(p|div|li|dd|dt|blockquote)>", "\n\n", x)
+    x = re.sub(r"(?s)<[^>]+>", "", x)
+    x = html.unescape(x)
+    x = x.replace("​", "").replace("\xa0", " ")
+    # The sister-project line survives as bare text on some pages. Not anchored
+    # to a line start: it renders inline after the header note as often as not.
+    x = re.sub(r"\s*姊妹计划[:：][^\n]*", "", x)
+    # Wikisource's public-domain banner renders as ordinary divs with no class
+    # we can target, but it is always the last thing on the page — so cut the
+    # tail from where it starts. We state provenance ourselves on book detail.
+    x = _LICENCE_TAIL.sub("", x)
+    x = re.sub(r"[ \t]+\n", "\n", x)
+    x = re.sub(r"\n{3,}", "\n\n", x)
+    return x.strip()
+
+
+def wikisource_pages(spec_src):
+    """
+    Resolve a multi-page Wikisource source to an ordered list of page titles.
+
+    Either an explicit `pages` list, or `indexPage` + `prefix`, where the order
+    comes from the links on the index page (canonical sequence) but the set is
+    intersected with the subpages that actually exist — several Wikisource
+    indexes list volumes that were never transcribed.
+    """
+    if spec_src.get("pages"):
+        return list(spec_src["pages"])
+
+    index = spec_src["indexPage"]
+    prefix = spec_src.get("prefix", index + "/")
+    wt = _cached("wikisource-%s.txt" % re.sub(r"\W+", "_", index),
+                 lambda: _ws_wikitext(index))
+
+    ordered = []
+    for target in re.findall(r"\[\[([^\]|]+)", wt):
+        target = target.strip()
+        if target.startswith("/"):
+            target = index + target
+        if target.startswith(prefix) and target not in ordered:
+            ordered.append(target)
+
+    live = set(_ws_subpages(prefix))
+    pages = [p for p in ordered if p in live]
+    # Anything real but unlinked from the index still belongs in the book.
+    pages += sorted(p for p in live if p not in set(pages))
+    if not pages:
+        raise RuntimeError("no subpages found under %s" % prefix)
+    return pages
+
+
+def _ws_wikitext(title, host="zh.wikisource.org"):
+    params = {"action": "parse", "page": title, "prop": "wikitext", "format": "json"}
+    url = "https://%s/w/api.php?%s" % (host, urllib.parse.urlencode(params))
+    req = urllib.request.Request(url, headers=UA)
+    with urllib.request.urlopen(req, timeout=60) as f:
+        doc = json.load(f)
+    return doc["parse"]["wikitext"]["*"]
+
+
+def _ws_subpages(prefix, host="zh.wikisource.org"):
+    def go():
+        out, cont = [], None
+        while True:
+            # nonredirects only: several works carry both 無/无 spellings of a
+            # chapter, one redirecting to the other, and both would otherwise
+            # land in the book as duplicate chapters.
+            params = {"action": "query", "list": "allpages", "apprefix": prefix,
+                      "apfilterredir": "nonredirects",
+                      "aplimit": 500, "format": "json"}
+            if cont:
+                params["apcontinue"] = cont
+            url = "https://%s/w/api.php?%s" % (host, urllib.parse.urlencode(params))
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=60) as f:
+                doc = json.load(f)
+            out += [p["title"] for p in doc["query"]["allpages"]]
+            cont = doc.get("continue", {}).get("apcontinue")
+            if not cont:
+                return "\n".join(out)
+
+    return _cached("wikisource-list-%s.txt" % re.sub(r"\W+", "_", prefix), go).split("\n")
+
+
+def fetch_wikisource_multi(spec_src):
+    """
+    Fetch a Wikisource work spread over many pages as pre-split chapters.
+
+    Returns [(title, body), ...] so the caller can skip split_chapters entirely
+    — the site's own page (and optionally heading) structure IS the structure.
+    """
+    drop = set(spec_src.get("dropPages", []))
+    split_headings = spec_src.get("splitHeadings", False)
+    min_chars = spec_src.get("minSectionChars", 12)
+    titles = spec_src.get("titles", {})
+
+    chapters = []
+    for page in wikisource_pages(spec_src):
+        if page in drop:
+            continue
+        text = html_to_text(fetch_wikisource_html(page))
+        # Default chapter name: the last path segment, which is the work's own
+        # name for the piece (莊子/逍遙遊 → 逍遙遊).
+        page_title = titles.get(page) or page.split("/")[-1]
+
+        if not split_headings:
+            # Drop heading lines rather than keeping them as body text: on these
+            # pages the heading just restates the work's own name for the piece
+            # (莊子/天下 opens with "天下第三十三"), which is already the chapter
+            # title. Pages whose headings carry real content set splitHeadings.
+            body = re.sub(r"\n*%s.*\n*" % re.escape(HEADING_MARK), "\n\n", text).strip()
+            if len(body) >= min_chars:
+                chapters.append((page_title, body))
+            continue
+
+        # One chapter per heading. Text before the first heading is the
+        # editor's preface for that volume, kept under the volume's own name.
+        parts = re.split(r"\n*%s(.*)\n*" % re.escape(HEADING_MARK), text)
+        lead = parts[0].strip()
+        if len(lead) >= spec_src.get("minLeadChars", 200):
+            chapters.append((page_title, lead))
+        for i in range(1, len(parts) - 1, 2):
+            name, body = parts[i].strip(), parts[i + 1].strip()
+            if name and len(body) >= min_chars:
+                chapters.append((name, body))
+
+    if not chapters:
+        raise RuntimeError("multi-page source produced no chapters")
+    return chapters
 
 
 def strip_wikitext(wt):
@@ -185,6 +411,29 @@ def _cn_num(n):
     return str(n)
 
 
+def strip_lines(text, patterns):
+    """
+    Drop whole lines matching any of `patterns`.
+
+    Some source editions interleave apparatus with the text — the Chinese Text
+    Project layout behind several of these files puts a bare passage number and
+    a repeated "篇名:" label before every paragraph. That is scaffolding for a
+    concordance, not part of the work, and it reads as noise in a book.
+    """
+    rx = [re.compile(p) for p in patterns]
+    return "\n".join(l for l in text.split("\n")
+                     if not any(r.match(l.strip()) for r in rx))
+
+
+def clean_text(text, spec):
+    """Apply the spec's line filters and substitutions to a body of text."""
+    if spec.get("stripLines"):
+        text = strip_lines(text, spec["stripLines"])
+    for pattern, repl in spec.get("substitutions", []):
+        text = re.sub(pattern, repl, text)
+    return text
+
+
 def split_chapters(text, spec):
     """Return [(title, body_text), ...] using the spec's chapter strategy."""
     lines = text.split("\n")
@@ -193,6 +442,28 @@ def split_chapters(text, spec):
 
     if mode == "chunk":
         return chunk_chapters(text, spec)
+
+    if mode == "separator":
+        # A divider line marks each break and the title is the next line of
+        # text (the 漱玉詞 edition separates its poems with a ☆ and nothing
+        # else). Neither regex nor auto can see that structure.
+        rx = re.compile(spec.get("separatorRegex", r"^[☆★＊*※]+$"))
+        marks = []                      # (separator line, title line)
+        for i, l in enumerate(stripped):
+            if not (l and rx.match(l)):
+                continue
+            title = next((j for j in range(i + 1, len(stripped)) if stripped[j]), None)
+            if title is not None:
+                marks.append((i, title))
+        chapters = []
+        for n, (_, start) in enumerate(marks):
+            # Stop at the NEXT separator, not the next title, so the divider
+            # itself never lands at the end of the preceding chapter.
+            end = marks[n + 1][0] if n + 1 < len(marks) else len(lines)
+            body = "\n".join(lines[start + 1:end])
+            if body.strip():
+                chapters.append((stripped[start], body))
+        return chapters or [(spec["title"], text)]
 
     if mode == "regex":
         rx = re.compile(spec["chapterRegex"])
@@ -408,26 +679,50 @@ def build_epub(spec, chapters_s, chapters_t, out_path, cover_bytes=None):
 # --------------------------------------------------------------------------
 
 def load_source(spec):
+    """
+    Return the work's text, either as one blob for split_chapters to carve up,
+    or as a ready [(title, body), ...] list when the source already knows its
+    own chapter boundaries (multi-page Wikisource works).
+    """
     src = spec["source"]
     if src["type"] == "gutenberg":
+        # A `ids` list lets one book be assembled from several source volumes
+        # (大學 and 中庸 are separate Gutenberg texts but one book to a reader).
+        if src.get("ids"):
+            return "\n\n".join(fetch_gutenberg(i) for i in src["ids"])
         return fetch_gutenberg(src["id"])
     if src["type"] == "wikisource":
         return fetch_wikisource(src["page"])
+    if src["type"] == "wikisource-multi":
+        return fetch_wikisource_multi(src)
     raise RuntimeError("unknown source type: %s" % src["type"])
 
 
 def build_book(spec, qa=False):
-    text = load_source(spec)
-    if spec.get("trimBefore"):
-        m = re.search(spec["trimBefore"], text)
-        if m:
-            text = text[m.start():]
-    if spec.get("trimAfter"):
-        m = re.search(spec["trimAfter"], text)
-        if m:
-            text = text[:m.start()]
+    loaded = load_source(spec)
 
-    raw_chapters = split_chapters(text, spec)
+    if isinstance(loaded, list):
+        # The source supplied its own structure; clean each chapter in place so
+        # multi-page works get the same stripLines/substitutions treatment.
+        # Titles need it too — a Wikisource heading carries the same inline
+        # variant readings as the body ("奉賀陽城一作「城陽」郡王…").
+        raw_chapters = [(clean_text(t, spec).strip(), clean_text(b, spec))
+                        for t, b in loaded]
+    else:
+        text = loaded
+        if spec.get("trimBefore"):
+            m = re.search(spec["trimBefore"], text)
+            if m:
+                text = text[m.start():]
+        if spec.get("trimAfter"):
+            m = re.search(spec["trimAfter"], text)
+            if m:
+                text = text[:m.start()]
+
+        raw_chapters = split_chapters(clean_text(text, spec), spec)
+    if spec.get("titleSub"):
+        pattern, repl = spec["titleSub"]
+        raw_chapters = [(re.sub(pattern, repl, t), b) for t, b in raw_chapters]
     if spec.get("dropChapters"):
         drop = set(spec["dropChapters"])
         raw_chapters = [c for c in raw_chapters if c[0] not in drop]
@@ -466,7 +761,7 @@ def build_book(spec, qa=False):
 
 def catalog_entry(spec, sidecar, size, total, epub_path):
     digest = hashlib.sha256(open(epub_path, "rb").read()).hexdigest()[:16]
-    return {
+    entry = {
         "bookId": spec["slug"],
         "revision": spec.get("revision", 1),
         "title": sidecar["title"],
@@ -494,6 +789,12 @@ def catalog_entry(spec, sidecar, size, total, epub_path):
         "pdBasis": sidecar["pdBasis"],
         "sourceNote": sidecar["sourceNote"],
     }
+    # Cross-links into the culture sections (Philosophy, Figures, Tang Poetry).
+    # Catalog-driven on purpose: a new book can arrive already knowing which
+    # cards it belongs with, without shipping an app update. See LINKS.md.
+    if spec.get("links"):
+        entry["links"] = spec["links"]
+    return entry
 
 
 def main():

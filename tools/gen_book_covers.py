@@ -72,6 +72,53 @@ COVERS = [
     ("sanzijing", 114,
      "children seated at low desks reciting in an old Chinese village schoolroom, "
      "wooden beams, morning light through paper windows, warm and simple"),
+
+    # v3.3 — the philosophers and poets who already have a card in the culture
+    # sections. Each cover leans on that figure's best-known image so the book
+    # and the card read as the same subject.
+    ("zhuangzi", 115,
+     "a sleeping philosopher beneath a gourd vine with a single large butterfly "
+     "drifting above him, a giant fish becoming a bird in the clouds beyond, "
+     "dreamlike and playful, soft dawn colours"),
+    ("mozi", 116,
+     "ancient Chinese artisans and defenders on a city wall at dusk raising a "
+     "wooden siege-defence engine, rope and timber, plain workmen's dress, "
+     "practical and unheroic, working light"),
+    ("hanfeizi", 117,
+     "an austere Qin dynasty hall of state, a bronze measuring vessel and stacked "
+     "legal bamboo slips on a stone dais, long cold shadows, severe symmetry, "
+     "no people, disciplined and forbidding"),
+    # Seeds re-rolled off 118/119: both landed a hanging scroll or plaque in
+    # frame and Flux fills those with garbled pseudo-hanzi, which is the one
+    # thing a Chinese-learning app cannot ship. Prompts now keep every
+    # writing surface out of shot rather than relying on "no text" alone.
+    ("xiaojing", 218,
+     "a grown son kneeling to offer a bowl of tea to his elderly parents in a bare "
+     "ancient Chinese room, plain undecorated walls, a single oil lamp, warm "
+     "lamplight, tender and reverent, no scrolls, no plaques, no banners"),
+    ("daxue-zhongyong", 219,
+     "a scholar's low table by a moonlit lattice window with an inkstone, a resting "
+     "brush and a stack of blank bamboo slips, plain undecorated walls, still and "
+     "balanced composition, no scrolls, no plaques, no banners, no open book"),
+    ("shiji", 120,
+     "a Han dynasty historian writing by lamplight surrounded by towering stacks of "
+     "bamboo scrolls, a barred window behind him, resolve in the face of disgrace, "
+     "deep shadows, monumental"),
+    ("dufu-shiji", 121,
+     "a careworn Tang poet in a wind-torn thatched cottage above an autumn river, "
+     "bare trees, distant war smoke on the horizon, grey and moving, compassionate "
+     "melancholy"),
+    ("chuci", 122,
+     "a robed southern poet wandering a misty river marsh at dusk among orchids and "
+     "reeds, shamanic banners and dragon motifs half-seen in the fog, strange and "
+     "otherworldly, deep indigo and jade"),
+    ("gushi-shijiu", 123,
+     "a Han dynasty traveller looking back along an empty road under a bright moon, "
+     "wild grass, distant city wall, plain and spare composition, ache of separation"),
+    ("shuyuci", 124,
+     "a Song dynasty woman poet alone at a window with a wine cup, plum blossom "
+     "branches outside, scattered books and a scroll behind her, refined and "
+     "sorrowful, delicate palette"),
 ]
 
 COOLDOWN = 12          # seconds between images — this server dislikes long unbroken runs

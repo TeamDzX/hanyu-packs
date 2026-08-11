@@ -1,6 +1,6 @@
 {
  "catalogRevision": 1,
- "generated": "2026-08-10",
+ "generated": "2026-08-11",
  "books": [
   {
    "bookId": "luxun-nahan",
@@ -142,7 +142,24 @@
    "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/tangshi-sanbai.jpg",
    "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/tangshi-sanbai.epub",
    "pdBasis": "Compiled 1763; long out of copyright worldwide.",
-   "sourceNote": "Public-domain text, re-typeset for Hanyu."
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "figure",
+     "id": "gf-libai",
+     "label": "Li Bai"
+    },
+    {
+     "type": "figure",
+     "id": "gf-dufu",
+     "label": "Du Fu"
+    },
+    {
+     "type": "dynasty",
+     "id": "tang",
+     "label": "Tang Dynasty"
+    }
+   ]
   },
   {
    "bookId": "shijing",
@@ -170,11 +187,18 @@
    "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/shijing.jpg",
    "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/shijing.epub",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
-   "sourceNote": "Public-domain text, re-typeset for Hanyu."
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "dynasty",
+     "id": "zhou",
+     "label": "Zhou Dynasty"
+    }
+   ]
   },
   {
    "bookId": "libai-ji",
-   "revision": 1,
+   "revision": 2,
    "title": "李太白集",
    "titleTraditional": "李太白集",
    "titlePinyin": "Lǐ Tàibái Jí",
@@ -191,14 +215,26 @@
    "freeChapters": [],
    "blurb": "China's most beloved poet, in full. Moonlight, wine, exile and the road home.",
    "chapters": 45,
-   "chars": 181804,
-   "bytes": 905433,
-   "sha256": "a4b691419237494a",
+   "chars": 181717,
+   "bytes": 905241,
+   "sha256": "3bb141bd4e3c16aa",
    "minApp": "3.2",
    "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/libai-ji.jpg",
    "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/libai-ji.epub",
    "pdBasis": "Li Bai died 762; long out of copyright worldwide.",
-   "sourceNote": "Public-domain text, re-typeset for Hanyu."
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "figure",
+     "id": "gf-libai",
+     "label": "Li Bai"
+    },
+    {
+     "type": "dynasty",
+     "id": "tang",
+     "label": "Tang Dynasty"
+    }
+   ]
   },
   {
    "bookId": "lunyu",
@@ -226,7 +262,24 @@
    "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/lunyu.jpg",
    "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/lunyu.epub",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
-   "sourceNote": "Public-domain text, re-typeset for Hanyu."
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-ren",
+     "label": "Benevolence 仁"
+    },
+    {
+     "type": "figure",
+     "id": "fig-confucius",
+     "label": "Confucius"
+    }
+   ]
   },
   {
    "bookId": "daodejing",
@@ -254,7 +307,24 @@
    "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/daodejing.jpg",
    "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/daodejing.epub",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
-   "sourceNote": "Public-domain text, re-typeset for Hanyu."
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-taoism",
+     "label": "Taoism"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-wuwei",
+     "label": "Wu Wei 无为"
+    },
+    {
+     "type": "figure",
+     "id": "fig-laozi",
+     "label": "Laozi"
+    }
+   ]
   },
   {
    "bookId": "sunzi-bingfa",
@@ -282,7 +352,19 @@
    "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/sunzi-bingfa.jpg",
    "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/sunzi-bingfa.epub",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
-   "sourceNote": "Public-domain text, re-typeset for Hanyu."
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-sunzi",
+     "label": "Sun Tzu"
+    },
+    {
+     "type": "figure",
+     "id": "fig-zhuge-liang",
+     "label": "Zhuge Liang"
+    }
+   ]
   },
   {
    "bookId": "mengzi",
@@ -310,7 +392,19 @@
    "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/mengzi.jpg",
    "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/mengzi.epub",
    "pdBasis": "Ancient text; long out of copyright worldwide.",
-   "sourceNote": "Public-domain text, re-typeset for Hanyu."
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-mencius",
+     "label": "Mencius"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    }
+   ]
   },
   {
    "bookId": "liaozhai",
@@ -394,7 +488,436 @@
    "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/sanzijing.jpg",
    "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/sanzijing.epub",
    "pdBasis": "13th-century text; long out of copyright worldwide.",
-   "sourceNote": "Public-domain text, re-typeset for Hanyu."
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    }
+   ]
+  },
+  {
+   "bookId": "zhuangzi",
+   "revision": 1,
+   "title": "庄子",
+   "titleTraditional": "莊子",
+   "titlePinyin": "Zhuāngzǐ",
+   "titleEnglish": "The Zhuangzi",
+   "author": "庄子",
+   "authorPinyin": "Zhuāngzǐ",
+   "authorEnglish": "Zhuangzi",
+   "era": "4th c. BC · Warring States",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [
+    "逍遥游"
+   ],
+   "blurb": "The other great Daoist book, and the funnier one. Butterflies, useless trees and giant fish — Zhuangzi argues by story rather than by maxim, which makes him the most readable of the ancient philosophers.",
+   "chapters": 33,
+   "chars": 80030,
+   "bytes": 507009,
+   "sha256": "792a003605a65ec7",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/zhuangzi.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/zhuangzi.epub",
+   "pdBasis": "4th-century BC text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-zhuangzi",
+     "label": "Zhuangzi"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-taoism",
+     "label": "Taoism"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-wuwei",
+     "label": "Wu Wei 无为"
+    },
+    {
+     "type": "figure",
+     "id": "fig-laozi",
+     "label": "Laozi"
+    }
+   ]
+  },
+  {
+   "bookId": "mozi",
+   "revision": 1,
+   "title": "墨子",
+   "titleTraditional": "墨子",
+   "titlePinyin": "Mòzǐ",
+   "titleEnglish": "The Mozi",
+   "author": "墨子及弟子",
+   "authorPinyin": "Mòzǐ jí dìzǐ",
+   "authorEnglish": "Mozi and disciples",
+   "era": "5th–4th c. BC · Warring States",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [],
+   "blurb": "Confucianism's great rival: universal love, plain living and a hard-headed case against war. Mozi argues like an engineer, and his school built siege defences to prove it.",
+   "chapters": 51,
+   "chars": 108774,
+   "bytes": 564847,
+   "sha256": "9a0e18c5e9a030b8",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/mozi.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/mozi.epub",
+   "pdBasis": "5th-century BC text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-mozi",
+     "label": "Mozi"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-mohism",
+     "label": "Mohism"
+    }
+   ]
+  },
+  {
+   "bookId": "hanfeizi",
+   "revision": 1,
+   "title": "韩非子",
+   "titleTraditional": "韓非子",
+   "titlePinyin": "Hán Fēizǐ",
+   "titleEnglish": "The Han Feizi",
+   "author": "韩非",
+   "authorPinyin": "Hán Fēi",
+   "authorEnglish": "Han Fei",
+   "era": "3rd c. BC · Warring States",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [],
+   "blurb": "The masterwork of Legalism, and the book that armed China's first emperor. Cold, brilliant and full of parables — this is where 守株待兔 and many other idioms come from.",
+   "chapters": 53,
+   "chars": 127630,
+   "bytes": 627607,
+   "sha256": "d04c924993e29a65",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/hanfeizi.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/hanfeizi.epub",
+   "pdBasis": "3rd-century BC text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-legalism",
+     "label": "Legalism"
+    }
+   ]
+  },
+  {
+   "bookId": "xiaojing",
+   "revision": 1,
+   "title": "孝经",
+   "titleTraditional": "孝經",
+   "titlePinyin": "Xiào Jīng",
+   "titleEnglish": "The Classic of Filial Piety",
+   "author": "曾子及门人",
+   "authorPinyin": "Zēngzǐ jí ménrén",
+   "authorEnglish": "Attributed to Zengzi and his school",
+   "era": "4th–3rd c. BC · Warring States",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 3,
+   "classical": true,
+   "free": true,
+   "freeChapters": [],
+   "blurb": "The short classic behind 孝 — filial piety — set out as a conversation between Confucius and his student Zengzi. Eighteen tiny chapters; the whole book is a single sitting.",
+   "chapters": 18,
+   "chars": 2318,
+   "bytes": 251001,
+   "sha256": "b27af3e023e6d084",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/xiaojing.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/xiaojing.epub",
+   "pdBasis": "Pre-Han text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    },
+    {
+     "type": "philosophy",
+     "id": "phil-filial",
+     "label": "Filial Piety 孝"
+    },
+    {
+     "type": "figure",
+     "id": "fig-confucius",
+     "label": "Confucius"
+    }
+   ]
+  },
+  {
+   "bookId": "daxue-zhongyong",
+   "revision": 1,
+   "title": "大学·中庸",
+   "titleTraditional": "大學·中庸",
+   "titlePinyin": "Dàxué · Zhōngyōng",
+   "titleEnglish": "The Great Learning & The Doctrine of the Mean",
+   "author": "朱熹 编注",
+   "authorPinyin": "Zhū Xī biānzhù",
+   "authorEnglish": "Edited by Zhu Xi",
+   "era": "Pre-Han text · 1190 Song edition",
+   "genre": "philosophy",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [],
+   "blurb": "The two short books that complete the Four Books alongside the Analects and the Mencius. Zhu Xi paired them in 1190 and they became the syllabus of imperial China for seven centuries.",
+   "chapters": 4,
+   "chars": 25745,
+   "bytes": 289103,
+   "sha256": "23da640cbb63c710",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/daxue-zhongyong.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/daxue-zhongyong.epub",
+   "pdBasis": "Pre-Han texts in Zhu Xi's 12th-century edition; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "philosophy",
+     "id": "phil-confucianism",
+     "label": "Confucianism"
+    },
+    {
+     "type": "figure",
+     "id": "fig-mencius",
+     "label": "Mencius"
+    },
+    {
+     "type": "figure",
+     "id": "fig-confucius",
+     "label": "Confucius"
+    }
+   ]
+  },
+  {
+   "bookId": "shiji",
+   "revision": 1,
+   "title": "史记",
+   "titleTraditional": "史記",
+   "titlePinyin": "Shǐjì",
+   "titleEnglish": "Records of the Grand Historian",
+   "author": "司马迁",
+   "authorPinyin": "Sīmǎ Qiān",
+   "authorEnglish": "Sima Qian",
+   "era": "c. 94 BC · Han",
+   "genre": "history",
+   "tier": "classical",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [],
+   "blurb": "The foundation of Chinese history writing — 130 chapters covering 2,000 years, written by a man who chose disgrace over death to finish it. Reads like biography, not chronicle.",
+   "chapters": 130,
+   "chars": 625437,
+   "bytes": 2161792,
+   "sha256": "01acb8c3f69ece24",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/shiji.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/shiji.epub",
+   "pdBasis": "1st-century BC text; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "figure",
+     "id": "fig-sima-qian",
+     "label": "Sima Qian"
+    },
+    {
+     "type": "figure",
+     "id": "fig-qinshihuang",
+     "label": "Qin Shi Huang"
+    },
+    {
+     "type": "figure",
+     "id": "fig-hanwudi",
+     "label": "Emperor Wu of Han"
+    }
+   ]
+  },
+  {
+   "bookId": "dufu-shiji",
+   "revision": 1,
+   "title": "杜工部集",
+   "titleTraditional": "杜工部集",
+   "titlePinyin": "Dù Gōngbù Jí",
+   "titleEnglish": "The Collected Poems of Du Fu",
+   "author": "杜甫",
+   "authorPinyin": "Dù Fǔ",
+   "authorEnglish": "Du Fu",
+   "era": "8th c. · Tang",
+   "genre": "poetry",
+   "tier": "poetry",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [
+    "春望",
+    "月夜"
+   ],
+   "blurb": "The complete poems of the 詩聖, the Poet Sage — over a thousand of them, from the early mountain poems to the late exile verse. The other half of Chinese poetry's greatest pairing.",
+   "chapters": 1152,
+   "chars": 124850,
+   "bytes": 1788562,
+   "sha256": "7ca9451b475074a4",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/dufu-shiji.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/dufu-shiji.epub",
+   "pdBasis": "8th-century poems; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text from the 全唐詩 (1705), re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "figure",
+     "id": "gf-dufu",
+     "label": "Du Fu"
+    },
+    {
+     "type": "figure",
+     "id": "gf-libai",
+     "label": "Li Bai"
+    },
+    {
+     "type": "dynasty",
+     "id": "tang",
+     "label": "Tang Dynasty"
+    }
+   ]
+  },
+  {
+   "bookId": "chuci",
+   "revision": 1,
+   "title": "楚辞",
+   "titleTraditional": "楚辭",
+   "titlePinyin": "Chǔ Cí",
+   "titleEnglish": "Songs of the South",
+   "author": "屈原、宋玉等",
+   "authorPinyin": "Qū Yuán, Sòng Yù děng",
+   "authorEnglish": "Qu Yuan, Song Yu and others",
+   "era": "4th c. BC – 2nd c. AD · Chu",
+   "genre": "poetry",
+   "tier": "poetry",
+   "difficulty": 5,
+   "classical": true,
+   "free": false,
+   "freeChapters": [
+    "离骚"
+   ],
+   "blurb": "China's other poetic root, beside the Book of Songs — shamanic, southern and strange. Its author Qu Yuan drowned himself in the Miluo, and the Dragon Boat Festival still commemorates him.",
+   "chapters": 17,
+   "chars": 34764,
+   "bytes": 380311,
+   "sha256": "cc5444bf97ee6471",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/chuci.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/chuci.epub",
+   "pdBasis": "Ancient text with Han-era commentary; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "lesson",
+     "id": "fest-dragonboat",
+     "label": "Dragon Boat Festival"
+    },
+    {
+     "type": "dynasty",
+     "id": "zhou",
+     "label": "Zhou Dynasty"
+    }
+   ]
+  },
+  {
+   "bookId": "gushi-shijiu",
+   "revision": 1,
+   "title": "古诗十九首",
+   "titleTraditional": "古詩十九首",
+   "titlePinyin": "Gǔshī Shíjiǔ Shǒu",
+   "titleEnglish": "Nineteen Old Poems",
+   "author": "佚名",
+   "authorPinyin": "Yìmíng",
+   "authorEnglish": "Anonymous",
+   "era": "2nd c. · Eastern Han",
+   "genre": "poetry",
+   "tier": "poetry",
+   "difficulty": 3,
+   "classical": true,
+   "free": true,
+   "freeChapters": [],
+   "blurb": "Nineteen anonymous Han poems about separation, time and homesickness — the bridge between the Book of Songs and Tang poetry. Plain five-character lines, and the easiest classical verse to start with.",
+   "chapters": 19,
+   "chars": 1524,
+   "bytes": 235042,
+   "sha256": "183868d1326aa805",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/gushi-shijiu.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/gushi-shijiu.epub",
+   "pdBasis": "2nd-century poems; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "dynasty",
+     "id": "han",
+     "label": "Han Dynasty"
+    }
+   ]
+  },
+  {
+   "bookId": "shuyuci",
+   "revision": 1,
+   "title": "漱玉词",
+   "titleTraditional": "漱玉詞",
+   "titlePinyin": "Shùyù Cí",
+   "titleEnglish": "The Shuyu Ci",
+   "author": "李清照",
+   "authorPinyin": "Lǐ Qīngzhào",
+   "authorEnglish": "Li Qingzhao",
+   "era": "12th c. · Song",
+   "genre": "poetry",
+   "tier": "poetry",
+   "difficulty": 4,
+   "classical": true,
+   "free": false,
+   "freeChapters": [],
+   "blurb": "The collected ci of China's greatest woman poet. Early poems of wine and plum blossom; later ones written after war took her husband, her home and her collection. Song lyrics, so the rhythm is looser and closer to speech than Tang verse.",
+   "chapters": 46,
+   "chars": 3403,
+   "bytes": 307134,
+   "sha256": "9b6eceaab3165bc3",
+   "minApp": "3.2",
+   "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/books/shuyuci.jpg",
+   "url": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/books/shuyuci.epub",
+   "pdBasis": "12th-century poems; long out of copyright worldwide.",
+   "sourceNote": "Public-domain text, re-typeset for Hanyu.",
+   "links": [
+    {
+     "type": "dynasty",
+     "id": "song",
+     "label": "Song Dynasty"
+    }
+   ]
   }
  ]
 }

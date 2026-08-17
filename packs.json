@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-07-20",
+  "generated": "2026-08-17",
   "packs": [
     {
       "revision": 1,
@@ -12965,6 +12965,709 @@
                   "She said nothing"
                 ],
                 "correct": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "back-to-school",
+      "name": "Back to School",
+      "icon": "school",
+      "releaseDate": "2026-08-17",
+      "minApp": "2.0",
+      "whatsNew": "New term, new words — three picture-flashcard decks (In the Classroom, School Subjects, Study & Exams) plus three graded stories: the first day back, the night before a maths exam and sports day.",
+      "content": {
+        "flashcardDecks": [
+          {
+            "id": "classroom",
+            "title": "In the Classroom",
+            "titleCn": "教室",
+            "icon": "chalkboard-teacher",
+            "grad": "linear-gradient(135deg,#38bdf8,#0369a1)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/classroom/",
+            "cards": [
+              {
+                "hanzi": "教室",
+                "pinyin": "jiàoshì",
+                "meaning": "classroom"
+              },
+              {
+                "hanzi": "黑板",
+                "pinyin": "hēibǎn",
+                "meaning": "blackboard"
+              },
+              {
+                "hanzi": "粉笔",
+                "pinyin": "fěnbǐ",
+                "meaning": "chalk"
+              },
+              {
+                "hanzi": "讲台",
+                "pinyin": "jiǎngtái",
+                "meaning": "teacher's lectern"
+              },
+              {
+                "hanzi": "课桌",
+                "pinyin": "kèzhuō",
+                "meaning": "school desk"
+              },
+              {
+                "hanzi": "课本",
+                "pinyin": "kèběn",
+                "meaning": "textbook"
+              },
+              {
+                "hanzi": "校服",
+                "pinyin": "xiàofú",
+                "meaning": "school uniform"
+              },
+              {
+                "hanzi": "校车",
+                "pinyin": "xiàochē",
+                "meaning": "school bus"
+              },
+              {
+                "hanzi": "操场",
+                "pinyin": "cāochǎng",
+                "meaning": "sports field; playground"
+              },
+              {
+                "hanzi": "食堂",
+                "pinyin": "shítáng",
+                "meaning": "canteen"
+              },
+              {
+                "hanzi": "宿舍",
+                "pinyin": "sùshè",
+                "meaning": "dormitory"
+              },
+              {
+                "hanzi": "实验室",
+                "pinyin": "shíyànshì",
+                "meaning": "laboratory"
+              },
+              {
+                "hanzi": "同学",
+                "pinyin": "tóngxué",
+                "meaning": "classmate"
+              },
+              {
+                "hanzi": "校长",
+                "pinyin": "xiàozhǎng",
+                "meaning": "head teacher; principal"
+              },
+              {
+                "hanzi": "储物柜",
+                "pinyin": "chǔwùguì",
+                "meaning": "locker"
+              }
+            ]
+          },
+          {
+            "id": "subjects",
+            "title": "School Subjects",
+            "titleCn": "科目",
+            "icon": "book-open",
+            "grad": "linear-gradient(135deg,#a78bfa,#6d28d9)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/subjects/",
+            "cards": [
+              {
+                "hanzi": "数学",
+                "pinyin": "shùxué",
+                "meaning": "maths"
+              },
+              {
+                "hanzi": "语文",
+                "pinyin": "yǔwén",
+                "meaning": "Chinese (language & literature)"
+              },
+              {
+                "hanzi": "英语",
+                "pinyin": "yīngyǔ",
+                "meaning": "English"
+              },
+              {
+                "hanzi": "历史",
+                "pinyin": "lìshǐ",
+                "meaning": "history"
+              },
+              {
+                "hanzi": "地理",
+                "pinyin": "dìlǐ",
+                "meaning": "geography"
+              },
+              {
+                "hanzi": "物理",
+                "pinyin": "wùlǐ",
+                "meaning": "physics"
+              },
+              {
+                "hanzi": "化学",
+                "pinyin": "huàxué",
+                "meaning": "chemistry"
+              },
+              {
+                "hanzi": "生物",
+                "pinyin": "shēngwù",
+                "meaning": "biology"
+              },
+              {
+                "hanzi": "体育",
+                "pinyin": "tǐyù",
+                "meaning": "PE; sport"
+              },
+              {
+                "hanzi": "美术",
+                "pinyin": "měishù",
+                "meaning": "art"
+              },
+              {
+                "hanzi": "音乐",
+                "pinyin": "yīnyuè",
+                "meaning": "music"
+              },
+              {
+                "hanzi": "计算机",
+                "pinyin": "jìsuànjī",
+                "meaning": "computing; IT"
+              }
+            ]
+          },
+          {
+            "id": "exams",
+            "title": "Study & Exams",
+            "titleCn": "学习考试",
+            "icon": "graduation-cap",
+            "grad": "linear-gradient(135deg,#fb923c,#c2410c)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/exams/",
+            "cards": [
+              {
+                "hanzi": "作业",
+                "pinyin": "zuòyè",
+                "meaning": "homework"
+              },
+              {
+                "hanzi": "考试",
+                "pinyin": "kǎoshì",
+                "meaning": "exam"
+              },
+              {
+                "hanzi": "成绩单",
+                "pinyin": "chéngjìdān",
+                "meaning": "report card"
+              },
+              {
+                "hanzi": "复习",
+                "pinyin": "fùxí",
+                "meaning": "to revise"
+              },
+              {
+                "hanzi": "课程表",
+                "pinyin": "kèchéngbiǎo",
+                "meaning": "timetable"
+              },
+              {
+                "hanzi": "字典",
+                "pinyin": "zìdiǎn",
+                "meaning": "dictionary"
+              },
+              {
+                "hanzi": "毕业",
+                "pinyin": "bìyè",
+                "meaning": "to graduate"
+              },
+              {
+                "hanzi": "奖状",
+                "pinyin": "jiǎngzhuàng",
+                "meaning": "award certificate"
+              },
+              {
+                "hanzi": "上课",
+                "pinyin": "shàngkè",
+                "meaning": "to have class"
+              },
+              {
+                "hanzi": "下课",
+                "pinyin": "xiàkè",
+                "meaning": "class ends"
+              },
+              {
+                "hanzi": "请假",
+                "pinyin": "qǐngjià",
+                "meaning": "to ask for leave"
+              },
+              {
+                "hanzi": "开学",
+                "pinyin": "kāixué",
+                "meaning": "term starts"
+              }
+            ]
+          }
+        ],
+        "stories": [
+          {
+            "id": "pack_bts_story_first",
+            "title": "开学第一天",
+            "titlePinyin": "kāixué dì yī tiān",
+            "titleEnglish": "The First Day of Term",
+            "level": 1,
+            "theme": "<i class=\"fas fa-school\" style=\"color:#0369a1\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_bts_story_first.jpg",
+            "sentences": [
+              {
+                "chinese": "今天是开学第一天。",
+                "pinyin": "Jīntiān shì kāixué dì yī tiān.",
+                "english": "Today is the first day of the new term.",
+                "words": [
+                  {
+                    "hanzi": "开学",
+                    "pinyin": "kāixué",
+                    "english": "term starts"
+                  },
+                  {
+                    "hanzi": "第一天",
+                    "pinyin": "dì yī tiān",
+                    "english": "the first day"
+                  }
+                ]
+              },
+              {
+                "chinese": "我穿上新校服，背上书包。",
+                "pinyin": "Wǒ chuān shàng xīn xiàofú, bēi shàng shūbāo.",
+                "english": "I put on my new school uniform and my backpack.",
+                "words": [
+                  {
+                    "hanzi": "穿",
+                    "pinyin": "chuān",
+                    "english": "to wear; to put on"
+                  },
+                  {
+                    "hanzi": "校服",
+                    "pinyin": "xiàofú",
+                    "english": "school uniform"
+                  },
+                  {
+                    "hanzi": "书包",
+                    "pinyin": "shūbāo",
+                    "english": "backpack"
+                  }
+                ]
+              },
+              {
+                "chinese": "校车八点到我家门口。",
+                "pinyin": "Xiàochē bā diǎn dào wǒ jiā ménkǒu.",
+                "english": "The school bus reaches my door at eight.",
+                "words": [
+                  {
+                    "hanzi": "校车",
+                    "pinyin": "xiàochē",
+                    "english": "school bus"
+                  },
+                  {
+                    "hanzi": "门口",
+                    "pinyin": "ménkǒu",
+                    "english": "doorway; entrance"
+                  }
+                ]
+              },
+              {
+                "chinese": "教室里有很多新同学。",
+                "pinyin": "Jiàoshì lǐ yǒu hěn duō xīn tóngxué.",
+                "english": "There are lots of new classmates in the classroom.",
+                "words": [
+                  {
+                    "hanzi": "教室",
+                    "pinyin": "jiàoshì",
+                    "english": "classroom"
+                  },
+                  {
+                    "hanzi": "同学",
+                    "pinyin": "tóngxué",
+                    "english": "classmate"
+                  }
+                ]
+              },
+              {
+                "chinese": "老师在黑板上写字，我们开始上课。",
+                "pinyin": "Lǎoshī zài hēibǎn shàng xiě zì, wǒmen kāishǐ shàngkè.",
+                "english": "The teacher writes on the blackboard and we begin the lesson.",
+                "words": [
+                  {
+                    "hanzi": "黑板",
+                    "pinyin": "hēibǎn",
+                    "english": "blackboard"
+                  },
+                  {
+                    "hanzi": "上课",
+                    "pinyin": "shàngkè",
+                    "english": "to have class"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What is special about today?",
+                "options": [
+                  "It is his birthday",
+                  "It is the first day of the new term",
+                  "It is sports day",
+                  "It is the last day of school"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How does he get to school?",
+                "options": [
+                  "By school bus",
+                  "On foot",
+                  "By bicycle",
+                  "By taxi"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does the teacher do as the lesson begins?",
+                "options": [
+                  "Hands out books",
+                  "Takes a photo",
+                  "Writes on the blackboard",
+                  "Leaves the room"
+                ],
+                "correct": 2
+              }
+            ]
+          },
+          {
+            "id": "pack_bts_story_exam",
+            "title": "明天有考试",
+            "titlePinyin": "míngtiān yǒu kǎoshì",
+            "titleEnglish": "There's an Exam Tomorrow",
+            "level": 2,
+            "theme": "<i class=\"fas fa-pencil-alt\" style=\"color:#c2410c\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_bts_story_exam.jpg",
+            "sentences": [
+              {
+                "chinese": "明天上午有数学考试。",
+                "pinyin": "Míngtiān shàngwǔ yǒu shùxué kǎoshì.",
+                "english": "There is a maths exam tomorrow morning.",
+                "words": [
+                  {
+                    "hanzi": "上午",
+                    "pinyin": "shàngwǔ",
+                    "english": "morning"
+                  },
+                  {
+                    "hanzi": "数学",
+                    "pinyin": "shùxué",
+                    "english": "maths"
+                  },
+                  {
+                    "hanzi": "考试",
+                    "pinyin": "kǎoshì",
+                    "english": "exam"
+                  }
+                ]
+              },
+              {
+                "chinese": "今天下课以后，我留在教室复习。",
+                "pinyin": "Jīntiān xiàkè yǐhòu, wǒ liú zài jiàoshì fùxí.",
+                "english": "After class today I stayed in the classroom to revise.",
+                "words": [
+                  {
+                    "hanzi": "下课",
+                    "pinyin": "xiàkè",
+                    "english": "class ends"
+                  },
+                  {
+                    "hanzi": "以后",
+                    "pinyin": "yǐhòu",
+                    "english": "after"
+                  },
+                  {
+                    "hanzi": "复习",
+                    "pinyin": "fùxí",
+                    "english": "to revise"
+                  }
+                ]
+              },
+              {
+                "chinese": "我的笔记很乱，所以我又写了一遍。",
+                "pinyin": "Wǒ de bǐjì hěn luàn, suǒyǐ wǒ yòu xiěle yí biàn.",
+                "english": "My notes were messy, so I wrote them out again.",
+                "words": [
+                  {
+                    "hanzi": "笔记",
+                    "pinyin": "bǐjì",
+                    "english": "notes"
+                  },
+                  {
+                    "hanzi": "乱",
+                    "pinyin": "luàn",
+                    "english": "messy"
+                  },
+                  {
+                    "hanzi": "一遍",
+                    "pinyin": "yí biàn",
+                    "english": "once through"
+                  }
+                ]
+              },
+              {
+                "chinese": "一个同学问我一道题，我给他讲了三次。",
+                "pinyin": "Yí ge tóngxué wèn wǒ yí dào tí, wǒ gěi tā jiǎngle sān cì.",
+                "english": "A classmate asked me about a question and I explained it to him three times.",
+                "words": [
+                  {
+                    "hanzi": "题",
+                    "pinyin": "tí",
+                    "english": "question; problem"
+                  },
+                  {
+                    "hanzi": "讲",
+                    "pinyin": "jiǎng",
+                    "english": "to explain"
+                  },
+                  {
+                    "hanzi": "次",
+                    "pinyin": "cì",
+                    "english": "time(s)"
+                  }
+                ]
+              },
+              {
+                "chinese": "讲完以后，我自己也明白了。",
+                "pinyin": "Jiǎng wán yǐhòu, wǒ zìjǐ yě míngbai le.",
+                "english": "Once I had finished explaining, I understood it myself too.",
+                "words": [
+                  {
+                    "hanzi": "自己",
+                    "pinyin": "zìjǐ",
+                    "english": "oneself"
+                  },
+                  {
+                    "hanzi": "明白",
+                    "pinyin": "míngbai",
+                    "english": "to understand"
+                  }
+                ]
+              },
+              {
+                "chinese": "第二天，我的成绩是全班第一。",
+                "pinyin": "Dì-èr tiān, wǒ de chéngjì shì quán bān dì yī.",
+                "english": "The next day my result was top of the class.",
+                "words": [
+                  {
+                    "hanzi": "成绩",
+                    "pinyin": "chéngjì",
+                    "english": "grade; result"
+                  },
+                  {
+                    "hanzi": "全班",
+                    "pinyin": "quán bān",
+                    "english": "the whole class"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What subject is the exam in?",
+                "options": [
+                  "Maths",
+                  "Chinese",
+                  "History",
+                  "Biology"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "Why did he write his notes out again?",
+                "options": [
+                  "He lost them",
+                  "The teacher told him to",
+                  "They were messy",
+                  "He had spare time"
+                ],
+                "correct": 2
+              },
+              {
+                "question": "What happened after he explained the question to his classmate?",
+                "options": [
+                  "His classmate failed",
+                  "He understood it himself too",
+                  "He ran out of time",
+                  "He forgot the answer"
+                ],
+                "correct": 1
+              }
+            ]
+          },
+          {
+            "id": "pack_bts_story_sports",
+            "title": "运动会",
+            "titlePinyin": "yùndònghuì",
+            "titleEnglish": "Sports Day",
+            "level": 3,
+            "theme": "<i class=\"fas fa-graduation-cap\" style=\"color:#6d28d9\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_bts_story_sports.jpg",
+            "sentences": [
+              {
+                "chinese": "每年秋天，我们学校都开运动会。",
+                "pinyin": "Měi nián qiūtiān, wǒmen xuéxiào dōu kāi yùndònghuì.",
+                "english": "Every autumn our school holds a sports day.",
+                "words": [
+                  {
+                    "hanzi": "秋天",
+                    "pinyin": "qiūtiān",
+                    "english": "autumn"
+                  },
+                  {
+                    "hanzi": "运动会",
+                    "pinyin": "yùndònghuì",
+                    "english": "sports day; athletics meet"
+                  }
+                ]
+              },
+              {
+                "chinese": "那天没有课，操场上全是学生。",
+                "pinyin": "Nà tiān méiyǒu kè, cāochǎng shàng quán shì xuésheng.",
+                "english": "There are no lessons that day, and the field is packed with students.",
+                "words": [
+                  {
+                    "hanzi": "操场",
+                    "pinyin": "cāochǎng",
+                    "english": "sports field; playground"
+                  },
+                  {
+                    "hanzi": "全是",
+                    "pinyin": "quán shì",
+                    "english": "all; nothing but"
+                  }
+                ]
+              },
+              {
+                "chinese": "我报名参加了八百米。",
+                "pinyin": "Wǒ bàomíng cānjiā le bābǎi mǐ.",
+                "english": "I signed up for the eight hundred metres.",
+                "words": [
+                  {
+                    "hanzi": "报名",
+                    "pinyin": "bàomíng",
+                    "english": "to sign up"
+                  },
+                  {
+                    "hanzi": "参加",
+                    "pinyin": "cānjiā",
+                    "english": "to take part in"
+                  },
+                  {
+                    "hanzi": "米",
+                    "pinyin": "mǐ",
+                    "english": "metre"
+                  }
+                ]
+              },
+              {
+                "chinese": "我不是跑得最快的，可是我一直没有停。",
+                "pinyin": "Wǒ bú shì pǎo de zuì kuài de, kěshì wǒ yìzhí méiyǒu tíng.",
+                "english": "I am not the fastest runner, but I never once stopped.",
+                "words": [
+                  {
+                    "hanzi": "跑",
+                    "pinyin": "pǎo",
+                    "english": "to run"
+                  },
+                  {
+                    "hanzi": "一直",
+                    "pinyin": "yìzhí",
+                    "english": "all along; continuously"
+                  },
+                  {
+                    "hanzi": "停",
+                    "pinyin": "tíng",
+                    "english": "to stop"
+                  }
+                ]
+              },
+              {
+                "chinese": "到最后一圈，全班都在喊我的名字。",
+                "pinyin": "Dào zuìhòu yì quān, quán bān dōu zài hǎn wǒ de míngzi.",
+                "english": "By the last lap the whole class was shouting my name.",
+                "words": [
+                  {
+                    "hanzi": "圈",
+                    "pinyin": "quān",
+                    "english": "lap; circle"
+                  },
+                  {
+                    "hanzi": "喊",
+                    "pinyin": "hǎn",
+                    "english": "to shout"
+                  },
+                  {
+                    "hanzi": "名字",
+                    "pinyin": "míngzi",
+                    "english": "name"
+                  }
+                ]
+              },
+              {
+                "chinese": "我得了第三名，校长把奖状给了我。",
+                "pinyin": "Wǒ dé le dì sān míng, xiàozhǎng bǎ jiǎngzhuàng gěi le wǒ.",
+                "english": "I came third, and the head teacher handed me the certificate.",
+                "words": [
+                  {
+                    "hanzi": "第三名",
+                    "pinyin": "dì sān míng",
+                    "english": "third place"
+                  },
+                  {
+                    "hanzi": "校长",
+                    "pinyin": "xiàozhǎng",
+                    "english": "head teacher; principal"
+                  },
+                  {
+                    "hanzi": "奖状",
+                    "pinyin": "jiǎngzhuàng",
+                    "english": "award certificate"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "When does the school hold its sports day?",
+                "options": [
+                  "Every spring",
+                  "Every autumn",
+                  "Every summer",
+                  "Every winter"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "Which event did the narrator sign up for?",
+                "options": [
+                  "The 800 metres",
+                  "The high jump",
+                  "The relay",
+                  "Basketball"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What did the head teacher give the narrator?",
+                "options": [
+                  "A medal",
+                  "A trophy",
+                  "An award certificate",
+                  "A new pair of shoes"
+                ],
+                "correct": 2
               }
             ]
           }

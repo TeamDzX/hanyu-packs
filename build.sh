@@ -23,6 +23,7 @@ ORDER=(
   flashcards-vol-4
   flashcards-vol-5
   hearts-feelings
+  back-to-school
   street-smart
   tone-master
   parrot-talk

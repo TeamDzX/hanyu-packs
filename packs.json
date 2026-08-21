@@ -9197,7 +9197,7 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "stories-vol-7",
       "name": "New Stories · Vol. 7",
       "icon": "book-open",
@@ -9403,9 +9403,9 @@
                     "english": "weekend"
                   },
                   {
-                    "hanzi": "上课",
-                    "pinyin": "shàngkè",
-                    "english": "to attend class"
+                    "hanzi": "上",
+                    "pinyin": "shàng",
+                    "english": "to attend (a class)"
                   },
                   {
                     "hanzi": "烹饪",
@@ -14386,6 +14386,644 @@
                   "They were sold"
                 ],
                 "correct": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "prepare-for-china",
+      "name": "Prepare for China",
+      "icon": "plane-departure",
+      "releaseDate": "2026-08-21",
+      "minApp": "2.0",
+      "whatsNew": "Everything you wish you had known before the flight — two picture-flashcard decks (Apps on Your Phone, Before You Go) and three graded stories that walk you through packing, landing and getting around a Chinese city on your phone.",
+      "content": {
+        "flashcardDecks": [
+          {
+            "id": "travel-apps",
+            "title": "Apps on Your Phone",
+            "titleCn": "手机必备",
+            "icon": "mobile-screen",
+            "grad": "linear-gradient(135deg,#38bdf8,#0369a1)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/travel-apps/",
+            "cards": [
+              {
+                "hanzi": "二维码",
+                "pinyin": "èrwéimǎ",
+                "meaning": "QR code"
+              },
+              {
+                "hanzi": "微信",
+                "pinyin": "Wēixìn",
+                "meaning": "WeChat"
+              },
+              {
+                "hanzi": "支付宝",
+                "pinyin": "Zhīfùbǎo",
+                "meaning": "Alipay"
+              },
+              {
+                "hanzi": "扫码",
+                "pinyin": "sǎomǎ",
+                "meaning": "to scan a code"
+              },
+              {
+                "hanzi": "付款码",
+                "pinyin": "fùkuǎnmǎ",
+                "meaning": "payment code"
+              },
+              {
+                "hanzi": "实名认证",
+                "pinyin": "shímíng rènzhèng",
+                "meaning": "real-name verification"
+              },
+              {
+                "hanzi": "高德地图",
+                "pinyin": "Gāodé Dìtú",
+                "meaning": "Amap (maps app)"
+              },
+              {
+                "hanzi": "滴滴出行",
+                "pinyin": "Dīdī Chūxíng",
+                "meaning": "Didi (ride-hailing)"
+              },
+              {
+                "hanzi": "大众点评",
+                "pinyin": "Dàzhòng Diǎnpíng",
+                "meaning": "Dianping (reviews)"
+              },
+              {
+                "hanzi": "美团",
+                "pinyin": "Měituán",
+                "meaning": "Meituan (delivery)"
+              },
+              {
+                "hanzi": "携程",
+                "pinyin": "Xiéchéng",
+                "meaning": "Ctrip / Trip.com (booking)"
+              },
+              {
+                "hanzi": "淘宝",
+                "pinyin": "Táobǎo",
+                "meaning": "Taobao (shopping)"
+              },
+              {
+                "hanzi": "小红书",
+                "pinyin": "Xiǎohóngshū",
+                "meaning": "Xiaohongshu (lifestyle app)"
+              },
+              {
+                "hanzi": "导航",
+                "pinyin": "dǎoháng",
+                "meaning": "navigation"
+              }
+            ]
+          },
+          {
+            "id": "trip-prep",
+            "title": "Before You Go",
+            "titleCn": "行前准备",
+            "icon": "suitcase-rolling",
+            "grad": "linear-gradient(135deg,#fbbf24,#b45309)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/trip-prep/",
+            "cards": [
+              {
+                "hanzi": "护照",
+                "pinyin": "hùzhào",
+                "meaning": "passport"
+              },
+              {
+                "hanzi": "登机牌",
+                "pinyin": "dēngjīpái",
+                "meaning": "boarding pass"
+              },
+              {
+                "hanzi": "行李箱",
+                "pinyin": "xínglǐxiāng",
+                "meaning": "suitcase"
+              },
+              {
+                "hanzi": "入境",
+                "pinyin": "rùjìng",
+                "meaning": "to enter a country; immigration"
+              },
+              {
+                "hanzi": "海关",
+                "pinyin": "hǎiguān",
+                "meaning": "customs"
+              },
+              {
+                "hanzi": "手机号",
+                "pinyin": "shǒujīhào",
+                "meaning": "mobile number"
+              },
+              {
+                "hanzi": "流量",
+                "pinyin": "liúliàng",
+                "meaning": "mobile data"
+              },
+              {
+                "hanzi": "转换插头",
+                "pinyin": "zhuǎnhuàn chātóu",
+                "meaning": "adapter plug"
+              },
+              {
+                "hanzi": "换钱",
+                "pinyin": "huànqián",
+                "meaning": "to change money"
+              },
+              {
+                "hanzi": "汇率",
+                "pinyin": "huìlǜ",
+                "meaning": "exchange rate"
+              },
+              {
+                "hanzi": "订房",
+                "pinyin": "dìngfáng",
+                "meaning": "to book a room"
+              },
+              {
+                "hanzi": "退房",
+                "pinyin": "tuìfáng",
+                "meaning": "to check out"
+              }
+            ]
+          }
+        ],
+        "stories": [
+          {
+            "id": "pack_pfc_story_before",
+            "title": "出发前的准备",
+            "titlePinyin": "chūfā qián de zhǔnbèi",
+            "titleEnglish": "Getting Ready to Go",
+            "level": 1,
+            "theme": "<i class=\"fas fa-suitcase-rolling\" style=\"color:#0369a1\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_pfc_story_before.jpg",
+            "sentences": [
+              {
+                "chinese": "下个月我要去中国旅行。",
+                "pinyin": "Xià gè yuè wǒ yào qù Zhōngguó lǚxíng.",
+                "english": "Next month I am going to travel to China.",
+                "words": [
+                  {
+                    "hanzi": "下个月",
+                    "pinyin": "xià gè yuè",
+                    "english": "next month"
+                  },
+                  {
+                    "hanzi": "旅行",
+                    "pinyin": "lǚxíng",
+                    "english": "to travel"
+                  }
+                ]
+              },
+              {
+                "chinese": "我先检查护照，还买了保险。",
+                "pinyin": "Wǒ xiān jiǎnchá hùzhào, hái mǎi le bǎoxiǎn.",
+                "english": "First I check my passport, and I also buy insurance.",
+                "words": [
+                  {
+                    "hanzi": "检查",
+                    "pinyin": "jiǎnchá",
+                    "english": "to check"
+                  },
+                  {
+                    "hanzi": "护照",
+                    "pinyin": "hùzhào",
+                    "english": "passport"
+                  },
+                  {
+                    "hanzi": "保险",
+                    "pinyin": "bǎoxiǎn",
+                    "english": "insurance"
+                  }
+                ]
+              },
+              {
+                "chinese": "朋友说：“在中国，手机比钱包重要。”",
+                "pinyin": "Péngyou shuō: “Zài Zhōngguó, shǒujī bǐ qiánbāo zhòngyào.”",
+                "english": "A friend says: “In China, your phone matters more than your wallet.”",
+                "words": [
+                  {
+                    "hanzi": "手机",
+                    "pinyin": "shǒujī",
+                    "english": "mobile phone"
+                  },
+                  {
+                    "hanzi": "钱包",
+                    "pinyin": "qiánbāo",
+                    "english": "wallet"
+                  },
+                  {
+                    "hanzi": "重要",
+                    "pinyin": "zhòngyào",
+                    "english": "important"
+                  }
+                ]
+              },
+              {
+                "chinese": "所以我先下载了微信和支付宝。",
+                "pinyin": "Suǒyǐ wǒ xiān xiàzài le Wēixìn hé Zhīfùbǎo.",
+                "english": "So I download WeChat and Alipay first.",
+                "words": [
+                  {
+                    "hanzi": "下载",
+                    "pinyin": "xiàzài",
+                    "english": "to download"
+                  },
+                  {
+                    "hanzi": "微信",
+                    "pinyin": "Wēixìn",
+                    "english": "WeChat"
+                  },
+                  {
+                    "hanzi": "支付宝",
+                    "pinyin": "Zhīfùbǎo",
+                    "english": "Alipay"
+                  }
+                ]
+              },
+              {
+                "chinese": "我还带了一个转换插头。",
+                "pinyin": "Wǒ hái dài le yí gè zhuǎnhuàn chātóu.",
+                "english": "I also bring an adapter plug.",
+                "words": [
+                  {
+                    "hanzi": "带",
+                    "pinyin": "dài",
+                    "english": "to bring"
+                  },
+                  {
+                    "hanzi": "转换插头",
+                    "pinyin": "zhuǎnhuàn chātóu",
+                    "english": "adapter plug"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "When is the trip?",
+                "options": [
+                  "Next week",
+                  "Next month",
+                  "Next year",
+                  "Tomorrow"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "What does the friend say is more important than a wallet?",
+                "options": [
+                  "A map",
+                  "A passport",
+                  "A phone",
+                  "A camera"
+                ],
+                "correct": 2
+              },
+              {
+                "question": "Which two apps are downloaded before the trip?",
+                "options": [
+                  "WeChat and Alipay",
+                  "Taobao and Meituan",
+                  "Didi and Amap",
+                  "Ctrip and Dianping"
+                ],
+                "correct": 0
+              }
+            ]
+          },
+          {
+            "id": "pack_pfc_story_arrive",
+            "title": "到了中国",
+            "titlePinyin": "dào le Zhōngguó",
+            "titleEnglish": "Landing in China",
+            "level": 2,
+            "theme": "<i class=\"fas fa-plane-arrival\" style=\"color:#059669\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_pfc_story_arrive.jpg",
+            "sentences": [
+              {
+                "chinese": "飞机降落以后，我先去入境检查。",
+                "pinyin": "Fēijī jiàngluò yǐhòu, wǒ xiān qù rùjìng jiǎnchá.",
+                "english": "After the plane lands, I go to immigration first.",
+                "words": [
+                  {
+                    "hanzi": "降落",
+                    "pinyin": "jiàngluò",
+                    "english": "to land"
+                  },
+                  {
+                    "hanzi": "入境",
+                    "pinyin": "rùjìng",
+                    "english": "to enter the country"
+                  }
+                ]
+              },
+              {
+                "chinese": "工作人员看了我的护照，问我住哪里。",
+                "pinyin": "Gōngzuò rényuán kàn le wǒ de hùzhào, wèn wǒ zhù nǎlǐ.",
+                "english": "The officer looks at my passport and asks where I am staying.",
+                "words": [
+                  {
+                    "hanzi": "工作人员",
+                    "pinyin": "gōngzuò rényuán",
+                    "english": "staff member; officer"
+                  },
+                  {
+                    "hanzi": "住",
+                    "pinyin": "zhù",
+                    "english": "to stay"
+                  }
+                ]
+              },
+              {
+                "chinese": "过了海关，我在机场买了一张电话卡。",
+                "pinyin": "Guò le hǎiguān, wǒ zài jīchǎng mǎi le yì zhāng diànhuàkǎ.",
+                "english": "After customs, I buy a SIM card at the airport.",
+                "words": [
+                  {
+                    "hanzi": "海关",
+                    "pinyin": "hǎiguān",
+                    "english": "customs"
+                  },
+                  {
+                    "hanzi": "机场",
+                    "pinyin": "jīchǎng",
+                    "english": "airport"
+                  },
+                  {
+                    "hanzi": "电话卡",
+                    "pinyin": "diànhuàkǎ",
+                    "english": "SIM card"
+                  }
+                ]
+              },
+              {
+                "chinese": "有了手机号，我才能用支付宝付钱。",
+                "pinyin": "Yǒu le shǒujīhào, wǒ cái néng yòng Zhīfùbǎo fù qián.",
+                "english": "Only once I have a mobile number can I pay with Alipay.",
+                "words": [
+                  {
+                    "hanzi": "手机号",
+                    "pinyin": "shǒujīhào",
+                    "english": "mobile number"
+                  },
+                  {
+                    "hanzi": "才",
+                    "pinyin": "cái",
+                    "english": "only then"
+                  },
+                  {
+                    "hanzi": "付钱",
+                    "pinyin": "fù qián",
+                    "english": "to pay"
+                  }
+                ]
+              },
+              {
+                "chinese": "我在便利店买水，扫了一下二维码。",
+                "pinyin": "Wǒ zài biànlìdiàn mǎi shuǐ, sǎo le yíxià èrwéimǎ.",
+                "english": "I buy water at a convenience store and scan the QR code.",
+                "words": [
+                  {
+                    "hanzi": "便利店",
+                    "pinyin": "biànlìdiàn",
+                    "english": "convenience store"
+                  },
+                  {
+                    "hanzi": "扫",
+                    "pinyin": "sǎo",
+                    "english": "to scan"
+                  },
+                  {
+                    "hanzi": "二维码",
+                    "pinyin": "èrwéimǎ",
+                    "english": "QR code"
+                  }
+                ]
+              },
+              {
+                "chinese": "一秒钟就付好了，真方便！",
+                "pinyin": "Yì miǎozhōng jiù fù hǎo le, zhēn fāngbiàn!",
+                "english": "It is paid in one second — so convenient!",
+                "words": [
+                  {
+                    "hanzi": "一秒钟",
+                    "pinyin": "yì miǎozhōng",
+                    "english": "one second"
+                  },
+                  {
+                    "hanzi": "方便",
+                    "pinyin": "fāngbiàn",
+                    "english": "convenient"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What does the officer ask?",
+                "options": [
+                  "Where he is staying",
+                  "How long he will stay",
+                  "What he does for work",
+                  "How much money he has"
+                ],
+                "correct": 0
+              },
+              {
+                "question": "What does he buy at the airport?",
+                "options": [
+                  "A map",
+                  "A SIM card",
+                  "A suitcase",
+                  "A guidebook"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "Why does he need a mobile number?",
+                "options": [
+                  "To call his family",
+                  "To book a hotel",
+                  "To pay with Alipay",
+                  "To get a taxi"
+                ],
+                "correct": 2
+              }
+            ]
+          },
+          {
+            "id": "pack_pfc_story_around",
+            "title": "在城市里",
+            "titlePinyin": "zài chéngshì lǐ",
+            "titleEnglish": "Getting Around the City",
+            "level": 3,
+            "theme": "<i class=\"fas fa-map-location-dot\" style=\"color:#b45309\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_pfc_story_around.jpg",
+            "sentences": [
+              {
+                "chinese": "第二天早上，我想去一家老字号吃早饭。",
+                "pinyin": "Dì èr tiān zǎoshang, wǒ xiǎng qù yì jiā lǎozìhào chī zǎofàn.",
+                "english": "The next morning I want to go to a time-honoured old restaurant for breakfast.",
+                "words": [
+                  {
+                    "hanzi": "第二天",
+                    "pinyin": "dì èr tiān",
+                    "english": "the next day"
+                  },
+                  {
+                    "hanzi": "老字号",
+                    "pinyin": "lǎozìhào",
+                    "english": "time-honoured old brand"
+                  },
+                  {
+                    "hanzi": "早饭",
+                    "pinyin": "zǎofàn",
+                    "english": "breakfast"
+                  }
+                ]
+              },
+              {
+                "chinese": "我用大众点评找到了附近评分最高的店。",
+                "pinyin": "Wǒ yòng Dàzhòng Diǎnpíng zhǎodào le fùjìn píngfēn zuì gāo de diàn.",
+                "english": "Using Dianping I find the highest-rated place nearby.",
+                "words": [
+                  {
+                    "hanzi": "大众点评",
+                    "pinyin": "Dàzhòng Diǎnpíng",
+                    "english": "Dianping (reviews app)"
+                  },
+                  {
+                    "hanzi": "附近",
+                    "pinyin": "fùjìn",
+                    "english": "nearby"
+                  },
+                  {
+                    "hanzi": "评分",
+                    "pinyin": "píngfēn",
+                    "english": "rating"
+                  }
+                ]
+              },
+              {
+                "chinese": "吃完以后，我打开高德地图看怎么走。",
+                "pinyin": "Chī wán yǐhòu, wǒ dǎkāi Gāodé Dìtú kàn zěnme zǒu.",
+                "english": "After eating, I open Amap to see how to get there.",
+                "words": [
+                  {
+                    "hanzi": "高德地图",
+                    "pinyin": "Gāodé Dìtú",
+                    "english": "Amap (maps app)"
+                  },
+                  {
+                    "hanzi": "怎么走",
+                    "pinyin": "zěnme zǒu",
+                    "english": "how to get there"
+                  }
+                ]
+              },
+              {
+                "chinese": "路有点远，所以我用滴滴出行叫了一辆车。",
+                "pinyin": "Lù yǒudiǎn yuǎn, suǒyǐ wǒ yòng Dīdī Chūxíng jiào le yí liàng chē.",
+                "english": "The way is a bit far, so I use Didi to call a car.",
+                "words": [
+                  {
+                    "hanzi": "远",
+                    "pinyin": "yuǎn",
+                    "english": "far"
+                  },
+                  {
+                    "hanzi": "滴滴出行",
+                    "pinyin": "Dīdī Chūxíng",
+                    "english": "Didi (ride-hailing app)"
+                  },
+                  {
+                    "hanzi": "叫",
+                    "pinyin": "jiào",
+                    "english": "to call; to hail"
+                  }
+                ]
+              },
+              {
+                "chinese": "司机三分钟就到了，我在车上看着窗外的城市。",
+                "pinyin": "Sījī sān fēnzhōng jiù dào le, wǒ zài chē shàng kàn zhe chuāng wài de chéngshì.",
+                "english": "The driver arrives in three minutes, and I watch the city go by from the car.",
+                "words": [
+                  {
+                    "hanzi": "司机",
+                    "pinyin": "sījī",
+                    "english": "driver"
+                  },
+                  {
+                    "hanzi": "窗外",
+                    "pinyin": "chuāng wài",
+                    "english": "outside the window"
+                  },
+                  {
+                    "hanzi": "城市",
+                    "pinyin": "chéngshì",
+                    "english": "city"
+                  }
+                ]
+              },
+              {
+                "chinese": "出门一整天，我一次现金都没有用。",
+                "pinyin": "Chūmén yì zhěng tiān, wǒ yí cì xiànjīn dōu méiyǒu yòng.",
+                "english": "Out all day, and I did not use cash once.",
+                "words": [
+                  {
+                    "hanzi": "出门",
+                    "pinyin": "chūmén",
+                    "english": "to go out"
+                  },
+                  {
+                    "hanzi": "一整天",
+                    "pinyin": "yì zhěng tiān",
+                    "english": "a whole day"
+                  },
+                  {
+                    "hanzi": "现金",
+                    "pinyin": "xiànjīn",
+                    "english": "cash"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "How does he find somewhere to eat?",
+                "options": [
+                  "He asks the hotel",
+                  "He uses Dianping",
+                  "He walks around looking",
+                  "A friend recommends it"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "Why does he call a car?",
+                "options": [
+                  "It is raining",
+                  "He is late",
+                  "The way is a bit far",
+                  "He has heavy bags"
+                ],
+                "correct": 2
+              },
+              {
+                "question": "What is notable about his whole day out?",
+                "options": [
+                  "He never used cash",
+                  "He never used his phone",
+                  "He walked everywhere",
+                  "He got lost twice"
+                ],
+                "correct": 0
               }
             ]
           }

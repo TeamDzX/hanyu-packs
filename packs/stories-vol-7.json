@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "packId": "stories-vol-7",
   "name": "New Stories · Vol. 7",
   "icon": "book-open",
@@ -205,9 +205,9 @@
                 "english": "weekend"
               },
               {
-                "hanzi": "上课",
-                "pinyin": "shàngkè",
-                "english": "to attend class"
+                "hanzi": "上",
+                "pinyin": "shàng",
+                "english": "to attend (a class)"
               },
               {
                 "hanzi": "烹饪",

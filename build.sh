@@ -25,6 +25,7 @@ ORDER=(
   hearts-feelings
   back-to-school
   bugs-butterflies
+  prepare-for-china
   street-smart
   tone-master
   parrot-talk

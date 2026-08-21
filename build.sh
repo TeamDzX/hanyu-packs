@@ -24,6 +24,7 @@ ORDER=(
   flashcards-vol-5
   hearts-feelings
   back-to-school
+  bugs-butterflies
   street-smart
   tone-master
   parrot-talk

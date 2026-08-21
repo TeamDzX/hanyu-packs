@@ -1,0 +1,718 @@
+{
+  "revision": 1,
+  "packId": "bugs-butterflies",
+  "name": "Bugs & Butterflies",
+  "icon": "bug",
+  "releaseDate": "2026-08-21",
+  "minApp": "2.0",
+  "whatsNew": "Get up close — three picture-flashcard decks (Insects, Garden Minibeasts, Bug Life) plus three graded stories: fireflies on a summer night, a bee loose in the classroom and a spring spent raising silkworms.",
+  "content": {
+    "flashcardDecks": [
+      {
+        "id": "insects",
+        "title": "Insects",
+        "titleCn": "昆虫",
+        "icon": "locust",
+        "grad": "linear-gradient(135deg,#4ade80,#15803d)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/insects/",
+        "cards": [
+          {
+            "hanzi": "昆虫",
+            "pinyin": "kūnchóng",
+            "meaning": "insect"
+          },
+          {
+            "hanzi": "蝴蝶",
+            "pinyin": "húdié",
+            "meaning": "butterfly"
+          },
+          {
+            "hanzi": "蜜蜂",
+            "pinyin": "mìfēng",
+            "meaning": "bee"
+          },
+          {
+            "hanzi": "蚂蚁",
+            "pinyin": "mǎyǐ",
+            "meaning": "ant"
+          },
+          {
+            "hanzi": "蜻蜓",
+            "pinyin": "qīngtíng",
+            "meaning": "dragonfly"
+          },
+          {
+            "hanzi": "瓢虫",
+            "pinyin": "piáochóng",
+            "meaning": "ladybird; ladybug"
+          },
+          {
+            "hanzi": "甲虫",
+            "pinyin": "jiǎchóng",
+            "meaning": "beetle"
+          },
+          {
+            "hanzi": "蝉",
+            "pinyin": "chán",
+            "meaning": "cicada"
+          },
+          {
+            "hanzi": "蚱蜢",
+            "pinyin": "zhàměng",
+            "meaning": "grasshopper"
+          },
+          {
+            "hanzi": "蟋蟀",
+            "pinyin": "xīshuài",
+            "meaning": "cricket"
+          },
+          {
+            "hanzi": "萤火虫",
+            "pinyin": "yínghuǒchóng",
+            "meaning": "firefly"
+          },
+          {
+            "hanzi": "飞蛾",
+            "pinyin": "fēi'é",
+            "meaning": "moth"
+          },
+          {
+            "hanzi": "蚊子",
+            "pinyin": "wénzi",
+            "meaning": "mosquito"
+          },
+          {
+            "hanzi": "苍蝇",
+            "pinyin": "cāngyíng",
+            "meaning": "fly"
+          },
+          {
+            "hanzi": "蟑螂",
+            "pinyin": "zhāngláng",
+            "meaning": "cockroach"
+          }
+        ]
+      },
+      {
+        "id": "minibeasts",
+        "title": "Garden Minibeasts",
+        "titleCn": "花园小虫",
+        "icon": "spider",
+        "grad": "linear-gradient(135deg,#fbbf24,#b45309)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/minibeasts/",
+        "cards": [
+          {
+            "hanzi": "蜘蛛",
+            "pinyin": "zhīzhū",
+            "meaning": "spider"
+          },
+          {
+            "hanzi": "蜘蛛网",
+            "pinyin": "zhīzhūwǎng",
+            "meaning": "spider's web"
+          },
+          {
+            "hanzi": "蜗牛",
+            "pinyin": "wōniú",
+            "meaning": "snail"
+          },
+          {
+            "hanzi": "蚯蚓",
+            "pinyin": "qiūyǐn",
+            "meaning": "earthworm"
+          },
+          {
+            "hanzi": "毛毛虫",
+            "pinyin": "máomaochóng",
+            "meaning": "caterpillar"
+          },
+          {
+            "hanzi": "蚕",
+            "pinyin": "cán",
+            "meaning": "silkworm"
+          },
+          {
+            "hanzi": "蜈蚣",
+            "pinyin": "wúgōng",
+            "meaning": "centipede"
+          },
+          {
+            "hanzi": "蝎子",
+            "pinyin": "xiēzi",
+            "meaning": "scorpion"
+          },
+          {
+            "hanzi": "螳螂",
+            "pinyin": "tángláng",
+            "meaning": "praying mantis"
+          },
+          {
+            "hanzi": "黄蜂",
+            "pinyin": "huángfēng",
+            "meaning": "wasp"
+          },
+          {
+            "hanzi": "白蚁",
+            "pinyin": "báiyǐ",
+            "meaning": "termite"
+          },
+          {
+            "hanzi": "蝌蚪",
+            "pinyin": "kēdǒu",
+            "meaning": "tadpole"
+          }
+        ]
+      },
+      {
+        "id": "bug-life",
+        "title": "Bug Life",
+        "titleCn": "虫子的世界",
+        "icon": "bug",
+        "grad": "linear-gradient(135deg,#22d3ee,#0e7490)",
+        "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/bug-life/",
+        "cards": [
+          {
+            "hanzi": "翅膀",
+            "pinyin": "chìbǎng",
+            "meaning": "wing"
+          },
+          {
+            "hanzi": "触角",
+            "pinyin": "chùjiǎo",
+            "meaning": "antenna; feeler"
+          },
+          {
+            "hanzi": "蜂巢",
+            "pinyin": "fēngcháo",
+            "meaning": "honeycomb; beehive"
+          },
+          {
+            "hanzi": "蜂蜜",
+            "pinyin": "fēngmì",
+            "meaning": "honey"
+          },
+          {
+            "hanzi": "花粉",
+            "pinyin": "huāfěn",
+            "meaning": "pollen"
+          },
+          {
+            "hanzi": "茧",
+            "pinyin": "jiǎn",
+            "meaning": "cocoon"
+          },
+          {
+            "hanzi": "幼虫",
+            "pinyin": "yòuchóng",
+            "meaning": "larva"
+          },
+          {
+            "hanzi": "蚂蚁窝",
+            "pinyin": "mǎyǐwō",
+            "meaning": "anthill; ants' nest"
+          },
+          {
+            "hanzi": "叮",
+            "pinyin": "dīng",
+            "meaning": "to bite; to sting (of an insect)"
+          },
+          {
+            "hanzi": "爬",
+            "pinyin": "pá",
+            "meaning": "to crawl"
+          },
+          {
+            "hanzi": "蚊香",
+            "pinyin": "wénxiāng",
+            "meaning": "mosquito coil"
+          },
+          {
+            "hanzi": "蚊帐",
+            "pinyin": "wénzhàng",
+            "meaning": "mosquito net"
+          }
+        ]
+      }
+    ],
+    "stories": [
+      {
+        "id": "pack_bug_story_firefly",
+        "title": "夏夜的萤火虫",
+        "titlePinyin": "xià yè de yínghuǒchóng",
+        "titleEnglish": "Fireflies on a Summer Night",
+        "level": 1,
+        "theme": "<i class=\"fas fa-star\" style=\"color:#facc15\"></i>",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_bug_story_firefly.jpg",
+        "sentences": [
+          {
+            "chinese": "夏天的晚上，我和妹妹去田边玩。",
+            "pinyin": "Xiàtiān de wǎnshang, wǒ hé mèimei qù tián biān wán.",
+            "english": "On a summer evening, my little sister and I go to play by the fields.",
+            "words": [
+              {
+                "hanzi": "夏天",
+                "pinyin": "xiàtiān",
+                "english": "summer"
+              },
+              {
+                "hanzi": "晚上",
+                "pinyin": "wǎnshang",
+                "english": "evening"
+              },
+              {
+                "hanzi": "田边",
+                "pinyin": "tián biān",
+                "english": "edge of the fields"
+              }
+            ]
+          },
+          {
+            "chinese": "草丛里有很多小小的光。",
+            "pinyin": "Cǎocóng lǐ yǒu hěn duō xiǎoxiǎo de guāng.",
+            "english": "There are lots of tiny lights in the grass.",
+            "words": [
+              {
+                "hanzi": "草丛",
+                "pinyin": "cǎocóng",
+                "english": "clump of grass"
+              },
+              {
+                "hanzi": "光",
+                "pinyin": "guāng",
+                "english": "light"
+              }
+            ]
+          },
+          {
+            "chinese": "那是萤火虫！",
+            "pinyin": "Nà shì yínghuǒchóng!",
+            "english": "They are fireflies!",
+            "words": [
+              {
+                "hanzi": "萤火虫",
+                "pinyin": "yínghuǒchóng",
+                "english": "firefly"
+              }
+            ]
+          },
+          {
+            "chinese": "它们飞起来的时候，像天上的星星。",
+            "pinyin": "Tāmen fēi qǐlái de shíhou, xiàng tiānshàng de xīngxing.",
+            "english": "When they fly up, they look like stars in the sky.",
+            "words": [
+              {
+                "hanzi": "飞",
+                "pinyin": "fēi",
+                "english": "to fly"
+              },
+              {
+                "hanzi": "像",
+                "pinyin": "xiàng",
+                "english": "to look like"
+              },
+              {
+                "hanzi": "星星",
+                "pinyin": "xīngxing",
+                "english": "star"
+              }
+            ]
+          },
+          {
+            "chinese": "我们看了很久，没有抓它们。",
+            "pinyin": "Wǒmen kàn le hěn jiǔ, méiyǒu zhuā tāmen.",
+            "english": "We watched for a long time, and did not catch them.",
+            "words": [
+              {
+                "hanzi": "很久",
+                "pinyin": "hěn jiǔ",
+                "english": "a long time"
+              },
+              {
+                "hanzi": "抓",
+                "pinyin": "zhuā",
+                "english": "to catch"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where do the two children go to play?",
+            "options": [
+              "To the park",
+              "To the edge of the fields",
+              "To the river",
+              "To a friend's house"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What are the little lights in the grass?",
+            "options": [
+              "Torches",
+              "Stars",
+              "Fireflies",
+              "Street lamps"
+            ],
+            "correct": 2
+          },
+          {
+            "question": "What do they do in the end?",
+            "options": [
+              "They catch the fireflies",
+              "They run home",
+              "They just watch them",
+              "They fall asleep"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "id": "pack_bug_story_bee",
+        "title": "教室里的蜜蜂",
+        "titlePinyin": "jiàoshì lǐ de mìfēng",
+        "titleEnglish": "A Bee in the Classroom",
+        "level": 2,
+        "theme": "<i class=\"fas fa-bug\" style=\"color:#f59e0b\"></i>",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_bug_story_bee.jpg",
+        "sentences": [
+          {
+            "chinese": "上课的时候，一只蜜蜂从窗户飞进了教室。",
+            "pinyin": "Shàngkè de shíhou, yì zhī mìfēng cóng chuānghu fēi jìn le jiàoshì.",
+            "english": "During the lesson, a bee flew in through the window.",
+            "words": [
+              {
+                "hanzi": "蜜蜂",
+                "pinyin": "mìfēng",
+                "english": "bee"
+              },
+              {
+                "hanzi": "窗户",
+                "pinyin": "chuānghu",
+                "english": "window"
+              },
+              {
+                "hanzi": "教室",
+                "pinyin": "jiàoshì",
+                "english": "classroom"
+              }
+            ]
+          },
+          {
+            "chinese": "同学们都很紧张，因为大家怕被它叮。",
+            "pinyin": "Tóngxuémen dōu hěn jǐnzhāng, yīnwèi dàjiā pà bèi tā dīng.",
+            "english": "The students were all nervous, because everyone was afraid of being stung.",
+            "words": [
+              {
+                "hanzi": "紧张",
+                "pinyin": "jǐnzhāng",
+                "english": "nervous"
+              },
+              {
+                "hanzi": "怕",
+                "pinyin": "pà",
+                "english": "to be afraid of"
+              },
+              {
+                "hanzi": "叮",
+                "pinyin": "dīng",
+                "english": "to sting (of an insect)"
+              }
+            ]
+          },
+          {
+            "chinese": "老师说：“别动，它只是在找花。”",
+            "pinyin": "Lǎoshī shuō: “Bié dòng, tā zhǐshì zài zhǎo huā.”",
+            "english": "The teacher said: “Don't move, it is only looking for flowers.”",
+            "words": [
+              {
+                "hanzi": "别动",
+                "pinyin": "bié dòng",
+                "english": "don't move"
+              },
+              {
+                "hanzi": "只是",
+                "pinyin": "zhǐshì",
+                "english": "only; merely"
+              },
+              {
+                "hanzi": "找",
+                "pinyin": "zhǎo",
+                "english": "to look for"
+              }
+            ]
+          },
+          {
+            "chinese": "他慢慢地打开了另一扇窗户。",
+            "pinyin": "Tā mànmàn de dǎkāi le lìng yī shàn chuānghu.",
+            "english": "He slowly opened another window.",
+            "words": [
+              {
+                "hanzi": "慢慢地",
+                "pinyin": "mànmàn de",
+                "english": "slowly"
+              },
+              {
+                "hanzi": "打开",
+                "pinyin": "dǎkāi",
+                "english": "to open"
+              },
+              {
+                "hanzi": "另",
+                "pinyin": "lìng",
+                "english": "another"
+              }
+            ]
+          },
+          {
+            "chinese": "蜜蜂在教室里飞了一圈，就飞出去了。",
+            "pinyin": "Mìfēng zài jiàoshì lǐ fēi le yì quān, jiù fēi chūqù le.",
+            "english": "The bee flew one lap around the classroom, then flew out.",
+            "words": [
+              {
+                "hanzi": "一圈",
+                "pinyin": "yì quān",
+                "english": "one lap; a circle"
+              },
+              {
+                "hanzi": "飞出去",
+                "pinyin": "fēi chūqù",
+                "english": "to fly out"
+              }
+            ]
+          },
+          {
+            "chinese": "老师笑着说：“它比你们更想下课。”",
+            "pinyin": "Lǎoshī xiào zhe shuō: “Tā bǐ nǐmen gèng xiǎng xiàkè.”",
+            "english": "The teacher smiled and said: “It wants the lesson to end even more than you do.”",
+            "words": [
+              {
+                "hanzi": "笑",
+                "pinyin": "xiào",
+                "english": "to smile; to laugh"
+              },
+              {
+                "hanzi": "比",
+                "pinyin": "bǐ",
+                "english": "than"
+              },
+              {
+                "hanzi": "下课",
+                "pinyin": "xiàkè",
+                "english": "for class to finish"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "How did the bee get into the classroom?",
+            "options": [
+              "Through the door",
+              "Through the window",
+              "In a student's bag",
+              "Nobody knows"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Why were the students nervous?",
+            "options": [
+              "They were afraid of being stung",
+              "They had a test",
+              "The teacher was angry",
+              "The bee was very big"
+            ],
+            "correct": 0
+          },
+          {
+            "question": "What did the teacher do?",
+            "options": [
+              "He killed the bee",
+              "He called for help",
+              "He slowly opened another window",
+              "He sent everyone outside"
+            ],
+            "correct": 2
+          }
+        ]
+      },
+      {
+        "id": "pack_bug_story_silkworm",
+        "title": "我的蚕宝宝",
+        "titlePinyin": "wǒ de cán bǎobao",
+        "titleEnglish": "My Silkworms",
+        "level": 3,
+        "theme": "<i class=\"fas fa-worm\" style=\"color:#16a34a\"></i>",
+        "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_bug_story_silkworm.jpg",
+        "sentences": [
+          {
+            "chinese": "春天的时候，科学课的老师给我们每人几只蚕。",
+            "pinyin": "Chūntiān de shíhou, kēxué kè de lǎoshī gěi wǒmen měi rén jǐ zhī cán.",
+            "english": "In spring, our science teacher gave each of us a few silkworms.",
+            "words": [
+              {
+                "hanzi": "科学课",
+                "pinyin": "kēxué kè",
+                "english": "science class"
+              },
+              {
+                "hanzi": "每人",
+                "pinyin": "měi rén",
+                "english": "each person"
+              },
+              {
+                "hanzi": "蚕",
+                "pinyin": "cán",
+                "english": "silkworm"
+              }
+            ]
+          },
+          {
+            "chinese": "我把它们放在一个纸盒子里，每天喂新鲜的桑叶。",
+            "pinyin": "Wǒ bǎ tāmen fàng zài yí gè zhǐ hézi lǐ, měitiān wèi xīnxiān de sāngyè.",
+            "english": "I put them in a paper box and fed them fresh mulberry leaves every day.",
+            "words": [
+              {
+                "hanzi": "盒子",
+                "pinyin": "hézi",
+                "english": "box"
+              },
+              {
+                "hanzi": "喂",
+                "pinyin": "wèi",
+                "english": "to feed"
+              },
+              {
+                "hanzi": "桑叶",
+                "pinyin": "sāngyè",
+                "english": "mulberry leaves"
+              }
+            ]
+          },
+          {
+            "chinese": "蚕宝宝越长越大，身体白白的，软软的。",
+            "pinyin": "Cán bǎobao yuè zhǎng yuè dà, shēntǐ báibái de, ruǎnruǎn de.",
+            "english": "The silkworms grew bigger and bigger, their bodies white and soft.",
+            "words": [
+              {
+                "hanzi": "越…越…",
+                "pinyin": "yuè…yuè…",
+                "english": "the more… the more…"
+              },
+              {
+                "hanzi": "身体",
+                "pinyin": "shēntǐ",
+                "english": "body"
+              },
+              {
+                "hanzi": "软",
+                "pinyin": "ruǎn",
+                "english": "soft"
+              }
+            ]
+          },
+          {
+            "chinese": "有一天，它们不吃东西了，开始吐丝做茧。",
+            "pinyin": "Yǒu yì tiān, tāmen bù chī dōngxi le, kāishǐ tǔ sī zuò jiǎn.",
+            "english": "One day they stopped eating and began to spin silk and make cocoons.",
+            "words": [
+              {
+                "hanzi": "吐丝",
+                "pinyin": "tǔ sī",
+                "english": "to spin silk"
+              },
+              {
+                "hanzi": "茧",
+                "pinyin": "jiǎn",
+                "english": "cocoon"
+              },
+              {
+                "hanzi": "开始",
+                "pinyin": "kāishǐ",
+                "english": "to begin"
+              }
+            ]
+          },
+          {
+            "chinese": "两个星期以后，茧里飞出了白色的蛾子。",
+            "pinyin": "Liǎng gè xīngqī yǐhòu, jiǎn lǐ fēi chū le báisè de ézi.",
+            "english": "Two weeks later, white moths flew out of the cocoons.",
+            "words": [
+              {
+                "hanzi": "以后",
+                "pinyin": "yǐhòu",
+                "english": "after"
+              },
+              {
+                "hanzi": "白色",
+                "pinyin": "báisè",
+                "english": "white"
+              },
+              {
+                "hanzi": "蛾子",
+                "pinyin": "ézi",
+                "english": "moth"
+              }
+            ]
+          },
+          {
+            "chinese": "我把它们放回了院子里的桑树上。",
+            "pinyin": "Wǒ bǎ tāmen fàng huí le yuànzi lǐ de sāngshù shang.",
+            "english": "I put them back on the mulberry tree in the yard.",
+            "words": [
+              {
+                "hanzi": "放回",
+                "pinyin": "fàng huí",
+                "english": "to put back"
+              },
+              {
+                "hanzi": "院子",
+                "pinyin": "yuànzi",
+                "english": "yard; courtyard"
+              },
+              {
+                "hanzi": "桑树",
+                "pinyin": "sāngshù",
+                "english": "mulberry tree"
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who gave the writer the silkworms?",
+            "options": [
+              "A friend",
+              "The science teacher",
+              "A neighbour",
+              "His mother"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "What do the silkworms eat?",
+            "options": [
+              "Grass",
+              "Rice",
+              "Mulberry leaves",
+              "Flowers"
+            ],
+            "correct": 2
+          },
+          {
+            "question": "What happened two weeks after they made cocoons?",
+            "options": [
+              "The cocoons went hard",
+              "White moths came out",
+              "The silkworms died",
+              "They were sold"
+            ],
+            "correct": 1
+          }
+        ]
+      }
+    ]
+  }
+}

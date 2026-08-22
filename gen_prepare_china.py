@@ -102,8 +102,13 @@ DECKS = {
     "banknotes across to a customer", "people"),
    ("stacks of red banknotes beside foreign banknotes and a small desk calculator on a "
     "counter", "object"),
-   ("a hotel receptionist behind a bright modern reception desk handing a key card to a "
-    "guest", "people"),
+   # A two-person handover gave the guest two hands on one arm. One person
+   # holding the card up, with both hands placed explicitly, is reliable.
+   ("a smiling hotel receptionist standing alone behind a bright modern reception "
+    "desk, holding up a single plain plastic key card in her right hand at chest "
+    "height, her left hand resting flat on the desk, both hands clearly visible "
+    "with five fingers each, tidy hotel lobby behind her, no other people in the "
+    "frame", "people"),
    ("a guest wheeling a suitcase away from a hotel reception desk towards bright glass "
     "exit doors", "people"),
  ],
@@ -116,6 +121,9 @@ STORIES = {
 }
 
 SEED = 93000          # fresh block; bugs-butterflies used 92000+
+
+# Cards re-rolled after a bad draw: the formula seed is not the one that shipped.
+SEED_OVERRIDES = {"trip-prep/10": 93777}
 here = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -142,9 +150,11 @@ def main():
         for i, p in enumerate(prompts):
             prompt, style = p if isinstance(p, tuple) else (p, "object")
             if deck in want:
-                jobs.append((f"{deck}/{i}",
+                label = f"{deck}/{i}"
+                jobs.append((label,
                              os.path.join(here, "images", "flashcards", deck, f"{i}.jpg"),
-                             prompt + STYLES[style], SEED + n * 13, 1024, 1024, 640))
+                             prompt + STYLES[style],
+                             SEED_OVERRIDES.get(label, SEED + n * 13), 1024, 1024, 640))
             n += 1
     for sid, p in STORIES.items():
         if "stories" in want:

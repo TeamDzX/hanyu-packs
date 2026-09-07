@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-08-21",
+  "generated": "2026-09-07",
   "packs": [
     {
       "revision": 1,
@@ -15024,6 +15024,756 @@
                   "He got lost twice"
                 ],
                 "correct": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "revision": 1,
+      "packId": "chinese-medicine",
+      "name": "Chinese Medicine & Acupuncture",
+      "icon": "mortar-pestle",
+      "releaseDate": "2026-09-07",
+      "minApp": "2.0",
+      "whatsNew": "Step into the clinic — three picture-flashcard decks (Foundations, Treatments, Herbs & Food Remedies) with the words behind qi, yin-yang, pulse-taking, acupuncture, cupping and the herbalist's drawers, plus three graded stories: a first visit to a Chinese doctor, Dad's first acupuncture session and Grandma's summer cooling tea.",
+      "content": {
+        "flashcardDecks": [
+          {
+            "id": "tcm-foundations",
+            "title": "Foundations",
+            "titleCn": "中医基础",
+            "icon": "yin-yang",
+            "grad": "linear-gradient(135deg,#5eead4,#0f766e)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/tcm-foundations/",
+            "cards": [
+              {
+                "hanzi": "中医",
+                "pinyin": "zhōngyī",
+                "meaning": "traditional Chinese medicine"
+              },
+              {
+                "hanzi": "气",
+                "pinyin": "qì",
+                "meaning": "qi — vital energy"
+              },
+              {
+                "hanzi": "阴阳",
+                "pinyin": "yīnyáng",
+                "meaning": "yin and yang"
+              },
+              {
+                "hanzi": "五行",
+                "pinyin": "wǔxíng",
+                "meaning": "the five elements"
+              },
+              {
+                "hanzi": "经络",
+                "pinyin": "jīngluò",
+                "meaning": "meridians (energy channels)"
+              },
+              {
+                "hanzi": "穴位",
+                "pinyin": "xuéwèi",
+                "meaning": "acupuncture point"
+              },
+              {
+                "hanzi": "把脉",
+                "pinyin": "bǎmài",
+                "meaning": "to take the pulse"
+              },
+              {
+                "hanzi": "舌头",
+                "pinyin": "shétou",
+                "meaning": "tongue"
+              },
+              {
+                "hanzi": "上火",
+                "pinyin": "shànghuǒ",
+                "meaning": "to have too much inner heat"
+              },
+              {
+                "hanzi": "养生",
+                "pinyin": "yǎngshēng",
+                "meaning": "to look after one's health"
+              },
+              {
+                "hanzi": "中医师",
+                "pinyin": "zhōngyīshī",
+                "meaning": "Chinese medicine doctor"
+              },
+              {
+                "hanzi": "体质",
+                "pinyin": "tǐzhì",
+                "meaning": "constitution (body type)"
+              }
+            ]
+          },
+          {
+            "id": "tcm-treatments",
+            "title": "Treatments",
+            "titleCn": "治疗方法",
+            "icon": "syringe",
+            "grad": "linear-gradient(135deg,#fca5a5,#b91c1c)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/tcm-treatments/",
+            "cards": [
+              {
+                "hanzi": "针灸",
+                "pinyin": "zhēnjiǔ",
+                "meaning": "acupuncture (and moxibustion)"
+              },
+              {
+                "hanzi": "针",
+                "pinyin": "zhēn",
+                "meaning": "needle"
+              },
+              {
+                "hanzi": "扎针",
+                "pinyin": "zhāzhēn",
+                "meaning": "to insert a needle"
+              },
+              {
+                "hanzi": "艾灸",
+                "pinyin": "àijiǔ",
+                "meaning": "moxibustion"
+              },
+              {
+                "hanzi": "拔罐",
+                "pinyin": "báguàn",
+                "meaning": "cupping"
+              },
+              {
+                "hanzi": "刮痧",
+                "pinyin": "guāshā",
+                "meaning": "gua sha (scraping therapy)"
+              },
+              {
+                "hanzi": "推拿",
+                "pinyin": "tuīná",
+                "meaning": "tuina therapeutic massage"
+              },
+              {
+                "hanzi": "按摩",
+                "pinyin": "ànmó",
+                "meaning": "massage"
+              },
+              {
+                "hanzi": "太极",
+                "pinyin": "tàijí",
+                "meaning": "tai chi"
+              },
+              {
+                "hanzi": "气功",
+                "pinyin": "qìgōng",
+                "meaning": "qigong"
+              },
+              {
+                "hanzi": "药方",
+                "pinyin": "yàofāng",
+                "meaning": "prescription"
+              },
+              {
+                "hanzi": "中药房",
+                "pinyin": "zhōngyàofáng",
+                "meaning": "Chinese herbal pharmacy"
+              }
+            ]
+          },
+          {
+            "id": "tcm-herbs",
+            "title": "Herbs & Food Remedies",
+            "titleCn": "中药与食疗",
+            "icon": "leaf",
+            "grad": "linear-gradient(135deg,#fde68a,#b45309)",
+            "imgBase": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/flashcards/tcm-herbs/",
+            "cards": [
+              {
+                "hanzi": "中药",
+                "pinyin": "zhōngyào",
+                "meaning": "Chinese herbal medicine"
+              },
+              {
+                "hanzi": "草药",
+                "pinyin": "cǎoyào",
+                "meaning": "medicinal herbs"
+              },
+              {
+                "hanzi": "人参",
+                "pinyin": "rénshēn",
+                "meaning": "ginseng"
+              },
+              {
+                "hanzi": "枸杞",
+                "pinyin": "gǒuqǐ",
+                "meaning": "goji berries"
+              },
+              {
+                "hanzi": "当归",
+                "pinyin": "dāngguī",
+                "meaning": "dang gui (angelica root)"
+              },
+              {
+                "hanzi": "菊花茶",
+                "pinyin": "júhuāchá",
+                "meaning": "chrysanthemum tea"
+              },
+              {
+                "hanzi": "生姜",
+                "pinyin": "shēngjiāng",
+                "meaning": "fresh ginger"
+              },
+              {
+                "hanzi": "红枣",
+                "pinyin": "hóngzǎo",
+                "meaning": "red dates (jujubes)"
+              },
+              {
+                "hanzi": "甘草",
+                "pinyin": "gāncǎo",
+                "meaning": "liquorice root"
+              },
+              {
+                "hanzi": "凉茶",
+                "pinyin": "liángchá",
+                "meaning": "cooling herbal tea"
+              },
+              {
+                "hanzi": "汤药",
+                "pinyin": "tāngyào",
+                "meaning": "herbal decoction"
+              },
+              {
+                "hanzi": "药膳",
+                "pinyin": "yàoshàn",
+                "meaning": "medicinal food"
+              }
+            ]
+          }
+        ],
+        "stories": [
+          {
+            "id": "pack_tcm_story_pulse",
+            "title": "看中医",
+            "titlePinyin": "kàn zhōngyī",
+            "titleEnglish": "Seeing the Chinese Doctor",
+            "level": 2,
+            "theme": "<i class=\"fas fa-yin-yang\" style=\"color:#0f766e\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_tcm_story_pulse.jpg",
+            "sentences": [
+              {
+                "chinese": "这几天我头疼，嗓子也疼，晚上睡不好。",
+                "pinyin": "Zhè jǐ tiān wǒ tóuténg, sǎngzi yě téng, wǎnshang shuì bu hǎo.",
+                "english": "These past few days I have had a headache, a sore throat, and I can't sleep well at night.",
+                "words": [
+                  {
+                    "hanzi": "头疼",
+                    "pinyin": "tóuténg",
+                    "english": "headache"
+                  },
+                  {
+                    "hanzi": "嗓子",
+                    "pinyin": "sǎngzi",
+                    "english": "throat"
+                  },
+                  {
+                    "hanzi": "睡不好",
+                    "pinyin": "shuì bu hǎo",
+                    "english": "can't sleep well"
+                  }
+                ]
+              },
+              {
+                "chinese": "妈妈说：“我们去看中医吧。”",
+                "pinyin": "Māma shuō: “Wǒmen qù kàn zhōngyī ba.”",
+                "english": "Mum said: \"Let's go and see a Chinese medicine doctor.\"",
+                "words": [
+                  {
+                    "hanzi": "看",
+                    "pinyin": "kàn",
+                    "english": "to see (a doctor)"
+                  },
+                  {
+                    "hanzi": "中医",
+                    "pinyin": "zhōngyī",
+                    "english": "Chinese medicine (doctor)"
+                  },
+                  {
+                    "hanzi": "吧",
+                    "pinyin": "ba",
+                    "english": "(suggestion particle)"
+                  }
+                ]
+              },
+              {
+                "chinese": "中医师让我坐下，把手放在我的手腕上，给我把脉。",
+                "pinyin": "Zhōngyīshī ràng wǒ zuòxià, bǎ shǒu fàng zài wǒ de shǒuwàn shang, gěi wǒ bǎmài.",
+                "english": "The doctor had me sit down, placed his fingers on my wrist and took my pulse.",
+                "words": [
+                  {
+                    "hanzi": "中医师",
+                    "pinyin": "zhōngyīshī",
+                    "english": "Chinese medicine doctor"
+                  },
+                  {
+                    "hanzi": "手腕",
+                    "pinyin": "shǒuwàn",
+                    "english": "wrist"
+                  },
+                  {
+                    "hanzi": "把脉",
+                    "pinyin": "bǎmài",
+                    "english": "to take the pulse"
+                  }
+                ]
+              },
+              {
+                "chinese": "他又看了看我的舌头，说：“你上火了。”",
+                "pinyin": "Tā yòu kàn le kàn wǒ de shétou, shuō: “Nǐ shànghuǒ le.”",
+                "english": "Then he looked at my tongue and said: \"You have too much inner heat.\"",
+                "words": [
+                  {
+                    "hanzi": "又",
+                    "pinyin": "yòu",
+                    "english": "then, also"
+                  },
+                  {
+                    "hanzi": "舌头",
+                    "pinyin": "shétou",
+                    "english": "tongue"
+                  },
+                  {
+                    "hanzi": "上火",
+                    "pinyin": "shànghuǒ",
+                    "english": "to have excess inner heat"
+                  }
+                ]
+              },
+              {
+                "chinese": "他给我开了一个药方，让我每天喝菊花茶，少吃辣的。",
+                "pinyin": "Tā gěi wǒ kāi le yí ge yàofāng, ràng wǒ měi tiān hē júhuāchá, shǎo chī là de.",
+                "english": "He wrote me a prescription and told me to drink chrysanthemum tea every day and eat less spicy food.",
+                "words": [
+                  {
+                    "hanzi": "开药方",
+                    "pinyin": "kāi yàofāng",
+                    "english": "to write a prescription"
+                  },
+                  {
+                    "hanzi": "菊花茶",
+                    "pinyin": "júhuāchá",
+                    "english": "chrysanthemum tea"
+                  },
+                  {
+                    "hanzi": "辣的",
+                    "pinyin": "là de",
+                    "english": "spicy food"
+                  }
+                ]
+              },
+              {
+                "chinese": "三天以后，我的头不疼了，晚上也睡得很好。",
+                "pinyin": "Sān tiān yǐhòu, wǒ de tóu bù téng le, wǎnshang yě shuì de hěn hǎo.",
+                "english": "Three days later my head no longer hurt, and I slept very well at night too.",
+                "words": [
+                  {
+                    "hanzi": "以后",
+                    "pinyin": "yǐhòu",
+                    "english": "after, later"
+                  },
+                  {
+                    "hanzi": "不疼了",
+                    "pinyin": "bù téng le",
+                    "english": "no longer hurts"
+                  },
+                  {
+                    "hanzi": "睡得很好",
+                    "pinyin": "shuì de hěn hǎo",
+                    "english": "to sleep very well"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What was wrong with the narrator?",
+                "options": [
+                  "A broken arm",
+                  "Headache, sore throat and poor sleep",
+                  "A stomach ache",
+                  "A cough"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How did the doctor examine the narrator?",
+                "options": [
+                  "With an X-ray",
+                  "By taking the pulse and looking at the tongue",
+                  "With a blood test",
+                  "By listening to the heart"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "What did the doctor tell the narrator to drink?",
+                "options": [
+                  "Coffee",
+                  "Cola",
+                  "Chrysanthemum tea",
+                  "Ginger soup"
+                ],
+                "correct": 2
+              }
+            ]
+          },
+          {
+            "id": "pack_tcm_story_acupuncture",
+            "title": "爸爸的第一次针灸",
+            "titlePinyin": "bàba de dì yī cì zhēnjiǔ",
+            "titleEnglish": "Dad's First Acupuncture",
+            "level": 2,
+            "theme": "<i class=\"fas fa-syringe\" style=\"color:#b91c1c\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_tcm_story_acupuncture.jpg",
+            "sentences": [
+              {
+                "chinese": "爸爸每天坐在电脑前工作，最近他的腰很疼。",
+                "pinyin": "Bàba měi tiān zuò zài diànnǎo qián gōngzuò, zuìjìn tā de yāo hěn téng.",
+                "english": "Dad works at a computer every day, and lately his lower back has been very sore.",
+                "words": [
+                  {
+                    "hanzi": "电脑",
+                    "pinyin": "diànnǎo",
+                    "english": "computer"
+                  },
+                  {
+                    "hanzi": "最近",
+                    "pinyin": "zuìjìn",
+                    "english": "recently"
+                  },
+                  {
+                    "hanzi": "腰",
+                    "pinyin": "yāo",
+                    "english": "lower back, waist"
+                  }
+                ]
+              },
+              {
+                "chinese": "朋友说针灸很有用，所以爸爸去了一家中医诊所。",
+                "pinyin": "Péngyou shuō zhēnjiǔ hěn yǒuyòng, suǒyǐ bàba qù le yì jiā zhōngyī zhěnsuǒ.",
+                "english": "A friend said acupuncture works well, so Dad went to a Chinese medicine clinic.",
+                "words": [
+                  {
+                    "hanzi": "针灸",
+                    "pinyin": "zhēnjiǔ",
+                    "english": "acupuncture"
+                  },
+                  {
+                    "hanzi": "有用",
+                    "pinyin": "yǒuyòng",
+                    "english": "useful, effective"
+                  },
+                  {
+                    "hanzi": "诊所",
+                    "pinyin": "zhěnsuǒ",
+                    "english": "clinic"
+                  }
+                ]
+              },
+              {
+                "chinese": "医生先找到穴位，然后轻轻地扎针，一共扎了八根针。",
+                "pinyin": "Yīshēng xiān zhǎodào xuéwèi, ránhòu qīngqīng de zhāzhēn, yígòng zhā le bā gēn zhēn.",
+                "english": "The doctor first found the acupuncture points, then gently inserted the needles, eight in all.",
+                "words": [
+                  {
+                    "hanzi": "穴位",
+                    "pinyin": "xuéwèi",
+                    "english": "acupuncture point"
+                  },
+                  {
+                    "hanzi": "扎针",
+                    "pinyin": "zhāzhēn",
+                    "english": "to insert needles"
+                  },
+                  {
+                    "hanzi": "根",
+                    "pinyin": "gēn",
+                    "english": "(measure word for needles)"
+                  }
+                ]
+              },
+              {
+                "chinese": "爸爸有点儿紧张，可是一点儿都不疼，只觉得有点儿麻。",
+                "pinyin": "Bàba yǒudiǎnr jǐnzhāng, kěshì yìdiǎnr dōu bù téng, zhǐ juéde yǒudiǎnr má.",
+                "english": "Dad was a little nervous, but it didn't hurt at all; he only felt a slight tingling.",
+                "words": [
+                  {
+                    "hanzi": "紧张",
+                    "pinyin": "jǐnzhāng",
+                    "english": "nervous"
+                  },
+                  {
+                    "hanzi": "一点儿都不",
+                    "pinyin": "yìdiǎnr dōu bù",
+                    "english": "not at all"
+                  },
+                  {
+                    "hanzi": "麻",
+                    "pinyin": "má",
+                    "english": "tingling, numb"
+                  }
+                ]
+              },
+              {
+                "chinese": "医生还在他的背上做了艾灸，暖暖的，很舒服。",
+                "pinyin": "Yīshēng hái zài tā de bèi shang zuò le àijiǔ, nuǎnnuǎn de, hěn shūfu.",
+                "english": "The doctor also did moxibustion on his back — warm and very comfortable.",
+                "words": [
+                  {
+                    "hanzi": "背",
+                    "pinyin": "bèi",
+                    "english": "back"
+                  },
+                  {
+                    "hanzi": "艾灸",
+                    "pinyin": "àijiǔ",
+                    "english": "moxibustion"
+                  },
+                  {
+                    "hanzi": "舒服",
+                    "pinyin": "shūfu",
+                    "english": "comfortable"
+                  }
+                ]
+              },
+              {
+                "chinese": "半个小时以后，爸爸站起来说：“我的腰轻多了！”",
+                "pinyin": "Bàn ge xiǎoshí yǐhòu, bàba zhàn qǐlái shuō: “Wǒ de yāo qīng duō le!”",
+                "english": "Half an hour later Dad stood up and said: \"My back feels so much lighter!\"",
+                "words": [
+                  {
+                    "hanzi": "半个小时",
+                    "pinyin": "bàn ge xiǎoshí",
+                    "english": "half an hour"
+                  },
+                  {
+                    "hanzi": "站起来",
+                    "pinyin": "zhàn qǐlái",
+                    "english": "to stand up"
+                  },
+                  {
+                    "hanzi": "轻多了",
+                    "pinyin": "qīng duō le",
+                    "english": "much lighter"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "Why did Dad's back hurt?",
+                "options": [
+                  "He fell over",
+                  "He sits at a computer all day",
+                  "He played football",
+                  "He carried heavy boxes"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "How many needles did the doctor use?",
+                "options": [
+                  "Two",
+                  "Five",
+                  "Eight",
+                  "Ten"
+                ],
+                "correct": 2
+              },
+              {
+                "question": "How did the acupuncture feel?",
+                "options": [
+                  "Very painful",
+                  "Cold",
+                  "A slight tingling, no pain",
+                  "Itchy"
+                ],
+                "correct": 2
+              }
+            ]
+          },
+          {
+            "id": "pack_tcm_story_liangcha",
+            "title": "奶奶的凉茶",
+            "titlePinyin": "nǎinai de liángchá",
+            "titleEnglish": "Grandma's Cooling Tea",
+            "level": 3,
+            "theme": "<i class=\"fas fa-mug-hot\" style=\"color:#b45309\"></i>",
+            "image": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/pack_tcm_story_liangcha.jpg",
+            "sentences": [
+              {
+                "chinese": "广州的夏天又热又湿，我一到奶奶家就觉得没有力气。",
+                "pinyin": "Guǎngzhōu de xiàtiān yòu rè yòu shī, wǒ yí dào nǎinai jiā jiù juéde méiyǒu lìqi.",
+                "english": "Summer in Guangzhou is hot and humid; the moment I arrive at Grandma's I feel drained.",
+                "words": [
+                  {
+                    "hanzi": "又…又…",
+                    "pinyin": "yòu… yòu…",
+                    "english": "both… and…"
+                  },
+                  {
+                    "hanzi": "湿",
+                    "pinyin": "shī",
+                    "english": "humid, damp"
+                  },
+                  {
+                    "hanzi": "力气",
+                    "pinyin": "lìqi",
+                    "english": "strength, energy"
+                  }
+                ]
+              },
+              {
+                "chinese": "奶奶笑着说：“这是湿热，喝一碗凉茶就好了。”",
+                "pinyin": "Nǎinai xiào zhe shuō: “Zhè shì shīrè, hē yì wǎn liángchá jiù hǎo le.”",
+                "english": "Grandma smiled and said: \"That's damp heat — a bowl of cooling tea will sort it out.\"",
+                "words": [
+                  {
+                    "hanzi": "湿热",
+                    "pinyin": "shīrè",
+                    "english": "damp heat (a TCM condition)"
+                  },
+                  {
+                    "hanzi": "凉茶",
+                    "pinyin": "liángchá",
+                    "english": "cooling herbal tea"
+                  },
+                  {
+                    "hanzi": "就好了",
+                    "pinyin": "jiù hǎo le",
+                    "english": "and it'll be fine"
+                  }
+                ]
+              },
+              {
+                "chinese": "她从柜子里拿出菊花、甘草和几种我不认识的草药，放进锅里慢慢地煮。",
+                "pinyin": "Tā cóng guìzi li ná chū júhuā, gāncǎo hé jǐ zhǒng wǒ bú rènshi de cǎoyào, fàng jìn guō li mànmàn de zhǔ.",
+                "english": "She took chrysanthemum, liquorice root and several herbs I didn't recognise from the cupboard and simmered them slowly in a pot.",
+                "words": [
+                  {
+                    "hanzi": "甘草",
+                    "pinyin": "gāncǎo",
+                    "english": "liquorice root"
+                  },
+                  {
+                    "hanzi": "草药",
+                    "pinyin": "cǎoyào",
+                    "english": "medicinal herbs"
+                  },
+                  {
+                    "hanzi": "煮",
+                    "pinyin": "zhǔ",
+                    "english": "to boil, to simmer"
+                  }
+                ]
+              },
+              {
+                "chinese": "凉茶很苦，我皱着眉头喝了一口，奶奶说：“良药苦口嘛！”",
+                "pinyin": "Liángchá hěn kǔ, wǒ zhòu zhe méitóu hē le yì kǒu, nǎinai shuō: “Liángyào kǔkǒu ma!”",
+                "english": "The tea was very bitter. I frowned and took a sip, and Grandma said: \"Good medicine tastes bitter!\"",
+                "words": [
+                  {
+                    "hanzi": "苦",
+                    "pinyin": "kǔ",
+                    "english": "bitter"
+                  },
+                  {
+                    "hanzi": "皱眉头",
+                    "pinyin": "zhòu méitóu",
+                    "english": "to frown"
+                  },
+                  {
+                    "hanzi": "良药苦口",
+                    "pinyin": "liángyào kǔkǒu",
+                    "english": "good medicine tastes bitter (idiom)"
+                  }
+                ]
+              },
+              {
+                "chinese": "她告诉我，中医讲究养生：天气热的时候要清热，天气冷的时候要保暖。",
+                "pinyin": "Tā gàosu wǒ, zhōngyī jiǎngjiu yǎngshēng: tiānqì rè de shíhou yào qīngrè, tiānqì lěng de shíhou yào bǎonuǎn.",
+                "english": "She told me Chinese medicine is all about looking after your health: clear the heat when it's hot, keep warm when it's cold.",
+                "words": [
+                  {
+                    "hanzi": "讲究",
+                    "pinyin": "jiǎngjiu",
+                    "english": "to pay attention to, to be particular about"
+                  },
+                  {
+                    "hanzi": "养生",
+                    "pinyin": "yǎngshēng",
+                    "english": "to look after one's health"
+                  },
+                  {
+                    "hanzi": "清热",
+                    "pinyin": "qīngrè",
+                    "english": "to clear inner heat"
+                  }
+                ]
+              },
+              {
+                "chinese": "第二天我觉得精神多了，还学会了自己煮凉茶。",
+                "pinyin": "Dì èr tiān wǒ juéde jīngshen duō le, hái xuéhuì le zìjǐ zhǔ liángchá.",
+                "english": "The next day I felt much more energetic, and I had learned to make cooling tea myself.",
+                "words": [
+                  {
+                    "hanzi": "精神",
+                    "pinyin": "jīngshen",
+                    "english": "energetic, lively"
+                  },
+                  {
+                    "hanzi": "学会",
+                    "pinyin": "xuéhuì",
+                    "english": "to learn (and master)"
+                  },
+                  {
+                    "hanzi": "自己",
+                    "pinyin": "zìjǐ",
+                    "english": "oneself"
+                  }
+                ]
+              }
+            ],
+            "questions": [
+              {
+                "question": "What is the weather like in Guangzhou in summer?",
+                "options": [
+                  "Cold and dry",
+                  "Hot and humid",
+                  "Windy",
+                  "Snowy"
+                ],
+                "correct": 1
+              },
+              {
+                "question": "Which ingredients did Grandma use?",
+                "options": [
+                  "Ginger and red dates",
+                  "Coffee and sugar",
+                  "Chrysanthemum, liquorice and other herbs",
+                  "Ginseng and goji"
+                ],
+                "correct": 2
+              },
+              {
+                "question": "What does 良药苦口 mean?",
+                "options": [
+                  "Sweet tea is best",
+                  "Good medicine tastes bitter",
+                  "Drink tea slowly",
+                  "Grandma's tea is famous"
+                ],
+                "correct": 1
               }
             ]
           }

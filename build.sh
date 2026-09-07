@@ -26,6 +26,7 @@ ORDER=(
   back-to-school
   bugs-butterflies
   prepare-for-china
+  chinese-medicine
   street-smart
   tone-master
   parrot-talk

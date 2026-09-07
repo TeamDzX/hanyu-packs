@@ -15031,13 +15031,13 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "chinese-medicine",
       "name": "Chinese Medicine & Acupuncture",
       "icon": "mortar-pestle",
       "releaseDate": "2026-09-07",
       "minApp": "2.0",
-      "whatsNew": "Step into the clinic — three picture-flashcard decks (Foundations, Treatments, Herbs & Food Remedies) with the words behind qi, yin-yang, pulse-taking, acupuncture, cupping and the herbalist's drawers, plus three graded stories: a first visit to a Chinese doctor, Dad's first acupuncture session and Grandma's summer cooling tea.",
+      "whatsNew": "Meet Dr Pauline (保琳医生) — three picture-flashcard decks (Foundations, Treatments, Herbs & Food Remedies) with the words behind qi, yin-yang, pulse-taking, acupuncture, cupping and the herbalist's drawers, plus three graded stories: a first visit to Dr Pauline, Dad's first acupuncture with her and Grandma's summer cooling tea.",
       "content": {
         "flashcardDecks": [
           {
@@ -15284,19 +15284,19 @@
                 ]
               },
               {
-                "chinese": "妈妈说：“我们去看中医吧。”",
-                "pinyin": "Māma shuō: “Wǒmen qù kàn zhōngyī ba.”",
-                "english": "Mum said: \"Let's go and see a Chinese medicine doctor.\"",
+                "chinese": "妈妈说：“我们去看保琳医生吧，她是很好的中医师。”",
+                "pinyin": "Māma shuō: “Wǒmen qù kàn Bǎolín yīshēng ba, tā shì hěn hǎo de zhōngyīshī.”",
+                "english": "Mum said: \"Let's go and see Dr Pauline — she's a very good Chinese medicine doctor.\"",
                 "words": [
                   {
-                    "hanzi": "看",
-                    "pinyin": "kàn",
-                    "english": "to see (a doctor)"
+                    "hanzi": "保琳医生",
+                    "pinyin": "Bǎolín yīshēng",
+                    "english": "Dr Pauline"
                   },
                   {
-                    "hanzi": "中医",
-                    "pinyin": "zhōngyī",
-                    "english": "Chinese medicine (doctor)"
+                    "hanzi": "中医师",
+                    "pinyin": "zhōngyīshī",
+                    "english": "Chinese medicine doctor"
                   },
                   {
                     "hanzi": "吧",
@@ -15306,14 +15306,14 @@
                 ]
               },
               {
-                "chinese": "中医师让我坐下，把手放在我的手腕上，给我把脉。",
-                "pinyin": "Zhōngyīshī ràng wǒ zuòxià, bǎ shǒu fàng zài wǒ de shǒuwàn shang, gěi wǒ bǎmài.",
-                "english": "The doctor had me sit down, placed his fingers on my wrist and took my pulse.",
+                "chinese": "保琳医生让我坐下，把手放在我的手腕上，给我把脉。",
+                "pinyin": "Bǎolín yīshēng ràng wǒ zuòxià, bǎ shǒu fàng zài wǒ de shǒuwàn shang, gěi wǒ bǎmài.",
+                "english": "Dr Pauline had me sit down, placed her fingers on my wrist and took my pulse.",
                 "words": [
                   {
-                    "hanzi": "中医师",
-                    "pinyin": "zhōngyīshī",
-                    "english": "Chinese medicine doctor"
+                    "hanzi": "让",
+                    "pinyin": "ràng",
+                    "english": "to have (someone do something)"
                   },
                   {
                     "hanzi": "手腕",
@@ -15328,9 +15328,9 @@
                 ]
               },
               {
-                "chinese": "他又看了看我的舌头，说：“你上火了。”",
+                "chinese": "她又看了看我的舌头，说：“你上火了。”",
                 "pinyin": "Tā yòu kàn le kàn wǒ de shétou, shuō: “Nǐ shànghuǒ le.”",
-                "english": "Then he looked at my tongue and said: \"You have too much inner heat.\"",
+                "english": "Then she looked at my tongue and said: \"You have too much inner heat.\"",
                 "words": [
                   {
                     "hanzi": "又",
@@ -15350,9 +15350,9 @@
                 ]
               },
               {
-                "chinese": "他给我开了一个药方，让我每天喝菊花茶，少吃辣的。",
+                "chinese": "她给我开了一个药方，让我每天喝菊花茶，少吃辣的。",
                 "pinyin": "Tā gěi wǒ kāi le yí ge yàofāng, ràng wǒ měi tiān hē júhuāchá, shǎo chī là de.",
-                "english": "He wrote me a prescription and told me to drink chrysanthemum tea every day and eat less spicy food.",
+                "english": "She wrote me a prescription and told me to drink chrysanthemum tea every day and eat less spicy food.",
                 "words": [
                   {
                     "hanzi": "开药方",
@@ -15406,7 +15406,7 @@
                 "correct": 1
               },
               {
-                "question": "How did the doctor examine the narrator?",
+                "question": "How did Dr Pauline examine the narrator?",
                 "options": [
                   "With an X-ray",
                   "By taking the pulse and looking at the tongue",
@@ -15416,7 +15416,7 @@
                 "correct": 1
               },
               {
-                "question": "What did the doctor tell the narrator to drink?",
+                "question": "What did Dr Pauline tell the narrator to drink?",
                 "options": [
                   "Coffee",
                   "Cola",
@@ -15459,9 +15459,9 @@
                 ]
               },
               {
-                "chinese": "朋友说针灸很有用，所以爸爸去了一家中医诊所。",
-                "pinyin": "Péngyou shuō zhēnjiǔ hěn yǒuyòng, suǒyǐ bàba qù le yì jiā zhōngyī zhěnsuǒ.",
-                "english": "A friend said acupuncture works well, so Dad went to a Chinese medicine clinic.",
+                "chinese": "朋友说针灸很有用，所以爸爸去了保琳医生的中医诊所。",
+                "pinyin": "Péngyou shuō zhēnjiǔ hěn yǒuyòng, suǒyǐ bàba qù le Bǎolín yīshēng de zhōngyī zhěnsuǒ.",
+                "english": "A friend said acupuncture works well, so Dad went to Dr Pauline's Chinese medicine clinic.",
                 "words": [
                   {
                     "hanzi": "针灸",
@@ -15481,9 +15481,9 @@
                 ]
               },
               {
-                "chinese": "医生先找到穴位，然后轻轻地扎针，一共扎了八根针。",
-                "pinyin": "Yīshēng xiān zhǎodào xuéwèi, ránhòu qīngqīng de zhāzhēn, yígòng zhā le bā gēn zhēn.",
-                "english": "The doctor first found the acupuncture points, then gently inserted the needles, eight in all.",
+                "chinese": "保琳医生先找到穴位，然后轻轻地扎针，一共扎了八根针。",
+                "pinyin": "Bǎolín yīshēng xiān zhǎodào xuéwèi, ránhòu qīngqīng de zhāzhēn, yígòng zhā le bā gēn zhēn.",
+                "english": "Dr Pauline first found the acupuncture points, then gently inserted the needles, eight in all.",
                 "words": [
                   {
                     "hanzi": "穴位",
@@ -15525,9 +15525,9 @@
                 ]
               },
               {
-                "chinese": "医生还在他的背上做了艾灸，暖暖的，很舒服。",
-                "pinyin": "Yīshēng hái zài tā de bèi shang zuò le àijiǔ, nuǎnnuǎn de, hěn shūfu.",
-                "english": "The doctor also did moxibustion on his back — warm and very comfortable.",
+                "chinese": "她还在他的背上做了艾灸，暖暖的，很舒服。",
+                "pinyin": "Tā hái zài tā de bèi shang zuò le àijiǔ, nuǎnnuǎn de, hěn shūfu.",
+                "english": "She also did moxibustion on his back — warm and very comfortable.",
                 "words": [
                   {
                     "hanzi": "背",
@@ -15581,7 +15581,7 @@
                 "correct": 1
               },
               {
-                "question": "How many needles did the doctor use?",
+                "question": "How many needles did Dr Pauline use?",
                 "options": [
                   "Two",
                   "Five",

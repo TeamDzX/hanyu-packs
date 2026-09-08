@@ -6,6 +6,9 @@
                                        app — so card 0 is a wide scene with its
                                        subject in the upper middle and NO sky)
   images/pack_tcm_story_<id>.jpg       760x520 story cards
+  images/pack_tcm_story_<id>_s<n>.jpg  760x520 per-sentence scenes; the reader
+                                       derives the name from the cover, so the
+                                       file existing is the whole wiring
 
 Lessons carried over from the earlier packs: living things and people need a
 real, softly blurred background (the plain-studio look turns them into
@@ -17,6 +20,12 @@ Flux garbles them, and the card shows the characters as text anyway.
     python3 gen_chinese_medicine.py                 # everything
     python3 gen_chinese_medicine.py tcm-herbs       # one deck, or 'stories'
     python3 gen_chinese_medicine.py covers          # just the three deck covers
+    python3 gen_chinese_medicine.py scenes          # just the per-sentence scenes
+    python3 gen_chinese_medicine.py --force tcm-treatments/4 tcm-treatments/7
+                                                   # redo two cards by label
+
+Existing files are skipped, so a changed prompt or seed needs --force (or the
+old file deleted) before it takes effect.
 """
 import sys, os, time
 sys.path.insert(0, os.path.expanduser("~/.claude/scripts/imagegen"))
@@ -39,6 +48,13 @@ SCENE_STYLE = (", clean modern photograph, real location, natural daylight, "
                "no writing, no watermark")
 
 STYLES = {"object": CARD_STYLE, "people": PEOPLE_STYLE, "scene": SCENE_STYLE}
+
+# Per-sentence scenes fill the reader's hero header, which is cropped
+# centre/cover, so they stay centred - unlike the story CARD below.
+SCENE_IMG_STYLE = (", photorealistic photograph, natural realistic lighting, "
+                   "shallow depth of field, candid documentary style, "
+                   "contemporary China, subject centred in the frame, "
+                   "no text, no letters, no writing, no watermark")
 
 # Story cards leave the left third clear for the title overlay.
 STORY_STYLE = (", photorealistic photograph, natural realistic lighting, shallow "
@@ -112,18 +128,37 @@ DECKS = {
    ("a smouldering moxa stick, a rolled cigar-shaped stick of dried mugwort "
     "glowing orange at its tip with a thin wisp of smoke, held a few "
     "centimetres above the skin of a person's lower back", "people"),
-   # 4 拔罐
-   ("a person's bare back with six round glass suction cups attached in two "
-    "rows, the skin inside each cup drawn up and reddened, treatment room", "people"),
+   # 4 拔罐 — take 1 was gruesome (bruised, bloodshot rings); take 2 fixed the
+   # skin but drew the cups as shallow glass LIDS lying on the back, so the
+   # card no longer read as cupping (Alex, 7 Sep). Flux needs the cup described
+   # as an object rather than named — a closed bell with its open rim pressed
+   # down. Same lesson as the needles-drift-into-syringes note above.
+   ("a Chinese therapist treating a relaxed person lying face down on a "
+    "treatment couch with a white towel across the lower back, four cupping "
+    "glasses standing in a row along the upper back, each one a thick rounded "
+    "glass bell the size of a teacup, closed and domed on top, its open rim "
+    "pressed against the skin so the skin is drawn gently up inside the glass, "
+    "not a lid and not a shallow dish, the skin smooth and natural in tone "
+    "with only a faint pink ring under each cup, the therapist's two hands "
+    "steadying one cup, a calm warm treatment room", "people"),
    # 5 刮痧
    ("a smooth flat pale jade scraping tool being drawn along a person's oiled "
     "shoulder by a practitioner's hand, close up", "people"),
    # 6 推拿
    ("a practitioner in a white uniform pressing both thumbs firmly into a "
     "patient's upper back, the patient lying face down on a treatment couch", "people"),
-   # 7 按摩
-   ("hands kneading a person's neck and shoulders, the person seated with "
-    "eyes closed and relaxed, soft spa lighting", "people"),
+   # 7 按摩 — take 1 grew a third hand; take 2 fixed the anatomy but landed on
+   # a Western physio in navy scrubs at an office chair, which reads as a
+   # workplace back rub rather than 按摩 (Alex, 7 Sep). Keep the hand guard
+   # that worked — whole therapist in frame, "exactly two hands", the client's
+   # own hands given somewhere to be — and move the room to China.
+   ("one Chinese massage therapist in a loose plain cotton uniform standing "
+    "behind a seated Chinese client and kneading the client's shoulders with "
+    "both hands, the client sitting upright on a low wooden stool with eyes "
+    "closed and a calm relaxed face, the client's own hands resting on their "
+    "own thighs, a warm wood-panelled massage room with folded towels and a "
+    "soft lamp behind, seen from the front at chest height, only one therapist "
+    "and exactly two hands visible", "people"),
    # 8 太极
    ("a group of people in loose white clothing practising tai chi together in "
     "a park in the early morning, arms raised in the same slow pose", "scene"),
@@ -199,14 +234,117 @@ STORIES = {
                                 "bitter taste, dried chrysanthemum flowers and herbs on the table"),
 }
 
+# Per-sentence story illustrations. The reader builds the path from the cover
+# URL — .../pack_tcm_story_x.jpg becomes .../pack_tcm_story_x_s<idx>.jpg
+# (sentenceImageFor() in index.html) — so nothing in the pack JSON changes; the
+# files simply have to exist. They did not, so every sentence fell back to the
+# cover and the story looked like one picture repeated (Alex, 7 Sep). The index
+# is 0-based and matches the sentence order in packs/chinese-medicine.json.
+#
+# Dr Pauline appears in two of the three stories, so she is described the same
+# way every time — otherwise each frame casts a different doctor.
+TEEN = ("a Chinese teenager about fifteen years old, tall and slim, in a "
+        "plain t-shirt and jeans")
+DOCTOR = ("Doctor Pauline, a warm middle-aged Chinese woman doctor with her "
+          "hair tied back, in a white coat")
+
+SCENES = dict(
+
+ pack_tcm_story_pulse = [
+   # 0 headache, sore throat, sleeping badly
+   ("a teenage Chinese boy sitting on the edge of his bed late at night in a "
+    "dim bedroom, one hand pressed to his forehead, tired and unwell, a glass "
+    "of water on the bedside table"),
+   # 1 Mum: let us go and see Dr Pauline
+   ("a Chinese mother in the hallway of a flat holding a coat out to her son, "
+    + TEEN + ", and gesturing towards the front door, both mid-conversation, "
+    "warm daylight"),
+   # 2 taking the pulse
+   (DOCTOR + " seated at a wooden desk in a Chinese medicine clinic, three "
+    "fingertips resting on the wrist of a teenage boy whose forearm lies on a "
+    "small silk pulse cushion, a wall of small wooden herb drawers behind, "
+    "warm lamplight"),
+   # 3 looking at the tongue
+   (DOCTOR + ", her own face calm and neutral with her mouth closed, leaning "
+    "forward with a small examination light to look at the tongue of " + TEEN +
+    " sitting opposite her with his mouth open, consulting room"),
+   # 4 the prescription and the chrysanthemum tea
+   (DOCTOR + " writing on a sheet of cream prescription paper at her desk "
+    "while a teenage boy watches, a clear glass of pale golden chrysanthemum "
+    "tea with whole white flowers floating in it beside her, the page mostly "
+    "covered by her hand, no visible writing"),
+   # 5 three days later, sleeping well
+   ("a teenage Chinese boy waking rested in a sunlit bedroom, sitting up and "
+    "stretching with a relaxed smile, bright morning light through the window"),
+ ],
+
+ pack_tcm_story_acupuncture = [
+   # 0 desk job, sore lower back
+   ("a middle-aged Chinese man hunched at a desk in front of a computer "
+    "monitor in a home office, one hand pressed to his lower back, wincing, "
+    "late afternoon light"),
+   # 1 arriving at the clinic
+   ("a middle-aged Chinese man stepping in through the glass door of a small "
+    "Chinese medicine clinic from the street, a reception desk and a wall of "
+    "wooden herb drawers visible inside, daylight"),
+   # 2 finding the points, inserting the needles
+   (DOCTOR + " gently inserting " + NEEDLE + " into the lower back of a "
+    "middle-aged Chinese man lying face down on a treatment couch, a neat row "
+    "of needles already standing along his back, calm clinic room"),
+   # 3 nervous, but only a tingle
+   ("close up of a middle-aged Chinese man's face resting sideways on a "
+    "treatment couch pillow, eyes closed, apprehensive but calm, a folded "
+    "towel under his cheek, soft clinic light"),
+   # 4 moxibustion on the back
+   (DOCTOR + " holding a smouldering moxa stick, a rolled cigar-shaped stick "
+    "of dried mugwort glowing orange at the tip with a thin wisp of smoke, a "
+    "few centimetres above the back of a man lying face down on a treatment "
+    "couch, warm light"),
+   # 5 standing up, back much lighter
+   ("a middle-aged Chinese man standing beside a treatment couch in a clinic, "
+    "stretching his back with a relieved smile, " + DOCTOR + " standing beside "
+    "him smiling"),
+ ],
+
+ pack_tcm_story_liangcha = [
+   # 0 arriving in the Guangzhou heat
+   ("a teenage Chinese visitor with a backpack arriving at an old Guangzhou "
+    "apartment block on a hot humid summer day, wiping sweat from their "
+    "forehead, hazy heat, potted plants and washing on the balconies above"),
+   # 1 Grandma: that is damp heat
+   ("a smiling elderly Chinese grandmother in a light cotton blouse holding up "
+    "an empty bowl as she explains something to " + TEEN + ", who stands a "
+    "head taller than her in a small kitchen, warm daylight"),
+   # 2 simmering the herbs
+   ("an elderly Chinese grandmother dropping dried chrysanthemum flowers and "
+    "pale slices of liquorice root into a dark clay pot simmering on a gas "
+    "ring, steam rising, an open wooden cupboard of herb jars behind, small "
+    "kitchen"),
+   # 3 the tea is bitter
+   (TEEN + " screwing up their face after a sip of dark bitter herbal tea from "
+    "a small bowl at a kitchen table, an elderly Chinese grandmother laughing "
+    "warmly beside them"),
+   # 4 clear the heat when it is hot, keep warm when it is cold
+   ("an elderly Chinese grandmother sitting at a kitchen table talking "
+    "earnestly to her grandchild, " + TEEN + ", and gesturing with one hand, "
+    "two bowls of dark herbal tea and a clay pot on the table between them, "
+    "warm evening light"),
+   # 5 making it themselves the next day
+   (TEEN + " standing at a stove ladling dark herbal tea from a clay pot into "
+    "a bowl, bright and energetic, morning light in a small kitchen"),
+ ],
+)
+
 SEED = 94000          # fresh block; prepare-for-china used 93000+
-SEED_OVERRIDES = {"tcm-treatments/10": 94777}   # redo: pseudo-Latin scribbles on the first take
+SEED_OVERRIDES = {"tcm-treatments/10": 94777,   # redo: pseudo-Latin scribbles on the first take
+                  "tcm-treatments/4": 94833,     # redo 8 Sep: cups drawn as flat lids
+                  "tcm-treatments/7": 94834}     # redo 7 Sep: three hands
 here = os.path.dirname(os.path.abspath(__file__))
 
 
-def run(label, out, prompt, seed, w, h, mx):
+def run(label, out, prompt, seed, w, h, mx, force=False):
     os.makedirs(os.path.dirname(out), exist_ok=True)
-    if os.path.exists(out):
+    if os.path.exists(out) and not force:
         print(f"  skip {label} (exists)", flush=True)
         return True
     t0 = time.time()
@@ -220,7 +358,10 @@ def run(label, out, prompt, seed, w, h, mx):
 
 
 def main():
-    want = sys.argv[1:] or list(DECKS) + ["stories"]
+    args = sys.argv[1:]
+    force = "--force" in args          # redo images that already exist, e.g.
+    args = [a for a in args if a != "--force"]   # after changing a prompt/seed
+    want = args or list(DECKS) + ["stories", "scenes"]
     covers_only = want == ["covers"]
     jobs = []
     n = 0
@@ -228,7 +369,7 @@ def main():
         for i, p in enumerate(prompts):
             prompt, style = p if isinstance(p, tuple) else (p, "object")
             label = f"{deck}/{i}"
-            if deck in want or (covers_only and i == 0):
+            if deck in want or label in want or (covers_only and i == 0):
                 jobs.append((label,
                              os.path.join(here, "images", "flashcards", deck, f"{i}.jpg"),
                              prompt + STYLES[style],
@@ -239,13 +380,21 @@ def main():
             jobs.append((sid, os.path.join(here, "images", sid + ".jpg"),
                          p + STORY_STYLE, SEED + n * 13, 1216, 832, 760))
         n += 1
+    for sid, prompts in SCENES.items():
+        for i, p in enumerate(prompts):
+            name = sid + "_s" + str(i)
+            # 'scenes', a story id, or a single frame name (for a redo)
+            if "scenes" in want or sid in want or name in want:
+                jobs.append((name, os.path.join(here, "images", name + ".jpg"),
+                             p + SCENE_IMG_STYLE, SEED + n * 13, 1216, 832, 760))
+            n += 1
 
     print(f"Generating {len(jobs)} images…", flush=True)
     ok = 0
     fail = []
     for i, (label, out, prompt, seed, w, h, mx) in enumerate(jobs, 1):
         print(f"[{i}/{len(jobs)}]", flush=True)
-        if run(label, out, prompt, seed, w, h, mx):
+        if run(label, out, prompt, seed, w, h, mx, force):
             ok += 1
         else:
             fail.append(label)

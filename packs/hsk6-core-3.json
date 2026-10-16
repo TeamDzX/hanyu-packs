@@ -1,0 +1,2314 @@
+{
+  "revision": 1,
+  "packId": "hsk6-core-3",
+  "name": "HSK 6 Core · Vol. 3",
+  "icon": "user-graduate",
+  "releaseDate": "2026-10-16",
+  "minApp": "2.0",
+  "whatsNew": "310 HSK 6 words (gānhàn–jièzhù) for idioms, formal writing and nuanced expression — browse them as their own category in Learn, with 10 practice sentences.",
+  "content": {
+    "characters": [
+      {
+        "character": "干旱",
+        "pinyin": "gānhàn",
+        "meaning": "drought; arid; dry",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "干劲",
+        "pinyin": "gànjìn",
+        "meaning": "drive; enthusiasm (for work)",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "感慨",
+        "pinyin": "gǎnkǎi",
+        "meaning": "to sigh with emotion; be moved",
+        "strokes": 25,
+        "hsk": 6
+      },
+      {
+        "character": "感染",
+        "pinyin": "gǎnrǎn",
+        "meaning": "to infect; infection; influence",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "干扰",
+        "pinyin": "gānrǎo",
+        "meaning": "to disturb; interfere; interference",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "干涉",
+        "pinyin": "gānshè",
+        "meaning": "to interfere; meddle; interference",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "甘心",
+        "pinyin": "gānxīn",
+        "meaning": "to be willing to; resign oneself to",
+        "strokes": 9,
+        "hsk": 6
+      },
+      {
+        "character": "干预",
+        "pinyin": "gānyù",
+        "meaning": "to meddle; intervene; intervention",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "高潮",
+        "pinyin": "gāocháo",
+        "meaning": "climax; high tide; upsurge",
+        "strokes": 25,
+        "hsk": 6
+      },
+      {
+        "character": "高超",
+        "pinyin": "gāochāo",
+        "meaning": "excellent; superlative",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "告辞",
+        "pinyin": "gàocí",
+        "meaning": "to say goodbye; take one's leave",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "高峰",
+        "pinyin": "gāofēng",
+        "meaning": "peak; summit; height",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "稿件",
+        "pinyin": "gǎojiàn",
+        "meaning": "manuscript; contribution (to publication)",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "告诫",
+        "pinyin": "gàojiè",
+        "meaning": "to warn; admonish",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "高考",
+        "pinyin": "gāokǎo",
+        "meaning": "college entrance exam (gaokao)",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "高明",
+        "pinyin": "gāomíng",
+        "meaning": "brilliant; wise; superior",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "高尚",
+        "pinyin": "gāoshàng",
+        "meaning": "noble; lofty; refined",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "高涨",
+        "pinyin": "gāozhǎng",
+        "meaning": "to surge up; rise; run high",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "割",
+        "pinyin": "gē",
+        "meaning": "to cut; cut apart",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "搁",
+        "pinyin": "gē",
+        "meaning": "to put; put aside; shelve",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "疙瘩",
+        "pinyin": "gēda",
+        "meaning": "lump; pimple; knot",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "隔阂",
+        "pinyin": "géhé",
+        "meaning": "estrangement; gap; barrier",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "格局",
+        "pinyin": "géjú",
+        "meaning": "structure; pattern; layout",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "隔离",
+        "pinyin": "gélí",
+        "meaning": "to separate; isolate",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "耕地",
+        "pinyin": "gēngdì",
+        "meaning": "farmland; to plow",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "更新",
+        "pinyin": "gēngxīn",
+        "meaning": "to renew; update; renovate",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "更正",
+        "pinyin": "gēngzhèng",
+        "meaning": "to correct; make a correction",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "跟前",
+        "pinyin": "gēnqián",
+        "meaning": "in front of; nearby",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "根深蒂固",
+        "pinyin": "gēnshēndìgù",
+        "meaning": "deep-rooted; ingrained",
+        "strokes": 42,
+        "hsk": 6
+      },
+      {
+        "character": "跟随",
+        "pinyin": "gēnsuí",
+        "meaning": "to follow",
+        "strokes": 24,
+        "hsk": 6
+      },
+      {
+        "character": "根源",
+        "pinyin": "gēnyuán",
+        "meaning": "origin; root (cause)",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "跟踪",
+        "pinyin": "gēnzōng",
+        "meaning": "to follow someone's tracks; tail; shadow",
+        "strokes": 28,
+        "hsk": 6
+      },
+      {
+        "character": "格式",
+        "pinyin": "géshì",
+        "meaning": "format; form; pattern",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "各抒己见",
+        "pinyin": "gèshūjǐjiàn",
+        "meaning": "everyone gives their own view",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "歌颂",
+        "pinyin": "gēsòng",
+        "meaning": "to sing the praises of; extol; eulogize",
+        "strokes": 24,
+        "hsk": 6
+      },
+      {
+        "character": "个体",
+        "pinyin": "gètǐ",
+        "meaning": "individual; self-employed",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "公安局",
+        "pinyin": "gōng'ānjú",
+        "meaning": "public security bureau",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "供不应求",
+        "pinyin": "gōngbùyìngqiú",
+        "meaning": "supply does not meet demand",
+        "strokes": 26,
+        "hsk": 6
+      },
+      {
+        "character": "公道",
+        "pinyin": "gōngdao",
+        "meaning": "fair; reasonable",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "宫殿",
+        "pinyin": "gōngdiàn",
+        "meaning": "palace",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "工夫",
+        "pinyin": "gōngfu",
+        "meaning": "time; effort; skill",
+        "strokes": 7,
+        "hsk": 6
+      },
+      {
+        "character": "公告",
+        "pinyin": "gōnggào",
+        "meaning": "announcement; notice; public notice",
+        "strokes": 11,
+        "hsk": 6
+      },
+      {
+        "character": "巩固",
+        "pinyin": "gǒnggù",
+        "meaning": "to consolidate; consolidation; strengthen",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "公关",
+        "pinyin": "gōngguān",
+        "meaning": "public relations",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "共和国",
+        "pinyin": "gònghéguó",
+        "meaning": "republic",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "共计",
+        "pinyin": "gòngjì",
+        "meaning": "to sum up to; total",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "攻击",
+        "pinyin": "gōngjī",
+        "meaning": "to attack; accuse; charge",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "供给",
+        "pinyin": "gōngjǐ",
+        "meaning": "to supply; provide; supply",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "恭敬",
+        "pinyin": "gōngjìng",
+        "meaning": "respectful; deferential",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "功课",
+        "pinyin": "gōngkè",
+        "meaning": "homework; schoolwork; lesson",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "攻克",
+        "pinyin": "gōngkè",
+        "meaning": "to capture; overcome; conquer",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "功劳",
+        "pinyin": "gōngláo",
+        "meaning": "credit; contribution; meritorious deed",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "公民",
+        "pinyin": "gōngmín",
+        "meaning": "citizen",
+        "strokes": 9,
+        "hsk": 6
+      },
+      {
+        "character": "共鸣",
+        "pinyin": "gòngmíng",
+        "meaning": "resonance; sympathy; to resonate",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "公婆",
+        "pinyin": "gōngpó",
+        "meaning": "parents-in-law (husband's parents)",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "公然",
+        "pinyin": "gōngrán",
+        "meaning": "openly; publicly; undisguised",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "公认",
+        "pinyin": "gōngrèn",
+        "meaning": "generally recognized; accepted",
+        "strokes": 8,
+        "hsk": 6
+      },
+      {
+        "character": "公式",
+        "pinyin": "gōngshì",
+        "meaning": "formula",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "公务",
+        "pinyin": "gōngwù",
+        "meaning": "official business",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "功效",
+        "pinyin": "gōngxiào",
+        "meaning": "efficacy; effect",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "工艺品",
+        "pinyin": "gōngyìpǐn",
+        "meaning": "handicraft article; handiwork",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "公正",
+        "pinyin": "gōngzhèng",
+        "meaning": "just; fair; equitable",
+        "strokes": 9,
+        "hsk": 6
+      },
+      {
+        "character": "公证",
+        "pinyin": "gōngzhèng",
+        "meaning": "notarization; to notarize",
+        "strokes": 11,
+        "hsk": 6
+      },
+      {
+        "character": "勾结",
+        "pinyin": "gōujié",
+        "meaning": "to collude with; gang up",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "构思",
+        "pinyin": "gòusī",
+        "meaning": "to conceive; plan out; idea",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "钩子",
+        "pinyin": "gōuzi",
+        "meaning": "hook",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "拐杖",
+        "pinyin": "guǎizhàng",
+        "meaning": "walking stick; crutch",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "罐",
+        "pinyin": "guàn",
+        "meaning": "can; jar; pot",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "贯彻",
+        "pinyin": "guànchè",
+        "meaning": "to implement; put into practice; carry out",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "官方",
+        "pinyin": "guānfāng",
+        "meaning": "official; government",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "灌溉",
+        "pinyin": "guàngài",
+        "meaning": "to irrigate",
+        "strokes": 33,
+        "hsk": 6
+      },
+      {
+        "character": "光彩",
+        "pinyin": "guāngcǎi",
+        "meaning": "luster; splendor; honorable",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "光辉",
+        "pinyin": "guānghuī",
+        "meaning": "radiance; glory; brilliant",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "广阔",
+        "pinyin": "guǎngkuò",
+        "meaning": "wide; vast",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "光芒",
+        "pinyin": "guāngmáng",
+        "meaning": "rays of light; brilliant rays; radiance",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "观光",
+        "pinyin": "guānguāng",
+        "meaning": "to tour; sightseeing; tourism",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "惯例",
+        "pinyin": "guànlì",
+        "meaning": "convention; usual practice",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "管辖",
+        "pinyin": "guǎnxiá",
+        "meaning": "to administer; have jurisdiction (over)",
+        "strokes": 28,
+        "hsk": 6
+      },
+      {
+        "character": "关照",
+        "pinyin": "guānzhào",
+        "meaning": "to look after; keep an eye on",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "鼓动",
+        "pinyin": "gǔdòng",
+        "meaning": "to urge; encourage; agitate",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "股东",
+        "pinyin": "gǔdōng",
+        "meaning": "shareholder; stockholder",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "古董",
+        "pinyin": "gǔdǒng",
+        "meaning": "curio; antique",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "孤独",
+        "pinyin": "gūdú",
+        "meaning": "lonely; solitary",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "股份",
+        "pinyin": "gǔfèn",
+        "meaning": "a share (in a company); stock",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "辜负",
+        "pinyin": "gūfù",
+        "meaning": "to let down; fail to live up to",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "骨干",
+        "pinyin": "gǔgàn",
+        "meaning": "backbone; mainstay; key member",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "古怪",
+        "pinyin": "gǔguài",
+        "meaning": "strange; weird; eccentric",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "跪",
+        "pinyin": "guì",
+        "meaning": "to kneel",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "轨道",
+        "pinyin": "guǐdào",
+        "meaning": "track; orbit; rail",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "规范",
+        "pinyin": "guīfàn",
+        "meaning": "norm; standard; specification",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "规格",
+        "pinyin": "guīgé",
+        "meaning": "standard; norm; specification",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "归根到底",
+        "pinyin": "guīgēndàodǐ",
+        "meaning": "in the final analysis; ultimately",
+        "strokes": 31,
+        "hsk": 6
+      },
+      {
+        "character": "规划",
+        "pinyin": "guīhuà",
+        "meaning": "plan; program; to plan",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "归还",
+        "pinyin": "guīhuán",
+        "meaning": "to return; give back",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "归纳",
+        "pinyin": "guīnà",
+        "meaning": "to sum up; induce; conclude",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "规章",
+        "pinyin": "guīzhāng",
+        "meaning": "rule; regulation",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "贵族",
+        "pinyin": "guìzú",
+        "meaning": "nobility; aristocrat",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "孤立",
+        "pinyin": "gūlì",
+        "meaning": "isolated; to isolate",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "顾虑",
+        "pinyin": "gùlǜ",
+        "meaning": "misgivings; apprehensions",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "棍棒",
+        "pinyin": "gùnbàng",
+        "meaning": "club; stick; rod",
+        "strokes": 24,
+        "hsk": 6
+      },
+      {
+        "character": "过度",
+        "pinyin": "guòdù",
+        "meaning": "excessive; over-",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "过渡",
+        "pinyin": "guòdù",
+        "meaning": "transition; interim; to cross over",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "果断",
+        "pinyin": "guǒduàn",
+        "meaning": "firm; decisive",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "国防",
+        "pinyin": "guófáng",
+        "meaning": "national defense",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "过奖",
+        "pinyin": "guòjiǎng",
+        "meaning": "you flatter me; to overpraise",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "过滤",
+        "pinyin": "guòlǜ",
+        "meaning": "to filter; filter",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "过失",
+        "pinyin": "guòshī",
+        "meaning": "error; fault; (law) negligence",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "过问",
+        "pinyin": "guòwèn",
+        "meaning": "to show an interest in; get involved with",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "国务院",
+        "pinyin": "guówùyuàn",
+        "meaning": "State Council (of the PRC)",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "过瘾",
+        "pinyin": "guòyǐn",
+        "meaning": "to satisfy a craving; enjoyable; fun",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "过于",
+        "pinyin": "guòyú",
+        "meaning": "too much; excessively",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "姑且",
+        "pinyin": "gūqiě",
+        "meaning": "for the time being; tentatively",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "固然",
+        "pinyin": "gùrán",
+        "meaning": "admittedly; of course; it's true that",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "顾问",
+        "pinyin": "gùwèn",
+        "meaning": "adviser; consultant",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "故乡",
+        "pinyin": "gùxiāng",
+        "meaning": "home; homeland; native place",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "固有",
+        "pinyin": "gùyǒu",
+        "meaning": "intrinsic to something; inherent; native",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "故障",
+        "pinyin": "gùzhàng",
+        "meaning": "malfunction; breakdown; defect",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "固执",
+        "pinyin": "gùzhí",
+        "meaning": "stubborn; obstinate",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "嗨",
+        "pinyin": "hāi",
+        "meaning": "oh alas; hey!; hi!",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "海拔",
+        "pinyin": "hǎibá",
+        "meaning": "height above sea level; elevation",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "海滨",
+        "pinyin": "hǎibīn",
+        "meaning": "shore; seaside",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "航空",
+        "pinyin": "hángkōng",
+        "meaning": "aviation",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "行列",
+        "pinyin": "hángliè",
+        "meaning": "ranks; procession; line",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "航天",
+        "pinyin": "hángtiān",
+        "meaning": "space flight",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "航行",
+        "pinyin": "hángxíng",
+        "meaning": "to sail; fly; navigate",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "含糊",
+        "pinyin": "hánhu",
+        "meaning": "vague; ambiguous; careless",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "罕见",
+        "pinyin": "hǎnjiàn",
+        "meaning": "rare; rarely seen",
+        "strokes": 11,
+        "hsk": 6
+      },
+      {
+        "character": "捍卫",
+        "pinyin": "hànwèi",
+        "meaning": "to defend; uphold; safeguard",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "寒暄",
+        "pinyin": "hánxuān",
+        "meaning": "to exchange pleasantries",
+        "strokes": 25,
+        "hsk": 6
+      },
+      {
+        "character": "含义",
+        "pinyin": "hányì",
+        "meaning": "meaning; implied meaning; hidden meaning",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "耗费",
+        "pinyin": "hàofèi",
+        "meaning": "to waste; spend; consume",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "好客",
+        "pinyin": "hàokè",
+        "meaning": "hospitable",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "豪迈",
+        "pinyin": "háomài",
+        "meaning": "bold; heroic; generous",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "毫米",
+        "pinyin": "háomǐ",
+        "meaning": "millimeter",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "毫无",
+        "pinyin": "háowú",
+        "meaning": "not at all; to completely lack",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "号召",
+        "pinyin": "hàozhào",
+        "meaning": "to call on; appeal; call",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "呵",
+        "pinyin": "hē",
+        "meaning": "to breathe out; ah; (laughter) ha",
+        "strokes": 8,
+        "hsk": 6
+      },
+      {
+        "character": "和蔼",
+        "pinyin": "hé'ǎi",
+        "meaning": "kindly; nice; amiable",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "合并",
+        "pinyin": "hébìng",
+        "meaning": "to merge; annex",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "合成",
+        "pinyin": "héchéng",
+        "meaning": "to compose; constitute; compound",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "合乎",
+        "pinyin": "héhū",
+        "meaning": "to conform with; accord with",
+        "strokes": 11,
+        "hsk": 6
+      },
+      {
+        "character": "合伙",
+        "pinyin": "héhuǒ",
+        "meaning": "to form a partnership; partnership",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "嘿",
+        "pinyin": "hēi",
+        "meaning": "hey",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "和解",
+        "pinyin": "héjiě",
+        "meaning": "to settle; reconcile; settlement",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "和睦",
+        "pinyin": "hémù",
+        "meaning": "peaceful relations; harmonious",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "恨不得",
+        "pinyin": "hènbude",
+        "meaning": "to be itching to; wish one could",
+        "strokes": 24,
+        "hsk": 6
+      },
+      {
+        "character": "哼",
+        "pinyin": "hēng",
+        "meaning": "to hum; groan; snort",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "痕迹",
+        "pinyin": "hénjì",
+        "meaning": "vestige; mark; trace",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "狠心",
+        "pinyin": "hěnxīn",
+        "meaning": "heartless; to make a painful decision",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "和气",
+        "pinyin": "héqi",
+        "meaning": "friendly; polite; amiable",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "合身",
+        "pinyin": "héshēn",
+        "meaning": "well-fitting (clothes)",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "合算",
+        "pinyin": "hésuàn",
+        "meaning": "worthwhile; cost-effective; a good deal",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "和谐",
+        "pinyin": "héxié",
+        "meaning": "harmonious; harmony",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "烘",
+        "pinyin": "hōng",
+        "meaning": "to bake; dry by heat; roast",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "哄",
+        "pinyin": "hǒng",
+        "meaning": "to coax; deceive; amuse (a child)",
+        "strokes": 9,
+        "hsk": 6
+      },
+      {
+        "character": "轰动",
+        "pinyin": "hōngdòng",
+        "meaning": "to cause a sensation; stir",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "宏观",
+        "pinyin": "hóngguān",
+        "meaning": "macro-; macroscopic; holistic",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "洪水",
+        "pinyin": "hóngshuǐ",
+        "meaning": "deluge; flood",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "宏伟",
+        "pinyin": "hóngwěi",
+        "meaning": "grand; imposing; magnificent",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "吼",
+        "pinyin": "hǒu",
+        "meaning": "to roar; howl",
+        "strokes": 7,
+        "hsk": 6
+      },
+      {
+        "character": "后代",
+        "pinyin": "hòudài",
+        "meaning": "descendant; progeny; posterity",
+        "strokes": 11,
+        "hsk": 6
+      },
+      {
+        "character": "后顾之忧",
+        "pinyin": "hòugùzhīyōu",
+        "meaning": "worries back home; family worries",
+        "strokes": 27,
+        "hsk": 6
+      },
+      {
+        "character": "喉咙",
+        "pinyin": "hóulong",
+        "meaning": "throat",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "后勤",
+        "pinyin": "hòuqín",
+        "meaning": "logistics",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "候选",
+        "pinyin": "hòuxuǎn",
+        "meaning": "candidate; to stand as a candidate",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "花瓣",
+        "pinyin": "huābàn",
+        "meaning": "petal",
+        "strokes": 27,
+        "hsk": 6
+      },
+      {
+        "character": "化肥",
+        "pinyin": "huàféi",
+        "meaning": "fertilizer",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "划分",
+        "pinyin": "huàfēn",
+        "meaning": "to divide up; partition; differentiate",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "怀孕",
+        "pinyin": "huáiyùn",
+        "meaning": "pregnant; to have conceived; gestation",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "华丽",
+        "pinyin": "huálì",
+        "meaning": "gorgeous; magnificent",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "黄昏",
+        "pinyin": "huánghūn",
+        "meaning": "dusk; evening; nightfall",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "荒凉",
+        "pinyin": "huāngliáng",
+        "meaning": "desolate",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "慌忙",
+        "pinyin": "huāngmáng",
+        "meaning": "in a great rush; in a flurry",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "荒谬",
+        "pinyin": "huāngmiù",
+        "meaning": "absurd; ridiculous",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "恍然大悟",
+        "pinyin": "huǎngrándàwù",
+        "meaning": "to suddenly realize; suddenly see the light",
+        "strokes": 34,
+        "hsk": 6
+      },
+      {
+        "character": "荒唐",
+        "pinyin": "huāngtáng",
+        "meaning": "beyond belief; preposterous; absurd",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "缓和",
+        "pinyin": "huǎnhé",
+        "meaning": "to ease (tension); alleviate; moderate",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "环节",
+        "pinyin": "huánjié",
+        "meaning": "link; stage; segment",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "欢乐",
+        "pinyin": "huānlè",
+        "meaning": "joy; happy; joyous",
+        "strokes": 11,
+        "hsk": 6
+      },
+      {
+        "character": "还原",
+        "pinyin": "huányuán",
+        "meaning": "to restore; return to original state",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "患者",
+        "pinyin": "huànzhě",
+        "meaning": "patient; sufferer",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "华侨",
+        "pinyin": "huáqiáo",
+        "meaning": "overseas Chinese",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "画蛇添足",
+        "pinyin": "huàshétiānzú",
+        "meaning": "to overdo it; add superfluous details",
+        "strokes": 37,
+        "hsk": 6
+      },
+      {
+        "character": "化石",
+        "pinyin": "huàshí",
+        "meaning": "fossil",
+        "strokes": 9,
+        "hsk": 6
+      },
+      {
+        "character": "话筒",
+        "pinyin": "huàtǒng",
+        "meaning": "microphone; (telephone) receiver; handset",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "化验",
+        "pinyin": "huàyàn",
+        "meaning": "lab test; to do a lab test",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "化妆",
+        "pinyin": "huàzhuāng",
+        "meaning": "to put on makeup",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "汇报",
+        "pinyin": "huìbào",
+        "meaning": "to report; give an account of",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "回报",
+        "pinyin": "huíbào",
+        "meaning": "to repay; return; payback",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "回避",
+        "pinyin": "huíbì",
+        "meaning": "to shun; avoid (someone); skirt",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "回顾",
+        "pinyin": "huígù",
+        "meaning": "to look back; review",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "悔恨",
+        "pinyin": "huǐhèn",
+        "meaning": "to regret deeply; remorse",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "辉煌",
+        "pinyin": "huīhuáng",
+        "meaning": "splendid; glorious",
+        "strokes": 25,
+        "hsk": 6
+      },
+      {
+        "character": "挥霍",
+        "pinyin": "huīhuò",
+        "meaning": "to squander money; extravagant; prodigal",
+        "strokes": 25,
+        "hsk": 6
+      },
+      {
+        "character": "贿赂",
+        "pinyin": "huìlù",
+        "meaning": "to bribe; a bribe",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "毁灭",
+        "pinyin": "huǐmiè",
+        "meaning": "to perish; ruin; destroy",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "回收",
+        "pinyin": "huíshōu",
+        "meaning": "to recycle; reclaim; retrieve",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "会晤",
+        "pinyin": "huìwù",
+        "meaning": "to meet; meeting (of officials)",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "互联网",
+        "pinyin": "hùliánwǎng",
+        "meaning": "Internet",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "胡乱",
+        "pinyin": "húluàn",
+        "meaning": "carelessly; at random; recklessly",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "忽略",
+        "pinyin": "hūlüè",
+        "meaning": "to neglect; overlook; ignore",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "混合",
+        "pinyin": "hùnhé",
+        "meaning": "to mix; blend; hybrid",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "混乱",
+        "pinyin": "hùnluàn",
+        "meaning": "confusion; chaos; disorder",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "昏迷",
+        "pinyin": "hūnmí",
+        "meaning": "to lose consciousness; be in a coma; stupor",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "浑身",
+        "pinyin": "húnshēn",
+        "meaning": "all over (the body); from head to toe",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "混淆",
+        "pinyin": "hùnxiáo",
+        "meaning": "to obscure; confuse; mix up",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "混浊",
+        "pinyin": "hùnzhuó",
+        "meaning": "muddy; turbid",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "货币",
+        "pinyin": "huòbì",
+        "meaning": "currency; monetary; money",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "活该",
+        "pinyin": "huógāi",
+        "meaning": "serves someone right; deservedly",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "火箭",
+        "pinyin": "huǒjiàn",
+        "meaning": "rocket",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "活力",
+        "pinyin": "huólì",
+        "meaning": "energy; vitality; vigor",
+        "strokes": 11,
+        "hsk": 6
+      },
+      {
+        "character": "或许",
+        "pinyin": "huòxǔ",
+        "meaning": "perhaps; maybe",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "火焰",
+        "pinyin": "huǒyàn",
+        "meaning": "blaze; flame",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "火药",
+        "pinyin": "huǒyào",
+        "meaning": "gunpowder",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "湖泊",
+        "pinyin": "húpō",
+        "meaning": "lake",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "呼啸",
+        "pinyin": "hūxiào",
+        "meaning": "to whistle; scream; whiz",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "呼吁",
+        "pinyin": "hūyù",
+        "meaning": "to appeal; call on",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "家常",
+        "pinyin": "jiācháng",
+        "meaning": "everyday life; home-style",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "加工",
+        "pinyin": "jiāgōng",
+        "meaning": "to process; processing",
+        "strokes": 8,
+        "hsk": 6
+      },
+      {
+        "character": "家伙",
+        "pinyin": "jiāhuo",
+        "meaning": "guy; fellow; tool",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "加剧",
+        "pinyin": "jiājù",
+        "meaning": "to intensify; aggravate",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "溅",
+        "pinyin": "jiàn",
+        "meaning": "to splash",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "拣",
+        "pinyin": "jiǎn",
+        "meaning": "to choose; pick; pick up",
+        "strokes": 8,
+        "hsk": 6
+      },
+      {
+        "character": "鉴别",
+        "pinyin": "jiànbié",
+        "meaning": "to differentiate; distinguish",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "剪彩",
+        "pinyin": "jiǎncǎi",
+        "meaning": "to cut the ribbon (at a ceremony)",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "间谍",
+        "pinyin": "jiàndié",
+        "meaning": "spy",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "鉴定",
+        "pinyin": "jiàndìng",
+        "meaning": "to appraise; identify; evaluate",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "坚定",
+        "pinyin": "jiāndìng",
+        "meaning": "firm; steady; staunch",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "监督",
+        "pinyin": "jiāndū",
+        "meaning": "to supervise; supervision; supervisor",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "尖端",
+        "pinyin": "jiānduān",
+        "meaning": "tip; cutting-edge; most advanced",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "见多识广",
+        "pinyin": "jiànduōshíguǎng",
+        "meaning": "experienced and knowledgeable",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "桨",
+        "pinyin": "jiǎng",
+        "meaning": "oar; paddle",
+        "strokes": 10,
+        "hsk": 6
+      },
+      {
+        "character": "间隔",
+        "pinyin": "jiàngé",
+        "meaning": "interval; gap; to separate",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "将近",
+        "pinyin": "jiāngjìn",
+        "meaning": "almost; nearly; close to",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "将军",
+        "pinyin": "jiāngjūn",
+        "meaning": "general (military)",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "奖励",
+        "pinyin": "jiǎnglì",
+        "meaning": "to reward; reward",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "降临",
+        "pinyin": "jiànglín",
+        "meaning": "to arrive; descend; befall",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "奖赏",
+        "pinyin": "jiǎngshǎng",
+        "meaning": "reward; prize; award",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "坚固",
+        "pinyin": "jiāngù",
+        "meaning": "sturdy; solid; firm",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "僵硬",
+        "pinyin": "jiāngyìng",
+        "meaning": "stiff; rigid",
+        "strokes": 27,
+        "hsk": 6
+      },
+      {
+        "character": "简化",
+        "pinyin": "jiǎnhuà",
+        "meaning": "to simplify",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "间接",
+        "pinyin": "jiànjiē",
+        "meaning": "indirect",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "见解",
+        "pinyin": "jiànjiě",
+        "meaning": "opinion; view; understanding",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "简陋",
+        "pinyin": "jiǎnlòu",
+        "meaning": "simple and crude; shabby",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "艰难",
+        "pinyin": "jiānnán",
+        "meaning": "difficult; hard; challenging",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "健全",
+        "pinyin": "jiànquán",
+        "meaning": "sound; healthy; to perfect",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "坚韧",
+        "pinyin": "jiānrèn",
+        "meaning": "tough and durable; tenacious",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "监视",
+        "pinyin": "jiānshì",
+        "meaning": "to monitor; keep a close watch over",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "坚实",
+        "pinyin": "jiānshí",
+        "meaning": "firm and substantial; solid",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "践踏",
+        "pinyin": "jiàntà",
+        "meaning": "to trample",
+        "strokes": 27,
+        "hsk": 6
+      },
+      {
+        "character": "检讨",
+        "pinyin": "jiǎntǎo",
+        "meaning": "self-criticism; to review",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "舰艇",
+        "pinyin": "jiàntǐng",
+        "meaning": "warship; naval vessel",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "简体字",
+        "pinyin": "jiǎntǐzì",
+        "meaning": "simplified Chinese character",
+        "strokes": 26,
+        "hsk": 6
+      },
+      {
+        "character": "见闻",
+        "pinyin": "jiànwén",
+        "meaning": "what one sees and hears; knowledge",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "检验",
+        "pinyin": "jiǎnyàn",
+        "meaning": "to inspect; examine; test",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "简要",
+        "pinyin": "jiǎnyào",
+        "meaning": "concise; brief",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "坚硬",
+        "pinyin": "jiānyìng",
+        "meaning": "hard; solid",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "见义勇为",
+        "pinyin": "jiànyìyǒngwéi",
+        "meaning": "to act bravely for a just cause",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "鉴于",
+        "pinyin": "jiànyú",
+        "meaning": "in view of; considering",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "监狱",
+        "pinyin": "jiānyù",
+        "meaning": "prison",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "兼职",
+        "pinyin": "jiānzhí",
+        "meaning": "part-time job; second job",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "搅拌",
+        "pinyin": "jiǎobàn",
+        "meaning": "to stir; agitate",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "交叉",
+        "pinyin": "jiāochā",
+        "meaning": "to cross; intersect; overlap",
+        "strokes": 9,
+        "hsk": 6
+      },
+      {
+        "character": "交代",
+        "pinyin": "jiāodài",
+        "meaning": "to explain; hand over; confess",
+        "strokes": 11,
+        "hsk": 6
+      },
+      {
+        "character": "焦点",
+        "pinyin": "jiāodiǎn",
+        "meaning": "focal point; focus",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "焦急",
+        "pinyin": "jiāojí",
+        "meaning": "anxious; worried",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "较量",
+        "pinyin": "jiàoliàng",
+        "meaning": "to compete; trial of strength",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "角落",
+        "pinyin": "jiǎoluò",
+        "meaning": "nook; corner",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "缴纳",
+        "pinyin": "jiǎonà",
+        "meaning": "to pay (taxes, fees)",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "娇气",
+        "pinyin": "jiāoqì",
+        "meaning": "fragile; delicate; squeamish",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "交涉",
+        "pinyin": "jiāoshè",
+        "meaning": "to negotiate; deal with",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "交往",
+        "pinyin": "jiāowǎng",
+        "meaning": "to associate with; contact; dealings",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "教养",
+        "pinyin": "jiàoyǎng",
+        "meaning": "upbringing; manners; to educate",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "交易",
+        "pinyin": "jiāoyì",
+        "meaning": "deal; trade; transaction",
+        "strokes": 14,
+        "hsk": 6
+      },
+      {
+        "character": "假设",
+        "pinyin": "jiǎshè",
+        "meaning": "to suppose; presume; assume",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "假使",
+        "pinyin": "jiǎshǐ",
+        "meaning": "if; in case; suppose",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "家属",
+        "pinyin": "jiāshǔ",
+        "meaning": "family member; (family) dependent",
+        "strokes": 22,
+        "hsk": 6
+      },
+      {
+        "character": "佳肴",
+        "pinyin": "jiāyáo",
+        "meaning": "delicacy; fine food",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "家喻户晓",
+        "pinyin": "jiāyùhùxiǎo",
+        "meaning": "known to every household",
+        "strokes": 36,
+        "hsk": 6
+      },
+      {
+        "character": "夹杂",
+        "pinyin": "jiāzá",
+        "meaning": "to be mixed with; mingle",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "即便",
+        "pinyin": "jíbiàn",
+        "meaning": "even if; even though",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "级别",
+        "pinyin": "jíbié",
+        "meaning": "level; rank; grade",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "疾病",
+        "pinyin": "jíbìng",
+        "meaning": "disease; illness",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "继承",
+        "pinyin": "jìchéng",
+        "meaning": "to inherit; succeed to; carry on",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "基地",
+        "pinyin": "jīdì",
+        "meaning": "base",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "机动",
+        "pinyin": "jīdòng",
+        "meaning": "motorized; flexible; mobile",
+        "strokes": 12,
+        "hsk": 6
+      },
+      {
+        "character": "季度",
+        "pinyin": "jìdù",
+        "meaning": "quarter (of a year)",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "嫉妒",
+        "pinyin": "jídù",
+        "meaning": "to be jealous of; envy",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "极端",
+        "pinyin": "jíduān",
+        "meaning": "extreme; extremely",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "皆",
+        "pinyin": "jiē",
+        "meaning": "all; each and every",
+        "strokes": 9,
+        "hsk": 6
+      },
+      {
+        "character": "饥饿",
+        "pinyin": "jī'è",
+        "meaning": "hunger; starvation; famine",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "戒备",
+        "pinyin": "jièbèi",
+        "meaning": "to be on guard; take precautions",
+        "strokes": 15,
+        "hsk": 6
+      },
+      {
+        "character": "阶层",
+        "pinyin": "jiēcéng",
+        "meaning": "social class",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "杰出",
+        "pinyin": "jiéchū",
+        "meaning": "outstanding; distinguished; remarkable",
+        "strokes": 13,
+        "hsk": 6
+      },
+      {
+        "character": "解除",
+        "pinyin": "jiěchú",
+        "meaning": "to remove; relieve; lift",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "揭发",
+        "pinyin": "jiēfā",
+        "meaning": "to expose; bring to light; disclose",
+        "strokes": 17,
+        "hsk": 6
+      },
+      {
+        "character": "解雇",
+        "pinyin": "jiěgù",
+        "meaning": "to fire; sack; dismiss",
+        "strokes": 25,
+        "hsk": 6
+      },
+      {
+        "character": "借鉴",
+        "pinyin": "jièjiàn",
+        "meaning": "to learn from; draw on (experience)",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "结晶",
+        "pinyin": "jiéjīng",
+        "meaning": "to crystallize; crystallization; crystal",
+        "strokes": 21,
+        "hsk": 6
+      },
+      {
+        "character": "竭尽全力",
+        "pinyin": "jiéjìnquánlì",
+        "meaning": "to spare no effort; do one's utmost",
+        "strokes": 28,
+        "hsk": 6
+      },
+      {
+        "character": "结局",
+        "pinyin": "jiéjú",
+        "meaning": "conclusion; ending",
+        "strokes": 16,
+        "hsk": 6
+      },
+      {
+        "character": "接连",
+        "pinyin": "jiēlián",
+        "meaning": "on end; in a row; in succession",
+        "strokes": 19,
+        "hsk": 6
+      },
+      {
+        "character": "揭露",
+        "pinyin": "jiēlù",
+        "meaning": "to expose; reveal; unmask",
+        "strokes": 33,
+        "hsk": 6
+      },
+      {
+        "character": "解剖",
+        "pinyin": "jiěpōu",
+        "meaning": "to dissect; anatomy; to analyze",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "解散",
+        "pinyin": "jiěsàn",
+        "meaning": "to dissolve; disband",
+        "strokes": 25,
+        "hsk": 6
+      },
+      {
+        "character": "结算",
+        "pinyin": "jiésuàn",
+        "meaning": "to settle accounts; settlement",
+        "strokes": 23,
+        "hsk": 6
+      },
+      {
+        "character": "解体",
+        "pinyin": "jiětǐ",
+        "meaning": "to disintegrate; break up",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "界限",
+        "pinyin": "jièxiàn",
+        "meaning": "boundary; limit",
+        "strokes": 18,
+        "hsk": 6
+      },
+      {
+        "character": "截至",
+        "pinyin": "jiézhì",
+        "meaning": "up to; by (a time)",
+        "strokes": 20,
+        "hsk": 6
+      },
+      {
+        "character": "借助",
+        "pinyin": "jièzhù",
+        "meaning": "to draw support from; with the help of",
+        "strokes": 17,
+        "hsk": 6
+      }
+    ],
+    "sentencesDatabase": [
+      {
+        "chinese": [
+          "下班",
+          "高峰",
+          "的",
+          "时候",
+          "路上",
+          "特别",
+          "堵"
+        ],
+        "pinyin": "Xiàbān gāofēng de shíhou lùshang tèbié dǔ",
+        "english": "The roads are especially jammed during the evening rush hour",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "他",
+          "每天",
+          "都",
+          "要",
+          "更新",
+          "自己",
+          "的",
+          "博客"
+        ],
+        "pinyin": "Tā měitiān dōu yào gēngxīn zìjǐ de bókè",
+        "english": "He updates his blog every day",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "请",
+          "大家",
+          "各抒己见"
+        ],
+        "pinyin": "Qǐng dàjiā gèshūjǐjiàn",
+        "english": "Everyone, please share your own views",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "这",
+          "种",
+          "手机",
+          "现在",
+          "供不应求"
+        ],
+        "pinyin": "Zhè zhǒng shǒujī xiànzài gōngbùyìngqiú",
+        "english": "Demand for this phone currently exceeds supply",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "你",
+          "过奖",
+          "了"
+        ],
+        "pinyin": "Nǐ guòjiǎng le",
+        "english": "You flatter me",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "这个",
+          "故事",
+          "在",
+          "中国",
+          "家喻户晓"
+        ],
+        "pinyin": "Zhège gùshi zài Zhōngguó jiāyùhùxiǎo",
+        "english": "This story is known to every household in China",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "他",
+          "恍然大悟",
+          "原来",
+          "自己",
+          "错",
+          "了"
+        ],
+        "pinyin": "Tā huǎngrándàwù yuánlái zìjǐ cuò le",
+        "english": "He suddenly realized that he had been wrong",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "她",
+          "上",
+          "大学",
+          "时",
+          "做",
+          "过",
+          "兼职"
+        ],
+        "pinyin": "Tā shàng dàxué shí zuò guo jiānzhí",
+        "english": "She had a part-time job while at university",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "我们",
+          "回顾",
+          "了",
+          "去年",
+          "的",
+          "工作"
+        ],
+        "pinyin": "Wǒmen huígù le qùnián de gōngzuò",
+        "english": "We reviewed last year's work",
+        "difficulty": "hard"
+      },
+      {
+        "chinese": [
+          "父母",
+          "恨不得",
+          "把",
+          "最",
+          "好",
+          "的",
+          "都",
+          "给",
+          "孩子"
+        ],
+        "pinyin": "Fùmǔ hènbude bǎ zuì hǎo de dōu gěi háizi",
+        "english": "Parents wish they could give their children the very best of everything",
+        "difficulty": "hard"
+      }
+    ]
+  }
+}

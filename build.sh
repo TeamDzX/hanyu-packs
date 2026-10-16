@@ -10,6 +10,18 @@ ORDER=(
   hsk4-foundations-2
   hsk4-foundations-3
   hsk5-starter
+  hsk5-core-1
+  hsk5-core-2
+  hsk5-core-3
+  hsk5-core-4
+  hsk6-core-1
+  hsk6-core-2
+  hsk6-core-3
+  hsk6-core-4
+  hsk6-core-5
+  hsk6-core-6
+  hsk6-core-7
+  hsk6-core-8
   stories-vol-1
   stories-vol-2
   stories-vol-3

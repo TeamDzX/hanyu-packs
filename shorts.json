@@ -248,5 +248,130 @@
     "how": "Up (上) + down (下)"
    }
   ]
+ },
+ {
+  "id": "sun",
+  "title": "One sun, three suns",
+  "seconds": 21,
+  "chars": [
+   {
+    "c": "日",
+    "py": "rì",
+    "en": "sun",
+    "how": "A picture of the sun"
+   },
+   {
+    "c": "旦",
+    "py": "dàn",
+    "en": "dawn",
+    "how": "Sun (日) + horizon (一)"
+   },
+   {
+    "c": "晶",
+    "py": "jīng",
+    "en": "sparkling",
+    "how": "Sun (日) + sun (日) + sun (日)"
+   }
+  ]
+ },
+ {
+  "id": "water",
+  "title": "Just add water",
+  "seconds": 21,
+  "chars": [
+   {
+    "c": "泪",
+    "py": "lèi",
+    "en": "a tear",
+    "how": "Water (氵) + eye (目)"
+   },
+   {
+    "c": "沙",
+    "py": "shā",
+    "en": "sand",
+    "how": "Water (氵) + few (少)"
+   },
+   {
+    "c": "酒",
+    "py": "jiǔ",
+    "en": "alcohol",
+    "how": "Water (氵) + wine jar (酉)"
+   }
+  ]
+ },
+ {
+  "id": "heart",
+  "title": "Follow your heart",
+  "seconds": 22,
+  "chars": [
+   {
+    "c": "忘",
+    "py": "wàng",
+    "en": "to forget",
+    "how": "Lost (亡) + heart (心)"
+   },
+   {
+    "c": "闷",
+    "py": "mèn",
+    "en": "bored",
+    "how": "Door (门) + heart (心)"
+   },
+   {
+    "c": "思",
+    "py": "sī",
+    "en": "to think",
+    "how": "Field (田) + heart (心)"
+   }
+  ]
+ },
+ {
+  "id": "walls",
+  "title": "Inside four walls",
+  "seconds": 22,
+  "chars": [
+   {
+    "c": "囚",
+    "py": "qiú",
+    "en": "prisoner",
+    "how": "Walls (囗) + person (人)"
+   },
+   {
+    "c": "困",
+    "py": "kùn",
+    "en": "trapped",
+    "how": "Walls (囗) + tree (木)"
+   },
+   {
+    "c": "国",
+    "py": "guó",
+    "en": "country",
+    "how": "Borders (囗) + jade (玉)"
+   }
+  ]
+ },
+ {
+  "id": "grow",
+  "title": "What grows on trees",
+  "seconds": 21,
+  "chars": [
+   {
+    "c": "本",
+    "py": "běn",
+    "en": "root",
+    "how": "Tree (木) + mark (一)"
+   },
+   {
+    "c": "果",
+    "py": "guǒ",
+    "en": "fruit",
+    "how": "Fruit (田) + tree (木)"
+   },
+   {
+    "c": "采",
+    "py": "cǎi",
+    "en": "to pick",
+    "how": "Hand (爫) + tree (木)"
+   }
+  ]
  }
 ]

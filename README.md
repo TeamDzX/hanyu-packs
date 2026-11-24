@@ -13,6 +13,8 @@ build.sh            ← regenerates packs.json from packs/*.json
 radio.json          ← standalone: live radio stations (app v2.9+)
 creators.json       ← standalone: "Creators to Follow" directory (app v3.0+ ONLY)
 books.json          ← standalone: the Library catalog (app v3.2+ ONLY)
+shorts.json         ← standalone: Character Shorts catalog (app v3.5+ ONLY)
+videos/shorts/*.mp4 ← the shorts (720x1280, ~20 s); images/shorts/*.jpg = posters
 books/*.epub        ← the books themselves, built by tools/book_build.py
 tools/books_sources.json  ← the source spec every book is built from
 ```
@@ -103,3 +105,12 @@ goes nowhere, so it is safe to reference pack content.
 
 The IDs are whatever the card carries as `data-hist-id` in the app, which for
 pack-supplied cards is the entry's own `id` in `content.history`.
+
+## Character Shorts (`shorts.json`)
+
+20-second videos in the format of the Instagram reels (a photo, the pieces of a
+character, a beat to guess, the answer, how it sounds). `shorts.json` is a bare
+array of `{ id, title, seconds, chars: [{ c, py, en, how }] }`. The app builds
+the URLs itself from the `id` (`videos/shorts/<id>.mp4`, `images/shorts/<id>.jpg`),
+so adding a short = push the two files and append one entry. Consumed only by
+app versions with the Character Shorts section; inert for older ones.

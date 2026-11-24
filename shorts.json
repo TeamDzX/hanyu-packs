@@ -1,0 +1,252 @@
+[
+ {
+  "id": "trees",
+  "title": "One tree, two trees, a forest",
+  "seconds": 20,
+  "chars": [
+   {
+    "c": "木",
+    "py": "mù",
+    "en": "tree",
+    "how": "A picture of a tree: trunk, branches and roots"
+   },
+   {
+    "c": "林",
+    "py": "lín",
+    "en": "woods",
+    "how": "Tree (木) + tree (木)"
+   },
+   {
+    "c": "森",
+    "py": "sēn",
+    "en": "forest",
+    "how": "Tree (木) + tree (木) + tree (木)"
+   }
+  ]
+ },
+ {
+  "id": "add",
+  "title": "Two pictures, one word",
+  "seconds": 24,
+  "chars": [
+   {
+    "c": "休",
+    "py": "xiū",
+    "en": "to rest",
+    "how": "Person (亻) + tree (木)"
+   },
+   {
+    "c": "明",
+    "py": "míng",
+    "en": "bright",
+    "how": "Sun (日) + moon (月)"
+   },
+   {
+    "c": "好",
+    "py": "hǎo",
+    "en": "good",
+    "how": "Woman (女) + child (子)"
+   }
+  ]
+ },
+ {
+  "id": "people",
+  "title": "One person, two, a crowd",
+  "seconds": 20,
+  "chars": [
+   {
+    "c": "人",
+    "py": "rén",
+    "en": "person",
+    "how": "A picture of a person walking, seen from the side"
+   },
+   {
+    "c": "从",
+    "py": "cóng",
+    "en": "to follow",
+    "how": "Person (人) + person (人)"
+   },
+   {
+    "c": "众",
+    "py": "zhòng",
+    "en": "crowd",
+    "how": "Person (人) + person (人) + person (人)"
+   }
+  ]
+ },
+ {
+  "id": "door",
+  "title": "Who is at the door?",
+  "seconds": 22,
+  "chars": [
+   {
+    "c": "问",
+    "py": "wèn",
+    "en": "to ask",
+    "how": "Door (门) + mouth (口)"
+   },
+   {
+    "c": "闪",
+    "py": "shǎn",
+    "en": "a flash",
+    "how": "Door (门) + person (人)"
+   },
+   {
+    "c": "间",
+    "py": "jiān",
+    "en": "between",
+    "how": "Door (门) + sun (日)"
+   }
+  ]
+ },
+ {
+  "id": "roof",
+  "title": "Under one roof",
+  "seconds": 22,
+  "chars": [
+   {
+    "c": "家",
+    "py": "jiā",
+    "en": "home",
+    "how": "Roof (宀) + pig (豕)"
+   },
+   {
+    "c": "安",
+    "py": "ān",
+    "en": "peace",
+    "how": "Roof (宀) + woman (女)"
+   },
+   {
+    "c": "字",
+    "py": "zì",
+    "en": "written word",
+    "how": "Roof (宀) + child (子)"
+   }
+  ]
+ },
+ {
+  "id": "fire",
+  "title": "Playing with fire",
+  "seconds": 22,
+  "chars": [
+   {
+    "c": "火",
+    "py": "huǒ",
+    "en": "fire",
+    "how": "A picture of flames rising"
+   },
+   {
+    "c": "炎",
+    "py": "yán",
+    "en": "blazing hot",
+    "how": "Fire (火) + fire (火)"
+   },
+   {
+    "c": "灾",
+    "py": "zāi",
+    "en": "disaster",
+    "how": "Roof (宀) + fire (火)"
+   }
+  ]
+ },
+ {
+  "id": "body",
+  "title": "Read it with your body",
+  "seconds": 21,
+  "chars": [
+   {
+    "c": "看",
+    "py": "kàn",
+    "en": "to look",
+    "how": "Hand (手) + eye (目)"
+   },
+   {
+    "c": "男",
+    "py": "nán",
+    "en": "man",
+    "how": "Field (田) + strength (力)"
+   },
+   {
+    "c": "坐",
+    "py": "zuò",
+    "en": "to sit",
+    "how": "Person (人) + person (人) + ground (土)"
+   }
+  ]
+ },
+ {
+  "id": "small",
+  "title": "Small things",
+  "seconds": 22,
+  "chars": [
+   {
+    "c": "尖",
+    "py": "jiān",
+    "en": "pointed",
+    "how": "Small (小) + big (大)"
+   },
+   {
+    "c": "尘",
+    "py": "chén",
+    "en": "dust",
+    "how": "Small (小) + earth (土)"
+   },
+   {
+    "c": "歪",
+    "py": "wāi",
+    "en": "crooked",
+    "how": "Not (不) + straight (正)"
+   }
+  ]
+ },
+ {
+  "id": "person-plus",
+  "title": "A person, plus one thing",
+  "seconds": 21,
+  "chars": [
+   {
+    "c": "信",
+    "py": "xìn",
+    "en": "trust",
+    "how": "Person (亻) + words (言)"
+   },
+   {
+    "c": "仙",
+    "py": "xiān",
+    "en": "an immortal",
+    "how": "Person (亻) + mountain (山)"
+   },
+   {
+    "c": "体",
+    "py": "tǐ",
+    "en": "body",
+    "how": "Person (亻) + root (本)"
+   }
+  ]
+ },
+ {
+  "id": "up-down",
+  "title": "Up, down, stuck",
+  "seconds": 21,
+  "chars": [
+   {
+    "c": "上",
+    "py": "shàng",
+    "en": "up",
+    "how": "A mark above the line"
+   },
+   {
+    "c": "下",
+    "py": "xià",
+    "en": "down",
+    "how": "A mark below the line"
+   },
+   {
+    "c": "卡",
+    "py": "kǎ",
+    "en": "stuck",
+    "how": "Up (上) + down (下)"
+   }
+  ]
+ }
+]

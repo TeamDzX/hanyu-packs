@@ -1,6 +1,6 @@
 {
   "catalogRevision": 1,
-  "generated": "2026-10-16",
+  "generated": "2026-11-24",
   "packs": [
     {
       "revision": 1,
@@ -49924,13 +49924,13 @@
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "manga-everyday-essentials",
       "name": "Manga Dialogues: Everyday Essentials",
       "icon": "comments",
       "releaseDate": "2026-07-01",
       "minApp": "2.7",
-      "whatsNew": "Six animated manga dialogue scenes for everyday Chinese — meeting people, ordering at a restaurant, shopping, asking directions, taking a taxi and making a phone call. Watch the scene, tap any word, hear it spoken.",
+      "whatsNew": "Six animated manga dialogue scenes for everyday Chinese — meeting people, ordering at a restaurant, shopping, asking directions, taking a taxi and making a phone call. Watch the scene, tap any word, hear it spoken. New in this update: every line now has its own picture and a recorded Mandarin voice (needs app 3.5 or later; earlier versions are unchanged).",
       "content": {
         "situations": [
           {
@@ -49970,7 +49970,9 @@
                     "pinyin": "jiào",
                     "english": "to be called"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_greetings/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_greetings/1.m4a"
               },
               {
                 "sp": "B",
@@ -49988,7 +49990,9 @@
                     "pinyin": "shì",
                     "english": "to be"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_greetings/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_greetings/2.m4a"
               },
               {
                 "sp": "A",
@@ -50006,7 +50010,9 @@
                     "pinyin": "gāoxìng",
                     "english": "happy"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_greetings/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_greetings/3.m4a"
               },
               {
                 "sp": "B",
@@ -50024,7 +50030,9 @@
                     "pinyin": "nǎ guó rén",
                     "english": "what nationality"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_greetings/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_greetings/4.m4a"
               },
               {
                 "sp": "A",
@@ -50042,7 +50050,9 @@
                     "pinyin": "ne",
                     "english": "and (you)?"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_greetings/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_greetings/5.m4a"
               },
               {
                 "sp": "B",
@@ -50055,7 +50065,9 @@
                     "pinyin": "Měiguó rén",
                     "english": "American"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_greetings/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_greetings/6.m4a"
               }
             ],
             "questions": [
@@ -50079,7 +50091,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_greetings/p1.jpg"
           },
           {
             "id": "manga_restaurant",
@@ -50118,7 +50131,9 @@
                     "pinyin": "jǐ wèi",
                     "english": "how many people"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_restaurant/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_restaurant/1.m4a"
               },
               {
                 "sp": "B",
@@ -50136,7 +50151,9 @@
                     "pinyin": "wèi",
                     "english": "(measure word) people"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_restaurant/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_restaurant/2.m4a"
               },
               {
                 "sp": "A",
@@ -50154,7 +50171,9 @@
                     "pinyin": "diǎn",
                     "english": "to order"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_restaurant/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_restaurant/3.m4a"
               },
               {
                 "sp": "B",
@@ -50172,7 +50191,9 @@
                     "pinyin": "mǐfàn",
                     "english": "rice"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_restaurant/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_restaurant/4.m4a"
               },
               {
                 "sp": "A",
@@ -50185,7 +50206,9 @@
                     "pinyin": "hē",
                     "english": "to drink"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_restaurant/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_restaurant/5.m4a"
               },
               {
                 "sp": "B",
@@ -50203,7 +50226,9 @@
                     "pinyin": "chá",
                     "english": "tea"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_restaurant/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_restaurant/6.m4a"
               }
             ],
             "questions": [
@@ -50227,7 +50252,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_restaurant/p1.jpg"
           },
           {
             "id": "manga_shopping",
@@ -50261,7 +50287,9 @@
                     "pinyin": "duōshao qián",
                     "english": "how much money"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_shopping/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_shopping/1.m4a"
               },
               {
                 "sp": "B",
@@ -50279,7 +50307,9 @@
                     "pinyin": "kuài",
                     "english": "yuan"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_shopping/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_shopping/2.m4a"
               },
               {
                 "sp": "A",
@@ -50297,7 +50327,9 @@
                     "pinyin": "piányi",
                     "english": "cheap"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_shopping/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_shopping/3.m4a"
               },
               {
                 "sp": "B",
@@ -50315,7 +50347,9 @@
                     "pinyin": "sìshí",
                     "english": "forty"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_shopping/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_shopping/4.m4a"
               },
               {
                 "sp": "A",
@@ -50333,7 +50367,9 @@
                     "pinyin": "zhège",
                     "english": "this one"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_shopping/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_shopping/5.m4a"
               }
             ],
             "questions": [
@@ -50357,7 +50393,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_shopping/p1.jpg"
           },
           {
             "id": "manga_directions",
@@ -50401,7 +50438,9 @@
                     "pinyin": "nǎr",
                     "english": "where"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_directions/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_directions/1.m4a"
               },
               {
                 "sp": "B",
@@ -50424,7 +50463,9 @@
                     "pinyin": "zǒu",
                     "english": "to walk"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_directions/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_directions/2.m4a"
               },
               {
                 "sp": "A",
@@ -50437,7 +50478,9 @@
                     "pinyin": "yuǎn",
                     "english": "far"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_directions/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_directions/3.m4a"
               },
               {
                 "sp": "B",
@@ -50455,7 +50498,9 @@
                     "pinyin": "dào",
                     "english": "to arrive"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_directions/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_directions/4.m4a"
               },
               {
                 "sp": "A",
@@ -50468,7 +50513,9 @@
                     "pinyin": "xièxie",
                     "english": "thanks"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_directions/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_directions/5.m4a"
               }
             ],
             "questions": [
@@ -50492,7 +50539,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_directions/p1.jpg"
           },
           {
             "id": "manga_taxi",
@@ -50531,7 +50579,9 @@
                     "pinyin": "nǎr",
                     "english": "where"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_taxi/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_taxi/1.m4a"
               },
               {
                 "sp": "B",
@@ -50544,7 +50594,9 @@
                     "pinyin": "jīchǎng",
                     "english": "airport"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_taxi/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_taxi/2.m4a"
               },
               {
                 "sp": "A",
@@ -50562,7 +50614,9 @@
                     "pinyin": "ānquándài",
                     "english": "seatbelt"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_taxi/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_taxi/3.m4a"
               },
               {
                 "sp": "B",
@@ -50580,7 +50634,9 @@
                     "pinyin": "duōjiǔ",
                     "english": "how long"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_taxi/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_taxi/4.m4a"
               },
               {
                 "sp": "A",
@@ -50598,7 +50654,9 @@
                     "pinyin": "zuǒyòu",
                     "english": "about"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_taxi/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_taxi/5.m4a"
               }
             ],
             "questions": [
@@ -50622,7 +50680,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_taxi/p1.jpg"
           },
           {
             "id": "manga_phonecall",
@@ -50656,7 +50715,9 @@
                     "pinyin": "wéi",
                     "english": "hello (phone)"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_phonecall/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_phonecall/1.m4a"
               },
               {
                 "sp": "B",
@@ -50669,7 +50730,9 @@
                     "pinyin": "shì",
                     "english": "to be"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_phonecall/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_phonecall/2.m4a"
               },
               {
                 "sp": "A",
@@ -50682,7 +50745,9 @@
                     "pinyin": "yǒu shì",
                     "english": "have something up"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_phonecall/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_phonecall/3.m4a"
               },
               {
                 "sp": "B",
@@ -50705,7 +50770,9 @@
                     "pinyin": "chīfàn",
                     "english": "to eat"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_phonecall/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_phonecall/4.m4a"
               },
               {
                 "sp": "A",
@@ -50718,7 +50785,9 @@
                     "pinyin": "jǐ diǎn",
                     "english": "what time"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_phonecall/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_phonecall/5.m4a"
               },
               {
                 "sp": "B",
@@ -50736,7 +50805,9 @@
                     "pinyin": "jiàn",
                     "english": "to see / meet"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_phonecall/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_phonecall/6.m4a"
               }
             ],
             "questions": [
@@ -50760,19 +50831,20 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_phonecall/p1.jpg"
           }
         ]
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "manga-out-and-about",
       "name": "Manga Dialogues: Out & About",
       "icon": "comments",
       "releaseDate": "2026-07-02",
       "minApp": "2.7",
-      "whatsNew": "Two more animated manga dialogue scenes — ordering coffee at a café and making friends by chatting about hobbies. Watch the scene, tap any word, hear it spoken.",
+      "whatsNew": "Two more animated manga dialogue scenes — ordering coffee at a café and making friends by chatting about hobbies. Watch the scene, tap any word, hear it spoken. New in this update: every line now has its own picture and a recorded Mandarin voice (needs app 3.5 or later; earlier versions are unchanged).",
       "content": {
         "situations": [
           {
@@ -50817,7 +50889,9 @@
                     "pinyin": "nátiě",
                     "english": "latte"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_cafe/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_cafe/1.m4a"
               },
               {
                 "sp": "B",
@@ -50840,7 +50914,9 @@
                     "pinyin": "bīng",
                     "english": "iced / ice"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_cafe/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_cafe/2.m4a"
               },
               {
                 "sp": "A",
@@ -50858,7 +50934,9 @@
                     "pinyin": "xièxie",
                     "english": "thank you"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_cafe/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_cafe/3.m4a"
               },
               {
                 "sp": "B",
@@ -50876,7 +50954,9 @@
                     "pinyin": "dàizǒu",
                     "english": "to take away"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_cafe/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_cafe/4.m4a"
               },
               {
                 "sp": "A",
@@ -50894,7 +50974,9 @@
                     "pinyin": "duōshǎo qián",
                     "english": "how much (money)"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_cafe/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_cafe/5.m4a"
               },
               {
                 "sp": "B",
@@ -50912,7 +50994,9 @@
                     "pinyin": "kāfēi",
                     "english": "coffee"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_cafe/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_cafe/6.m4a"
               }
             ],
             "questions": [
@@ -50946,7 +51030,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_cafe/p1.jpg"
           },
           {
             "id": "manga_hobbies",
@@ -50990,7 +51075,9 @@
                     "pinyin": "zuò",
                     "english": "to do"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_hobbies/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_hobbies/1.m4a"
               },
               {
                 "sp": "B",
@@ -51008,7 +51095,9 @@
                     "pinyin": "nǐ ne",
                     "english": "and you?"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_hobbies/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_hobbies/2.m4a"
               },
               {
                 "sp": "A",
@@ -51021,7 +51110,9 @@
                     "pinyin": "dǎ lánqiú",
                     "english": "to play basketball"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_hobbies/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_hobbies/3.m4a"
               },
               {
                 "sp": "B",
@@ -51044,7 +51135,9 @@
                     "pinyin": "yùndòng",
                     "english": "sports / exercise"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_hobbies/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_hobbies/4.m4a"
               },
               {
                 "sp": "A",
@@ -51062,7 +51155,9 @@
                     "pinyin": "yìqǐ",
                     "english": "together"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_hobbies/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_hobbies/5.m4a"
               },
               {
                 "sp": "B",
@@ -51080,7 +51175,9 @@
                     "pinyin": "yǒuyìsi",
                     "english": "interesting / fun"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_hobbies/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/manga_hobbies/6.m4a"
               }
             ],
             "questions": [
@@ -51114,19 +51211,20 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/manga_hobbies/p1.jpg"
           }
         ]
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "manga-travel",
       "name": "Manga Dialogues: Travel & Survival",
       "icon": "plane",
       "releaseDate": "2026-07-20",
       "minApp": "2.7",
-      "whatsNew": "Five animated travel scenes to get you through a trip to China — the airport, hotel check-in, buying a train ticket, bargaining at a market and asking for help. Watch, listen, tap any word, then read it as a comic.",
+      "whatsNew": "Five animated travel scenes to get you through a trip to China — the airport, hotel check-in, buying a train ticket, bargaining at a market and asking for help. Watch, listen, tap any word, then read it as a comic. New in this update: every line now has its own picture and a recorded Mandarin voice (needs app 3.5 or later; earlier versions are unchanged).",
       "content": {
         "situations": [
           {
@@ -51171,7 +51269,9 @@
                     "pinyin": "jīpiào",
                     "english": "plane ticket"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-airport/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-airport/1.m4a"
               },
               {
                 "sp": "B",
@@ -51189,7 +51289,9 @@
                     "pinyin": "zuòwèi",
                     "english": "seat"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-airport/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-airport/2.m4a"
               },
               {
                 "sp": "A",
@@ -51207,7 +51309,9 @@
                     "pinyin": "tuōyùn",
                     "english": "to check in (luggage)"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-airport/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-airport/3.m4a"
               },
               {
                 "sp": "B",
@@ -51225,7 +51329,9 @@
                     "pinyin": "nǎlǐ",
                     "english": "where"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-airport/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-airport/4.m4a"
               },
               {
                 "sp": "A",
@@ -51243,7 +51349,9 @@
                     "pinyin": "zhèbiān",
                     "english": "this way"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-airport/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-airport/5.m4a"
               },
               {
                 "sp": "B",
@@ -51256,7 +51364,9 @@
                     "pinyin": "yílù shùnfēng",
                     "english": "have a good trip (idiom)"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-airport/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-airport/6.m4a"
               }
             ],
             "questions": [
@@ -51280,7 +51390,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-airport/p1.jpg"
           },
           {
             "id": "travel-hotel",
@@ -51319,7 +51430,9 @@
                     "pinyin": "fángjiān",
                     "english": "room"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-hotel/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-hotel/1.m4a"
               },
               {
                 "sp": "A",
@@ -51332,7 +51445,9 @@
                     "pinyin": "guìxìng",
                     "english": "your (honourable) surname"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-hotel/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-hotel/2.m4a"
               },
               {
                 "sp": "B",
@@ -51350,7 +51465,9 @@
                     "pinyin": "shēnfènzhèng",
                     "english": "ID card"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-hotel/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-hotel/3.m4a"
               },
               {
                 "sp": "A",
@@ -51373,7 +51490,9 @@
                     "pinyin": "lóu",
                     "english": "floor"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-hotel/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-hotel/4.m4a"
               },
               {
                 "sp": "B",
@@ -51391,7 +51510,9 @@
                     "pinyin": "kāishǐ",
                     "english": "to start"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-hotel/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-hotel/5.m4a"
               },
               {
                 "sp": "A",
@@ -51404,7 +51525,9 @@
                     "pinyin": "fángkǎ",
                     "english": "room key card"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-hotel/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-hotel/6.m4a"
               }
             ],
             "questions": [
@@ -51428,7 +51551,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-hotel/p1.jpg"
           },
           {
             "id": "travel-train",
@@ -51472,7 +51596,9 @@
                     "pinyin": "piào",
                     "english": "ticket"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-train/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-train/1.m4a"
               },
               {
                 "sp": "A",
@@ -51485,7 +51611,9 @@
                     "pinyin": "jǐ diǎn",
                     "english": "what time"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-train/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-train/2.m4a"
               },
               {
                 "sp": "B",
@@ -51498,7 +51626,9 @@
                     "pinyin": "zuǒyòu",
                     "english": "about; approximately"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-train/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-train/3.m4a"
               },
               {
                 "sp": "A",
@@ -51516,7 +51646,9 @@
                     "pinyin": "èr děng zuò",
                     "english": "second-class seat"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-train/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-train/4.m4a"
               },
               {
                 "sp": "B",
@@ -51529,7 +51661,9 @@
                     "pinyin": "duōshao qián",
                     "english": "how much money"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-train/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-train/5.m4a"
               },
               {
                 "sp": "A",
@@ -51542,7 +51676,9 @@
                     "pinyin": "kuài",
                     "english": "yuan (colloquial)"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-train/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-train/6.m4a"
               }
             ],
             "questions": [
@@ -51566,7 +51702,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-train/p1.jpg"
           },
           {
             "id": "travel-bargain",
@@ -51600,7 +51737,9 @@
                     "pinyin": "lǎobǎn",
                     "english": "boss; shopkeeper"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-bargain/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-bargain/1.m4a"
               },
               {
                 "sp": "A",
@@ -51613,7 +51752,9 @@
                     "pinyin": "piányi",
                     "english": "cheap"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-bargain/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-bargain/2.m4a"
               },
               {
                 "sp": "B",
@@ -51631,7 +51772,9 @@
                     "pinyin": "yìdiǎn",
                     "english": "a little"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-bargain/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-bargain/3.m4a"
               },
               {
                 "sp": "A",
@@ -51644,7 +51787,9 @@
                     "pinyin": "nà",
                     "english": "then; in that case"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-bargain/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-bargain/4.m4a"
               },
               {
                 "sp": "B",
@@ -51657,7 +51802,9 @@
                     "pinyin": "xíng",
                     "english": "OK; will do"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-bargain/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-bargain/5.m4a"
               },
               {
                 "sp": "A",
@@ -51675,7 +51822,9 @@
                     "pinyin": "shǎo",
                     "english": "less"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-bargain/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-bargain/6.m4a"
               }
             ],
             "questions": [
@@ -51699,7 +51848,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-bargain/p1.jpg"
           },
           {
             "id": "travel-help",
@@ -51738,7 +51888,9 @@
                     "pinyin": "bāng",
                     "english": "to help"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-help/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-help/1.m4a"
               },
               {
                 "sp": "A",
@@ -51756,7 +51908,9 @@
                     "pinyin": "zěnme le",
                     "english": "what's wrong"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-help/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-help/2.m4a"
               },
               {
                 "sp": "B",
@@ -51779,7 +51933,9 @@
                     "pinyin": "mílù",
                     "english": "to get lost"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-help/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-help/3.m4a"
               },
               {
                 "sp": "A",
@@ -51792,7 +51948,9 @@
                     "pinyin": "bié zháojí",
                     "english": "don't worry / rush"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-help/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-help/4.m4a"
               },
               {
                 "sp": "B",
@@ -51810,7 +51968,9 @@
                     "pinyin": "fàndiàn",
                     "english": "hotel"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-help/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-help/5.m4a"
               },
               {
                 "sp": "A",
@@ -51833,7 +51993,9 @@
                     "pinyin": "jìn",
                     "english": "near"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-help/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/travel-help/6.m4a"
               }
             ],
             "questions": [
@@ -51857,19 +52019,20 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/travel-help/p1.jpg"
           }
         ]
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "manga-friends",
       "name": "Manga Dialogues: Making Friends & Dating",
       "icon": "heart",
       "releaseDate": "2026-07-20",
       "minApp": "2.7",
-      "whatsNew": "Four animated scenes for the language of connection — making a new friend, asking someone out, a first date and the big confession. Pairs perfectly with the Hearts & Feelings pack.",
+      "whatsNew": "Four animated scenes for the language of connection — making a new friend, asking someone out, a first date and the big confession. Pairs perfectly with the Hearts & Feelings pack. New in this update: every line now has its own picture and a recorded Mandarin voice (needs app 3.5 or later; earlier versions are unchanged).",
       "content": {
         "situations": [
           {
@@ -51909,7 +52072,9 @@
                     "pinyin": "bān",
                     "english": "class"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-meet/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-meet/1.m4a"
               },
               {
                 "sp": "B",
@@ -51927,7 +52092,9 @@
                     "pinyin": "ne",
                     "english": "and (you)?"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-meet/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-meet/2.m4a"
               },
               {
                 "sp": "A",
@@ -51945,7 +52112,9 @@
                     "pinyin": "àihào",
                     "english": "hobby"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-meet/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-meet/3.m4a"
               },
               {
                 "sp": "B",
@@ -51958,7 +52127,9 @@
                     "pinyin": "diànyǐng",
                     "english": "film; movie"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-meet/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-meet/4.m4a"
               },
               {
                 "sp": "A",
@@ -51976,7 +52147,9 @@
                     "pinyin": "wēixìn",
                     "english": "WeChat"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-meet/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-meet/5.m4a"
               },
               {
                 "sp": "B",
@@ -51989,7 +52162,9 @@
                     "pinyin": "rènshi",
                     "english": "to get to know"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-meet/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-meet/6.m4a"
               }
             ],
             "questions": [
@@ -52013,7 +52188,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-meet/p1.jpg"
           },
           {
             "id": "friends-askout",
@@ -52052,7 +52228,9 @@
                     "pinyin": "yǒu kòng",
                     "english": "to have free time"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-askout/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-askout/1.m4a"
               },
               {
                 "sp": "B",
@@ -52065,7 +52243,9 @@
                     "pinyin": "zěnme le",
                     "english": "what's up"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-askout/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-askout/2.m4a"
               },
               {
                 "sp": "A",
@@ -52083,7 +52263,9 @@
                     "pinyin": "yìqǐ",
                     "english": "together"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-askout/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-askout/3.m4a"
               },
               {
                 "sp": "B",
@@ -52096,7 +52278,9 @@
                     "pinyin": "jiànmiàn",
                     "english": "to meet up"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-askout/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-askout/4.m4a"
               },
               {
                 "sp": "A",
@@ -52114,7 +52298,9 @@
                     "pinyin": "ménkǒu",
                     "english": "entrance"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-askout/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-askout/5.m4a"
               },
               {
                 "sp": "B",
@@ -52127,7 +52313,9 @@
                     "pinyin": "bú jiàn bú sàn",
                     "english": "be there or wait (idiom)"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-askout/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-askout/6.m4a"
               }
             ],
             "questions": [
@@ -52151,7 +52339,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-askout/p1.jpg"
           },
           {
             "id": "friends-date",
@@ -52190,7 +52379,9 @@
                     "pinyin": "è",
                     "english": "hungry"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-date/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-date/1.m4a"
               },
               {
                 "sp": "B",
@@ -52208,7 +52399,9 @@
                     "pinyin": "kāfēidiàn",
                     "english": "cafe"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-date/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-date/2.m4a"
               },
               {
                 "sp": "A",
@@ -52226,7 +52419,9 @@
                     "pinyin": "hē",
                     "english": "to drink"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-date/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-date/3.m4a"
               },
               {
                 "sp": "B",
@@ -52239,7 +52434,9 @@
                     "pinyin": "rén zhēn hǎo",
                     "english": "a really nice person"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-date/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-date/4.m4a"
               },
               {
                 "sp": "A",
@@ -52252,7 +52449,9 @@
                     "pinyin": "kāixīn",
                     "english": "happy"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-date/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-date/5.m4a"
               },
               {
                 "sp": "B",
@@ -52265,7 +52464,9 @@
                     "pinyin": "yě",
                     "english": "also; too"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-date/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-date/6.m4a"
               }
             ],
             "questions": [
@@ -52289,7 +52490,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-date/p1.jpg"
           },
           {
             "id": "friends-confess",
@@ -52328,7 +52530,9 @@
                     "pinyin": "duì",
                     "english": "to (someone)"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-confess/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-confess/1.m4a"
               },
               {
                 "sp": "B",
@@ -52341,7 +52545,9 @@
                     "pinyin": "shénme shì",
                     "english": "what is it"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-confess/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-confess/2.m4a"
               },
               {
                 "sp": "A",
@@ -52359,7 +52565,9 @@
                     "pinyin": "yuèláiyuè",
                     "english": "more and more"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-confess/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-confess/3.m4a"
               },
               {
                 "sp": "A",
@@ -52377,7 +52585,9 @@
                     "pinyin": "nǚpéngyou",
                     "english": "girlfriend"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-confess/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-confess/4.m4a"
               },
               {
                 "sp": "B",
@@ -52395,7 +52605,9 @@
                     "pinyin": "qíshí",
                     "english": "actually"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-confess/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-confess/5.m4a"
               },
               {
                 "sp": "A",
@@ -52408,7 +52620,9 @@
                     "pinyin": "tài hǎo le",
                     "english": "that's great"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-confess/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/friends-confess/6.m4a"
               }
             ],
             "questions": [
@@ -52432,19 +52646,20 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/friends-confess/p1.jpg"
           }
         ]
       }
     },
     {
-      "revision": 1,
+      "revision": 2,
       "packId": "manga-doctor",
       "name": "Manga Dialogues: At the Doctor",
       "icon": "stethoscope",
       "releaseDate": "2026-07-20",
       "minApp": "2.7",
-      "whatsNew": "Four animated scenes for when you're unwell in China — registering at the hospital, describing your symptoms, the pharmacy and an emergency. The vocabulary you hope you never need, and are very glad to have.",
+      "whatsNew": "Four animated scenes for when you're unwell in China — registering at the hospital, describing your symptoms, the pharmacy and an emergency. The vocabulary you hope you never need, and are very glad to have. New in this update: every line now has its own picture and a recorded Mandarin voice (needs app 3.5 or later; earlier versions are unchanged).",
       "content": {
         "situations": [
           {
@@ -52479,7 +52694,9 @@
                     "pinyin": "guàhào",
                     "english": "to register at a hospital"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-register/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-register/1.m4a"
               },
               {
                 "sp": "A",
@@ -52492,7 +52709,9 @@
                     "pinyin": "bù shūfu",
                     "english": "unwell; uncomfortable"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-register/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-register/2.m4a"
               },
               {
                 "sp": "B",
@@ -52515,7 +52734,9 @@
                     "pinyin": "fāshāo",
                     "english": "to have a fever"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-register/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-register/3.m4a"
               },
               {
                 "sp": "A",
@@ -52533,7 +52754,9 @@
                     "pinyin": "lóu",
                     "english": "floor"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-register/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-register/4.m4a"
               },
               {
                 "sp": "B",
@@ -52546,7 +52769,9 @@
                     "pinyin": "guàhàofèi",
                     "english": "registration fee"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-register/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-register/5.m4a"
               },
               {
                 "sp": "A",
@@ -52564,7 +52789,9 @@
                     "pinyin": "ná",
                     "english": "to hold; take"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-register/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-register/6.m4a"
               }
             ],
             "questions": [
@@ -52588,7 +52815,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-register/p1.jpg"
           },
           {
             "id": "doctor-visit",
@@ -52622,7 +52850,9 @@
                     "pinyin": "zěnme le",
                     "english": "what's wrong"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-visit/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-visit/1.m4a"
               },
               {
                 "sp": "B",
@@ -52645,7 +52875,9 @@
                     "pinyin": "nánshòu",
                     "english": "to feel awful"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-visit/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-visit/2.m4a"
               },
               {
                 "sp": "A",
@@ -52663,7 +52895,9 @@
                     "pinyin": "kāishǐ",
                     "english": "to start"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-visit/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-visit/3.m4a"
               },
               {
                 "sp": "B",
@@ -52681,7 +52915,9 @@
                     "pinyin": "wǎnshang",
                     "english": "evening; night"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-visit/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-visit/4.m4a"
               },
               {
                 "sp": "A",
@@ -52699,7 +52935,9 @@
                     "pinyin": "xiūxi",
                     "english": "to rest"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-visit/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-visit/5.m4a"
               },
               {
                 "sp": "B",
@@ -52712,7 +52950,9 @@
                     "pinyin": "yīshēng",
                     "english": "doctor"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-visit/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-visit/6.m4a"
               }
             ],
             "questions": [
@@ -52736,7 +52976,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-visit/p1.jpg"
           },
           {
             "id": "doctor-pharmacy",
@@ -52775,7 +53016,9 @@
                     "pinyin": "mǎi",
                     "english": "to buy"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-pharmacy/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-pharmacy/1.m4a"
               },
               {
                 "sp": "A",
@@ -52788,7 +53031,9 @@
                     "pinyin": "késou",
                     "english": "to cough"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-pharmacy/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-pharmacy/2.m4a"
               },
               {
                 "sp": "B",
@@ -52801,7 +53046,9 @@
                     "pinyin": "liú bítì",
                     "english": "runny nose"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-pharmacy/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-pharmacy/3.m4a"
               },
               {
                 "sp": "A",
@@ -52819,7 +53066,9 @@
                     "pinyin": "cì",
                     "english": "time(s)"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-pharmacy/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-pharmacy/4.m4a"
               },
               {
                 "sp": "B",
@@ -52837,7 +53086,9 @@
                     "pinyin": "fàn hòu",
                     "english": "after meals"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-pharmacy/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-pharmacy/5.m4a"
               },
               {
                 "sp": "A",
@@ -52850,7 +53101,9 @@
                     "pinyin": "xiūxi",
                     "english": "to rest"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-pharmacy/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-pharmacy/6.m4a"
               }
             ],
             "questions": [
@@ -52874,7 +53127,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-pharmacy/p1.jpg"
           },
           {
             "id": "doctor-emergency",
@@ -52913,7 +53167,9 @@
                     "pinyin": "zhōngxīn",
                     "english": "centre"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-emergency/p1.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-emergency/1.m4a"
               },
               {
                 "sp": "B",
@@ -52931,7 +53187,9 @@
                     "pinyin": "yūndǎo",
                     "english": "to faint; pass out"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-emergency/p2.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-emergency/2.m4a"
               },
               {
                 "sp": "A",
@@ -52949,7 +53207,9 @@
                     "pinyin": "nǎlǐ",
                     "english": "where"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-emergency/p3.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-emergency/3.m4a"
               },
               {
                 "sp": "B",
@@ -52967,7 +53227,9 @@
                     "pinyin": "nánmén",
                     "english": "south gate"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-emergency/p4.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-emergency/4.m4a"
               },
               {
                 "sp": "A",
@@ -52985,7 +53247,9 @@
                     "pinyin": "mǎshàng",
                     "english": "right away"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-emergency/p5.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-emergency/5.m4a"
               },
               {
                 "sp": "B",
@@ -52998,7 +53262,9 @@
                     "pinyin": "kuài yìdiǎn",
                     "english": "a bit faster; hurry"
                   }
-                ]
+                ],
+                "panel": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-emergency/p6.jpg",
+                "audio": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/audio/manga/doctor-emergency/6.m4a"
               }
             ],
             "questions": [
@@ -53022,7 +53288,8 @@
                 ],
                 "correct": 0
               }
-            ]
+            ],
+            "cover": "https://raw.githubusercontent.com/TeamDzX/hanyu-packs/main/images/manga/panels/doctor-emergency/p1.jpg"
           }
         ]
       }

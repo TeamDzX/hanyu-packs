@@ -373,5 +373,170 @@
     "how": "Hand (爫) + tree (木)"
    }
   ]
+ },
+ {
+  "id": "two-moons",
+  "title": "Two of the same",
+  "seconds": 18,
+  "kind": "characters",
+  "chars": [
+   {
+    "c": "朋",
+    "py": "péng",
+    "en": "friend",
+    "how": "Moon (月) + moon (月)"
+   },
+   {
+    "c": "多",
+    "py": "duō",
+    "en": "many",
+    "how": "Evening (夕) + evening (夕)"
+   },
+   {
+    "c": "双",
+    "py": "shuāng",
+    "en": "a pair",
+    "how": "Hand (又) + hand (又)"
+   }
+  ]
+ },
+ {
+  "id": "words-electric",
+  "title": "An electric brain",
+  "seconds": 23,
+  "kind": "words",
+  "chars": [
+   {
+    "c": "电脑",
+    "py": "diànnǎo",
+    "en": "computer",
+    "how": "Electric (电) + brain (脑)"
+   },
+   {
+    "c": "飞机",
+    "py": "fēijī",
+    "en": "plane",
+    "how": "Fly (飞) + machine (机)"
+   },
+   {
+    "c": "火车",
+    "py": "huǒchē",
+    "en": "train",
+    "how": "Fire (火) + vehicle (车)"
+   }
+  ]
+ },
+ {
+  "id": "words-heart",
+  "title": "A hand machine, a small heart",
+  "seconds": 26,
+  "kind": "words",
+  "chars": [
+   {
+    "c": "手机",
+    "py": "shǒujī",
+    "en": "mobile phone",
+    "how": "Hand (手) + machine (机)"
+   },
+   {
+    "c": "开心",
+    "py": "kāixīn",
+    "en": "happy",
+    "how": "Open (开) + heart (心)"
+   },
+   {
+    "c": "小心",
+    "py": "xiǎoxīn",
+    "en": "careful",
+    "how": "Small (小) + heart (心)"
+   }
+  ]
+ },
+ {
+  "id": "idiom-ox",
+  "title": "Play the zither to an ox",
+  "seconds": 24,
+  "kind": "idiom",
+  "meaning": "Wasting your words on someone who can't appreciate them",
+  "chars": [
+   {
+    "c": "对",
+    "py": "duì",
+    "en": "to, towards"
+   },
+   {
+    "c": "牛",
+    "py": "niú",
+    "en": "ox"
+   },
+   {
+    "c": "弹",
+    "py": "tán",
+    "en": "to play (strings)"
+   },
+   {
+    "c": "琴",
+    "py": "qín",
+    "en": "zither"
+   }
+  ]
+ },
+ {
+  "id": "idiom-snake",
+  "title": "Draw a snake and add feet",
+  "seconds": 25,
+  "kind": "idiom",
+  "meaning": "Spoiling something by adding what it never needed",
+  "chars": [
+   {
+    "c": "画",
+    "py": "huà",
+    "en": "to draw"
+   },
+   {
+    "c": "蛇",
+    "py": "shé",
+    "en": "snake"
+   },
+   {
+    "c": "添",
+    "py": "tiān",
+    "en": "to add"
+   },
+   {
+    "c": "足",
+    "py": "zú",
+    "en": "foot, feet"
+   }
+  ]
+ },
+ {
+  "id": "idiom-hare",
+  "title": "Guard a stump, wait for hares",
+  "seconds": 25,
+  "kind": "idiom",
+  "meaning": "Waiting for luck instead of making an effort",
+  "chars": [
+   {
+    "c": "守",
+    "py": "shǒu",
+    "en": "to guard"
+   },
+   {
+    "c": "株",
+    "py": "zhū",
+    "en": "tree stump"
+   },
+   {
+    "c": "待",
+    "py": "dài",
+    "en": "to wait for"
+   },
+   {
+    "c": "兔",
+    "py": "tù",
+    "en": "hare"
+   }
+  ]
  }
 ]
